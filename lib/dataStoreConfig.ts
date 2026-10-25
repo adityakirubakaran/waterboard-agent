@@ -9,14 +9,53 @@ export interface DataStoreConfig {
   maxLinkedDocs: number;
   maxPdfPages: number;
   maxPdfMegabytes: number;
+  fullSite: FullSiteConfig;
 }
 
-const DEFAULTS: DataStoreConfig = { tiers: ["1"], followLinks: false, maxLinkedDocs: 2500, maxPdfPages: 80, maxPdfMegabytes: 25 };
+export interface FullSiteConfig {
+  startUrls: string[];
+  useSitemap: boolean;
+  maxDocs: number;
+  /** Upstash pay-as-you-go allows 2B vectors x dimensions; at 1,536 dimensions that is about 1.3M passages. */
+  maxPassages: number;
+  maxPdfPages: number;
+  maxPdfMegabytes: number;
+  concurrency: number;
+  gapMs: number;
+  /** Regular expressions; matching URLs are not crawled. */
+  skipUrlPatterns: string[];
+}
+
+const FULL_SITE_DEFAULTS: FullSiteConfig = {
+  startUrls: ["https://www.waterboards.ca.gov/"],
+  useSitemap: true,
+  maxDocs: 60000,
+  maxPassages: 1000000,
+  maxPdfPages: 40,
+  maxPdfMegabytes: 25,
+  concurrency: 4,
+  gapMs: 400,
+  skipUrlPatterns: [],
+};
+
+const DEFAULTS: DataStoreConfig = {
+  tiers: ["1"],
+  followLinks: false,
+  maxLinkedDocs: 2500,
+  maxPdfPages: 80,
+  maxPdfMegabytes: 25,
+  fullSite: FULL_SITE_DEFAULTS,
+};
 
 export function readDataStoreConfig(file = path.join(process.cwd(), "data", "data-store.json")): DataStoreConfig {
   if (!fs.existsSync(file)) return DEFAULTS;
   const raw = JSON.parse(fs.readFileSync(file, "utf8"));
-  return { ...DEFAULTS, ...raw, tiers: (raw.tiers ?? DEFAULTS.tiers).map(String) };
+  return {
+    ...DEFAULTS,
+    ...raw,
+    tiers: (raw.tiers ?? DEFAULTS.tiers).map(String),
+    fullSite: { ...FULL_SITE_DEFAULTS, ...(raw.fullSite ?? {}) },
+  };
 }
 
 export function describeConfig(c: DataStoreConfig): string {

@@ -3,6 +3,7 @@ import { answerQuestion, MAX_QUESTION_CHARS, MAX_TURNS } from "@/lib/agent";
 import { describeGeminiError, hasGeminiKey } from "@/lib/gemini";
 import { logQuestion } from "@/lib/questionLog";
 import { corpusAvailable } from "@/lib/retrieval";
+import { vectorConfigured } from "@/lib/vectorStore";
 import type { ChatMessage } from "@/lib/types";
 
 export const runtime = "nodejs";
@@ -33,7 +34,7 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "The assistant is not configured yet (missing GEMINI_API_KEY)." }, { status: 503 });
   }
 
-  if (!corpusAvailable()) {
+  if (!corpusAvailable() && !vectorConfigured()) {
     return NextResponse.json({ error: "The assistant's data store has not been built yet (run npm run corpus)." }, { status: 503 });
   }
 

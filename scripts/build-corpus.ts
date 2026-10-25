@@ -18,7 +18,6 @@ import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import zlib from "node:zlib";
-import { getDocumentProxy } from "unpdf";
 import { describeConfig, readDataStoreConfig } from "../lib/dataStoreConfig";
 import {
   boilerplateSet,
@@ -32,6 +31,7 @@ import {
   type Block,
   type Passage,
 } from "../lib/extract";
+import { Fetcher, pool, USER_AGENT } from "../lib/fetchDoc";
 import { readSources } from "../lib/sources";
 import type { Chunk, CorpusMeta, Source } from "../lib/types";
 
@@ -47,8 +47,6 @@ const RAW = path.join(process.cwd(), ".cache", "raw");
 const CONCURRENCY = Number(opt("--concurrency") ?? 4);
 /** Minimum gap between request starts, so the site's bot protection doesn't start refusing us (HTTP 403). */
 const GAP_MS = Number(opt("--gap-ms") ?? 400);
-const UA =
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 (Water Boards assistant prototype, UC Berkeley student project)";
 const config = readDataStoreConfig();
 const MAX_PDF_BYTES = config.maxPdfMegabytes * 1024 * 1024;
 
@@ -61,79 +59,14 @@ interface Parsed {
   error?: string;
 }
 
-const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
-const fatal = (msg: string) => Object.assign(new Error(msg), { fatal: true });
-
-let nextSlot = 0;
-let coolUntil = 0;
-let refusalsInARow = 0;
-const MAX_REFUSALS_IN_A_ROW = 40; // after this many, stop asking: the site is blocking us
-/** Space requests out, and pause everyone after the site pushes back. */
-async function throttle(): Promise<void> {
-  const now = Date.now();
-  const start = Math.max(now, nextSlot, coolUntil);
-  nextSlot = start + GAP_MS;
-  if (start > now) await sleep(start - now);
-}
-
-async function download(url: string): Promise<{ buf: Buffer; type: string; finalUrl: string }> {
-  let last: unknown;
-  for (let attempt = 0; attempt < 4; attempt++) {
-    if (refusalsInARow >= MAX_REFUSALS_IN_A_ROW) throw fatal("skipped: the site kept refusing requests");
-    await throttle();
-    const ctl = new AbortController();
-    const timer = setTimeout(() => ctl.abort(), 90_000);
-    try {
-      const res = await fetch(url, {
-        redirect: "follow",
-        signal: ctl.signal,
-        headers: { "user-agent": UA, accept: "text/html,application/pdf,application/xhtml+xml,*/*;q=0.8" },
-      });
-      if (res.status === 403 || res.status === 429) {
-        // usually rate limiting rather than a forbidden page: back off for everyone, then retry
-        refusalsInARow++;
-        coolUntil = Math.max(coolUntil, Date.now() + 20_000 * (attempt + 1));
-        throw new Error(`HTTP ${res.status}`);
-      }
-      refusalsInARow = 0;
-      if (res.status >= 500) throw new Error(`HTTP ${res.status}`);
-      if (!res.ok) throw fatal(`HTTP ${res.status}`);
-      const size = Number(res.headers.get("content-length") ?? 0);
-      if (size > MAX_PDF_BYTES) {
-        ctl.abort();
-        throw fatal(`too large (${Math.round(size / 1e6)} MB)`);
-      }
-      const buf = Buffer.from(await res.arrayBuffer());
-      return { buf, type: res.headers.get("content-type") ?? "", finalUrl: res.url };
-    } catch (e) {
-      last = e;
-      if ((e as { fatal?: boolean }).fatal) break;
-      if (!/HTTP (403|429)/.test(String((e as Error)?.message))) await sleep(1500 * 2 ** attempt);
-    } finally {
-      clearTimeout(timer);
-    }
-  }
-  throw last;
-}
-
-/** Text of each PDF page, up to maxPdfPages. */
-async function pdfToPages(buf: Buffer): Promise<{ pages: string[]; total: number }> {
-  const doc = await getDocumentProxy(new Uint8Array(buf));
-  const total = doc.numPages;
-  const pages: string[] = [];
-  for (let i = 1; i <= Math.min(total, config.maxPdfPages); i++) {
-    const page = await doc.getPage(i);
-    const content = await page.getTextContent();
-    let text = "";
-    for (const item of content.items as { str?: string; hasEOL?: boolean }[]) {
-      if (typeof item.str !== "string") continue;
-      text += item.str + (item.hasEOL ? "\n" : "");
-    }
-    pages.push(text);
-  }
-  await doc.cleanup().catch(() => undefined);
-  return { pages, total };
-}
+const fetcher = new Fetcher({
+  gapMs: GAP_MS,
+  maxPdfBytes: MAX_PDF_BYTES,
+  maxPdfPages: config.maxPdfPages,
+  maxRefusalsInARow: 40,
+  onBlocked: "stop",
+  log: console.log,
+});
 
 async function fetchAndParse(s: Source, withLinks: boolean): Promise<Parsed> {
   const key = crypto.createHash("sha1").update(s.url).digest("hex").slice(0, 16);
@@ -147,24 +80,22 @@ async function fetchAndParse(s: Source, withLinks: boolean): Promise<Parsed> {
       buf = fs.readFileSync(cacheFile);
       ({ type, finalUrl } = JSON.parse(fs.readFileSync(cacheMeta, "utf8")));
     } else {
-      ({ buf, type, finalUrl } = await download(s.url));
+      ({ buf, type, finalUrl } = await fetcher.download(s.url));
       fs.mkdirSync(RAW, { recursive: true });
       fs.writeFileSync(cacheFile, buf);
       fs.writeFileSync(cacheMeta, JSON.stringify({ type, finalUrl, url: s.url }));
     }
     s.fetchedAt = new Date().toISOString();
     if (finalUrl && finalUrl.replace(/\/$/, "") !== s.url.replace(/\/$/, "")) s.finalUrl = finalUrl;
-    const isPdf = /pdf/i.test(type) || buf.subarray(0, 5).toString("latin1") === "%PDF-";
-    if (isPdf) {
-      if (buf.length > MAX_PDF_BYTES) throw fatal(`too large (${Math.round(buf.length / 1e6)} MB)`);
-      const { pages, total } = await pdfToPages(buf);
+    const doc = await fetcher.parse(buf, type, finalUrl);
+    if (doc.kind === "pdf") {
+      const pages = doc.pdfPages ?? [];
       s.format = "pdf";
-      s.pages = total;
+      s.pages = doc.pdfTotalPages;
       s.pageLastUpdated = findPdfDate(pages);
       return { source: s, kind: "pdf", pdfPages: pages };
     }
-    if (!/html|text\/plain|xml/i.test(type) && type) throw fatal(`not a page or PDF (${type.split(";")[0]})`);
-    const html = buf.toString("utf8");
+    const html = doc.html ?? "";
     const parsed = htmlToBlocks(html);
     s.format = "html";
     s.pageLastUpdated = parsed.pageLastUpdated;
@@ -178,20 +109,6 @@ async function fetchAndParse(s: Source, withLinks: boolean): Promise<Parsed> {
   } catch (e) {
     return { source: s, error: String((e as Error)?.message ?? e).slice(0, 200) };
   }
-}
-
-async function pool<T, R>(items: T[], n: number, fn: (t: T, i: number) => Promise<R>): Promise<R[]> {
-  const out: R[] = new Array(items.length);
-  let next = 0;
-  await Promise.all(
-    Array.from({ length: Math.min(n, items.length) }, async () => {
-      while (next < items.length) {
-        const i = next++;
-        out[i] = await fn(items[i], i);
-      }
-    }),
-  );
-  return out;
 }
 
 async function fetchAll(list: Source[], label: string, withLinks: boolean): Promise<Parsed[]> {
@@ -227,7 +144,7 @@ async function main() {
     try {
       const ctl = new AbortController();
       const timer = setTimeout(() => ctl.abort(), 20_000);
-      await fetch(seeds[0].url, { method: "GET", signal: ctl.signal, headers: { "user-agent": UA } });
+      await fetch(seeds[0].url, { method: "GET", signal: ctl.signal, headers: { "user-agent": USER_AGENT } });
       clearTimeout(timer);
     } catch (e) {
       console.error(`[corpus] cannot reach ${new URL(seeds[0].url).host}: ${String((e as Error)?.message ?? e)}`);

@@ -47,6 +47,30 @@ visitor question
 | Visible disclaimer | Banner at the top of the page and a fixed line in the chat box. |
 | Question log | `lib/questionLog.ts`; the notice is shown in the chat box and on the page. |
 
+## Full-site search (whole waterboards.ca.gov)
+
+The chat can also search a crawl of the whole site, kept in an Upstash Vector index. When the index is set up, every
+question searches both the snapshot in `data/corpus/` and the index, and the results are merged.
+
+1. **Create the index** at console.upstash.com → Vector → Create Index: name `waterboards`, region `us-east-1`, type
+   **Hybrid**, dense model **OpenAI text-embedding-3-small**, sparse model **BM25**, plan **Pay as You Go** (the free
+   tier holds only about 130,000 passages).
+2. **Add the keys** `UPSTASH_VECTOR_REST_URL` and `UPSTASH_VECTOR_REST_TOKEN` to Vercel (Settings → Environment
+   Variables) and to GitHub (Settings → Secrets and variables → Actions). Redeploy Vercel.
+3. **Start the crawl:** Actions → **Crawl full site** → Run workflow. Each run works about 5 hours, commits its
+   progress to `data/crawl/` (`summary.json` shows the counts) and starts the next run until nothing is left.
+   To stop it, disable the workflow. To start over, run it with "Start over" checked.
+
+The crawler (`scripts/crawl-site.ts`) starts from the inventory pages, the home page and the sitemap, then follows
+links breadth-first on www.waterboards.ca.gov only: pages and PDFs, no search URLs, no other websites. It sends one
+request every 0.4 s at most, backs off when the site answers 403/429, and pauses for 10 minutes if refusals keep
+coming. Limits live in `data/data-store.json` under `fullSite` (`maxDocs`, `maxPassages`, `maxPdfPages`,
+`skipUrlPatterns`). Upstash pay-as-you-go allows about 1.3 million passages at 1,536 dimensions; `maxPassages`
+stops at 1 million.
+
+Cost: storage is $0.25/GB and searches $0.40 per 100,000 on Upstash pay-as-you-go; each chat question makes up to
+four searches. Upstash's pricing page does not list a separate charge for its hosted embedding model.
+
 ## Choosing what's in the data store
 
 Edit `data/data-store.json` and push; the "Build data store" action rebuilds the snapshot and Vercel redeploys.
@@ -157,6 +181,8 @@ lib/questionLog.ts           question logging and scrubbing
 data/data-store.json         what goes into the data store (tiers, link following, limits)
 scripts/make-sources.ts      inventory -> data/sources.csv
 scripts/build-corpus.ts      data/sources.csv -> data/corpus/ snapshot
+scripts/crawl-site.ts        full-site crawl -> Upstash Vector index (progress in data/crawl/)
+lib/vectorStore.ts           full-site index search
 scripts/embed-corpus.ts      optional embeddings
 scripts/run-eval.ts          eval runner and grader
 eval/suites/                 our test suites

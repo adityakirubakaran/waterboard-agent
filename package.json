@@ -13,11 +13,13 @@
     "embed": "tsx scripts/embed-corpus.ts",
     "eval": "tsx scripts/run-eval.ts",
     "ask": "tsx scripts/ask.ts",
-    "test": "tsx --test tests/*.test.ts"
+    "test": "tsx --test tests/*.test.ts",
+    "crawl": "tsx scripts/crawl-site.ts"
   },
   "dependencies": {
     "@google/genai": "^2.31.0",
     "@upstash/redis": "^1.39.0",
+    "@upstash/vector": "^1.2.3",
     "next": "15.5.28",
     "react": "19.1.10",
     "react-dom": "19.1.10"

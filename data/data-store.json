@@ -8,5 +8,19 @@
   "followLinks": true,
   "maxLinkedDocs": 2000,
   "maxPdfPages": 40,
-  "maxPdfMegabytes": 25
+  "maxPdfMegabytes": 25,
+  "fullSite": {
+    "_about": "Full-site crawl into the Upstash Vector index (npm run crawl / the 'Crawl full site' action).",
+    "startUrls": [
+      "https://www.waterboards.ca.gov/"
+    ],
+    "useSitemap": true,
+    "maxDocs": 60000,
+    "maxPassages": 1000000,
+    "maxPdfPages": 40,
+    "maxPdfMegabytes": 25,
+    "concurrency": 4,
+    "gapMs": 400,
+    "skipUrlPatterns": []
+  }
 }

@@ -34,7 +34,9 @@ import {
   type TestCase,
 } from "../lib/evalkit";
 import { CHAT_MODEL, gemini, hasGeminiKey, withRetry } from "../lib/gemini";
+import { readCrawlState } from "../lib/crawlState";
 import { loadCorpus } from "../lib/retrieval";
+import { vectorConfigured } from "../lib/vectorStore";
 import type { AgentAnswer, ChatMessage } from "../lib/types";
 
 const args = process.argv.slice(2);
@@ -278,6 +280,10 @@ async function main() {
   const corpus = loadCorpus();
   STORE_DESCRIPTION = `${corpus.meta.description ?? "Tier 1 of the content inventory"}; ${corpus.meta.okCount} pages and files, ${corpus.chunks.length} passages, built ${corpus.meta.builtAt.slice(0, 10)}`;
   const storeUrls = new Set(corpus.meta.sources.filter((s) => s.status === "ok").map((s) => strip(s.url)));
+  // pages in the full-site index count as in the data store when the chat is using it
+  const crawl = vectorConfigured() ? readCrawlState() : null;
+  if (crawl) for (const d of Object.values(crawl.docs)) if (d.status === "ok") storeUrls.add(strip(d.url));
+  if (crawl) STORE_DESCRIPTION += `; plus full-site index: ${Object.values(crawl.docs).filter((d) => d.status === "ok").length} pages and files, ${crawl.passages} passages`;
   const corpusText = corpus.chunks.map((c) => c.text).join("\n");
 
   const urlMap: Record<string, string[]> = JSON.parse(fs.readFileSync(path.join("eval", "suites", "answer_accuracy_sources.json"), "utf8"));

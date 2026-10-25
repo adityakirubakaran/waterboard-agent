@@ -1,0 +1,61 @@
+name: Crawl full site
+
+# Crawls www.waterboards.ca.gov into the Upstash Vector index the chat searches. Each run works for about
+# 5 hours, saves its progress to data/crawl/, and starts the next run until nothing is left to visit.
+# Needs repository secrets UPSTASH_VECTOR_REST_URL and UPSTASH_VECTOR_REST_TOKEN.
+# Start it from the Actions tab: "Crawl full site" -> Run workflow. To stop, disable the workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      reset:
+        description: "Start over from the beginning"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Crawl for up to 5 h 20 min
+        env:
+          UPSTASH_VECTOR_REST_URL: ${{ secrets.UPSTASH_VECTOR_REST_URL }}
+          UPSTASH_VECTOR_REST_TOKEN: ${{ secrets.UPSTASH_VECTOR_REST_TOKEN }}
+          RESET: ${{ inputs.reset }}
+        run: |
+          if [ "$RESET" = "true" ]; then npm run crawl -- --max-minutes 320 --reset; else npm run crawl -- --max-minutes 320; fi
+      - name: Save progress
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/crawl
+          if git diff --cached --quiet; then echo "No progress to save."; exit 0; fi
+          git commit -m "Crawl progress: $(node -p "const s=require('./data/crawl/summary.json'); s.docsOk+' pages and files, '+s.passages+' passages, '+s.frontier+' to go'")"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+      - name: Start the next run if there is more to crawl
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if node -e "const s=require('./data/crawl/summary.json'); process.exit(s.finished || /maxDocs|maxPassages/.test(s.stoppedBecause||'') ? 1 : 0)"; then
+            gh workflow run crawl.yml --ref "${{ github.ref_name }}"
+            echo "Started the next run."
+          else
+            echo "Crawl finished."
+          fi

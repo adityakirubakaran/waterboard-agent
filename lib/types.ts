@@ -32,6 +32,7 @@ export interface Chunk {
   page?: number; // first PDF page the passage comes from
   heading?: string; // nearest heading above the passage (HTML)
   text: string;
+  date?: string; // date printed on the page or file (full-site index only; the snapshot keeps it per source)
 }
 
 export interface CorpusMeta {

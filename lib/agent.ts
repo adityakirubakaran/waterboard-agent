@@ -1,5 +1,6 @@
 import type { AgentAnswer, AnswerStatus, ChatMessage, CitedSource } from "./types";
-import { loadCorpus, normalize, retrieve, type Corpus, type Hit } from "./retrieval";
+import { corpusAvailable, loadCorpus, normalize, retrieve, type Corpus, type Hit } from "./retrieval";
+import { upstashSearch, vectorConfigured, type VectorSearch } from "./vectorStore";
 import { CHAT_MODEL, REWRITE_MODEL, embedTexts, gemini, withRetry } from "./gemini";
 import { CONTACT_PAGE, REGIONAL_MAP, RESPONSE_SCHEMA, REWRITE_INSTRUCTION, systemInstruction } from "./prompt";
 
@@ -88,13 +89,13 @@ function sourceLink(hit: Hit): CitedSource {
   return { title: c.title, url, page: c.format === "pdf" ? c.page : undefined, sourceId: c.sourceId };
 }
 
-export function formatExcerpts(corpus: Corpus, hits: Hit[]): string {
+export function formatExcerpts(corpus: Corpus | undefined, hits: Hit[]): string {
   return hits
     .map((h, i) => {
       const c = h.chunk;
-      const src = corpus.sourcesById.get(c.sourceId);
+      const date = c.date ?? corpus?.sourcesById.get(c.sourceId)?.pageLastUpdated;
       const where = c.format === "pdf" ? `PDF, page ${c.page ?? 1}` : "web page";
-      const dated = src?.pageLastUpdated ? `; date printed on it: ${src.pageLastUpdated}` : "";
+      const dated = date ? `; date printed on it: ${date}` : "";
       const heading = c.heading ? `\nSection: ${c.heading}` : "";
       return `[E${i + 1}] ${c.title} (${where}${dated})\nLink: ${c.url}${heading}\n${c.text}`;
     })
@@ -134,6 +135,8 @@ export interface AnswerOptions {
   embedQuery?: (q: string) => Promise<Float32Array | undefined>;
   /** Query rewriting before search; pass false to search with the visitor's words only. */
   rewrite?: QueryRewriter | false;
+  /** Full-site index search; defaults to Upstash Vector when it is configured. Pass false to skip it. */
+  vectorSearch?: VectorSearch | false;
   today?: string;
   k?: number;
 }
@@ -148,8 +151,38 @@ export const geminiEmbedQuery = async (q: string): Promise<Float32Array | undefi
   }
 };
 
+/** Same passage from both stores (or twice from one) counts once. */
+function passageKey(h: Hit): string {
+  return `${h.chunk.url.split("#")[0].replace(/\/$/, "")}|${h.chunk.page ?? ""}|${h.chunk.text.slice(0, 120)}`;
+}
+
+/** Merge ranked lists by reciprocal rank, then keep at most `perSource` passages per page and `k` in all. */
+export function mergeHits(lists: Hit[][], k: number, perSource = 3): Hit[] {
+  const fused = new Map<string, Hit>();
+  for (const list of lists) {
+    list.forEach((h, rank) => {
+      const key = passageKey(h);
+      const prev = fused.get(key);
+      const add = 1 / (60 + rank + 1);
+      if (prev) prev.score += add;
+      else fused.set(key, { ...h, score: add });
+    });
+  }
+  const perPage = new Map<string, number>();
+  const out: Hit[] = [];
+  for (const h of [...fused.values()].sort((a, b) => b.score - a.score)) {
+    const page = h.chunk.url.split("#")[0];
+    const n = perPage.get(page) ?? 0;
+    if (n >= perSource) continue;
+    perPage.set(page, n + 1);
+    out.push(h);
+    if (out.length >= k) break;
+  }
+  return out;
+}
+
 export async function answerQuestion(messages: ChatMessage[], opts: AnswerOptions = {}): Promise<AgentAnswer> {
-  const corpus = opts.corpus ?? loadCorpus();
+  const corpus = opts.corpus ?? (corpusAvailable() ? loadCorpus() : undefined);
   const model = opts.model ?? geminiCall;
   const convo = messages.slice(-MAX_TURNS);
   const question = convo[convo.length - 1]?.content?.trim() ?? "";
@@ -164,8 +197,21 @@ export async function answerQuestion(messages: ChatMessage[], opts: AnswerOption
     }
   }
   const queries = [base, ...(rewritten ?? [])];
-  const queryVector = corpus.vectors ? await (opts.embedQuery ?? geminiEmbedQuery)(rewritten?.[0] ?? base) : undefined;
-  const hits = retrieve(corpus, queries, { k: opts.k ?? 10, queryVector });
+  const k = opts.k ?? 10;
+  const lists: Hit[][] = [];
+  if (corpus) {
+    const queryVector = corpus.vectors ? await (opts.embedQuery ?? geminiEmbedQuery)(rewritten?.[0] ?? base) : undefined;
+    lists.push(retrieve(corpus, queries, { k: 40, perSource: 3, queryVector }));
+  }
+  const search = opts.vectorSearch === false ? undefined : opts.vectorSearch ?? (vectorConfigured() ? upstashSearch : undefined);
+  if (search) {
+    try {
+      lists.push(await search(queries, 20));
+    } catch (e) {
+      console.warn("[agent] full-site search failed, using the snapshot only:", String(e).slice(0, 200));
+    }
+  }
+  const hits = mergeHits(lists, k);
 
   const contents: { role: "user" | "model"; text: string }[] = convo.slice(0, -1).map((m) => ({
     role: m.role === "user" ? "user" : "model",
@@ -217,9 +263,9 @@ export async function answerQuestion(messages: ChatMessage[], opts: AnswerOption
   }
 
   const allowed = new Set<string>([CONTACT_PAGE, REGIONAL_MAP]);
-  for (const s of corpus.meta.sources) {
-    allowed.add(s.url);
-    allowed.add(s.url.replace(/\/$/, ""));
+  for (const u of [...(corpus?.meta.sources.map((s) => s.url) ?? []), ...hits.map((h) => h.chunk.url)]) {
+    allowed.add(u);
+    allowed.add(u.replace(/\/$/, ""));
   }
   const stripped = stripUnknownUrls(answer.replace(/\[E\d+\]/g, "").trim(), allowed);
   answer = stripped.text;
