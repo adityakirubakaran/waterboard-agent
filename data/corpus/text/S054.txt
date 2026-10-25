@@ -1,0 +1,102 @@
+Online Payments Guide
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/dwocp_ach_payments_guide.pdf
+Date printed: none found
+
+[page 1] State Water Resources Control Board
+Division of Financial Assistance
+Drinking Water Operator Certification Program
+(DWOCP)
+ACH Online Payments
+User Guide
+You may now send your payment for DWOCP Examination Applications, Certification Applications, Renewal Forms, Reciprocity Applications and Duplicate Certificate requests through the California State Agency EFT program. This is an Automated Clearing House (ACH) payment that allows you to make a payment directly from your checking or savings account to the State Water Resources Control Board.
+Credit Cards or Debit Cards ARE NOT accepted.
+In order to make and complete an ACH payment for your application or form, you must:
+ Complete and email the Online Payment Form
+ Make a payment through the California EFT program  Mail your completed application to the DWOCP. All paper applications and forms must have original signatures in order to be processed.
+Please complete all of the steps on the following pages to assure the proper processing of your payment and
+paperwork.
+01/2024
+
+[page 2] Step One: Complete the Online Payment Form
+1. Under “Drinking Water Operator Online Payments” on the DWOCP website, click on “Step One: Online Payment Form”
+2. Start by creating a DWOCP Application Number. This Application Number consists of the letters ZA followed by the first 4 letters of the operator’s last name, followed by the last 4 digits of the operator’s Social Security Number (SSN). If the operator’s last name is less than 4 letters, place a 0 (zero) after the name for any remaining spaces.
+ Example A: Last name is Jones and last 4 of SSN is 1234, then the DWOCP application number is ZAJONE1234
+ Example B: Last name is Lee and last 4 of SSN is 9999, then the DWOCP application number is ZALEE09999
+After you have created the number, type it in the spaces at the top of the payment form in section Part A. For ease of reading, please use capital letters in the application number.
+3. Under Part B, complete the contact information for the operator. All boxes in red are required. You will not be able to submit this form unless these boxes are completed.
+
+[page 2] 3. Under Part B, complete the contact information for the operator. All boxes in red are required. You will not be able to submit this form unless these boxes are completed.
+If the operator has an issued certification number, complete the Operator Number and Grade section and checkmark the appropriate box for Treatment or Distribution.
+4. Under Part C, checkmark the box on the left side for the action for which this payment is to be applied.
+01/2024
+
+[page 3] • Examinations Refer to A in Illustration Below
+o If this is the first time you are taking an exam for this grade level- checkmark Examination
+o If you are retaking an examination of the same grade level- checkmark Re-Examination
+• Certifications Refer to B in Illustration Below
+o If you are only certified in treatment or distribution, but not the other-checkmark Certification (initial certification)
+o If you are certified in two or more disciplines, drinking water treatment, distribution, or wastewater treatment- checkmark Certification (dual certification discount)
+• Renewals Refer to C in Illustration Below
+o If you are only certified in treatment or distribution, but not the other-checkmark Renewal.
+o If you are certified in two or more disciplines, drinking water treatment, distribution, or wastewater treatment- checkmark Renewal (dual certification discount).
+o If the date your payment is posted is after the due date on your renewal form-you must also checkmark Renewal Late Fee – First.
+o If the date your payment is posted is less than 45 days prior to your expiration date- checkmark Renewal Late Fee- First and Renewal Late Fee– Second.
+
+[page 3] o If the date your payment is posted is less than 45 days prior to your expiration date- checkmark Renewal Late Fee- First and Renewal Late Fee– Second.
+Please refer to your renewal form for your due date and late fees dates.
+Please Note: if your renewal payment is late and you do not include the appropriate late fee(s) with your ACH payment, your renewal will not be processed until all fees have been paid.
+• Reciprocity Refer to D in Illustration Below
+• If you are applying for Reciprocity- checkmark Reciprocity.
+• Replacement Certificate Refer to E in Illustration Below • If you are requesting a replacement of the 8½ x 11 wall certificate- checkmark Replacement Certificate.
+On the right side of Part C, checkmark the appropriate grade box or fees box(es) to calculate the amount of payment. Refer to F in Illustration above 5. Under Part D, type in the Amount of Payment that was checked in Part C. Type in the date that payment will be scheduled to be paid. Please note: that the earliest date a payment can be scheduled is the next business day as long as the ACH payment is posted by 3:00 A
+B
+C
+D
+E
+F
+01/2024
+
+[page 4] pm PST. If the payment is posted after 3:00 pm PST, it will be scheduled for the following business day. Payments cannot be scheduled for weekends or Federal Reserve holidays.
+6. In the lower right corner of the form, type in the date that your application is to be mailed or submitted Online.
+7. Once the form is completed, click on the “Submit Payment Button” in the lower left corner of the form. If any required boxes were not completed, you will receive an error message to fill in the required fields.
+Clicking this button will email this form to dwopcertprogram@waterboards.ca.gov.
+• If your primary email software is Outlook, it will create an email and attach the Online Payment Form to it.
+• If you use a webmail service such as Gmail, a dialog box will open up. Click on Use Webmail and then click on the arrow to select which service. Type in your webmail email account (such as john.brown112233@gmail.com) and click ok and then continue. The webmail service will then open on your computer. Sign into the service with email address and password. The service may ask for your permission for Adobe Acrobat to access your contacts. Click yes to give your permission.
+
+[page 4] Please note: only Gmail is able to send the online payment form in this manner. Yahoo gives an error when trying to upload the form. If you receive an error, you will need to save the pdf form to your computer and manually attach the form to an email. Please email the form to dwopcertprogram@waterboards.ca.gov.
+The Online Payment Form must be completed and emailed to dwopcertprogram@waterboards.ca.gov prior to making the ACH payment
+01/2024
+
+[page 5] Step Two: Online Payment
+8. Before you begin making the ACH payment, make sure you have the following items:
+ Your bank’s routing number
+ Your checking account or savings account number
+ The DWOCP Application Number you created in Part A of the Online Payment Form  The dollar amount you entered in Part D of the Online Payment Form You can find your routing number and checking account number on your check.
+Please refer to the following illustration for the locations of these numbers.
+9. Under “Drinking Water Operator Online Payments” on the DWOCP website, click on “Step Two: Online Payment’
+This will take you to the California State Agency EFT Menu 10. Click on “Application Fees”
+11. On the “Make a Payment” menu, scroll down to the bottom of the page. In the “SWRC Application Number” field, type in the DWOCP Application number that starts with ZA that you created in Part A of the Online Payment Form. Type in the amount to be paid (from Part D) in the “Invoice Amount” field. The “Debit Date” will show the earliest date that the 01/2024
+
+[page 6] payment can be made. Please note that the earliest date is the following business day.
+When all is completed, click “Continue”.
+Please Note: DO NOT USE the Sample Number ZABROW6789 that appears on this page.
+This is only an example number. You must use the ZA number you created on the Online Payment Form.
+12. Contact Info – Complete all boxes. If the payer is not a business, then type in the payer’s first and last name in the Business Name and Contact Name fields. When all is completed, click “Continue”.
+01/2024
+
+[page 7] 13. Payment Method – Complete the fields for Account Holder name, account and routing numbers. Verify that the information is correct and click “Continue”.
+14. Confirm Payment – Verify that all the information is correct. If not, click on “Edit Payment” to go back. If it is correct, click on “Submit Payment”.
+01/2024
+
+[page 8] 15. In the bottom right corner of the screen is your Confirmation Number. Please make note of this number as you will need it to complete your payment package. You may also click on “Print this page” to print the page for your records.
+Step Three: After the Payment
+16. On your paper application write “PAID ONLINE” and your confirmation number in or near the upper right corner of the application or form. It is very important that this information is on your paperwork to assure your application/form and payment are processed correctly.
+17. Mail the completed paper application or renewal form including the operator’s original signature on the form(not applicable to Online application submittal) to:
+State Water Resources Control Board
+Drinking Water Operator Certification Program
+PO Box 944212
+Sacramento, CA 94244-2120
+18. If you have any questions regarding this process, please contact the Drinking Water Operator Certification Program at (916) 449-5611, or e-mail us at:
+dwopcertprogram@waterboards.ca.gov.
+ZA1234566 $1.00 $1.00
+01/2024

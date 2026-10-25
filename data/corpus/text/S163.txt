@@ -1,0 +1,364 @@
+Approved Rulemaking - Proposition 4 Water Recycling
+https://www.waterboards.ca.gov/water_issues/programs/grants_loans/water_recycling/docs/oal-emergency-file-2026-0206-02e.pdf
+Date printed: February 17, 2026
+
+[page 1] State of California
+Office of Administrative Law
+In re:
+State Water Resources Control Board
+Regulatory Action:
+Title 23, California Code of Regulations
+Adopt sections: 3430, 3431, 3432, 3433,
+3434,3435,3436,3437,
+3438,3439,3440
+Amend sections:
+Repeal sections:
+NOTICE OF APPROVAL OF EMERGENCY
+REGULATORY ACTION
+Government Code Sections 11346.1 and
+11349.6
+OAL Matter Number: 2026-0206-02
+OAL Matter Type: Emergency (E)
+This emergency action by the State Water Resources Control Board (SWRCB)
+establishes procedures and selection criteria used to select projects for grant funding under the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024. Pursuant to Public Resources Code section 90135(e)(1 ), this is a deemed emergency and remains in effect until repealed or amended by SWRCB.
+OAL approves this emergency regulatory action pursuant to sections 11346 .1 and 11349.6 of the Government Code.
+This emergency regulatory action is effective on 2/17/2026 and remains in effect until repealed or revised by SWRCB pursuant to Public Resources Code section 90135( e )(2).
+Date: February 17, 2026
+Original: Eric Oppenheimer, Executive
+Director
+
+[page 1] Director
+Copy: Michael Downey
+Robert Roth
+Senior Attorney
+For: Kenneth J. Pogue
+Director
+
+[page 2] i .-:@F CALIFORNIA--OFFICE OF ADMINISTRATIVE LAW
+~NOTICE PUBUCATION/REGU
+·sT0.400 (REV. 10/2019) GENCYNOTICE FILE NUMBER
+Z- For use by Office of Administrative Law (OAL) only NOTICE REGULATIONS
+AGENCY WITH RULEMAKING AUTHORITY
+STATE WATER RESOURCES CONTROL BOARD
+A. PUBLICATION OF NOTICE (Complete for publication in Notice Register)
+1. SUBJECT OF NOTICE
+Approved a.s
+sut,rnttteq
+TITLE(S)
+4. AGENCY CONTACT PERSON
+Approved as
+Modified
+FIRST SECTION AFFECTED
+TELEPHONE NUMBER
+B. SUBMISSION OF REGULATIONS (Complete when submitting regulations)
+For use by Secretary of State only
+FEB 17 2026
+AGENCY FILE NUMBER (If any)
+2. REQUESTED PUBLICATION DATE
+FAX NUMBER (Optional)
+1a. SUBJECT OF REGULATION(S) 1b. ALL PREVIOUS RELATED OAL REGULATORY ACTION NUMBER(S)
+PROP 4 WATER RECYCLING REGULATIONS
+2. SPECIFY CALIFORNIA CODE OF REGULATIONS TITLE(S) AND SECTION(S) (Including title 26, if toxics related)
+SECTION(S) AFFECTED
+(List all section number(s)
+individually. Attach
+additional sheet if needed.)
+TJTLE(S)
+TITLE 23
+3. TYPE OF FILING
+□ Regular Rulemaking (Gov.
+Code §11346)
+ADOPT
+see attachment
+AMEND
+REPEAL
+
+[page 2] REPEAL
+□Certificate of Compliance: The agency officer named below certifies th.at this agency complied with the provisions of Gov. Code §§11346.2-11347.3 either
+before the emergency regulation was adopted or
+within the time period required by statute.
+□ Emergency Readopt
+(Gov. Code, §11346.1(h))
+DFile&Print
+□ Changes Without
+Regulatory Effect (Cal.
+Code Regs., title 1, §100)
+□ Print Only
+□ Resubmittal of disapproved
+or withdrawn nonemergency
+filing (Gov. Code §§11349.3,
+11349.4)
+[8J Emergency (Gov. Code, □ Resubmittal of disapproved or withdrawn §11346.1(b)) emergency filing (Gov. Code, §11346.1) ~Other(Specify) y(LC.... 9o, 35(e) request~ 4. ALL BEGINNING AND ENDING DATES OF AVAlUa'Jl~ MODIFIED REGULATIONS AND/OR MATERIAL ADDED TO THE RULEMAKING FILE (Cal. Code Regs. title 1, §44 and Gov. Code §11347.1)
+request~
+5. EFFECTIVE DATE OF CHANGES (Gov. Code,§§ 11343.4, 11346.1(d); Cal. Code Regs., title 1, §100)
+□ Effective January 1, April 1, July 1, or ,-;;;;;t Effective on filing with □§100 Changes Without □Effective other .October 1 (Gov. Code §11343.4(a)) ~ Secretary of State Regulatory Effect (Specify)
+
+[page 2] □ Effective January 1, April 1, July 1, or ,-;;;;;t Effective on filing with □§100 Changes Without □Effective other .October 1 (Gov. Code §11343.4(a)) ~ Secretary of State Regulatory Effect (Specify)
+6. CHECK IF THESE REGULATIONS REQUIRE NOTICE TO, OR REVIEW, CONSULTATION, APPROVAL OR CONCURRENCE BY, ANOTHER AGENCY OR ENTITY D Department of Finance (Form STD. 399) (SAM §6660) D Fair Political Practices Commission D State Fire Marshal D Other (Specify)
+7. CONTACT PERSON
+Michael Downey
+TELEPHONE NUMBER FAX NUMBER (Optional) E-MAIL ADDRESS (Optional)
+michael.downey@waterboards.c9i6 341-5698
+s. I certify that the attached copy of the regulation(s) is a true and correct copy of the regulation(s) identified on this form, that the information specified on this form is true and correct, and that I am the head of the agency taking this action, or a designee of the head of the agency, and am authorized to make this certification.
+SIGNATURE OF AGENCY HEAD OR DESIGNEE
+Joe Ka rkoski :,/(~;,,Di111ta!!y signed by Joe Karkoski ~·u~ie:2026.o:to3 12::n.;33 .os·oo·
+TYPED NAME AND TITLE OF SIGNATORY
+Joe Karkoski, Deputy Director
+DATE
+2/3/2026
+For use by Office of Administrative Law (OAL) only
+
+[page 3] Attachment to Form 400
+Part B, Section 2, continued
+ADOPT
+Sections 3430, 3431, 3432, 3433, 3434, 3435, 3436, 3437, 3438, 3439, 3440
+
+[page 4] The following is exclusively new text to be added to the California Code of Regulations.
+Therefore, all text will be presented plain typeface and will not be underlined.
+PROPOSED EMERGENCY REGULATIONS TEXT
+TITLE 23. WATERS
+DIVISION 3. STATE WATER RESOURCES CONTROL BOARD AND REGIONAL WATER QUALITY CONTROL BOARDS
+CHAPTER 24. GRANT AND LOAN PROGRAMS
+Article 3. Water Reuse and Water Recycling Program Under The Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024
+§ 3430. Applicability, Scope, and Purpose
+(a) This Article shall regulate only the administration of funds allocated by sections 91000, 91010, and 91014 of the Public Resources Code and subsequently appropriated by section 164 of Senate Bill 105 (2025-26 Reg. Sess.). This Article shall not apply to any future or other appropriation of Proposition 4 funds.
+(b) Grant funds governed by this Article shall only be used to fund water recycling and water reuse Projects that meet the purposes of section 91014 of the Public Resources Code.
+Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 91000, 91010, and 91014, Public Resources Code.
+
+[page 4] Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 91000, 91010, and 91014, Public Resources Code.
+§ 3431. Definitions.
+The following definitions shall govern construction of this Article:
+(a) "Applicant" means a legal entity with the authority to enter into a Financing Agreement with the State Water Board, but which has not yet executed such Financing Agreement.
+(b) "Application" means the information and documents which an Applicant must provide to the State Water Board to be considered for Grant funding.
+(c) "Authorized Representative" means a person who has the authority to represent an Applicant and sign documents pertaining to the Application and Financing Agreement.
+{d) "Construction Allowances" means construction change orders, construction management, and engineering during construction.
+(e) "Construction" means the construction of a water recycling Project, including but not limited to treatment systems, interconnections, consolidations, purchase of equipment, and extending service to residents.
+
+[page 5] (f) "Disadvantaged Community" or "DAC" means a community with a Median Household Income of less than eighty percent (80%) of the area average or less than eighty percent (80%) of the statewide Median Household Income.
+(g) "Division of Financial Assistance" or "DFA" means the Division of Financial Assistance of the State Water Board.
+(h) "Eligible Costs" are the costs within a Project which are eligible to be reimbursed with Grant funding, as described in section 3435.
+(i) "Eligible Project Capacity" means the capacity of a Project to produce recycled water based on Recycled Water Market Assurances.
+U) "Existing User" means an entity that currently exists or will exist prior to a Project's Initiation of Operation and which would use fresh water if recycled water were not made available.
+(k) "Financing Agreement" means a written agreement between the State Water Board and the Recipient, and any amendments thereto, signed by all parties, which sets forth the terms, provisions, and conditions which shall govern Grant financing and may govern other State Water Board financing.
+
+[page 5] (I) "Financing Agreement Number" means the identification number given to a Financing Agreement during drafting.
+(m) "Final Budget Approval Package" means the collection of documents submitted by the Applicant which, if approved by DFA staff, will provide the basis for the final budget for the Project, as described in section 3440 of this Article.
+(n) "Grant" means non-repayable financing authorized under Section 91014 of the Public Resources Code and governed by this Article.
+(o) "Initiation of Operation" means the actual date when a water recycling facility initiates operation and when the Recipient begins using the facilities for their intended purpose, as set forth in the Financing Agreement.
+(p) "Large-Scale Project" means a Project that will deliver at least 10,000 acre-feet per year (AFY) of recycled water at the completion of construction.
+(q) "Mandatory Use Ordinance" means a local law adopted by a retail water purveyor requiring the use of recycled water in place of ariother water source which specifies the following:
+(1) The types of users for which recycled water is mandatory;
+
+[page 5] (1) The types of users for which recycled water is mandatory;
+(2) The conditions under which recycled water must be used or under which new development must be plumbed for future recycled water use;
+(3) Procedures for determining the water users required to convert to recycled water service, or be plumbed to accept recycled water upon new water service;
+(4) Procedures to provide notice to potential recycled water users the Mandatory Use Ordinance, including information about the Project, about
+
+[page 6] recycled water users' responsibilities under the Mandatory Use Ordinance, about the price of recycled water, and about on-site retrofit requirements;
+(5) Procedures for recycled water users to request a waiver; and (6) A penalty for noncompliance with the Mandatory Use Ordinance.
+(r) "Maximum Grant Amount" means the maximum amount of Grant funds that a Project may receive in a Financing Agreement.
+(s) "Median Household Income" or "MHI" means the household income that represents the median value for an Applicant's service area.
+(t) "Planning" means the preliminary activities necessary to construct or implement a Project, including but not limited to legal costs, studies, planning, preliminary engineering, and design for a Project.
+(u) "Project" means the set of activities described in an Application for Grant financing or in a Financing Agreement for which partial or full Grant funding, authorized under Section 91014 of the Public Resources Code, is sought.
+
+[page 6] (v) "Project Report" means a document contained in the technical package of the Application which contains sufficient information for State Water Board staff to evaluate whether a proposed Project meets the requirements of this Article and fulfills the purposes of the proposed Project, as described in section 3437 of this article.
+(w) "Proposition 4" means the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024 approved by California voters on November 5, 2024, and codified in Division 50 of the Public Resources Code (sections 90000 et seq.).
+(x) "Recipient" means an Applicant with an executed Financing Agreement signed by all parties.
+(y) "Recycled Water" means water which, as a result of treatment of waste, is suitable for a direct beneficial use or a controlled use that would not otherwise occur.
+(z) "Recycled Water Market Assurances" means a Mandatory Use Ordinance, User Contract, or Special Assessment.
+(aa) "Severely Disadvantaged Community" or "SDAC" means a community with a Median Household Income of less than sixty percent (60%) of the area average or less than sixty percent (60%) of the statewide Median Household Income.
+
+[page 6] (bb) "Small Disadvantaged Community" or "Small DAC" means a Disadvantaged Community with a population of less than 20,000.
+(cc) "Small Severely Disadvantaged Community" or "Small SDAC" means a Severely Disadvantaged Community with a population of less than 20,000.
+
+[page 7] {dd)"Special Assessment" means a special assessment district formed for the purpose of using recycled water pursuant to either the criteria in subsection (q)(1)-(6) or the criteria in subsection (hh)(1)-(7).
+(ee)"State Assigned Project Number'' means the identification number given to a proposed Project at the time an Application is received by the State Water Board.
+(ff) "State Water Board" means the State Water Resources Control Board.
+{gg) "Total Eligible Project Cost" means the sum of all Eligible Costs contained within a Project's scope, regardless of whether all those Eligible Costs will receive Grant funding.
+(hh) "User Contract" means a binding agreement between a recycled water purveyor and recycled water users, signed by both parties, which contains the following:
+(1) A commitment to use the recycled water provided under the User Contract;
+(2) The annual amount of recycled water that the user agrees to use (3) The sites and types of recycled water uses;
+(4) The conditions of use and the quality of recycled water;
+(5) The price of the recycled water;
+
+[page 7] (5) The price of the recycled water;
+(6) Descriptions of the regulatory and water purveyor's on-site retrofit requirements needed to convert from freshwater to recycled water; and (7) Dates when the commitment to use recycled water will begin and end.
+(ii) "Waste Discharge Requirement" means the Waste Discharge Requirements imposed upon dischargers of waste as construed by sections 13260 et seq. of the Water Code.
+Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Section 13050, 13260, Water Code; sections 90100, 90140, 91000, 91010, and 91014, Public Resources Code.
+§ 3432. GrantAmount
+The amount of Grant funding provided by a Financing Agreement under this Article shall be based on the reasonable estimated cost for a Project, and subject to the limits set forth in subsections (a), (b), and (c).
+(a) Maximum GrantAmount
+(1) Except as provided in subsections (a)(2)-(3), a Maximum Grant Amount of fifteen million dollars {$15,000,000) will apply to all Grant Financing Agreements awarded pursuant to this Article.
+
+[page 7] (1) Except as provided in subsections (a)(2)-(3), a Maximum Grant Amount of fifteen million dollars {$15,000,000) will apply to all Grant Financing Agreements awarded pursuant to this Article.
+(2) Any Grant for a Large-Scale Project, shall not exceed the Maximum Grant Amount of fifteen million dollars ($15,000,000) per project phase or component but only as permitted under Section 91014{c) of the Public Resources Code.
+
+[page 8] (3) Any Grant awarded to a Small SDAC shall not exceed the Maximum Grant Amount of thirty-five million dollars ($35,000,000).
+(b) Amending Maximum Grant Amounts for Certain Financing Agreements {1) Any Recipient which is not a Small SDAC, and which executed a Financing Agreement with the State Water Board on or after January 1, 2024 that was subject to a Maximum Grant Amount of less than fifteen million dollars ($15,000,000) at the time of execution, is eligible to amend such Financing Agreement to commit additional Grant funding up to a Maximum Grant Amount of fifteen million dollars ($15,000,000). Any funds committed in previous iterations of such a Financing Agreement shall reduce the amount of additional Grant funds available in an amendment under this subsection, such that the sum of any previous funds combined with any additional Grant funds committed in an amendment shall not exceed fifteen million dollars ($15,000,000).
+
+[page 8] (2) Any Recipient which is a Small SDAC, and which executed a Financing Agreement with the State Water Board on or after January 1, 2024 that was subject to a Maximum Grant Amount of less than thirty-five million dollars ($35,000,000) at the time of execution, is eligible to amend such Financing Agreement to commit additional Grant funding up to a Maximum Grant Amount of thirty-five million dollars ($35,000,000). Any funds committed in previous iterations of such a Financing Agreement shall reduce the amount of additional Grant funds available in an amendment under this subsection, such that the sum of any previous funds combined with any additional Grant funds committed in an amendment shall not exceed thirty-five million dollars ($35,000,000).
+
+[page 8] (3) DFA staff shall identify the Recipients which are eligible for amendments under this subsection by confirming Applicant and Project eligibility, pursuant to sections 3433 through 3435. DFA staff shall provide each of the identified Recipients with an offer to amend the Recipient's existing Financing Agreement. A Recipient may respond by accepting or rejecting the offer to amend the existing Financing Agreement, provided that the Recipient must accept an offer before available funding is exhausted pursuant to section 3438. If a Recipient notifies DFA staff that it accepts the offer to amend, then DFA staff will prepare an amended Financing Agreement and provide it to the Recipient for signature.
+(4) Amendments made to a Financing Agreement pursuant to this subsection shall take effect when all parties have signed the amended Financing Agreement.
+
+[page 9] (5) Any additional Grant funding committed under an amendment authorized under this subsection shall not fund any Planning or Construction activities that took place before November 5, 2024.
+(c) Maximum Percentage of Total Eligible Project Cost.
+(1) A Grant awarded to any Recipient for a Large-Scale Project shall fund no more than thirty-five percent (35%) of a Project's Total Eligible Project Cost.
+(2) Except as provided in subsection (c)(3), a Grant awarded to any Recipient for a non-Large Scale Project shall fund no more than thirty-five percent (35%) of a Project's Total Eligible Project Cost.
+(3) The State Water Board may award a Grant to a Small DAC or a Small SDAC that funds one hundred percent (100%) of a Project's Total Eligible Project Cost. In its decision to award such a Grant, the State Water Board will consider which Project or Projects best address the following criteria:
+(A) The Project supports or enables the Recipient's compliance with a National Pollutant Discharge Elimination System (NPDES) Permit and/or a Waste Discharge Requirement (WDR).
+(B) The Project increases the use or supply of recycled water.
+
+[page 9] (B) The Project increases the use or supply of recycled water.
+(C) The Project's production of recycled water offsets use of potable water from other sources.
+Note: Authority cited: Section 1058, Water Code; section 90135 Public Resources Code.
+Reference: Section 13260, Water Code; sections 90050, 90140, 91000, 91010, and 91014, Public Resources Code
+§ 3433. Applicant Eligibility.
+(a) An Applicant that is a public agency, local agency, nonprofit organization, special district, joint powers authority, tribe, public utility, local publicly owned utility, or mutual water company, is eligible for Grant funding under this Article.
+(b) An Applicant that is a mutual water company, a joint powers authority with municipal water company member(s), or a utility serving the public and regulated by the California Public Utilities Commission is only eligible for Grant funding if the Applicant's proposed Project has a public purpose and benefits customers, not investors, of the water system.
+Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 90110, 90120, 91000, 91010, and 91014, Public Resources Code.
+§ 3434. Project Eligibility.
+
+[page 10] (a) A Project is eligible for Grant funding under this Article if it offsets or augments state or local freshwater supplies, and if a minimum of fifty percent (50%) of the Eligible Project Capacity serves Existing Users. No Project that consists of exclusively Planning activities shall be eligible to receive Grant funding.
+(b) Large-Scale Projects shall not be required to submit User Agreements or contracts for water delivery in order to be eligible for Grant funding, nor shall the submission of User Agreements or contracts for water delivery be a condition for the award of Grant funding to Large-Scale Projects.
+Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 91000, 91010, and 91014, Public Resources Code.
+§ 3435. Eligible Costs
+(a) Except as provided in subsections (b) and (c), Projects shall only be eligible to receive Grant funding for actual Eligible Construction Costs, not including Construction Allowances, up to the Grant amount set forth in the Financing Agreement. Eligible Construction Costs include:
+
+[page 10] (1) Construction of recycled water treatment facilities, storage facilities, pumping facilities, and groundwater recharge facilities;
+(2) Construction of recycled water distribution systems, including onsite improvements; and
+(3) Reasonable costs to provide an emergency backup water supply for the recycled water system.
+(b) In addition to the Eligible Construction Costs listed in subsections (a)(1)-(3), Large-Scale Projects shall also be eligible to receive Grant funding for:
+(1) Ancillary facilities, including pipelines, extraction wells, injection wells, recharge basins, nitrogen removal treatment systems, pertinent structures, and connection assemblies; and
+(2) Eligible Planning Costs, which include: feasibility studies, project reports, plans and specifications, financial analyses, engineering and design documents, preparation of environmental documents, legal costs and fees, value engineering, asset management plans, rate studies and costs related to Proposition 218 compliance, environmental management systems, and reasonable administrative costs.
+
+[page 10] (c) In addition to the Eligible Construction Costs listed in subsections (a)(1 )-(3), a Project of a Small DAG or a Small SDAC which has been awarded Grant funding for 100% of the Project's Total Eligible Project Cost pursuant to section 3432(c)(3), shall also be eligible to receive Grant funding for:
+(1) Eligible Planning Costs, as described in subsection (b)(2); and (2) Construction Allowances.
+
+[page 11] (d) No Project shall receive Grant funding for, or apply Grant funding to, ineligible costs, which include:
+(1) Operation and maintenance costs;
+(2) Land acquisition costs;
+(3) Decorative items, such as murals, decorative ponds, or decorative fountains;
+(4) Project components not included in the application and original scope of a Project;
+(5) Costs previously reimbursed by the State Water Board or other funding sources; and
+(6) Costs associated with constructing pipelines or treatment capacity in excess of the Eligible Project Capacity.
+Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 90140, 91000, 91010, and 91014, Public Resources Code.
+§ 3436 Grant Terms and Financing Agreement.
+
+[page 11] § 3436 Grant Terms and Financing Agreement.
+The terms and conditions of a Grant shall be set forth in a Financing Agreement provided to an Applicant by DFA staff for the Applicant's signature. A Recipient and the State Water Board are bound by the terms and conditions within a Financing Agreement from the time the Financing Agreement is signed by all parties. A Recipient has the sole responsibility for the fiscal management of Grant funds, project-specific recordkeeping and reporting, performance of the Project, and all other aspects of its compliance with this Article and the Financing Agreement. The terms and conditions of a Financing Agreement shall include, but are not limited to, the following:
+(a) Grant amount.
+(b) Recipient contact information.
+(c) Grant duration.
+(d) Deadlines for deliverables, including but not limited to: plans and specifications, Final BudgetApproval Package, quarterly progress reports, project completion report, final reimbursement request, and water recycling annual reports.
+(e) Important dates, including but not limited to: construction completion date and final project inspection date.
+(f) The scope of the Project.
+
+[page 11] (f) The scope of the Project.
+(g) A proposed budget, to be replaced by a final budget upon the Recipient's submission and the State Water Board's approval of a Final Budget Approval Package as described in section 3440(d) of this Article.
+(h) Procedures by which the State Water Board agrees to reimburse the Recipient for Eligible Costs.
+(i) The Recipient's agreement to comply with existing laws.
+
+[page 12] U) Other project-specific terms as may be necessary to protect the State in administering its fiduciary obligations.
+Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 91000, 91010, and 91014, Public Resources Code.
+§ 3437. Grant Application Content.
+A complete Application for a Grant consists of the following: • (a) A general information package, including:
+(1) An Applicant's name, legal entity type, street address, mailing address, congressional district(s), state senate district(s), and state assembly district(s);
+(2) The total population in an Applicant's or a Project's service area, and the Median Household Income of an Applicant's or a Project's service area at the time the Application is submitted;
+(3) An Applicant's Unique Entity Identifier (UEI) number, and Federal Tax Identification number;
+(4) The name, title, phone number, and email address of an Authorized Representative who has the authority to represent an Applicant and sign documents pertaining to the Application and Financing Agreement;
+
+[page 12] (5) If an Applicant is a public agency or has a governing body, a copy of a resolution adopted by the governing body which identifies its Authorized Representative and grants such Authorized Representative the authority to submit an Application on the Applicant's behalf and sign documents relating to the Application and Financing Agreement;
+(6) The name, phone number, and email address of a person who will be available for day-to-day contact regarding a Project on behalf of an Applicant;
+(7) The name, phone number, and email address of an Applicant's legal counsel, if any;
+(8) Basic information regarding the Project, including the Project's title, the physical location of the Project, a brief description of the Project and its objectives, the current status of any plans and specifications, and an estimated Project schedule;
+(9) The amount of Grant funds requested and the Project's total cost, if known;
+and
+( 10) The names and contact information for any other agencies, including federal agencies, involved in the funding, planning, construction, or environmental review of the Project, if any.
+(b) A technical package, including:
+
+[page 13] (1) A Project Report signed and stamped by a registered Professional Engineer, which contains sufficient information for State Water Board staff to evaluate whether a proposed Project meets the requirements of this Article and fulfills the purposes of the proposed Project, including but not limited to:
+(A) Information on and maps depicting relevant characteristics of the Project area and nearby vicinity;
+(B) Information on relevant water supply characteristics, uses, customers, and facilities;
+(C) Information on relevant wastewater characteristics, uses, customers, and facilities;
+(D) Treatment objectives for discharge and reuse of wastewater;
+(E) Relevant information on the recycled water market in the Project's current or proposed service area;
+
+[page 13] (E) Relevant information on the recycled water market in the Project's current or proposed service area;
+(F) A project alternatives analysis, which may include, as relevant to a specific Project: analysis of alternatives to any component of the Planning or Construction of the Project where reasonable alternatives exist, analysis of alternative viable sources of water other than recycled water, analysis of water conservation or use reduction as an alternative to water recycling, analysis of pollution control alternatives, and analysis of an alternative where no Project is built;
+(G) Relevant details of the proposed Project's facilities, estimated Project cost, preliminary design, potential resulting recycled water use, and any matters which may impact the Project budget or schedule;
+(H) Information regarding any commitments, agreements, ordinances, or permits which must be obtained by the Applicant or the Project, or both, in order to implement the purposes of the Project; and (I) Information regarding the financing of the Project, and projections of revenues, costs, and debts relevant to the construction and operation of the Project.
+
+[page 13] (2) Information regarding any climate change adaptation or mitigation measures the Applicant considered for the Project, including measures that were considered and rejected, and information regarding any climate change vulnerabilities of the Project;
+(3) The Applicant's Recycled Water Market Assurances; and (4) An anticipated connection schedule and estimated recycled water deliveries for all potential users of the recycled water from the proposed Project.
+
+[page 14] (c) An environmental package, including all information and documents as may be necessary to demonstrate that the Applicant and proposed Project have satisfied all applicable requirements of the California Environmental Quality Act; and (d) A financial security package which contains sufficient information and documentation to demonstrate that the Applicant's current and projected revenues will exceed the combined costs of current operation, costs of operating the proposed Project, and costs related to any compliance with debt service or other material obligations, such that the State Water Board may reasonably determine that the Applicant has and will continue to have the financial capacity to operate and maintain the Project once constructed. Such required information and documentation includes, but is not limited to:
+(1) The requested Grant funding amount;
+(2) Other funding sources for the proposed Project, if any;
+(3) If active water and/or wastewater connections are currently and directly served by the Applicant's system, the following information:
+(A) The number of active service connections served;
+
+[page 14] (A) The number of active service connections served;
+(8) The average monthly service charge that is projected to be in place after the proposed Project is completed; and
+(C) The Applicant's average monthly billing for the last 12 months prior to submitting the Application.
+(4) A discussion of any material events and material obligations, including but not limited to bankruptcy, defaults, litigation, grand jury findings, unscheduled draws, substitution of insurers or their failure to perform, and any local debt limit;
+(5) A copy of the most recent three years of either audited financial statements or federal and state tax returns;
+(6) Budget projections showing revenues and expenses for at least the next two fiscal years;
+{7) A copy of the most recent resolution, ordinance, or similar document approving the Applicant's current rates, a copy of the Applicant's current rates, and a copy of public notices regarding those rates issued in compliance section 4 of Article XIII.D. of the California Constitution;
+(8) A schedule of the Applicant's relevant debts, or a letter from the Applicant's Authorized Representative stating the Applicant has no relevant debts;
+
+[page 14] (8) A schedule of the Applicant's relevant debts, or a letter from the Applicant's Authorized Representative stating the Applicant has no relevant debts;
+(9) If applicable, budget projections based on proposed taxes, fees, charges, or assessments; and
+(10) If applicable, a copy of any relevant service, management, operating, or joint powers agreements and any amendments thereto.
+
+[page 15] Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 90110, 90140, 91010, 91000, and 91014, Public Resources Code.
+§ 3438. Grant Application Review and Approval Process.
+(a) Upon submission of Application materials, DFA staff shall assign a proposed Project a State Assigned Project Number for identification purposes.
+(b) The Deputy Director of the Division of Financial Assistance has authority delegated by the State Water Board to approve Projects or Applications for Grant financing pursuant to requirements and procedures of this Article.
+
+[page 15] (c) All Grant Applications shall be reviewed by DFA staff. Applications will be reviewed for completeness, pursuant to section 3437 of this Article, and for Applicant and Project eligibility, pursuant to sections 3433 through 3435 of this Article. DFA staff shall recommend the approval of an Application to the Deputy Director as the Application is determined to be complete and the Applicant and Project are determined to be eligible. DFA staff shall continue to recommend Applications for approval to the Deputy Director until Grant funds are exhausted or remaining Grant funds are less than the Applicant has requested and is eligible to receive. DFA staff shall recommend approval of a partial Grant amount if remaining available Grant funds are insufficient to cover the full eligible Grant amount originally requested by an Applicant.
+(d) If DFA staff choose to deny a Project based on their review of an Application under the criteria of subsection (c), DFA staff shall notify the Applicant and provide the reasons for the denial.
+
+[page 15] (d) If DFA staff choose to deny a Project based on their review of an Application under the criteria of subsection (c), DFA staff shall notify the Applicant and provide the reasons for the denial.
+(e) An Application is approved when the Deputy Director confirms that DFA staff (e) findings are correct and proper in accordance with this Article. Upon the approval of an Application, the State Water Board shall be authorized to enter into a Financing Agreement at the approved Grant amount, and DFA staff shall prepare a Financing Agreement pursuant to section 3436. Each Financing Agreement shall be assigned a Financing Agreement Number during drafting for identification purposes. DFA staff shall provide the Financing Agreement to the Applicant for signature once drafting is complete.
+Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 90110, 90140, 91000, 91010, and 91014, Public Resources Code.
+§ 3439. GrantAwards.
+Grant funds are awarded to a Recipient when all parties have signed and executed a Financing Agreement that includes Grant funds.
+
+[page 16] Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Sections 91000, 91010, and 91014, Public Resources Code.
+§ 3440. Reimbursement of Eligible Costs.
+(a) Reimbursement procedures shall be set forth in each Financing Agreement.
+(b) The State Water Board is authorized to reimburse any Eligible Costs incurred after the eligible construction start date or eligible work start date identified in an agreement, except as otherwise provided in a Financing Agreement. The State Water Board shall not reimburse any costs incurred prior to November 5, 2024.
+(c) All Recipients must inform DFA of any Project-related disputes that may affect compliance with the Financing Agreement. The State Water Board will not participate in any manner to resolve bid disputes or any other dispute between a Recipient and any other party. No Recipient shall seek reimbursement for costs associated with Project-related disputes between the Recipient and another party.
+
+[page 16] (d) The State Water Board shall not reimburse any costs related to Construction activities before a Recipient has submitted, and DFA staff have approved, a Final Budget Approval Package. DFA staff shall approve a Final Budget Approval Package that is complete and internally consistent. Upon approval of a Final Budget Approval Package, DFA shall send the Recipient a final budget approval letter notifying the Recipient of the approval of the Final Budget Approval Package. The final budget approval letter shall also establish the final budget for the Construction activities of the Project, based on the information and documents in the Final Budget Approval Package. The final budget shall determine and direct the allocation of Grant funds within a Financing Agreement for the duration of a Project. A complete Final Budget Approval Package includes the following information and documents:
+(1) The Recipient's name;
+(2) The Financing Agreement Number and State Assigned Project Number;
+
+[page 16] (2) The Financing Agreement Number and State Assigned Project Number;
+(3) If applicable, a description of any proposed changes to the Project's original scope and a discussion regarding whether and how that proposed change may impact the Recipient's compliance with the California Environmental Quality Act;
+(4) If applicable, a discussion of any material changes to the Recipient's financial condition or any other material events which have transpired since the Recipient submitted its Application, such as: new debt, recent litigation developments, recent investigations or enforcement actions, operation in a deficit, pending sale of assets, change of ownership or management, or significant controversy in the community regarding the Project;
+
+[page 17] (5) If applicable, verification that the Recipient has satisfied any conditions precedent to Construction included in the Financing Agreement;
+(6) Information and documents related to the bidding and award of construction contracts for the Project, including:
+(A) The construction start date and anticipated construction completion date;
+(B) The California Department of Industrial Relations Project Identification Number for the Project;
+(C) All information on any bid protests regarding the award of the construction contract for the Project;
+(D) All documentation for any bid protests received, and the resolution for each;
+(E) A tabulation of all bids or proposals received for the Project;
+(F) A copy of the selected bid or proposal and purchase order issued;
+(G) If the apparent low bid or proposal was rejected, an explanation for the rejection;
+(H) A copy of all advertisements issued for bids or proposals for the Project;
+(I) The plans and specifications or request for proposals, as advertised, stamped by a Professional Engineer, and all addenda;
+(J) A schedule of values or bid items prepared for the Project, if available;
+and
+
+[page 17] and
+(K) A copy of the signed construction contract for the selected bid, if available.
+(7) A project budget table showing the Recipient's requested final budget for the Project, where one column lists each budget item, one column lists the cost of each corresponding budget item, one column lists the requested Grant funding for each corresponding budget item, and a bottom row lists the sum total cost of all budget items, and the sum total requested Grant funding for all budget items;
+(8) Information regarding any additional financing for the Project from any source other than Grant funds;
+(9) If applicable, a copy of any final or updated Waste Discharge Requirements;
+(10) If applicable, a copy of any value engineering study for the Project, with recommendations and responses; and
+( 11) A certification from the Recipient's Authorized Representative that all information and documents in the Final Budget Approval Package are complete and accurate, signed by the Authorized Representative.
+
+[page 18] Note: Authority cited: Section 1058, Water Code; section 90135, Public Resources Code. Reference: Section 13260, Water Code; sections 91000, 91010, and 91014, Public Resources Code.

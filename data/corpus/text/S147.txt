@@ -1,0 +1,377 @@
+Water Measurement Regulation
+https://www.waterboards.ca.gov/waterrights/water_issues/programs/diversion_use/water_measurement.html
+Date printed: 08/24/2026
+
+## Water Measurement Regulation
+The updated measurement and data submission requirements are effective beginning Water Year 2027 (October 2026). Please visit the rulemaking webpage for Water Measurement and Reporting Regulations for more information on the rulemaking process and past outreach.
+The Water Measurement Regulation (chapter 2.8 of title 23 of the California Code of Regulations) requires diverters who divert more than 10 acre-feet of water per year to measure their diversions and submit the data to the State Water Board. Accurate measurement data is critical for managing and making informed decisions regarding California's water supply, especially during droughts. Note: All diverters are required to complete annual reports each year. Water measurement and data submission requirements are separate, additional requirements for diverters with water rights to divert more than 10 acre-feet per year.
+
+## Water Measurement Regulation > Jump to Section
+Water Year 2026 - Measurement and Data Submission Information
+- Why Measuring Diversions Is Important
+- Who Needs to Measure Diversions
+- What to Measure
+- How to Measure Diversions
+- How Often to Measure and Submit Data
+- How to Submit Measurement Data
+- Measurement Methodology
+- Qualified Individual
+Water Year 2027 and Beyond - Measurement and Data Submission Information
+More Information
+- Enforcement
+- Why Was the Regulation Updated?
+- Stay Informed
+
+## Water Measurement Regulation > Guidance Materials
+- Water Year 2026 Measurement and Data Submission Manual
+- Water Year 2026 Frequently Asked Questions (FAQs)
+- Effective Dates for Requirements
+
+## Water Measurement Regulation > Additional Resources
+- Telemetry Webpage
+- Alternative Compliance Plans Webpage
+- List of water rights attorneys
+- List of water rights consultants
+- List of measuring device vendors
+- CalWATRS
+For additional questions and assistance, please contact Division of Water Rights staff at DWR-Measurement@Waterboards.ca.gov.
+
+## Water Year 2026 – Measurement and Data Submission Information > Why Measuring Diversions Is Important
+California's recent droughts have highlighted the need for more current and accurate water diversion data on a statewide scale. Previous standards required monthly diversion amounts be submitted annually, but the 2012-2016 drought highlighted the limitations of such standards and their application to drought management. Even in non-drought years, rainfall and snow patterns vary widely. Adequate supply in some regions may occur at the same time as critical water shortages elsewhere, and these patterns can change throughout the year. High quality, accurate data that is collected at a finer resolution is therefore essential for managing water resources throughout the state. Accurate data protects your water rights, helps inform both statewide and local water availability and future planning decisions, and assists in processing water right applications.
+Measurement data helps improve the way California manages and allocates water rights by helping to
+- Forecast and plan for limited water supplies
+- Ensure compliance with permit and license terms of existing water rights
+- Protect water rights based on priority year
+
+## Water Year 2026 – Measurement and Data Submission Information > Why Measuring Diversions Is Important
+- Protect water rights based on priority year
+- Provide for efficient management and use of water during times of shortage
+- Improve water planning and near-term forecasting of water demand
+- Facilitate collaborative solutions between the State Water Board and local water managers
+
+## Water Year 2026 – Measurement and Data Submission Information > Who Needs to Measure Diversions
+In general, those who divert more than 10 acre-feet per year are required to measure their diversions and submit the data to the State Water Board. This includes diverters who have
+- A single water right with a face value or historical use (whichever is greater) of more than 10 acre-feet per year
+- Multiple water rights that share either a point of diversion, place of use, or divert to the same reservoir and have a combined face value or historical use of more than 10 acre-feet per year
+- A storage facility with a capacity of more than 10 acre-feet
+Note: The 10-acre-foot threshold is based on the greater value of historical use or face value. It is not based on the amount of water diverted or stored during the current water year. If you are unsure of the details of your water right or claim of right, please refer to the following guide: Know Your Water Right.
+Refer to the Water Year 2026 Measurement and Data Submission Manual for more information on who needs to measure their diversions.
+
+## Water Year 2026 – Measurement and Data Submission Information > What to Measure
+Diverters must measure and report their diversion volumes by water right. In general, measurements must be accurate to within ±10 to 15 percent, depending on the size of the water right. Refer to the Water Year 2026 Measurement and Data Submission Manual for more information on measurement and accuracy requirements.
+Diverters must measure each of the following, as applicable:
+- Volume of water directly diverted under each water right
+- Volume of water diverted to storage under each water right
+- Volume of water withdrawn and/or released from storage under each water right
+For reservoirs that operate in a pattern of drawdown and refill, diverters must also record each of the following:
+- Maximum and minimum water surface elevation during each drawdown-refill cycle
+- Reservoir volumes corresponding to these elevations
+- Dates of these measurements
+
+## Water Year 2026 – Measurement and Data Submission Information > How to Measure Diversions
+Diverters must measure their diversions using a measuring device, measurement method, or combination of devices and/or methods. The terms “measuring device” and “measurement method” have specific definitions in the context of this regulation that are described below. Refer to the Water Year 2026 Measurement and Data Submission Manual for more information about measuring devices and measurement methods.
+Measuring devices can be any devices, including custom or in-house built devices, that directly measure either volume, flow rate, water velocity, or water elevation. Diverters must then use the measured value to calculate the volume of water diverted. On or before January 31, 2027, diverters must register each of their measuring devices in CalWATRS. Examples of measuring devices are shown in the table below. For your convenience, the State Water Board has a list of measuring device vendors.
+Example Devices | Measured Parameter | Example Units | Formulas to Calculate Volume
+Totalizer; totalizing flow meter | Volume | Acre-feet; gallons; cubic feet | Not applicable
+Flow meter | Flow rate | Gallons per minute; cubic feet per second | Volume = flow rate x duration
+
+## Water Year 2026 – Measurement and Data Submission Information > How to Measure Diversions
+Example Devices | Measured Parameter | Example Units | Formulas to Calculate Volume
+Velocity meter | Water velocity | Feet per second | Volume = velocity x cross sectional area x duration
+Staff gauge; transducer; weir | Water elevation | Feet | Diverter must provide formula
+Measurement methods are any other way of measuring diversions that do not use a “measuring device” (as defined above) to measure the volume of water diverted under a single water right. Usually, a measurement method will require some math to calculate the volume of water diverted for each water right. Here are some examples of measurement methods:
+- A group of diverters each divert water from the same location, but they share a flow meter. Even though a flow meter meets the definition of a measuring device, a measurement method is needed to determine the volume diverted under each water right. The meter measures the total amount of water they all divert, so they use a measurement method to calculate the amount of water that is diverted under each of their water rights.
+
+## Water Year 2026 – Measurement and Data Submission Information > How to Measure Diversions
+- A diverter uses a pump to divert water from a stream. The pump has its own dedicated electricity meter and operates at a constant rate. The diverter uses the electricity records combined with the pump specifications and pump curve to calculate the volume of water diverted.
+- A diverter pumps water into a storage tank and only refills the tank when it empties. The diverter counts the number of times the tank is filled and multiplies that by the volume of the tank to calculate the volume of water diverted.
+Diverters must have previously submitted a measurement method to the Board before February 1, 2026. Any measurement method on file with the Board may remain valid through September 30, 2026.
+Below are some additional resources for measuring diversions:
+- U.S. Bureau of Reclamation Water Measurement Manual
+- Fact Sheet: Pipes and Closed Conduits
+- Fact Sheet: Open Channels (including weirs, flumes, canal meter gates, non-standard structures)
+- Fact Sheet: Wells
+- Fact Sheet: Low Flow Rates (including battery-operated flow meters, volumetric calculations by stopwatch, pump electricity kW-h meters)
+
+## Water Year 2026 – Measurement and Data Submission Information > How to Measure Diversions
+- Fact Sheet: Low Flow Rates (including battery-operated flow meters, volumetric calculations by stopwatch, pump electricity kW-h meters)
+- Fact Sheet: Reservoir Diversions to Storage (including water balance calculations, measuring reservoir storage, depth-capacity curve, small reservoirs on ephemeral streams, monthly or manual water level measurement)
+- Reservoir Storage Measurement and Recordkeeping Guide for Above-Ground Reservoirs (including installing a measuring device, creating a reservoir capacity curve)
+- Average Cost of Measurement (last updated February 2016)
+- Financial Assistance Programs (last updated November 2015)
+
+## Water Year 2026 – Measurement and Data Submission Information > How to Measure Diversions
+- Financial Assistance Programs (last updated November 2015)
+There may be certain situations where a diverter is unable to measure their diversion as frequently or accurately as they are required, including if doing so would be unreasonably expensive, unreasonably affect public trust resources, result in wasted water, or otherwise be infeasible. In such cases, diverters may submit and implement an Alternative Compliance Plan (ACP). Diverters who measure and submit data under an ACP must meet their specified measurement requirements as much as possible and explain why they are unable to fully meet all requirements. Diverters who previously submitted an ACP before February 1, 2026 may continue using their existing ACP through September 30, 2026. All diverters pursuing alternative compliance must submit an ACP through CalWATRS on or before January 31, 2027 (regardless of whether they submitted a prior ACP before February 2026).
+
+## Water Year 2026 – Measurement and Data Submission Information > How Often to Measure and Submit Data
+Diverters must measure their diversions monthly, weekly, daily, or hourly, depending on the type and size of diversion. Refer to the table below for more information regarding how frequently to measure diversions. In general, diverters only need to submit their measurement data to the State Water Board once per year. Data is submitted as an attachment to Annual Water Diversion and Use Reports. Optional data file templates are available. Refer to the Water Year 2026 Measurement and Data Submission Manual for more information on measurement frequency requirements.
+Diversion Type | Volume Threshold | Required Measurement Frequency
+Direct Diversion:
+Requirements are based on the face value or maximum annual historical use (whichever is greater)
+For multiple water rights that share a point of diversion or place of use, requirements are based on the combined face value or maximum annual historical use (whichever is greater) of all such water rights | More than 10,000 acre-feet | Hourly, plus telemetry requirements
+1,000 to 10,000 acre-feet | Hourly
+100 to 999 acre-feet | Daily
+10 to 99 acre-feet | Weekly
+
+## Water Year 2026 – Measurement and Data Submission Information > How Often to Measure and Submit Data
+Diversion Type | Volume Threshold | Required Measurement Frequency
+Diversion to Storage:
+Requirements are based on the capacity of the storage facility | 10,000 acre-feet or more | Hourly, plus telemetry requirements
+1,000 to 9,999 acre-feet | Hourly
+200 to 999 acre-feet | Daily
+50 to 199 acre-feet | Weekly
+10 to 49 acre-feet | Monthly
+
+## Water Year 2026 – Measurement and Data Submission Information > How to Submit Measurement Data
+Diverters should compile measurement data in a data file and submit it as an attachment to their Annual Water Diversion and Use Reports. For detailed information on how to submit data, please refer to the Water Year 2026 Measurement and Data Submission Manual.
+Optional data file templates are available below. The State Water Board highly recommends using the provided templates to reduce unintentional errors, ensure that submitted data files include all required components, and ensure that data files are in an appropriate and readable format. For diverters who opt to use a data file format other than what is presented in the provided templates, please refer to the Data File Best Practices and Data File Practices to Avoid sections below for general guidelines on how data files should be structured.
+Data File Templates for Measurement Reporting
+- Diversion to Direct Use
+- Diversion to Storage
+- Withdrawals from Storage Use
+- Releases from Storage Facility (Outflow)
+- Volume in Storage
+
+## Water Year 2026 – Measurement and Data Submission Information > Data File Best Practices
+In general, data files should contain the following information:
+- File type that can be opened using either Microsoft Excel or Microsoft Access (common file types include.xls, .xlsx, .csv, .txt, .dat)
+- Descriptive column headings in the first row of the data file
+- Use only one spreadsheet “tab” with only one data table per data file (you may submit multiple data files with your Annual Water Diversion and Use Report)
+- Date and time of measurement
+- Measured value (the raw/unaltered data output from your measuring device or measurement method)
+- At a minimum, include the volume of water diverted under the water right at each time stamp (any calculation or conversion protocols should be attached separately to your Annual Report and not included within your data file). Best data practice is to also include flow rate of diversion. If the measured value has known or suspected errors, the values in the Volume and Flow Rate columns may be based on quality assured data.
+- Units written out in their entirety (i.e., not abbreviated)
+
+## Water Year 2026 – Measurement and Data Submission Information > Data File Best Practices
+- Units written out in their entirety (i.e., not abbreviated)
+- Any standard units are acceptable. Common examples include acre-feet or gallons (for volume), cubic feet per second or gallons per day (for flow rate), feet per second (for water velocity), and feet or meters (for water elevation).
+
+## Water Year 2026 – Measurement and Data Submission Information > Data File Practices to Avoid
+In general, data files should not contain the following:
+- Images or graphs, or file types that are not machine readable, such as .pdf, .jpg, .png, .bmp, etc.
+- Unclear or missing column headings
+- Multiple data tables in a single data file
+- Multiple spreadsheet “tabs”
+- Merged cells or multiple values within the same cell
+- Irrelevant data that does not relate to diversion measurements
+- Excessive narrative text
+- Hyperlinks to external databases
+
+## Water Year 2026 – Measurement and Data Submission Information > Measurement Methodology
+Each diverter must register their measuring devices in CalWATRS and submit a measurement methodology that describes how they collect, interpret, and process the raw data from their measuring devices to meet the measurement requirements. This may include descriptions of:
+- How to calculate the volume and flow rate of water directly diverted, diverted to storage, withdrawn from storage, and released from a reservoir, as applicable
+- How to quality control the measurement data to meet the accuracy requirements,
+- How to apportion measurements to each claimed water right, and
+- Any other procedure used to convert the raw device output into a general measurement data file or large diversion submission.
+Diverters must register measuring devices and submit a measurement methodology through CalWATRS by January 31, 2027. Measurement methodologies are subject to review, but are presumed to be approved upon submission, unless a written rejection has been issued.
+
+## Water Year 2026 – Measurement and Data Submission Information > Qualified Individual
+Measuring diversions can be complex, therefore a qualified individual must ensure that your diversions are measured accurately. A qualified individual is always required, regardless of whether the diversion is measured using a measuring device, measurement method, or Alternative Compliance Plan. However, the exact role the qualified individual performs varies depending on how the diversion is measured. Refer to the Water Year 2026 Measurement and Data Submission Manual for information on qualified individuals and when they are needed.
+The following table summarizes who is eligible to become a qualified individual based on diversion size:
+For diversions of… | …a qualified individual can be any of the following:
+200 acre-feet per year or less
+- Anyone trained and experienced in water measurement (Completion of an instructional course on measuring devices and measurement methodologies is recommended, but not required. See below for a list of recommended instructional courses.)
+More than 200 acre-feet per year
+- A California-registered professional engineer (or someone working under their supervision)
+
+## Water Year 2026 – Measurement and Data Submission Information > Qualified Individual
+- A California-registered professional engineer (or someone working under their supervision)
+- A California-licensed contractor for well drilling (C-57) or machinery and pumps (C-61/D-21)
+- A Board-certified Water Treatment Operator or Water Distribution Operator who is trained and experienced in water measurement
+- A person professionally employed as a hydrographer or water measurement technician who is trained and experienced in water measurement
+- Any diverter who has completed a class on measuring devices and measurement methodologies through an instructional course approved by the Deputy Director of the Division of Water Rights (see below)
+Most diverters may find it easiest to hire a qualified individual to help measure their diversions. For your convenience, the State Water Board maintains a list of consultants that practice in water rights. Note: The State Water Board does not endorse any of the professionals on these lists and you may find other professionals that suit your needs.
+The following instructional courses are approved for becoming a qualified individual:
+
+## Water Year 2026 – Measurement and Data Submission Information > Qualified Individual
+The following instructional courses are approved for becoming a qualified individual:
+- Assembly Bill 589 Training Classes offered through the University of California, Agriculture and Natural Resources (link does not work with Chrome browser)
+
+## Water Year 2027 and Beyond – Measurement and Data Submission Information > Water Year 2027 and Beyond Measurement and Data Submission Information
+For future annual reports, starting with water year 2027 reports (due by January 31, 2028), measurement and data submission requirements are based on the updated version of the regulation. Below is information on the updated regulation's requirements.
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Who Needs to Measure Diversions
+Any diverter with any of the following must measure their diversions and submit the data to the State Water Board:
+- A claimed water right that has a maximum allowable diversion amount greater than 10 acre-feet per year, or
+- A combination of claimed water rights that either share a point of diversion or divert to the same reservoir, if the sum of the maximum allowable diversion amounts of the claimed water rights is greater than 10 acre-feet per year.
+The following table defines the “maximum allowable diversion amount” for each type of claimed water right:
+Type of Claimed Water Right
+Maximum Allowable Diversion Amount
+Permit, License, or Registration | Maximum volume that is authorized to be diverted annually (often called the “face value”)
+Pre-1914 Statement | Maximum volume that has ever been diverted in a 12-month period
+Riparian Statement | Maximum volume that has ever been diverted or is anticipated to be diverted in a 12-month period
+Additionally, the revised regulation exempts the following diverters from being subject to the measurement requirements of the regulation:
+- Stockpond certificates,
+- Registrations for domestic use,
+- Registrations for cannabis irrigation, and
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Who Needs to Measure Diversions
+- Registrations for cannabis irrigation, and
+- Registrations for livestock stockponds.
+What to Measure
+General Measurement Parameters (For Large Diversion Parameters, see “Large Diversion Requirements”)
+Diverters must measure the following:
+- Date and time of measurement,
+- Volume and rate of water directly diverted, and
+- Volume and rate of water diverted to storage.
+Diverters with water rights to store or withdraw water from reservoirs with a capacity greater than 5,000 acre-feet (called “qualifying reservoirs”) must also measure the following:
+- Volume and rate of water withdrawn from storage (i.e., water removed for immediate or downstream use), and
+- Volume and rate of water released from the reservoir (i.e., total reservoir outflow).
+How Often and Accurately to Measure
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > What to Measure
+How Often and Accurately to Measure
+The type and size of diversions determine how frequently and how accurately diverters must measure their diversions. Refer to the tables below for more information regarding how frequently and accurately to measure diversions. Measuring devices installed on or before January 1, 2016, must be accurate to within ±15 percent. (Note: the information in the table below refers to the collection of measurement data. In general, diverters only need to submit datafiles containing their general measurement data to the State Water Board once per year.)
+Volume Threshold
+Measurement Frequency
+Accuracy
+More than 1,000 acre-feet | Hourly | Within ± 10%
+201 to 1,000 acre-feet | Daily | Within ± 10%
+51 to 200 acre-feet | Weekly | Within ± 15%
+11 to 50 acre-feet | Monthly | Within ± 15%
+10 acre-feet or less | No measurement required
+Where the “Volume Threshold” is defined as follows:
+Type of Water Right
+Volume Threshold Is Based On
+Water rights that do not share a point of diversion
+Only authorizes diversion to aboveground storage | Capacity of the reservoir
+Authorizes direct diversion and/or diversion to underground storage | Maximum allowable diversion amount
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > What to Measure
+Water rights that do not share a point of diversion
+Combination of water rights that share a point of diversion
+All water rights only authorize diversion to aboveground storage | Capacity of the reservoir
+Any water right authorizes direct diversion and/or diversion to underground storage
+- At the shared point of diversion: combined maximum allowable diversion amount of all water rights
+- At non-shared points of diversion: maximum allowable diversion amount of individual water right
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > How to Measure Diversions
+Diverters may measure their diversions using any device that provides a numerical value. Many diverters find it easiest to directly measure the volume and flow rate of their diversion, but any device whose output allows you to accurately calculate the volume and flow rate is acceptable, even if it does not directly measure either value. In your Measurement Methodology, you must describe how you converted to volume and flow rate. Examples of common measuring devices are shown in the following table:
+Example Devices
+Measured Parameter
+Example Units
+Formula to Calculate Volume
+Formula to Calculate Flow Rate
+Totalizer; totalizing flow meter | Volume | Acre-feet; gallons; cubic feet | Not applicable | Flow Rate = Volume ÷ Duration
+Flow meter | Flow rate | Gallons per minute; cubic feet per second | Volume = Flow Rate x Duration | Not applicable
+Velocity meter | Water velocity | Feet per second | Volume = Velocity x Cross Sectional Area x Duration | Flow Rate = Velocity x Cross Sectional Area
+Staff gauge; transducer; weir | Water elevation | Feet | Diverter must provide formula | Diverter must provide formula
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > How to Measure Diversions
+Staff gauge; transducer; weir | Water elevation | Feet | Diverter must provide formula | Diverter must provide formula
+The State Water Resources Control Board has lists of common measuring devices and measuring device vendors. Note: the State Water Board does not endorse any of the devices or vendors on these lists. There may be other measuring devices that better suit your diversion.
+Measurement Methodology
+Each diverter must register their measuring devices in CalWATRS and submit a measurement methodology that describes how they collect, interpret, and process the raw data from their measuring devices to meet the measurement requirements. This may include descriptions of:
+- How to calculate the required measurement parameters if the measuring device measures something other than volume and flow rate,
+- How to quality control the measurement data to meet the accuracy requirements,
+- How to apportion measurements to each claimed water right, and
+- Any other procedure used to convert the raw device output into a general measurement datafile or large diversion submission.
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > How to Measure Diversions
+- Any other procedure used to convert the raw device output into a general measurement datafile or large diversion submission.
+Diverters must register measuring devices and submit a measurement methodology through CalWATRS by January 31, 2027. Measurement methodologies are subject to review, but are presumed to be approved upon submission, unless a written rejection has been issued.
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > How to Submit Measurement Data
+Diverters must submit their general measurement data (described in the "What to Measure" section above) in the form of a general measurement data file, with data apportioned to individual water rights. For measurements that must be collected hourly, diverters may aggregate the data to reflect daily values. Diverters do not need to submit the raw output from their measuring devices in addition to their general measurement data file, but they must maintain records of the raw device output for at least 10 years.
+In general, diverters only need to submit their general measurement data to the State Water Board once per year, when submitting their annual reports in CalWATRS. Diverters must submit their general measurement data files in one of the following ways:
+- Using a standardized data file template provided by the State Water Board (templates are available in CalWATRS and linked below), or
+- Directly transmitting their general measurement data file to CalWATRS.
+Data File Templates for Measurement Reporting
+- Diversion to Direct Use
+- Diversion to Storage
+- Withdrawals from Storage Use
+- Releases from Storage Facility (Outflow)
+- Volume in Storage
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Large Diversion Requirements (Formerly "Telemetry")
+Who Must Meet Large Diversion Requirements
+Starting October 1, 2026, Large Diversion Requirements will replace the Telemetry Requirements of the previous version of the regulation. In addition to measuring the general measurement parameters described in the “What to Measure” section, diverters with any of the following are also subject to Large Diversion Requirements:
+- A claimed water right with a maximum allowable diversion amount greater than 10,000 acre-feet per year
+- A claimed water right with a maximum allowable direct diversion rate greater than 30 cubic feet per second
+- A combination of rights that share a point of diversion and have a combined maximum allowable diversion amount greater than 10,000 acre-feet per year
+- A combination of rights that share a point of diversion and have a combined maximum allowable direct diversion rate greater than 30 cubic feet per second
+Note: Diverters that were not previously subject to telemetry requirements have until October 1, 2027 to begin meeting the large diversion requirements.
+What to Measure: Large Diversion Parameters
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Large Diversion Requirements (Formerly "Telemetry")
+What to Measure: Large Diversion Parameters
+For any claimed water right or point of diversion that meets any of the criteria described above, diverters must measure the following:
+- Date and time of measurement and
+- Volume and rate of diversion (Note: you do not need to distinguish between direct diversions and diversions to storage).
+Diverters with water rights to store or withdraw water from reservoirs with a capacity greater than 5,000 acre-feet must also measure the following:
+- Total volume of water in the qualifying reservoir and
+- Volume and rate of water leaving the reservoir (including all outflow and water withdrawn for use).
+Submitting Large Diversion Measurement Data
+When submitting large diversion measurement data, diverters do not need to apportion the data to individual claimed water rights or distinguish between direct diversions and diversions to storage. For measurements that must be collected hourly, diverters may aggregate the data to reflect daily values. Diverters do not need to submit the raw output from their measuring devices in addition to their large diversion submissions.
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Large Diversion Requirements (Formerly "Telemetry")
+In general, diverters need to submit their large diversion submissions on a weekly basis, with a lag time of no more than 7 days between the most recent measurement and the submission date. Before October 1, 2027, diverters may continue posting their large diversion submissions to any public website, including websites that they currently use for posting telemetry data. Beginning October 1, 2027, diverters must submit their large diversion submissions in one of the following ways:
+- Using a standardized data file template provided by the State Water Board (templates will be available in CalWATRS),
+- Directly transmitting their large diversion submission to CalWATRS, or
+- Posting their large diversion submission to a website approved by the Deputy Director (see below).
+The following websites are approved for posting large diversion submissions:
+- At this time, only CalWATRS is approved for large diversion submissions.
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Qualified Individual
+A qualified individual must ensure that diversions are measured accurately. Qualified individuals are responsible for installing and verifying the accuracy of measuring devices and certifying that measurement methodologies and alternative compliance plans meet regulatory requirements. The following table summarizes who is eligible to become a qualified individual based on diversion size:
+For diversions of… | …a qualified individual can be any of the following:
+200 acre-feet per year or less
+- Anyone trained and experienced in water measurement (Completion of an instructional course on measuring devices and measurement methodologies is recommended, but not required. See below for a list of recommended instructional courses.)
+More than 200 acre-feet per year
+- A California-registered professional engineer (or someone working under their supervision)
+- A California-licensed contractor for well drilling (C-57) or machinery and pumps (C-61/D-21)
+- A Board-certified Water Treatment Operator or Water Distribution Operator who is trained and experienced in water measurement
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Qualified Individual
+- A Board-certified Water Treatment Operator or Water Distribution Operator who is trained and experienced in water measurement
+- A person professionally employed as a hydrographer or water measurement technician who is trained and experienced in water measurement
+- Any diverter who has completed a class on measuring devices and measurement methodologies through an instructional course approved by the Deputy Director of the Division of Water Rights (see below)
+Many diverters may prefer to hire a qualified individual to help measure their diversions. For your convenience, the State Water Board maintains a list of consultants that practice in water rights. Note: the State Water Board does not endorse any of the professionals on this list. You may find other professionals that better suit your needs.
+The following instructional courses are approved for becoming a qualified individual:
+- Assembly Bill 589 Training Classes offered through the University of California, Agriculture and Natural Resources
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Alternative Compliance
+The State Water Board understands that strict compliance with the Water Measurement Regulation is not always feasible and that diverters may need some flexibility in how they meet the requirements of the regulation. Under the regulation, any diverter who has a more effective or efficient way to measure their diversions may submit an alternative compliance plan (ACP). Diverters must fulfill as many requirements of the regulation as they can, and describe in their ACP which requirements they are unable to meet and what they proposed to do instead. Diverters with ACPs must still submit measurement data.
+The following table summarizes when ACPs must be submitted, according to the updated regulation.
+ACPs Submitted Before February 1, 2026
+ACPs Submitted On or After February 1, 2026
+Existing ACPs (that were submitted under the previous version of the regulation) will remain valid through September 30, 2026. Diverters must submit an updated ACP (based on the updated requirements), on or before January 31, 2027.
+
+## Water Year 2027 and Beyond Measurement and Data Submission Information > Alternative Compliance
+Diverters wishing to submit a new ACP must do so according to the updated requirements of the revised regulation. They must submit their ACP to the Board on or before January 31, 2027 or before implementing the ACP, whichever is later.
+ACPs are subject to review, but are presumed to be approved upon submission, unless a written rejection has been issued.
+
+## More Information > Enforcement
+The State Water Resources Control Board's primary water rights enforcement goal is to encourage compliance with the water rights priority system. This includes taking actions against unauthorized diversions, diversions that adversely impact fish and wildlife, violations of curtailment orders, and more.
+The progressive enforcement flowchart provides a general visualization of the Division of Water Right's enforcement process. The State Water Board understands that it may take time for diverters to come into compliance with the revised regulation. The Board will work with diverters who have difficulty coming into compliance with the regulation.
+You can find more information about the Board's enforcement procedures here.
+
+## More Information > Why Was the Regulation Updated?
+The Water Measurement Regulation (previously known as the Measuring and Monitoring Regulation) was adopted in 2016, and most requirements have been in effect since 2018 or earlier. Prior to being updated in 2026, the regulation lacked clear requirements regarding what diverters needed to measure and how they needed to format their data files. As a result, diverters struggled to comply with the regulation and non-standardized data files meant that the State Water Board was unable to efficiently and systematically analyze diversion data to make data-informed decisions. In 2025, the State Water Board began the rulemaking process to formally revise the regulation to clarify requirements and align the regulation with the California Water Accounting, Tracking, and Reporting System (CalWATRS). After being approved by the Office of Administrative Law, the revised Water Measurement Regulation was added to the California Code of Regulations on February 1, 2026. For more information about the rulemaking process to revise the regulation, please visit the rulemaking webpage for Water Measurement and Reporting Regulations.
+
+## Stay Informed > Email Subscription List
+Subscribe to the Water Measurement email list to receive notifications and the latest updates.
+Contact Us
+For questions regarding the regulation please contact us at:
+Email: DWR-Measurement@waterboards.ca.gov
+Phone: (916) 323-9393
+(Page last updated 08/24/2026)
+
+## Contact Us > Water Rights Resources
+- Applications: Permitting & Licensing
+- Bay-Delta Program
+- Business Help
+- Complaints and Enforcement
+- Hearings
+- Petitions and Transfer
+- Policies & Regulations
+- Public Trust
+- Records (CalWATRS)
+- Registrations
+- Orders, Decisions & Judgments
+- Useful Water Rights Information
+- Water Quality Certification
+- Water Rights Fees
+- Water Use Reports & Measurement
+- More Programs

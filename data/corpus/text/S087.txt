@@ -1,0 +1,65 @@
+Water Quality Control Policy for Recycled Water
+https://www.waterboards.ca.gov/water_issues/programs/recycled_water/policy.html
+Date printed: 05/19/2026
+
+## Water Quality Control Policy for Recycled Water
+Overview Policy Reporting Research SNMP Additional Resources
+Policy
+The State Water Board recognizes the importance of recycled water as a critical water supply for California and is implementing the Recycled Water Policy, streamlining permitting for recycled water projects, and identifying and funding the highest priority research needs to ensure the state’s recycled water goals are achieved. The State Water Board adopted an amendment to the Recycled Water Policy on December 11, 2018 (effective on April 8, 2019), which includes numeric goals for the use of recycled water, two narrative goals to encourage recycled water use in groundwater-overdrafted and coastal areas, and annual reporting requirements statewide for the volume of recycled water produced and used as well as the volume of wastewater treated and discharged.
+California's Recycled Water Goals
+Increase
+the volume of recycled water
+Reuse
+all dry weather discharge to enclosed bays, estuaries and coastal lagoons, and ocean waters
+Maximize
+reuse where groundwater supplies are in a state of overdraft
+Recycled Water Policy
+- Resolution No. 2018-0057
+- Policy
+- Staff Report
+- Notice of Decision
+- Notice of Approval
+
+## Water Quality Control Policy for Recycled Water
+- Notice of Approval
+- Historical Documents
+- 2009 Recycled Water Policy
+- 2013 Recycled Water Policy
+- Request Historical Documents
+Wastewater Change Petition Checklist
+- Wastewater Change Petition Checklist
+- Wastewater Change Petition Webpage
+CEC Monitoring
+All operating indirect potable reuse facilities must monitor for constituents of emerging concern (CECs) pursuant to Attachment A of the Recycled Water Policy. The CEC monitoring program was developed in accordance with recommendations from the 2018 Science Advisory Panel on CECs in Recycled Water.
+A quality assurance project plan (QAPP) must be submitted by each facility in advance of beginning the CEC monitoring program pursuant to the Recycled Water Policy. For questions, please contact: Division of Water Quality – Recycled Water Unit at recycledwater@waterboards.ca.gov
+Labs Approved for Targeted Analyses
+- Eurofins Eaton Analytical - PPCP
+- Eurofins Eaton Analytical - NMOR and NDMA
+- Los Angeles County Sanitation District (NMOR, PPCP)
+- Orange County Water District - PPCP
+- Orange County Water District - NMOR and NDMA
+- Orange County Water District- 1,4-Dioxane
+- Trussell Technologies - Total Fluorescence
+
+## Water Quality Control Policy for Recycled Water
+- Trussell Technologies - Total Fluorescence
+- Weck Laboratories - TOC and UV
+- Weck Laboratories - 1,4-Dioxane, NDMA, NMOR, PFAS, PPCP
+Labs Approved for Bioassays
+- BioDetection Systems BV - ER a and AhR
+- INDIGO Bioscience – ERa and AhR
+- LA County Sanitation Districts - ER a
+Resources
+- Recycled Water Policy QAPP Template for CEC Monitoring
+- Development of Bioanalytical Techniques for Monitoring of Constituents/Chemicals of Emerging Concern (CECs) in Recycled Water Applications for the State of California
+- Bioanalytical Tools for Detection and Quantification of Estrogenic and Dioxin-Like Chemicals in Water Recycling and Reuse: Guidance Document for Developing a Standard Operating Procedure
+- Monitoring Strategies for Chemicals of Emerging Concern in Recycled Water (2010)
+- Recycled Water Policy Constituents of Emerging Concern Monitoring Program – Proposal for an alternative QA/QC matric spike for AhR
+
+## Stay informed > Email Subscription Topic
+Subscribe to our Recycled Water Policy email list to receive notifications and the latest updates. After subscribing, you will need to check your email host for a confirmation email to complete the subscription.
+
+## Stay informed > Contact Us
+For questions or other recycled water inquiries, please contact:
+- Division of Water Quality’s Recycled Water and Desalination Unti dwq-recycledwater@waterboards.ca.gov
+(Page last updated 05/19/2026)

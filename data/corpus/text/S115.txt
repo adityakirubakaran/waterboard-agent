@@ -1,0 +1,1286 @@
+Water Quality Goals Staff Report
+https://www.waterboards.ca.gov/water_issues/programs/water_quality_goals/docs/wq_goals_text.pdf
+Date printed: none found
+
+[page 1] STATE WATER RESOURCES CONTROL BOARD
+A Compilation of
+Water Quality Goals
+17th Edition
+January 2016
+CALIFORNIA ENVIRONMENTAL PROTECTION AGENCY
+
+[page 2] State of California
+Edmund G. Brown Jr., Governor
+California Environmental Protection Agency
+Matthew Rodriquez, Secretary for Environmental Protection STATE WATER RESOURCES CONTROL BOARD
+Felicia Marcus, Chair
+Frances Spivy-Weber, Vice Chair
+Tam M. Doduc, Member
+Steven Moore, Member
+Dorene D'Adamo, Member
+Tom Howard, Executive Director
+Greg Gearheart, Deputy Director
+Office of Information Management and Analysis
+1001 I Street
+P.O. Box 100
+Sacramento, CA 95812-0100
+Phone: (916) 341-5254
+Email: info@waterboards.ca.gov
+Web site: http://www.waterboards.ca.gov
+D I S C L A I M E R
+This publication is a technical report by staff of the State Water Resources Control Board,
+Office of Information Management and Analysis.
+The report is intended to be used only as an informational tool.
+It does not r eflect State Water Board policy or regulation.
+
+[page 3] A Compilation of
+Water Quality Goals
+17th Edition
+January 2016
+REPORT PREPARED BY:
+JON B. MARSHACK, D.ENV.
+Environmental Program Manager I (Specialist)
+Office of Information Management & Analysis
+Executive Director, California Water Quality Monitoring Council STATE WATER RESOURCES CONTROL BOARD
+CALIFORNIA ENVIRONMENTAL PROTECTION AGENCY
+
+[page 5] A Compilation of Water Quality Goals
+ January 2016 Edition Page iii
+PREFACE TO THE JANUARY 2016 EDITION
+This State Water Resources Control Board (State Water Board) staff report, A Compilation of Water Quality Goals, supersedes the April 2011 edition and all prior editions and updates published by the State Water Resources Control Board and the Central Valley Regional Water Quality Control Board.
+Earlier editions and updates should be discarded, as they contain outdated information.
+The text of this edition has been updated mainly to reflect the transfer of California’s Drinking Water Program from the Department of Public Health (CDPH) to the Division of Drinking Water (DDW) at the State Water Resources Control Board (State Water Board). Information about this transfer is online at http://www.waterboards.ca.gov/drinking_water/programs/DW_PreJuly2014.shtml. Cited examples and hyperlinks to reference materials have also been updated.
+
+[page 5] Water Quality Goals includes an online searchable database of water quality based numeric thresholds available at http://www.waterboards.ca.gov/water_issues/programs/water_quality_goals/. The database contains up-to-date numeric thresholds from a variety of sources for over 860 chemical constituents and water quality parameters, including:
+ California and Federal drinking water standards (MCLs)
+ California Public Health Goals (PHGs)
+ California State Notification and Response Levels for drinking water  Health Advisories, Water Quality Advisories, and Drinking Water Advisories  Cancer Risk Estimates
+ Health-based criteria from USEPA's Integrated Risk Information System (IRIS)
+ California Proposition 65 Safe Harbor Levels
+ California Toxics Rule Criteria to protect human health and aquatic life  California Ocean Plan Water Quality Objectives
+ U.S. Environmental Protection Agency (USEPA) Recommended Water Quality Criteria to Protect Human Health and Aquatic Life
+ Agricultural use protective thresholds
+ Taste and odor based criteria
+
+[page 5]  Taste and odor based criteria
+The narrative Selecting Water Quality Goals contains information to help users to understand California’s water quality standards adopted to protect the beneficial uses of surface water and groundwater resources, available criteria and guidance for evaluating water quality, and to help users select defensible numeric assessment thresholds based on applicable water quality standards.
+To use this information correctly, it is necessary to read Selecting Water Quality Goals carefully before using numeric thresholds from the database.
+
+[page 5] To use this information correctly, it is necessary to read Selecting Water Quality Goals carefully before using numeric thresholds from the database.
+Water Quality Goals is a technical report prepared by staff of the State Water Board. It is intended to help identify and assess potential water quality concerns. This report is an informational tool only and does not establish State Water Board policy or regulation. The information presented in this report is not binding on any person or entity, nor does it represent final action of the State Water Board or any Regional Water Board. This report is not intended, nor can it be relied upon, to create any rights enforceable by any party in litigation in the State of California. The overseeing regulatory authority may decide to use the information provided herein, or to act at a variance with the information, based on analysis of site and case-specific circumstances.
+
+[page 6] A Compilation of Water Quality Goals
+ January 2016 Edition Page iv
+This staff report is not copyrighted. Persons are free to make copies of portions or the entirety of the report. However, the author cautions that failure to review the accompanying text Selecting Water Quality Goals may result in misuse of the numeric thresholds in the online database.
+If you have questions regarding the Water Quality Goals staff report or the online database of numeric thresholds, contact Jon Marshack at (916) 341-5514 or jon.marshack@waterboards.ca.gov.
+
+[page 7] A Compilation of Water Quality Goals
+ January 2016 Edition Page v
+TABLE OF CONTENTS
+Page
+
+[page 7] Page
+Preface to the January 2016 Edition ...................................................................................................... iii Table of Contents .................................................................................................................................. v List of Figures ........................................................................................................................................ vi How to Use Water Quality Goals Online ............................................................................................... vii Using the Database................................................................................................................... vii Selecting Water Quality Goals ............................................................................................................... 1 Terminology ............................................................................................................................... 1 California’s Water Quality Control System .......................................................................................
+
+[page 7] 2 Water Quality Standards .................................................................................................................. 3 Beneficial Uses ................................................................................................................................ 4 Sources of Drinking Water Policy..................................................................................................... 5 Water Quality Objectives ................................................................................................................. 5 Antidegradation Policy ..................................................................................................................... 7 Chapter 15, Article 5 Regulations..................................................................................................... 8 Site Investigation and Cleanup Policy .............................................................................................. 8 Numeric Thresholds .........................................................................................................................
+
+[page 7] 9 Types of Numeric thresholds ......................................................................................................... 11 Drinking Water Standards, Maximum Contaminant Levels (MCLs) .......................................... 11 Maximum Contaminant Level Goals (MCL Goals or MCLGs) ................................................... 12 California Public Health Goals (PHGs) ..................................................................................... 12 California Drinking Water Notification and Response Levels .................................................... 12 Cal/EPA Cancer Potency Factors ............................................................................................ 13 Integrated Risk Information System (IRIS) ............................................................................... 13 Drinking Water Health Advisories and Water Quality Advisories .............................................. 13 Suggested No-Adverse-Response Levels (SNARLs) ............................................................... 14 Proposition 65 Safe Harbor Levels ...........................................................................................
+
+[page 7] 14 California Toxics Rule (CTR) and National Toxics Rule (NTR) Criteria .................................... 14 California Ocean Plan Objectives ............................................................................................. 15 National Recommended Water Quality Criteria ........................................................................ 15 Agricultural Water Quality Thresholds ...................................................................................... 16 Taste and Odor Thresholds...................................................................................................... 17 Other Numeric Thresholds ....................................................................................................... 17 Risk Characterization Methods for Drinking Water ......................................................................... 17 Threshold Toxins vs. Non-Threshold Toxins ............................................................................ 17 Weight of Evidence Categories ................................................................................................
+
+[page 7] 18 Non-Threshold Risk Characterization ....................................................................................... 19 Which Cancer Risk Level?  20 Threshold Risk Characterization .............................................................................................. 21 Selecting Protective Assessment Thresholds from Among Available Numeric Thresholds ........... 22 Caution in Relying on MCLs ..................................................................................................... 23 Assessment Threshold Algorithms ................................................................................................. 25 Guiding Principles .................................................................................................................... 26 Water Body Types and Beneficial Uses Protected ................................................................... 27 Assessment Threshold Algorithm for Groundwater .................................................................. 28 Assessment Threshold Algorithm for Inland Surface Waters ...................................................
+
+[page 7] 30 Assessment Threshold Algorithm for Enclosed Bays and Estuaries ......................................... 34 Assessment Threshold Algorithm for Ocean (Marine) Waters .................................................. 35
+
+[page 8] A Compilation of Water Quality Goals
+ January 2016 Edition Page vi
+Page
+Limitations and Further Assistance .......................................................................................... 36 Controllable Factors and Antidegradation Policies ................................................................... 37 Detection and Quantitation Limits............................................................................................. 39 Justification .............................................................................................................................. 39 An Example of Assessment Threshold Selection ..................................................................... 40 Additive Toxicity Criterion for Multiple Constituents ........................................................................ 44 Cleanup Levels in Water ................................................................................................................ 45 Conclusion and Status ................................................................................................................... 45 LIST OF FIGURES
+Page
+
+[page 8] Page
+Figure 1. Selecting Assessment Thresholds ........................................................................................ 10 Figure 2. Calculating Health Based Limits ........................................................................................... 19 Figure 3. Groundwater Assessment Threshold Algorithm Table .......................................................... 30 Figure 4. Inland Surface Waters Assessment Threshold Algorithm Table ........................................... 33 Figure 5. Enclosed Bays and Estuaries Assessment Threshold Algorithm Table ................................ 35 Figure 6. Ocean Waters Assessment Threshold Algorithm Table ........................................................ 36 Figure 7. Example Numeric Thresholds for Constituents of Concern (COCs) ...................................... 44
+
+[page 9] A Compilation of Water Quality Goals
+ January 2016 Edition Page vii
+HOW TO USE WATER QUALITY GOALS ONLINE
+Previous editions of Water Quality Goals included tables of water quality based numeric thresholds, a chemical name cross-reference, footnotes, and references. To provide access to more frequent up-dates of this information, these tables have been replaced with an online searchable database, located at http://www.waterboards.ca.gov/water_issues/ programs/water_quality_goals. The database allows users to search for numeric thresholds for over 860 chemicals and water quality parameters.
+To avoid incorrect use of the numeric thresholds contained in the database, users are strongly encouraged to carefully review the following section, Selecting Water Quality Goals.
+Using the Database
+Go to the search screen, shown below. In the box, enter a chemical or parameter name, portion of a name, abbreviation, or Chemical Abstracts Service (CAS) Registry Number. Then click the “Submit” button.
+The search tool will present you with a list of chemicals and parameters that matches your entry. Click on the one of interest to view a table of numeric thresholds for that chemical or parameter.
+
+[page 9] The search tool will present you with a list of chemicals and parameters that matches your entry. Click on the one of interest to view a table of numeric thresholds for that chemical or parameter.
+An example of the resulting table of numeric thresholds is shown on the following three pages.
+Note: This table is provided as an example and should not necessarily be considered to present current information on numeric thresholds.
+Enter name, partial name, abbreviation, or CAS Number here  Select one of these
+
+[page 10] A Compilation of Water Quality Goals
+ January 2016 Edition Page viii
+
+[page 11] A Compilation of Water Quality Goals
+ January 2016 Edition Page ix
+
+[page 12] A Compilation of Water Quality Goals
+ January 2016 Edition Page x
+
+[page 13] A Compilation of Water Quality Goals
+ January 2016 Edition Page xi
+Each table of numeric thresholds contains a number of live links:
+ Click on the Source & References blue underlined headings on the left to see descriptions of and original references for each type of numeric threshold, as in the example shown below. If the reference is available on the Internet, you will be presented with live links to these reference materials.
+ Footnote1 and Footnote2 provide you with additional information on the numeric thresholds presented in the table. Clicking on a blue underlined footnote link displays this information, as shown below. Applicable footnotes also appear at the bottom of the table.
+ Where numeric thresholds vary with hardness, pH and other parameters, you will find “see page...” links in the Notes column of the table. Clicking on one of these blue underlined links opens a new window that presents an Excel table and graph of the relationship, such as the copper-hardness relationship shown at the top of the next page. [Note: You may need to close the Sources & References window to be able to open these tables and graphs.]
+
+[page 14] A Compilation of Water Quality Goals
+ January 2016 Edition Page xii
+The formulas that control the relationship between the parameter and the numeric threshold are built into these Excel tables, allowing the user to easily calculate the numeric threshold associated with any value of the parameter that is entered by the user.
+At the top and bottom of the table:
+ New Search takes you to a new search screen.
+ Return to Previous Search Results takes you back to the list of chemicals and parameters that satisfied your last search.
+ Print allows you to print the table.
+Other information included in the table:
+ Synonyms for the chemical or parameter;
+ Chemical Abstracts Service Registry Number, if available;
+ Units for each numeric threshold [Note: The default units are micrograms per liter or “ug/L”, equivalent to parts per billion or “ppb”];
+ Explanatory Notes with corresponding symbols at the bottom of the table;
+ Adoption Date for most numeric thresholds; and
+
+[page 14]  Adoption Date for most numeric thresholds; and
+ Limiting WQ Limit to indicate recommended assessment thresholds to protect specific beneficial uses in specific water body types (see corresponding symbols at the bottom of the table). An explanation of how these assessment thresholds are selected may be found in the section Selecting Water Quality Goals, beginning on the page after next.
+The Water Quality Goals online database is periodically updated to reflect newly published and revised numeric thresholds.
+
+[page 15] A Compilation of Water Quality Goals
+ January 2016 Edition Page 1
+SELECTING WATER QUALITY GOALS
+California highly values its water resources, which are significantly limited in quantity and quality. Re-curring periods of drought have demonstrated the magnitude and severity of our water quantity limita-tions. Improper waste management practices and contaminated sites pose significant threats to the quality of California’s usable groundwater and surface water resources. The state is experiencing rapid population growth, putting an additional strain on our ability to serve the water needs of our citizens and to protect and restore our valuable fisheries. Therefore, it is imperative that California manage the quality of its water resources in a manner that serves the growing needs of agriculture, cities, and in-dustries without impairing in-stream beneficial uses.
+
+[page 15] The purpose of this technical report of the State Water Board is to introduce California’s water quality standards and to outline a process for selecting assessment thresholds, consistent with these standards. The resulting assessment thresholds may be used to assess impacts from waste management activities or releases of pollutants on the quality of waters of the state and the beneficial uses that they are able to support.
+
+[page 15] These assessment thresholds are considered to be conservative, because they are determined with a minimum amount of site and case-specific information. These assessment thresholds have been developed to address both narrative and numeric water quality objectives presented in the Water Quality Control Plans of the State Water Board and the nine Regional Water Quality Control Boards (Regional Water Boards), as well as water quality criteria promulgated by the U.S. Environmental Protection Agency (USEPA) for California waters pursuant to Section 303(c) of the federal Clean Water Act (CWA). Under most circumstances, and with the limitations described, the presence of a chemical in surface water or groundwater below the corresponding assessment threshold can be assumed not to impair or threaten the beneficial uses of the water resource. Additional case-by-case evaluation, and in most cases State and/or Regional Water Board action, will generally be necessary to establish an assessment threshold as an appropriate regulatory limitation.
+
+[page 15] To determine whether a particular waste management activity or discharge may have caused or may threaten to cause adverse effects on water quality, it is necessary to review and apply California’s water quality standards. These standards are found in the Water Quality Control Plans, which are adopted by the State Water Board and each of the nine Regional Water Boards (collectively, Water Boards) through a formal administrative rulemaking process, and therefore have the force and effect of law. The discharge or release of waste constituents that causes receiving water concentrations to equal or exceed these standards may unreasonably impair the beneficial uses of the state’s water resources and result in pollution.
+In many cases, water quality standards include narrative, rather than numeric, water quality objectives.
+In such cases, numeric thresholds from the literature may be used to evaluate compliance with these standards.
+Terminology
+This report uses several terms that may not be familiar to you or may have different meanings in their common usage. Differences in legal definitions necessitate using these terms in specific ways in this report.
+
+[page 15] Water Quality Standards — pursuant to the CWA, water quality standards are provisions of state or federal law that define the water quality goals of a water body, or portion thereof, by establishing (a) designated uses of water to be protected, and (b) water quality criteria to protect those uses.
+Water quality standards are enforceable in the bodies of water for which they have been promulgated.
+
+[page 16] A Compilation of Water Quality Goals
+ January 2016 Edition Page 2
+Water Quality Criteria — numeric limitations or levels, e.g. concentrations, or narrative statements that are established to protect uses of a water body under the authority of the CWA. This term has two separate meanings:
+1) Water quality criteria promulgated by the USEPA under Section 303(c) of the CWA are enforceable components of water quality standards. Examples include criteria in the National Toxics Rule and the California Toxics Rule.
+2) Recommended water quality criteria published under Section 304(a) of the CWA are advisory and may be used by states and tribes to develop their own water quality standards or to implement narrative criteria in water quality standards.
+Beneficial Uses — the California term for “designated uses” of water that are components of water quality standards. California law defines “beneficial uses” as uses of surface water and groundwater that may be protected against water quality degradation. Beneficial uses of water may be found in the Water Quality Control Plans adopted by the Water Boards.
+
+[page 16] Water Quality Objectives — the California term for “water quality criteria.” Pursuant to the California Water Code, these are numeric limitations or levels, e.g. concentrations, or narrative statements that are established to protect the beneficial uses of a water body. Water quality objectives may be found in the Water Quality Control Plans adopted by the Water Boards.
+Numeric Threshold — as used in this report, this term refers to a numeric value from the literature that was developed to protect one or more beneficial uses of water. Numeric thresholds may be used to implement narrative water quality objectives or criteria.
+Assessment Threshold — for a constituent or parameter of concern in a specific body of water, one or more numeric and narrative water quality objectives and promulgated criteria will apply. The most relevant and defensible numeric threshold is selected to implement each applicable narrative objective.
+As used in this report, the assessment threshold refers to the most stringent of this set of  Numeric water quality objectives,
+ Numeric thresholds that implement each narrative objective, and  Promulgated water quality criteria.
+
+[page 16]  Numeric thresholds that implement each narrative objective, and  Promulgated water quality criteria.
+The assessment threshold is one chosen to satisfy all applicable water quality objectives and criteria.
+So, the assessment threshold may be one of several relevant numeric thresholds, a numeric objective, or a promulgated criterion.
+Additional information about these terms is presented below.
+CALIFORNIA’S WATER QUALITY CONTROL SYSTEM
+California has developed a unique system to protect and control the quality of its most valuable resource. The present system of water quality control was established in 1969, when the state legislature passed the Porter-Cologne Water Quality Control Act (Porter-Cologne Act), which is found in Division 7 of the California Water Code. The Porter-Cologne Act recognizes that factors affecting the quality and use of water vary from region to region within the state by establishing a regionally-administered program for water quality control within a framework of statewide coordination and policy.
+
+[page 16] It provides for ten water quality control agencies, the State Water Board and nine Regional Water Boards. The Porter-Cologne Act instructs the Water Boards to preserve and enhance the quality of California’s water resources for the benefit of present and future generations.
+The Water Boards carry out their water quality protection authority through the adoption of Water Quality Control Plans. Water Quality Control Plans establish water quality standards—beneficial uses and water quality objectives—for particular bodies of water and their tributaries. The Water Quality Control Plans also contain the state’s antidegradation policy (State Water Board Resolution 68-16,
+
+[page 17] A Compilation of Water Quality Goals
+ January 2016 Edition Page 3
+“Statement of Policy with Respect to Maintaining High Quality of Waters in California”) and implementation plans to achieve and maintain compliance with the water quality objectives.
+Water Quality Control Plans adopted by the State Water Resources Control Board include:
+ The Ocean Plan;
+ The Thermal Plan (temperature control in coastal and interstate waters and enclosed bays and estuaries); and
+ The Delta Plan (temperature, salinity and flow in the Sacramento-San Joaquin Delta and Suisun Marsh).
+Each of the nine Regional Water Boards has adopted one or more Water Quality Control Plans for waters of the state, both surface waters and groundwater, within their region. Regional Water Board boundaries separate the nine major hydrologic basins, called Water Quality Control Regions (see the map on the inside back cover of this report). Water Quality Control Plans adopted by the Regional Water Boards are often called “Basin Plans,” since they apply to one or more hydrologic basins within the state.
+
+[page 17] The State Water Board also adopts regulations and policies for water quality control, which have the force and effect of law, to protect water quality. For example, in the year 2000, the State Water Board adopted the Policy for Implementation of Toxics Standards for Inland Surface Waters, Enclosed Bays, and Estuaries of California. This policy, also known as the State Implementation Policy or “SIP,” provides implementation measures for numeric criteria contained in the California Toxics Rule, promulgated by USEPA also in 2000, and for numeric objectives for toxic pollutants in the Basin Plans.
+The beneficial use designations in the Basin Plans, the California Toxics Rule, and the SIP combine to establish statewide water quality standards for toxic constituents in surface waters that are not covered by the Ocean Plan.
+
+[page 17] The State and Regional Water Boards implement the statewide and regional Water Quality Control Plans, water quality regulations, and policies for water quality control through the issuance of waste discharge requirements, permits, conditional waivers, prohibitions, and enforcement orders. Under delegated authority from USEPA, the Water Boards also administer most of the federal clean water laws as they apply to California, including the CWA.
+The focus of State and Regional Water Boards’ water quality control programs is the prevention and correction of conditions of pollution and nuisance. The Porter-Cologne Act (section 13050) defines “pollution” as “an alteration of the quality of the waters of the state by waste to a degree which unreasonably affects (1) such waters for beneficial uses, or (2) facilities which serve these beneficial uses.” “Nuisance” is defined as “anything which meets all of the following requirements:
+
+[page 17] 1) is injurious to health, or is indecent or offensive to the senses, or an obstruction to the free use of property so as to interfere with the comfortable enjoyment of life or property, and 2) affects at the same time an entire community or neighborhood, or any considerable number of persons, although the extent of the annoyance or damage inflicted upon individuals may be unequal, and
+3) occurs during or as the result of the treatment or disposal of wastes.” WATER QUALITY STANDARDS
+As stated above, “water quality standards are provisions of state or federal law which consist of a designated use or uses for the waters of the United States and water quality criteria for such waters based upon such uses. Water quality standards are to protect the public health or welfare, enhance the quality of water and serve the purposes of the Act.” [40 Code of Federal Regulations (CFR) Section 130.2(c) and 131.3(I)] Antidegradation policies are also an integral component of federal water quality standards.
+
+[page 18] A Compilation of Water Quality Goals
+ January 2016 Edition Page 4
+Unlike the federal system, California also has water quality standards for groundwater since the term “waters of the state” under the Porter-Cologne Act includes both surface waters and groundwater. In contrast, CWA water quality standards apply to “waters of the United States,” a more restrictive term that generally refers to navigable surface waters and their tributaries. California’s water quality standards can be found in the Water Quality Control Plans as well as in USEPA’s adopted water quality criteria in the National Toxics Rule and the California Toxics Rule. The Water Quality Control Plans specify which beneficial uses apply to each body of surface water and groundwater within each region of the state, and also which water quality objectives must be met to protect those uses.
+
+[page 18] Pursuant to the Porter-Cologne Act, California’s water quality standards must be accompanied by implementation programs to achieve and maintain compliance with the water quality objectives. The SIP, discussed above, is an example. To protect both existing and future beneficial uses, California’s water quality standards are enforceable throughout the applicable water body, rather than at points of use or discharge.
+BENEFICIAL USES
+The Water Boards’ Water Quality Control Plans list the specific beneficial uses designated for California’s surface water and groundwater bodies. The following are examples of beneficial uses of water found in the Water Quality Control Plans:
+ Municipal and Domestic Supply
+ Agricultural Supply
+ Industrial Supply (both Service and Process)
+ Groundwater Recharge
+ Freshwater Replenishment
+ Navigation
+ Hydropower Generation
+ Recreation (both Water Contact and Non-Water Contact)
+ Commercial & Sport Fishing
+ Shellfish Harvesting
+ Subsistence Fishing
+ Aquaculture
+ Freshwater Habitat (both Warm and Cold)
+ Estuarine Habitat
+ Inland Saline Water Habitat
+ Marine Habitat
+ Wetland Habitat
+ Wildlife Habitat
+
+[page 18]  Wildlife Habitat
+ Preservation of Areas of Special Biological Significance  Preservation of Rare, Threatened, or Endangered Species  Migration of Aquatic Organisms
+ Spawning, Reproduction, and/or Early Development (of Aquatic Organisms)
+
+[page 19] A Compilation of Water Quality Goals
+ January 2016 Edition Page 5
+ Water Quality Enhancement
+ Flood Peak Attenuation/Flood Water Storage
+ Native American Culture
+Under the Porter-Cologne Act, the discharge of waste is not a beneficial use of water, nor is it a right.
+The discharge of waste is a privilege, subject to specific permit conditions. The Water Boards’ mission is to protect the quality of the state’s waters from discharges of waste that threaten or cause impairment of designated beneficial uses or cause nuisance.
+SOURCES OF DRINKING WATER POLICY
+As mentioned above, California’s system of water quality control includes “policies for water quality control” adopted by the State Water Board and incorporated into each Basin Plan. The SIP is an example. Another policy for water quality control fundamentally affects the designation of beneficial uses.
+
+[page 19] In 1988, the State Water Board adopted Resolution No. 88-63, Adoption of Policy Entitled “Sources of Drinking Water.” This policy specifies that, except under specifically defined circumstances, all surface waters and groundwater of the state should be protected as existing or potential sources of municipal and domestic supply (a.k.a. sources of drinking water) and should be so designated. The policy lists specific exceptions:
+ Waters with existing high total dissolved solids concentrations (greater than 3000 mg/l);
+ Waters having low sustainable yield (less than 200 gallons per day for a single well);
+ Water with contamination, unrelated to a specific pollution incident, that cannot reasonably be treated for domestic use;
+ Waters within specified wastewater conveyance and holding facilities; and  Regulated geothermal groundwaters.
+If a water body has been designated in a Basin Plan for municipal and domestic supply, the use may be de-designated only if one of the exceptions applies and the appropriate Regional Water Board formally amends its Basin Plan.
+WATER QUALITY OBJECTIVES
+
+[page 19] WATER QUALITY OBJECTIVES
+The second component of California’s water quality standards is water quality objectives. The Porter-Cologne Act [CWC, Section 13050(h)] defines “water quality objectives” as “the limits or levels of water quality constituents or characteristics which are established for the reasonable protection of beneficial uses of water or the prevention of nuisance within a specific area.” Since pollution is defined as an alteration of water quality to a degree which unreasonably affects beneficial uses [CWC, Section 13050(l)], pollution is considered to occur whenever water quality objectives are exceeded.
+Water quality objectives established to protect beneficial uses and prevent nuisance are found in the Water Quality Control Plans. As with beneficial uses, water quality objectives are established either for specific bodies of water, such as the Sacramento River between Shasta Dam and the Colusa Basin Drain, or for protection of particular beneficial uses of surface waters or groundwaters throughout a specific basin or region.
+
+[page 19] In addition, the federally promulgated water quality criteria for toxic pollutants in the National Toxics Rule and the California Toxics Rule apply to nearly all of the state’s surface waters that are not covered by the Ocean Plan, i.e., to inland surface waters, enclosed bays and estuaries. Federally-promulgated water quality criteria [under Section 303(c) of the Clean Water Act] legally differ from California’s water quality objectives. Water quality objectives must provide reasonable protection of beneficial uses or the
+
+[page 20] A Compilation of Water Quality Goals
+ January 2016 Edition Page 6
+prevention of nuisance and must consider several factors, including environmental characteristics, economic considerations, and the need to develop housing and recycled water [CWC, Section 13241].
+An adopted water quality objective has been determined to be reasonable to achieve. In contrast, CWA 303(c) water quality criteria must protect the most sensitive designated use, regardless of reasonableness or these additional factors. Because water quality objectives for most surface waters require approval by USEPA as CWA 303(c) criteria, the difference between these two terms can be problematic.
+Water quality objectives may be stated in either numeric or narrative form. Numeric objectives establish enforceable receiving water concentrations for the indicated constituent(s) or parameter(s).
+
+[page 20] Water quality objectives may be stated in either numeric or narrative form. Numeric objectives establish enforceable receiving water concentrations for the indicated constituent(s) or parameter(s).
+These concentrations are intended to provide reasonable protection of the beneficial uses of the specified body of water. In many cases, water quality objectives are stated in narrative form. Narrative objectives are also enforceable and describe a requirement or prohibit a condition harmful to one or more beneficial uses or that would be considered a nuisance. Both numeric and narrative water quality objectives are found in the Water Quality Control Plans. Examples of narrative objectives, from the Central Valley Region’s Water Quality Control Plan for the Sacramento River and San Joaquin River Basins, include:
+ Chemical Constituents —
+“Waters shall not contain chemical constituents in concentrations that adversely affect beneficial uses.
+
+[page 20] “Waters shall not contain chemical constituents in concentrations that adversely affect beneficial uses.
+“At a minimum, water designated for use as domestic or municipal supply (MUN) shall not contain concentrations of chemical constituents in excess of the maximum contaminant levels (MCLs) specified in … Title 22 of the California Code of Regulations [California’s drinking water standards] …
+“To protect all beneficial uses, the Regional Water Board may apply limits more stringent than MCLs.”
+ Tastes and Odors —
+“Water shall not contain taste- or odor-producing substances in concentrations that impart undesirable tastes or odors to domestic or municipal water supplies or to fish flesh or other edible products of aquatic origin, or that cause nuisance, or otherwise adversely affect beneficial uses.”
+ Toxicity —
+
+[page 20]  Toxicity —
+“… waters shall be maintained free of toxic substances in concentrations that produce detrimental physiological responses in human, plant, animal, or aquatic life associated with designated beneficial use(s). This objective applies regardless of whether the toxicity is caused by a single substance or the interactive effects of multiple substances.” Similar narrative objectives appear in the Basin Plans of nearly all regions.
+Implementation of a narrative toxicity objective depends on the beneficial uses that apply to the water body in question. For waters designated as municipal and domestic supply, concentrations that cause toxicity to humans are of concern. For waters designated as agricultural supply, concentrations that cause toxicity to crops or livestock are at issue. For waters designated for beneficial uses that support aquatic life, toxicity to fish or other aquatic organisms is the concern. For waters designated for beneficial uses that support consumption of aquatic organisms, the main concern is bioconcentration from water and bioaccumulation in the food chain, resulting in concentrations that are toxic to human or wildlife consumers of fish and shellfish.
+
+[page 20] In addition to direct evidence, such as a fish kill, numeric thresholds designed to prevent these toxic effects are often used to implement the narrative toxicity objective. Examples include the National Recommended Water Quality Criteria from USEPA, which include criteria to protect aquatic life from
+
+[page 21] A Compilation of Water Quality Goals
+ January 2016 Edition Page 7
+toxicity, as well as criteria to protect human health from constituents in water that is directly consumed or from constituents that may bioconcentrate and bioaccumulate in fish and shellfish to harmful levels.
+The Basin Plans contain water quality objectives for a wide variety of constituents and parameters, including:
+ Bacteria
+ Biostimulatory Substances
+ Color
+ Dissolved Oxygen
+ Floating Material
+ Oil and Grease
+ Pesticides
+ pH
+ Radioactivity
+ Salinity
+ Sediment
+ Settleable Material
+ Suspended Material
+ Temperature
+ Turbidity
+Some are expressed as numeric objectives, while others are in narrative form. Narrative water quality objectives may be implemented through the selection of an appropriate numeric threshold, as further described below.
+ANTIDEGRADATION POLICY
+
+[page 21] ANTIDEGRADATION POLICY
+Water is a multiple-use resource. A finite supply means that the same water may be used many times from when it falls as rain or snow in the mountains to when it eventually flows into the ocean. Each use of water causes some change in or degradation of water quality. Water quality can also be degraded by discharges of waste and other human activities. If the Water Boards were to allow a single use of water or discharge of waste to degrade water quality to a level just below the water quality objectives, then no capacity would exist for degradation that will be caused by the next downstream or downgradient uses. The ability to beneficially use the water would have been impaired, even though water quality objectives would not yet have been exceeded. An antidegradation policy considers the combined effect of multiple water uses and waste discharges on water quality.
+
+[page 21] In addition, our understanding of the health and environmental effects of chemicals and combinations of chemicals in water is constantly evolving. What we consider to be safe at 10 ug/L (ppb) today may be found to be harmful at 1 ug/L tomorrow. For these reasons, it is often desirable to prevent or to minimize the degree of water quality degradation to preserve water quality that is better than applicable water quality objectives.
+Realizing the need to prevent the degradation of water from multiple uses, in 1968, the State Water Resources Control Board adopted Resolution No. 68-16, Statement of Policy With Respect to Maintaining High Quality of Waters in California (California’s Antidegradation Policy) for the protection of water quality. Under the Antidegradation Policy, whenever the existing quality of water is better than that needed to protect existing and probable future beneficial uses, such existing high quality shall be maintained until or unless it has been demonstrated to the state that any change in water quality:
+ Will be consistent with the maximum benefit to the people of the state;
+
+[page 21]  Will be consistent with the maximum benefit to the people of the state;
+ Will not unreasonably affect present or probable future beneficial uses of such water; and  Will not result in water quality less than prescribed in state policies.
+Unless these three conditions are met, background water quality—the concentrations of substances in natural waters that are unaffected by waste management practices or pollution—is to be maintained.
+If a Water Board determines that some water quality degradation is in the best interest of the people of California, some incremental change in constituent concentrations from background levels may be
+
+[page 22] A Compilation of Water Quality Goals
+ January 2016 Edition Page 8
+permitted under the Antidegradation Policy. However, in no case may such degradation cause unreasonable impairment of beneficial uses that have been designated for waters of the state.
+The effect of the Antidegradation Policy is to define a range of water quality—between natural background levels and the water quality objectives—that must be maintained. Within this range, the Water Boards balance the need to protect existing high quality water with the benefit of allowing some degradation to occur from discharges of waste, for example the creation of jobs or increased housing.
+The Antidegradation Policy also specifies that discharges of waste to existing high quality waters are required to use “best practicable treatment or control,” thereby imposing a technology-based requirement on such discharges.
+In more recent actions, the State Water Board further delineated implementation of the Antidegradation Policy. These include the adoption of monitoring and corrective action regulations and a site cleanup policy.
+CHAPTER 15, ARTICLE 5 REGULATIONS
+
+[page 22] CHAPTER 15, ARTICLE 5 REGULATIONS
+In July 1991, the State Water Board adopted revised regulations for water quality monitoring and corrective action for waste management units—facilities where wastes are discharged to land for treatment, storage or disposal. These regulations, contained in Title 23 of the California Code of Regulations, Division 3, Chapter 15, Article 5, contain the only interpretation of the state’s Antidegradation Policy that has been promulgated in regulations. Article 5 requires the Regional Water Boards to establish water quality protection standards for all waste management units. Water quality protection standards include concentration limits for constituents of concern, which must be met in groundwater and surface water that could be affected by a release from the waste management unit.
+
+[page 22] Section 2550.4 of these regulations requires that, in most cases, concentration limits be established at background levels. However, in a corrective action program for a leaking waste management unit, where the discharger of waste has demonstrated that it is technologically or economically infeasible to achieve background levels, the Regional Water Board may adopt concentration limits greater than background. The regulations require that these less stringent limits be set:
+ At the lowest concentrations for the individual constituents that are technologically and economically achievable;
+ To avoid exceeding the maximum concentrations allowable under applicable statutes and regulations for individual constituents [including water quality objectives and CWA 303(c) water quality criteria];
+ To avoid excessive exposure to a sensitive biological receptor [as shown, for example, through health and ecological risk assessments]; and
+ To consider the theoretical risks from chemicals associated with the release as additive across all media of exposure and additive for those constituents that cause similar toxicologic effects or have carcinogenic effects.
+
+[page 22] More recently, the Chapter 15 regulations were amended to limit their applicability to waste management units that manage hazardous waste. New regulations for other waste management units were added in Title 27 of the California Code of Regulations, Division 2, Subdivision 1. Language comparable to Section 2550.4 appears in Section 20400 of these Title 27 regulations.
+SITE INVESTIGATION AND CLEANUP POLICY
+In June 1992, the State Water Board adopted Resolution No. 92-49, Policies and Procedures for Investigation and Cleanup and Abatement of Discharges Under Water Code Section 13304. This policy for water quality control, which was modified in April 1994 and October 1996, states that the Antidegradation Policy of Resolution No. 68-16 applies to the cleanup of sites contaminated with
+
+[page 23] A Compilation of Water Quality Goals
+ January 2016 Edition Page 9
+hazardous or non-hazardous pollutants, and that the criteria in Section 2550.4 of the Chapter 15 regulations are to be used to set cleanup levels for such sites. [For cleanup of leaking underground fuel tank sites, Section 2550.4 criteria are to be “considered” in setting cleanup levels under Chapter 16 of Title 23, Division 3 of the California Code of Regulations.] In determining cleanup levels for polluted water and for contaminated soils that threaten water quality, background constituent concentrations in water are the initial goal. If attainment of background concentrations is not achievable, cleanup levels must be set as close to background as technologically and economically feasible. They must, at a minimum, restore and protect all applicable beneficial uses of waters of the state, as measured by the water quality objectives, and must not present significant health or environmental risks.
+NUMERIC THRESHOLDS
+
+[page 23] NUMERIC THRESHOLDS
+To determine whether a particular waste management activity or constituent release has caused or threatens to cause pollution—an alteration of water quality to a degree that unreasonably affects present or probable future beneficial uses—one must refer to California’s water quality standards. As described above, the standards consist of one or more beneficial uses of water and water quality objectives or promulgated criteria to protect those uses. Water Boards adopt policies that specify how water quality standards are to be applied. Such policies are normally found in the implementation chapters of the Water Quality Control Plans.
+
+[page 23] Under most circumstances, compliance with all applicable water quality objectives is required. A narrative objective may be interpreted with respect to a specific pollutant or parameter by selecting an appropriate numeric threshold that meets the conditions of the narrative objective. If used carefully, and if appropriate justification is developed based on site-specific conditions, the numeric thresholds may be used to implement narrative water quality objectives. In general, case-by-case evaluation is necessary to implement narrative objectives for specific pollutants using literature-derived numeric thresholds for the pollutants. [Note: Normally, State or Regional Water Board action is necessary to establish numeric regulatory limitations that apply narrative water quality ] Once all applicable numeric water quality objectives, promulgated water quality criteria, and numeric thresholds to implement each narrative objective have been identified, a single assessment threshold is selected that satisfies them all.
+
+[page 23] The assessment threshold can then be compared with measured or projected constituent concentrations in the water body of interest to determine compliance with water quality standards. This process will be used to select assessment thresholds in the sections below so as to implement all applicable water quality objectives and CWA 303(c) criteria.
+The first step is to identify the bodies of groundwater and/or surface water that have been or may be affected by the particular waste management activity or constituent release. These water bodies are often referred to as “receiving waters.” Under California’s Antidegradation Policy, it is important to determine natural background constituent levels in the body of water. Discharges of waste can cause unfavorable changes from background levels and degrade water quality. Before the Water Boards can authorize any degradation of water quality, specific conditions in the Antidegradation Policy must be satisfied. For additional information on antidegradation see Controllable Factors and Antidegradation Policies, below.
+
+[page 23] The next step is to determine which beneficial uses and water quality objectives from the relevant Water Quality Control Plan(s) apply and which federally promulgated water quality criteria, if applicable, also apply. An assessment threshold is selected for each waste constituent to ensure implementation of all applicable water quality standards. This step is necessary to ensure that all beneficial uses are protected and to prevent pollution and nuisance. A process of selecting assessment thresholds is shown in Figure 1.
+If narrative water quality objectives apply to the constituent or parameter of interest in the receiving water, compliance with those objectives may be determined through measurement (e.g., toxicity testing) or other direct evidence of beneficial use impacts. Alternatively, relevant numeric thresholds may be selected from government agency publications and other sources and used to implement the
+
+[page 24] A Compilation of Water Quality Goals
+ January 2016 Edition Page 10
+narrative objectives. Numeric thresholds include drinking water standards, recommended water quality criteria, cancer risk estimates, health advisories, recommended water quality criteria, and other numeric thresholds that represent concentrations of chemicals that could limit or impair specific uses of water. An example is the taste and odor threshold for ethylbenzene of 29 ug/L, published by USEPA.
+This numeric threshold could be used to implement the narrative water quality objective for Tastes and Odors, discussed above.
+To select an assessment threshold for each constituent or parameter, first determine all applicable numeric objectives and CWA 303(c) criteria, along with numeric thresholds selected to implement each applicable narrative objective. To ensure that all applicable objectives and criteria are satisfied, the most stringent of this set of values is selected as the assessment threshold. Compliance with water FIGURE 1. SELECTING ASSESSMENT THRESHOLDS
+Site- and Constituent-Specific
+Discharge Information
+What bodies of water may be
+or have been affected?
+What are the beneficial uses
+
+[page 24] What are the beneficial uses
+of those bodies of water?
+What are the water quality objectives to
+protect those beneficial uses?
+Water Quality
+Standards from
+the applicable
+Water Quality
+Control Plan(s)
+Applicable
+Numerical Objectives
+Applicable
+Narrative Objectives
+Numeric thresholds
+that implement the
+Narrative Objectives
+Water Quality Based
+Numeric Thresholds
+from the Literature
+Choose the most limiting of these
+values to implement all
+applicable water quality objectives
+If the true background level is less
+restrictive than the value selected
+above, use the background level
+Site-Specific Background
+Water Quality
+(out of the influence of waste
+management activity or
+contaminant release at the site)
+Assessment Threshold
+
+[page 25] A Compilation of Water Quality Goals
+ January 2016 Edition Page 11
+quality objectives occurs if the constituent’s concentration in the receiving water falls below the assessment threshold. Exceedance of the assessment threshold may violate the water quality objectives, and beneficial uses may no longer be protected.
+An exception to this procedure is where the water’s natural background concentration is higher than the assessment threshold, i.e. higher than one or more applicable objective or promulgated criterion.
+
+[page 25] According to implementation language in the Basin Plans, Regional Water Boards’ authority to protect water quality from waste discharges is limited to the regulation of “controllable water quality factors,” those actions, conditions, or circumstances resulting from human activities that may influence the quality of waters of the state and that may be reasonably controlled. Where the natural background level is higher than an applicable water quality objective, the assessment threshold may need to be adjusted upward to the natural background level. In these cases, other controllable factors are normally not allowed to cause any further degradation of water quality. For additional information, see Controllable Factors and Antidegradation Policies, below.
+Where the natural background level is higher than an applicable water quality objective or an applicable federal CWA 303(c) criterion, the State or Regional Water Board must take appropriate action to amend the Basin Plan to change the standard.
+TYPES OF NUMERIC THRESHOLDS
+Many useful numeric thresholds have been developed to protect specific beneficial uses of water.
+
+[page 25] Many useful numeric thresholds have been developed to protect specific beneficial uses of water.
+Some of these numeric thresholds directly apply to constituents and parameters in California waters.
+The following is a summary of available types of numeric thresholds, most of which are presented in the Water Quality Goals online database. References in the database present the sources of these numeric thresholds, including Internet addresses where available.
+Drinking Water Standards, Maximum Contaminant Levels (MCLs)
+MCLs are components of the drinking water standards adopted by the Division of Drinking Water (DDW) of the California State Water Board pursuant to the California Safe Drinking Water Act.
+
+[page 25] MCLs are components of the drinking water standards adopted by the Division of Drinking Water (DDW) of the California State Water Board pursuant to the California Safe Drinking Water Act.
+California MCLs may be found in Title 22 of the California Code of Regulations (CCR), Division 4, Chapter 15, Domestic Water Quality and Monitoring. USEPA also adopts MCLs under the federal Safe Drinking Water Act. California drinking water standards are required to be at least as stringent as those adopted by the USEPA. If USEPA adopts a federal MCL that is lower than the corresponding state MCL, the state is required by statute to revise its MCL to be at least as stringent as the federal MCL.
+Some California MCLs are more stringent than USEPA MCLs.
+
+[page 25] Some California MCLs are more stringent than USEPA MCLs.
+Primary MCLs are derived from health-based criteria (by USEPA from MCL Goals; by DDW from Public Health Goals or from one-in-a-million [10–6] incremental cancer risk estimates for carcinogens and threshold toxicity levels for non-carcinogens). MCLs also include technologic and economic considerations based on the feasibility of achieving and measuring these concentrations in drinking water supply systems and at the tap, either throughout California (for MCLs adopted by the State Water Board) or the nation (for those adopted by USEPA). It should be noted that the balancing of health effects with technologic and economic considerations in the derivation of MCLs may result in MCLs that are not fully protective of health. As such, MCLs may not be sufficient to protect beneficial uses of ambient surface water or groundwater resources, as will be discussed below.
+Secondary MCLs are derived from considerations of human welfare (e.g., taste, odor, laundry staining)
+in the same manner as Primary MCLs.
+
+[page 25] in the same manner as Primary MCLs.
+Drinking water MCLs are directly applicable to regulated water supply systems and at the tap. They are enforceable by DDW and local health departments. California MCLs, both Primary and Secondary, are directly applicable to groundwater and surface water resources when they are specifically referenced as water quality objectives in a Water Quality Control Plan. In such cases, MCLs become numeric water quality objectives for ambient waters and enforceable by the State and Regional Water Boards.
+
+[page 26] A Compilation of Water Quality Goals
+ January 2016 Edition Page 12
+Primary MCLs that are also fully health protective may also be used to implement narrative toxicity objectives in water designated as a source of drinking water (municipal and domestic supply) to prevent toxicity to humans. Toxicity objectives in many Basin Plans require that water “shall be maintained free of toxic substances in concentrations that produce detrimental physiological responses in human, plant, animal, or aquatic life.” Similarly, Secondary MCLs that prevent adverse tastes and odors in drinking water may be used to implement narrative water quality objectives that prohibit adverse tastes and odors in water supplies.
+Maximum Contaminant Level Goals (MCL Goals or MCLGs)
+MCL Goals are established by USEPA as part of the National Primary Drinking Water Regulations.
+
+[page 26] MCL Goals are established by USEPA as part of the National Primary Drinking Water Regulations.
+MCL Goals represent the first step in establishing federal Primary MCLs and are required by statute to be set at levels that represent no adverse health risks. USEPA sets them at “zero” for known and probable human carcinogens, because a single molecule of such a chemical could present some degree of cancer risk. For non-carcinogens and for possible human carcinogens, concentrations that have been determined to pose no health risk, other than cancer, are used. Because they are purely health-based, MCL Goals may be useful to implement narrative water quality objectives that prohibit toxicity to humans. However, MCL Goals that have been set at “zero” may not be good candidates to implement narrative toxicity objectives because they are likely to be perceived as unreasonable to achieve. A more relevant level of risk for carcinogens is discussed below (see Which Cancer Risk Level?, below).
+California Public Health Goals (PHGs)
+
+[page 26] California Public Health Goals (PHGs)
+The California Safe Drinking Water Act of 1996 requires that the California Environmental protection Agency (Cal/EPA), Office of Environmental Health Hazard Assessment (OEHHA) adopt Public Health Goals for contaminants in drinking water, based exclusively on public health considerations. PHGs represent levels of contaminants in drinking water that would pose no significant health risk to individuals consuming the water on a daily basis over a lifetime. For carcinogens, PHGs are based on 10–6 (1-in-a-million) incremental cancer risk estimates. OEHHA and DDW consider the 10–6 risk level to represent a de minimis level of cancer risk for involuntary exposure to contaminants in drinking water.
+For other contaminants, PHGs are based on threshold toxicity limits, with a margin of safety.
+PHGs adopted by OEHHA are used by DDW to develop and revise primary drinking water MCLs.
+
+[page 26] PHGs adopted by OEHHA are used by DDW to develop and revise primary drinking water MCLs.
+While PHGs are required by statute to be based solely on scientific and public health considerations without regard to economic or technologic limitations, drinking water MCLs are required to consider economic factors and technical feasibility. The California Safe Drinking Water Act requires California MCLs to be reviewed every five years and set as close to the corresponding PHG as feasible, placing emphasis on the protection of public health.
+Because they are purely health-based, PHGs may also be appropriate to implement narrative toxicity objectives to address potential toxicity to humans from constituents in water bodies that have been designated as sources of municipal and domestic supply. In addition, where water quality objectives require compliance with drinking water MCLs, the PHGs may provide an indication of whether and the degree to which MCLs are likely to be revised in the future.
+
+[page 26] California Drinking Water Notification and Response Levels DDW publishes California Drinking Water Notification Levels (formerly called “Action Levels”) for chemicals that do not have drinking water MCLs. Notification Levels are based mainly on health effects—an incremental cancer risk estimate of 10–6 for carcinogens and a threshold toxicity limit for other constituents. As with MCLs, economic factors and the ability to quantify the amount of the constituent in a water sample using readily available analytical methods may cause notification levels to be set at somewhat higher concentrations than purely health-based thresholds. Notification Levels are advisory to water suppliers. If exceeded, DDW requires the supplier to notify local government and
+
+[page 27] A Compilation of Water Quality Goals
+ January 2016 Edition Page 13
+recommends notifying customers. When they are purely health-based, Notification Levels may also be appropriate to implement narrative water quality objectives that prohibit toxicity to humans that beneficially use the water resource.
+DDW also publishes Response Levels, which are normally set five to ten times higher than their respective Notification Levels. If a chemical exceeds its Response Level, DDW recommends that the drinking water source be taken out of service.
+Cal/EPA Cancer Potency Factors
+
+[page 27] Cal/EPA Cancer Potency Factors
+OEHHA has lead responsibility within Cal/EPA to assess human health risks associated with exposure to toxic substances in environmental media. OEHHA also performs health risk assessments for other California state agencies, such as developing Public Health Goals, which DDW uses to derive primary drinking water standards. As part of these efforts, OEHHA maintains the online Cal/EPA Toxicity Criteria Database of health risk information for chemicals. The health-based criteria presented in this database have been used as the basis for California state regulatory actions. The majority of these criteria has undergone peer review and, in many cases, rigorous regulatory review. The database includes cancer potency factors for inhalation and oral exposures to many chemicals. These Cal/EPA cancer potency factors may be used to calculate concentrations in drinking water associated with specific cancer risk levels, using standard exposure assumptions (see Threshold Risk Characterization, below).
+Integrated Risk Information System (IRIS)
+
+[page 27] Integrated Risk Information System (IRIS)
+The USEPA Office of Research and Development, National Center for Environmental Assessment maintains a chemical database called the Integrated Risk Information System. IRIS is intended to contain USEPA’s most current information on human health effects that may result from exposure to toxic substances found in the environment. Two types of criteria are presented in IRIS:
+1) Reference doses (RfDs) are calculated as safe exposure levels for health effects other than cancer. They are presented in dose units of milligrams of chemical per kilogram body weight per day of exposure (mg/kg-day). RfDs may be converted into concentrations in drinking water (ug/L or ppb) using standard exposure assumptions (see Threshold Risk Characterization, below).
+2) IRIS also presents concentrations of chemicals in drinking water that would be associated with specific levels of cancer risk.
+Drinking Water Health Advisories and Water Quality Advisories Health Advisories are published by USEPA for short-term (1-day exposure or less or 10-day exposure or less), long-term (7-year exposure or less), and lifetime human exposures through drinking water.
+
+[page 27] Health advisories for non-carcinogens and for possible human carcinogens are calculated for chemicals for which sufficient toxicologic data exist. Incremental cancer risk estimates for known and probable human carcinogens are also presented.
+The USEPA Office of Pesticide Programs publishes Registration Eligibility Documents or REDs, which contain similar toxicity information for pesticides.
+USEPA Water Quality Advisories contain human health-related criteria that assume exposure through both drinking water and consumption of contaminated fish and shellfish harvested from the same water. Some Water Quality Advisories also contain criteria that are intended to be protective of aquatic life.
+These three types of advisories are summarized approximately every two years in the USEPA publication Drinking Water Standards and Health Advisories tables.
+
+[page 28] A Compilation of Water Quality Goals
+ January 2016 Edition Page 14
+Suggested No-Adverse-Response Levels (SNARLs)
+SNARLs are human health-based criteria that were published by the National Academy of Sciences (NAS) in the nine volumes of Drinking Water and Health (1977 to 1989). USEPA health advisories were also formerly published as “SNARLs.” SNARLs do not reflect the cancer risk that chemical exposure may pose. Incremental cancer risk estimates for carcinogens are also presented in these NAS and USEPA documents. NAS criteria from Drinking Water and Health may not contain the most recent toxicologic information. They should only be used to implement narrative water quality objectives if more recent health-based criteria are not available.
+Proposition 65 Safe Harbor Levels
+
+[page 28] Proposition 65 Safe Harbor Levels
+Safe harbor levels are established pursuant to the California Safe Drinking Water and Toxic Enforcement Act of 1986 (adopted by the voters as the initiative “Proposition 65”) for known human carcinogens and reproductive toxins. Proposition 65 made it illegal to expose persons to significant amounts of these chemicals without prior notification or to discharge significant amounts of these chemicals into sources of drinking water. The “significant amounts” are adopted by OEHHA in regulations contained in Title 22 of the California Code of Regulations, Division 2, Chapter 3. The intent of Proposition 65 was not to establish levels in water that are considered to be “safe.” For carcinogens, No Significant Risk Levels (NSRLs) are set at concentrations associated with a one-in-100,000 (10–5) incremental risk of cancer. These are the only California health-based water quality-related thresholds derived from risk levels less stringent than 10–6. As such, they are not as protective of human health as many other published numeric thresholds (see Which Cancer Risk Level?, below).
+
+[page 28] For reproductive toxicants, Maximum Allowable Dose Levels (MADLs) are set at 1⁄1000 of the no-observable-effect level (NOEL). The NOEL is the highest dose that was associated with no observed adverse effect in laboratory toxicity experiments or epidemiologic studies.
+Proposition 65 levels are doses, expressed in units of micrograms per day of exposure (ug/d). Doses may be converted into concentrations in water by dividing by 2 liters per day water consumption and assuming 100 percent exposure to the chemical through drinking water (see Title 22 of CCR, Sections 12721 and 12821). In cases where significant exposure may also occur from sources other than drinking water, the 100 percent exposure assumption may not be sufficiently health protective.
+
+[page 28] California Toxics Rule (CTR) and National Toxics Rule (NTR) Criteria The federal Clean Water Act requires all states to have enforceable numeric water quality criteria applicable to priority toxic pollutants in surface waters. Because the Regional Water Boards’ respective Basin Plans lacked water quality objectives for many of these pollutants, the State Water Board adopted the Inland Surface Waters Plan and the Enclosed Bays and Estuaries Plan in 1991. These plans contained statewide water quality objectives covering many of the priority toxic pollutants.
+However, when combined with water quality objectives in the Basin Plans, California still lacked enforceable standards for a number of priority pollutants.
+In response to this deficiency in California and in many other states, USEPA promulgated federal regulations called the “National Toxics Rule” in December 1992. The NTR contains chemical-specific numeric criteria for priority (toxic) pollutants. The NTR applies to fourteen states, including California.
+
+[page 28] As the result of a legal challenge, the State Water Board rescinded the Inland Surface Waters Plan and Enclosed Bays and Estuaries Plan in 1994, causing California to be, once again, out of compliance with the priority toxic pollutants requirement of the Clean Water Act. In May 2000, USEPA promulgated CWA 303(c) water quality criteria for priority toxic pollutants in California’s inland surface waters and enclosed bays and estuaries in the “California Toxics Rule.” The CTR fills gap in California’s water quality standards necessary to protect human health and aquatic life beneficial uses The CTR criteria are similar to those published in the National Recommended Water Quality Criteria, discussed below.
+
+[page 29] A Compilation of Water Quality Goals
+ January 2016 Edition Page 15
+The CTR supplements, and does not change or supersede, the criteria that USEPA promulgated for California waters in the NTR.
+The human health NTR and CTR criteria that apply to drinking water sources (those water bodies designated in the Basin Plans as municipal and domestic supply or MUN) consider chemical exposure through consumption of both water and aquatic organisms (fish and shellfish) harvested from the water. For waters that are not drinking water sources (non-MUN waters; e.g., enclosed bays and estuaries), human health NTR and CTR criteria only consider the consumption of contaminated aquatic organisms.
+
+[page 29] Aquatic life protective criteria are specified at multiple averaging periods (e.g., 4-day, 1-hour) to control acute and chronic toxicity. Different criteria protect freshwater and saltwater aquatic life. In general, the freshwater criteria apply to waters with salinities less than one part per thousand, while the saltwater criteria apply to waters with salinities greater than ten parts per thousand. The more stringent of the freshwater and saltwater aquatic life criteria apply to waters with salinities between one and ten parts per thousand.
+The CTR and NTR criteria, along with the beneficial use designations in the Basin Plans and the related implementation policies, are the directly applicable water quality standards for toxic priority pollutants in California waters. Implementation policies for these standards may be found in the Policy for Implementation of Toxics Standards for Inland Surface Waters, Enclosed Bays, and Estuaries of California (SIP), adopted by the State Water Board in March 2000 and updated in February 2005. The SIP includes effluent limit calculations, time schedules for compliance, provisions for mixing zones, analytical methods and reporting levels.
+
+[page 29] California Ocean Plan Objectives
+One of the statewide Water Quality Control Plans is the Water Quality Control Plan for Ocean Waters of California (the Ocean Plan). It includes numeric water quality objectives to protect both human health and marine aquatic life from potentially harmful constituents and parameters in waters of California. When combined with beneficial use designations, these objectives constitute directly applicable water quality standards pursuant to Section 303(c) of the federal Clean Water Act. Because some harmful constituents in water concentrate in the tissues of aquatic organisms and bioaccumulate through the food web, objectives to protect human health assume exposure through ingestion of fish and shellfish harvested from the water containing the constituent of concern. Objectives to protect marine aquatic life are specified at multiple averaging periods to protect marine aquatic life against acute and chronic effects.
+National Recommended Water Quality Criteria
+
+[page 29] National Recommended Water Quality Criteria
+These criteria, formerly called the National Ambient Water Quality Criteria, are developed by USEPA under Section 304(a) of the federal Clean Water Act to provide guidance to the states and tribes in developing water quality standards under Section 303(c) of the CWA and to implement narrative toxicity criteria (narrative toxicity objectives in California) in water quality standards. National Recommended Water Quality Criteria are designed to protect human health and welfare and aquatic life from pollutants in freshwater, estuarine, and marine surface waters.
+
+[page 29] As with CTR and NTR criteria, discussed above, the recommended human health protective criteria assume two different exposure scenarios. For waters that are sources of drinking water, exposure is assumed both from drinking the water and consuming aquatic organisms (fish and shellfish) harvested from the water. For waters that are not sources of drinking water, exposure is assumed to be from the consumption of aquatic organisms only. Aquatic organisms are known to bioconcentrate certain toxic pollutants from water and to bioaccumulate them in the tissues of organisms at higher trophic levels, thereby magnifying pollutant exposures to consumers of fish and shellfish, including humans. Because
+
+[page 30] A Compilation of Water Quality Goals
+ January 2016 Edition Page 16
+the recommended human health-based criteria assume exposure through fish and shellfish consumption, the criteria should not be used to implement narrative water quality objectives for groundwater where human exposure would only occur from water consumption-related beneficial uses.
+The recommended criteria include threshold health protective criteria for non-carcinogens. Incremental cancer risk estimates for carcinogens are presented at a variety of risk levels. Organoleptic (taste- and odor-based) levels are also provided for some chemicals to protect human welfare. Some recommended organoleptic criteria are based on adverse taste or odor of chemicals in water, while others are based on the tainting of the flesh of fish and shellfish from chemicals in ambient water.
+
+[page 30] As with CTR and NTR criteria, National Recommended Water Quality Criteria also include criteria that are intended to protect freshwater and saltwater aquatic life. Normally, recommended criteria with two different averaging periods are presented for each. Recommended Criteria Maximum Concentrations (CMCs) protect freshwater and saltwater aquatic organisms from short-term or acute exposures (expressed as 1-hour average or instantaneous maximum concentrations) to pollutants.
+
+[page 30] Recommended Criteria Continuous Concentrations (CCCs) are intended to protect aquatic organisms from longer-term or chronic exposures (expressed as 4-day or 24-hour average concentrations). In order to derive recommended criteria, the method used by USEPA, found in Guidelines for Deriving Numerical National Water Quality Criteria for the Protection of Aquatic Organisms and Their Uses (1985), requires toxicity data for species representing a minimum of eight families of organisms, including both vertebrate and invertebrate species. Toxicity to important aquatic plant species is also considered. The aquatic life criteria derived by USEPA are intended to protect all species, even at sensitive life stages, for which there are reliable measurements in the data set. With the breadth of data required to develop these criteria, USEPA intends the resulting criteria to also protect species for which no data are currently available. Where there is insufficient toxicologic information to develop recommended criteria, the USEPA criteria documents often provide toxicity information, in the form of lowest observed effect levels (LOELs), for species for which data are available.
+
+[page 30] The National Recommended Water Quality Criteria are found in a number of USEPA documents:
+ Quality Criteria for Water, 1986, with updates in 1986 and 1987, also known as the “Gold Book”;
+ Ambient Water Quality Criteria volumes on specific pollutants or classes of pollutants (various dates beginning in 1980);
+ Quality Criteria for Water (1976), also known as the “Red Book”;
+ Water Quality Criteria, 1972, also known as the “Blue Book.” In December 1992, USEPA promulgated the NTR, which updated many of these recommended criteria and made them directly applicable standards for surface waters in many states, including some California waters. These regulations, found in 40 CFR Section 131.36, specify that “[t]he human health criteria shall be applied at the state-adopted 10–6 risk level” for California. To ascertain compliance with the aquatic life criteria for metallic constituents, water quality samples were to be analyzed for “total recoverable” concentrations. In May 1995, USEPA amended these regulations to express most of these aquatic life criteria for metals as dissolved concentrations.
+
+[page 30] Approximately every two years beginning in 1999, USEPA publishes tables of National Recommended Water Quality Criteria that summarize criteria from the sources discussed above, including more recent updates. Due to their age and changes in methods used to derive the recommended criteria, Blue Book criteria no longer appear in these summary tables. USEPA may no longer support their use.
+Agricultural Water Quality Thresholds
+Water Quality for Agriculture, published by the Food and Agriculture Organization of the United Nations in 1985, contains numeric thresholds protective of various agricultural uses of water, including irrigation of various types of crops and livestock watering. Above these numeric thresholds, specific agricultural uses of water may be adversely affected. For example, crop yields may be reduced. These numeric
+
+[page 31] A Compilation of Water Quality Goals
+ January 2016 Edition Page 17
+thresholds may be used to implement narrative water quality objectives that prohibit chemical constituents in concentrations that would impair agricultural uses of water.
+Taste and Odor Thresholds
+
+[page 31] Taste and Odor Thresholds
+Substances in water in amounts that cause adverse tastes or odors may be considered to impair beneficial uses associated with drinking water use (municipal or domestic supply). Adverse tastes and odors may also be associated with nuisance conditions. Taste and odor thresholds may be used to implement narrative water quality objectives that prohibit adverse tastes and odors in waters of the state and prohibit nuisance conditions. Taste and odor thresholds form the basis for many Secondary MCLs and are also published by the USEPA in the National Recommended Water Quality Criteria documents and the Drinking Water Contaminant Fact Sheets. An extensive collection of odor thresholds in water was published by J.E. Amoore and E. Hautala in the Journal of Applied Toxicology (1983). These latter thresholds were derived by combining air odor thresholds with physical parameters that describe the movement of chemicals between the air and the dissolved-in-water phases.
+Other Numeric Thresholds
+Other sources of numeric thresholds include:
+
+[page 31] Other sources of numeric thresholds include:
+ Hazard Assessments and Water Quality Criteria, published by the California Department of Fish and Wildlife (CDFW) under contract from the California Department of Pesticide Regulation.
+These documents contain criteria that are protective of aquatic life from exposure to pesticides.
+CDFW uses the same methods employed by USEPA to derive the National Recommended Water Quality Criteria for freshwater and saltwater aquatic life protection, discussed above.
+CDFW may modify the data requirements of the USEPA methods, depending on data availability.
+ Water Quality Criteria, Second Edition, written by McKee and Wolf and published by the State Water Resources Control Board in 1963 and 1978, contains criteria for human health and welfare, aquatic life, agricultural use, industrial use, and various other beneficial uses of water.
+Most of the numeric thresholds discussed above are summarized in the Water Quality Goals online database associated with this report.
+RISK CHARACTERIZATION METHODS FOR DRINKING WATER
+
+[page 31] RISK CHARACTERIZATION METHODS FOR DRINKING WATER
+Methods used by USEPA, OEHHA, and other agencies to derive lifetime health advisories and concentration-based cancer risk estimates for constituents in drinking water may also be used to calculate numeric thresholds from published toxicologic information. These methods are based on the following toxicologic principles.
+Threshold Toxins vs. Non-Threshold Toxins
+Relationships between exposure to toxic chemicals and resulting health effects may be roughly divided into two categories, threshold and non-threshold. It is important to recognize that it is not the chemical itself, but the dose (the concentration of the chemical in the media of exposure multiplied by the duration of exposure), that is responsible for the toxic effect. Below a particular threshold dose, many chemicals cause no toxic effects. These chemicals are called threshold toxins. Cyanide, mercury, and the pesticide malathion fall into this category. Some threshold chemicals, like Vitamin A, are beneficial to human health at low doses, but toxic at high doses.
+
+[page 31] On the other hand, some chemicals have no toxicity threshold. They pose some degree of health risk at any dose. Most carcinogens are thought to fall into this non-threshold category. Essentially, exposure to one molecule is considered to have the potential to cause some finite risk of getting cancer. Health risks for non-threshold toxins are characterized by probabilities—the higher the dose, the higher the probability of experiencing the toxic effect. For example, according to OEHHA,
+
+[page 32] A Compilation of Water Quality Goals
+ January 2016 Edition Page 18
+0.15 microgram of benzene per liter of drinking water is associated with the probability of causing one additional cancer case in a million persons who are exposed through in-home use of this water over their lifetimes. The value of 0.15 ug/L is the estimated drinking water concentration associated with a 1-in-a-million (10–6) incremental cancer risk, also known as the “10–6 cancer risk estimate” for benzene.
+Because cancer risk is a probabilistic event, the level of cancer risk is directly proportional to the dose, or the concentration in water if all other factors are held constant. Therefore, the 10–5 cancer risk level (1 extra case of cancer in 100,000 exposed persons) for benzene would be 1.5 ug/L.
+Weight of Evidence Categories
+According to the 1986 Guidelines for Carcinogen Risk Assessment, USEPA assigned chemicals to five categories, by considering the weight of evidence for causing cancer that exists in the toxicologic record:
+ Class A chemicals are known human carcinogens. There is sufficient evidence relating human exposure to cancer.
+
+[page 32]  Class A chemicals are known human carcinogens. There is sufficient evidence relating human exposure to cancer.
+ Class B chemicals are probable human carcinogens. There is limited human evidence, but sufficient animal evidence.
+ Class C chemicals are possible human carcinogens. There is no human evidence and limited animal evidence.
+ Class D chemicals have insufficient cancer risk data to assign them to another category.
+ Class E chemicals have sufficient evidence to indicate that they are not carcinogens.
+Because for ethical reasons, toxicologic experiments can not be carried out on humans, very few chemicals fall into Class A. Epidemiologic evidence from industrial, accidental, or inadvertent human exposures are used to place chemicals in this category. Arsenic, benzene, vinyl chloride and radioactive substances are examples of Class A carcinogens. Unlike experimental animal studies, there is no need to extrapolate the evidence linking chemical exposure and cancer risk from animals to humans. So the highest degree of association between chemical exposure and human cancer risk exists for chemicals in Class A.
+
+[page 32] USEPA publishes cancer risk estimates for Class A, Class B, and sometimes for Class C chemicals.
+They publish threshold health advisories for lifetime exposure for Class C, Class D and Class E chemicals.
+In the 2005 Guidelines for Carcinogen Risk Assessment, USEPA updated the weight of evidence categories for causing cancer as follows:
+ Class H chemicals are considered to be carcinogenic to humans.
+ Class L chemicals are likely to be carcinogenic to humans.
+ Class L/N chemicals are likely to be carcinogenic above a specified dose but not likely to be carcinogenic below that dose, because tumor formation does not appear to occur below that dose.
+ Class S chemicals have suggestive evidence of carcinogenic potential.
+ Class I chemicals have inadequate information to assess carcinogenic potential.
+ Class N chemicals are not likely to be carcinogenic to humans.
+The new system is roughly equivalent to the former Class A through Class E system, with the addition of the new Class L/N to recognize that some chemicals may exhibit a threshold for their carcinogenic effects.
+
+[page 33] A Compilation of Water Quality Goals
+ January 2016 Edition Page 19
+Because of the different ways in which chemicals are believed to cause adverse health impacts, the characterization of health risks for non-threshold toxins is different from that for threshold toxins.
+Non-Threshold Risk Characterization
+For non-threshold chemicals, including most carcinogens, the risk of a toxic effect is considered to be proportional to the amount or dose of the chemical to which a population is exposed. For each carcinogen, risk and dose are related by a cancer potency or slope factor (often abbreviated q1*) which is equal to the risk of getting cancer per unit dose of the chemical. The potency factor is expressed in units of inverse milligrams of chemical per kilogram body weight per day of exposure, (mg/kg/day)–1.
+
+[page 33] The cancer risk level, dose, and cancer potency factor are related by equation [1] in Figure 2. Potency factors for carcinogens are calculated by extrapolation from dose-response relationships often developed in laboratory animal exposure studies. For a few chemicals, they are based on human epidemiologic data. Potency factors may be found in the Cal/EPA Toxicity Criteria Database maintained by OEHHA, the USEPA Integrated Risk Information System (IRIS) database, USEPA health advisory documents, and the Drinking Water and Health publications of the National Academy of Sciences (NAS).
+
+[page 33] If one assumes an average drinking water consumption rate of 2 liters per day and an average human body weight of 70 kg, dose and concentration in drinking water may be related by equation [2]. These are standard assumptions used by federal and state drinking water regulatory and advisory programs and by OEHHA in regulations that implement Proposition 65. By combining equations [1] and [2] and rearranging, we obtain equation [3]. This equation allows calculation of a concentration in drinking water associated with a given cancer risk level, if the potency factor is known. For example, the Cal/EPA cancer potency factor for the pesticide 1,2-dibromo-3-chloropropane or DBCP is 7 (mg/kg/day)–1. Using equation [3], the concentration in drinking water associated with a 1-in-a-million (10–6) lifetime cancer risk level may be calculated as 0.000005 mg/l or 0.005 ug/L. This 10–6 cancer risk estimate along with other similarly calculated cancer risk estimates for other chemicals may be found in the Water Quality Goals online database associated with this report.
+
+[page 33] In addition to exposure caused by direct ingestion, volatile chemicals in water may cause additional exposures. Use of water in the home can volatilize these chemicals into indoor air that people breathe.
+FIGURE 2. CALCULATING HEALTH BASED LIMITS
+[1] Risk Level  Dose  Potency Factor
+[2] Dose (mg/kg/day)  Concentration (mg/l)  2 liters/day  70 kg [3] Concentration (mg/l)  _______________________ [4] RfD  _______________
+[5] DWEL  __________
+[6] Lifetime Health Advisory (mg/l)  _______________________ Risk Level  70 kg
+Potency Factor  2 liters/day
+NOAEL
+Uncertainty Factor
+RfD  70 kg
+2 liters/day
+DWEL  20% RSC
+Additional Uncertainty Factor
+
+[page 34] A Compilation of Water Quality Goals
+ January 2016 Edition Page 20
+Bathing with contaminated water may also cause chemical exposure through skin absorption. In recent years, OEHHA has accounted for these added exposures to volatile carcinogens in drinking water in the derivation of Public Health Goals. Assuming greater exposure means that a lower concentration in water is associated with the same level of cancer risk. For example, if exposure to the solvent trichloroethylene (TCE) is assumed only to occur through ingestion of contaminated water, the concentration associated with the 1-in-a-million lifetime cancer risk is 5.9 ug/L, according to OEHHA.
+If vapor inhalation and dermal exposure are included, the 1-in-a-million risk level drops to 1.7 ug/L.
+For this reason, Public Health Goals for volatile chemicals are often lower than cancer risk levels from other sources.
+Which Cancer Risk Level?
+
+[page 34] Which Cancer Risk Level?
+There is often confusion about which cancer risk level to use in selecting human health-based numeric thresholds. The one-in-a-million (10–6) incremental cancer risk level has historically formed the basis of human health protective numeric thresholds in California. It is generally recognized by California and federal agencies as the de minimis or negligible level of risk associated with involuntary exposure to carcinogenic chemicals in environmental media.
+The 10–6 risk level has long formed the basis of water-related health-protective regulatory decision-making in California. The following are some of the more significant instances:
+
+[page 34] The 10–6 risk level has long formed the basis of water-related health-protective regulatory decision-making in California. The following are some of the more significant instances:
+ California drinking water program’ Statement of Reasons documents for Primary MCL regulations for carcinogenic substances use the 10–6 risk level for lifetime exposure as the basis from which the MCLs were derived. In these documents DDW (and the Department of Public Health before them) describes the 10–6 risk level as “the de minimis excess cancer risk value” which is “typically assumed by federal and state regulatory agencies for involuntary exposures to environmental pollutants.” MCLs for carcinogens deviate from the 10–6 risk level only where technologic or economic factors prevent the attainment of this level in drinking water systems statewide.
+ DDW Notification Levels for drinking water are also set at the 10–6 risk level unless technologic or economic factors prevent attaining that level, as with the Primary MCLs.
+
+[page 34]  DDW Notification Levels for drinking water are also set at the 10–6 risk level unless technologic or economic factors prevent attaining that level, as with the Primary MCLs.
+ The Preliminary Endangerment Assessment Guidance Manual published by the Department of Toxic Substances Control (DTSC) [page 2-26] states that “[i]n general, a risk estimation greater that [sic] 10–6 or a hazard index greater than 1 indicate the presence of contamination which may pose a significant threat to human health.”
+ Clean Water Act water quality criteria promulgated for California waters by USEPA in the NTR and the CTR state that “[t]he human health criteria shall be applied at the State-adopted 10-6 risk level.” These criteria, when combined with beneficial use designations in state Water Quality Control Plans are water quality standards for California’s inland and estuarine surface waters.
+
+[page 34]  Substitute Environmental Documents (formerly Functional Equivalent Documents) by the State Water Board that provide background and justification for the California Ocean Plan and the former California Inland Surface Waters and Enclosed Bays and Estuaries Plans cite the 10–6 risk level as the basis of human health protective water quality objectives for carcinogens.
+ Public Health Goals for drinking water, adopted by OEHHA, are based on the 10–6 risk level for carcinogens, “a level that has been considered negligible or de minimis,” and a 70-year exposure period.
+ In enforcement decisions regarding an off-site chlorinated solvent plume from Mather Air Force Base, the Central Valley Regional Water Board required that a replacement water supply be provided when the level of carcinogenic chemicals is detected and confirmed at or above concentrations that represent 10–6 lifetime cancer risk levels in individual wells. This decision
+
+[page 35] A Compilation of Water Quality Goals
+ January 2016 Edition Page 21
+implements the narrative toxicity objective for groundwater from the Basin Plan for the Sacramento River and San Joaquin River Basins.
+ Cleanup and Abatement Order No. 92-707 adopted by the Central Valley Regional Water Board established cleanup levels for groundwater at the Southern Pacific Transportation Company, Tracy Yard, San Joaquin County at the 10–6 lifetime cancer risk levels for carcinogens, based on the narrative toxicity objective for groundwater from the Basin Plan for the Sacramento River and San Joaquin River Basins.
+(Note: The two Central Valley Region enforcement orders are specific to that Region and to the sites mentioned.)
+For consistency with the above, the 10–6 risk level is used in this document and the Water Quality Goals online database to select human health-protective assessment thresholds based on narrative toxicity objectives.
+
+[page 35] Regulations implementing Proposition 65 cite the one-in-one-hundred-thousand (10–5) risk level for carcinogens. However, Proposition 65’s intent is to notify the public before exposure to certain chemicals, and to prohibit specific discharges of these chemicals. It is not the intent of Proposition 65 to establish levels of involuntary environmental exposure that are considered “safe.” California has other programs for that purpose (e.g., the PHG program). Therefore, Proposition 65 does not provide a relevant authority for determining the level of cancer risk in order to comply with narrative toxicity objectives.
+Site and case-specific factors may cause regulatory levels associated with State and Regional Water Board decisions to deviate from the 10–6 risk level.
+Threshold Risk Characterization
+
+[page 35] Threshold Risk Characterization
+To calculate a toxin’s threshold concentration that is safe enough for humans to consume in drinking water, toxic-dose and safe-dose information is needed. This information is derived from laboratory animal studies or, if available, epidemiologic studies on human populations. In the laboratory studies, animals are exposed to a chemical at specific dose levels. For epidemiologic studies, measured or estimated human exposures are divided into various dose levels. USEPA, OEHHA and other agencies choose one of two dose level results from these studies from which to calculate safe levels of human exposure to the chemical in drinking water. The no observed adverse effect level (NOAEL) is the highest dose that caused no toxic effect in the study. The lowest observed adverse effect level (LOAEL) is the lowest dose that did cause a measurable toxic effect. The LOAEL is a higher dose than the NOAEL. Because the toxic dose of a chemical is usually related to the body weight of the animal or human studied, doses are often reported in units of milligrams of chemical per kilogram of body weight per day of exposure (mg/kg/day or mg/kg-day). Both NOAELs and LOAELs are expressed in these units.
+
+[page 35] USEPA, OEHHA and other agencies use the NOAEL or LOAEL to calculate a reference dose or RfD for a toxic chemical, using equation [4] in Figure 2. The uncertainty factor in the equation accounts for unknowns in the extrapolation of study data to “safe” levels for human exposure. The minimum uncertainty factor is 10, which accounts for the fact that some people (e.g., children, the elderly, those with compromised immune systems) are more sensitive to toxic chemicals than the average person.
+The minimum uncertainty factor is normally multiplied by additional factors of 3 to 10 for each of the following conditions, if they apply:
+ Extrapolation from animal toxicity studies to human toxicity (not needed when the study is based on human exposure data);
+ Using a LOAEL in place of a NOAEL in equation [4], above;
+ Using a dose (NOAEL or LOAEL) from a study which examined a less appropriate route of exposure to the chemical (the route of exposure most relevant to drinking water is ingestion);
+
+[page 36] A Compilation of Water Quality Goals
+ January 2016 Edition Page 22
+ Using a dose from a study which exposed test animals for a period of time that is not a significant fraction of the animals’ lifetime (subchronic exposure);
+ Potential synergism among chemicals (the toxicity of two or more chemicals is greater than additive—the sum of their individual toxicities); and  Any other toxicologic data gaps.
+RfDs have the same units as the NOAELs and LOAELs from which they are derived, mg/kg/day. The USEPA IRIS database contains reference doses for many threshold toxins.
+The next step, equation [5], is the calculation of a drinking water equivalent level (DWEL) from the reference dose. For an adult, this step is derived from equation [2] by assuming an average human body weight of 70 kilograms and an average drinking water consumption rate of two liters per day. As with the calculation of cancer risk criteria in water, these are standard assumptions used by federal and state drinking water regulatory and advisory programs. Some agencies make separate calculations for children using a 10 kilogram average body weight and one liter per day average drinking water consumption rate.
+
+[page 36] One last step, equation [6] in Figure 2, is required to turn the DWEL into the equivalent of a lifetime health advisory concentration. Two additional factors are used. The first is the relative source contribution or RSC. It accounts for the fact that people are usually exposed to chemicals from sources other than drinking water (e.g., in the foods we eat, in the air we breathe). The combined exposure from all sources forms the overall dose that may contribute to toxicity. The default RSC normally used by USEPA to derive lifetime health advisories for threshold toxins is 20%. This means that 20% of the exposure is assumed to come from drinking water and 80% from all other sources combined.
+Information on exposure to specific chemicals through other media may necessitate the use of a RSC that differs from the default value. California Drinking Water Notification Levels from DDW may differ from health based numeric thresholds published by USEPA, due to differing assumptions about RSC.
+
+[page 36] The second factor in equation [6] is an additional uncertainty factor, used to provide an extra margin of safety for those chemicals for which limited evidence of cancer risk exists. This uncertainty factor is equal to 10 for Class C and Class S carcinogens, and 1 for chemicals in Classes D, E, I and N.
+Lifetime health advisories are normally not calculated for chemicals in cancer Classes A, B, H and L.
+Cancer risk estimates are calculated instead.
+With equations [5] and [6], one can calculate health protective numeric thresholds for threshold toxins from RfD values published in IRIS and elsewhere in the literature. For example, acetone has an oral exposure RfD of 0.9 mg/kg/day in IRIS. From equation [5], a DWEL of 31.5 mg/l may be calculated.
+Acetone is in cancer weight of evidence Class D (no evidence of cancer risk); so the additional uncertainty factor is 1. By equation [6], the DWEL may be converted into an expected safe lifetime-exposure limit in drinking water of 6.3 mg/l or 6300 ug/L. This and other similarly calculated numeric thresholds are presented in the Water Quality Goals online database associated with this report.
+SELECTING PROTECTIVE ASSESSMENT THRESHOLDS
+
+[page 36] SELECTING PROTECTIVE ASSESSMENT THRESHOLDS
+FROM AMONG AVAILABLE NUMERIC THRESHOLDS
+To determine whether the level of a constituent or parameter is impairing or threatens to impair beneficial uses of a water body, a numeric assessment threshold for that constituent or parameter is needed. The procedure for selecting an assessment threshold is discussed above and is based on applicable numeric objectives, CWA 303(c) criteria, and numeric thresholds from the literature to implement each narrative objective.
+Because data on the health and environmental effects of chemicals is constantly evolving, one should make sure that current numeric thresholds are used. The original literature should be consulted whenever possible to determine the appropriateness and limitations of the numeric thresholds being
+
+[page 37] A Compilation of Water Quality Goals
+ January 2016 Edition Page 23
+considered. Other government agencies, such as the California Division of Drinking Water, the CDFW, OEHHA, and USEPA may need to be consulted for up-to-date information.
+In some cases, multiple human health-based numeric thresholds are available for a particular chemical. A decision must be made as to which of these numeric thresholds is the most appropriate to implement narrative toxicity objectives to protect human health. In May 1994, representatives of the State Water Board and the Central Valley Regional Water Board met with toxicologists and other representatives of DTSC and OEHHA to discuss the use of toxicologic criteria in contaminated site assessment and cleanup. The group agreed to use guidance parallel to that given on page 2-20 of DTSC’s Preliminary Endangerment Assessment Guidance Manual (January 1994). This guidance is relevant when selecting numeric thresholds from the literature to implement health-based narrative water quality objectives or when selecting criteria for use in health risk assessments. Numeric thresholds should be used in the following hierarchy:
+
+[page 37] 1) Cancer potency slope factors and reference doses set forth in California regulations (e.g., an MCL that is based only on health-based information).
+2) Cancer potency slope factors and reference doses that were used to develop environmental criteria that are found in California regulations. The health-based slope factors and reference doses should be used instead of the risk management environmental concentration found in the regulation (e.g., the RfD rather than the MCL).
+3) Cancer potency slope factors and reference doses from USEPA’s Integrated Risk Information System (IRIS).
+4) Cancer potency slope factors and reference doses from USEPA’s Health Effects Assessment Summary Tables (Health Advisories), the most current edition.
+Numeric thresholds in the first two categories may be found in the Cal/EPA Toxicity Criteria Database maintained by OEHHA.
+Caution in Relying on MCLs
+The Basin Plans incorporate California Primary MCLs as enforceable, numeric water quality objectives for water bodies designated with the beneficial use of municipal and domestic supply (MUN). And it has become common practice to rely on Primary MCLs to protect human health from chemicals in water.
+
+[page 37] But MCLs are not necessarily the only health protective water quality objectives that apply to the body of water, and in many cases, they are not the most stringent objectives. Primary MCLs are established by balancing health risks with compliance costs and other factors that are germane to water in drinking water distribution systems and at the tap, either on a nation-wide (USEPA) or statewide (DDW) basis.
+As such, Primary MCLs may not be stringent enough to satisfy the language of narrative water quality objectives that are intended to protect a particular source of drinking water (body of groundwater or surface water).
+For example, the total trihalomethane (TTHM) drinking water MCL may not prevent “detrimental physiological responses” an concentrations allowed by the MCL may be “harmful to human health,” conditions that do not conform to the narrative water quality objectives for toxicity in all but one of California’s Basin Plans. According to the December 1994 staff report supporting amendments to the Sacramento River and San Joaquin River Basin Plan that included adding a narrative toxicity objective for groundwater,
+
+[page 37] A common example of incorrect MCL application is the use of the total trihalomethane (TTHM) MCL for the protection of groundwater from chloroform. Chloroform is one of four chemicals covered by the term ‘trihalomethanes.’ These probable human carcinogens are formed in drinking water by the action of chlorine, used for disinfection, on organic matter present in the raw source water. The total THM federal Primary MCL of 80 ug/L is 44 to 80 times higher than the published one-in-a-million incremental
+
+[page 38] A Compilation of Water Quality Goals
+ January 2016 Edition Page 24
+cancer risk estimates for chloroform. USEPA has stated that the MCL for total THMs was based mainly on technologic and economic considerations.
+Most municipal drinking water systems chlorinate their water to remove pathogens, such as bacteria and viruses, before delivering the water to customers. The 1994 Sacramento/San Joaquin Basin Plan amendment staff report went on to say,
+The MCL for total THMs was derived by balancing the benefit provided by the chlorination process (elimination of pathogens in drinking water) with the health threat posed by the trihalomethane by-products of this process and the cost associated with conversion to other disinfection methods. Since ground water has not yet been chlorinated and may not require chlorination before use, this type of cost/benefit balancing (accepting some cancer risk from chloroform and other THMs in order to eliminate pathogens and avoid conversion costs) is not germane to ground water protection. Therefore, the total THM MCL is not sufficiently protective of the ambient quality of domestic water supply sources.
+
+[page 38] The staff report concluded that the narrative toxicity objective would provide more appropriate protection against toxicity to humans from chemicals in ambient water than provided by MCLs alone.
+
+[page 38] The staff report concluded that the narrative toxicity objective would provide more appropriate protection against toxicity to humans from chemicals in ambient water than provided by MCLs alone.
+Technologic factors also affect the level of health protection afforded by Primary MCLs. To ensure that compliance by drinking water systems statewide can be determined, MCLs are set at or above analytical quantitation limits, the lowest levels that can be quantified by methods commonly used by analytical laboratories. In several cases, DDW and USEPA have established MCLs at concentrations higher than health protective levels, where those levels are below readily available analytical quantitation limits. It is clear from the Statement of Reasons documents justifying California drinking water regulations that the intent of DDW was to adopt one-in-a-million cancer risk values as MCLs for several chlorinated solvents , PCE, carbon tetrachloride) if analytical quantitation limits had been lower at the time of adoption. Since the adoption of these MCLs in the 1980s, analytical quantitation limits have improved, and the health-based levels for these chemicals can be reliably measured at a reasonable cost. The technologic constraint posed by the older analytical quantitation limits is no longer germane.
+
+[page 38] Therefore, it is no longer reasonable to rely on outdated analytical quantitation limits as substitutes for truly health-based thresholds when applying the narrative water quality objective for toxicity.
+Public Health Goals adopted by OEHHA are often more stringent than existing Primary MCLs. The California Safe Drinking Water Act of 1996, amended 1999, mandated the establishment of PHGs to inform DDW and the public when California MCLs are less than fully health-protective. The California Safe Drinking Water Act requires DDW to review MCLs every five years and revise them to be as close to PHGs as is technologically and economically achievable. Compliance with health-based PHGs in ambient sources of drinking water not only prevents toxic amounts of chemicals, but also addresses compliance with future MCLs. This may be appropriate for protection of water resources for both existing and future municipal and domestic supply uses.
+
+[page 38] MCLs are only a subset of the water quality objectives that apply to sources of municipal and domestic supply under most Basin Plans. Narrative objectives for toxicity and beneficial use protection from chemical constituents are also applicable to these waters under most Basin Plans. Due to the constraints discussed above, MCLs that are not fully health protective may not ensure compliance with toxicity or specific chemical constituent water quality objectives. In most cases, purely health-based numeric thresholds, such as one-in-a-million incremental cancer risk estimates and PHGs, are more direct measures of levels that would “prevent detrimental physiologic responses” or that would not be “harmful to human health,” the language found in objectives.
+Virtually all Primary MCLs are derived by balancing health effects information with the technologic and economic considerations involved in providing water to customers through conventional drinking water supply systems on a statewide basis. As such, they represent risk management-based levels. Due to the lengthy regulation adoption process, primary MCLs may also not reflect current toxicologic
+
+[page 39] A Compilation of Water Quality Goals
+ January 2016 Edition Page 25
+information. Thus, Primary MCLs are not always reliable indicators of the prevention of detrimental physiological responses to users of ambient groundwaters or surface waters.
+For the above reasons, primary MCLs may differ significantly from other health-based numeric thresholds. For those chemicals that have primary MCLs, and depending on the case-specific situation, one could assume that either:
+1) MCLs are sufficient to protect human health; or 2) Additional health-based numeric thresholds are needed to implement narrative objectives that prohibit detrimental physiological responses in humans that consume the water or are not harmful to human health.
+Case-specific information and applicable policies and regulations will govern which assumption to use for a given situation. Users of this document are urged to contact the appropriate regulatory authority before making this determination.
+
+[page 39] There are additional instances when numeric thresholds that are more stringent than MCLs are applied to protect all of the beneficial uses of a water resource. For example, the Regional Water Boards require surface waters to comply with aquatic life protective criteria for copper, cadmium, and zinc, even when these criteria are more stringent than MCLs. Under some circumstances, agricultural use protective thresholds for several constituents and parameters, including chloride and total dissolved solids, are more stringent than MCLs. For these constituents, sensitive agricultural uses may be impaired at concentrations lower than MCLs. Several chemicals cause water to taste or smell bad at concentrations significantly lower than MCLs. The following are taste and odor thresholds and primary MCLs (in ug/L) for three common constituents of gasoline:
+Taste & Odor
+Threshold
+Primary
+MCL
+Ethylbenzene 29 300
+Toluene 42 150
+Xylene(s) 17 1750
+
+[page 39] Xylene(s) 17 1750
+It is clear that water would be rendered unpalatable and beneficial uses would be impaired at concentrations significantly below MCLs. Taste and odor thresholds may be used to implement narrative water quality objectives for Tastes and Odors to prevent such impairment.
+Again, even though MCLs may be applicable water quality objectives for these waters, they may not be the most stringent water quality objectives. Compliance with MCLs will not ensure compliance with all applicable water quality objectives under all circumstances. As such, MCLs may not be sufficiently protective of the most sensitive beneficial uses.
+As discussed above, the state’s Antidegradation Policy may preclude degrading water quality from background levels, even when applicable water quality objectives are higher.
+ASSESSMENT THRESHOLD ALGORITHMS
+The above discussion shows how numeric thresholds may be used to develop conservative, beneficial use protective assessment thresholds for surface water and groundwater, based on numeric and narrative water quality objectives, CWA 303(c) water quality criteria, and site-specific conditions.
+
+[page 39] If used as the basis for effluent or receiving water limits in waste discharge requirements, NPDES permits, or enforcement orders, or if used to list a water body as impaired pursuant to CWA Section 303(d), it is imperative that assessment thresholds are selected in a defensible manner and that the rationale for their selection be clearly identified for each site and case.
+[Note: This report focuses on the development of assessment thresholds for receiving waters. It does not provide guidance on the selection of effluent limits, which are derived from both water quality-
+
+[page 40] A Compilation of Water Quality Goals
+ January 2016 Edition Page 26
+based and technology-based considerations using discharge-specific factors and according to applicable regulations and policies. Board action is generally required to make such regulatory decisions.]
+To maintain consistency in the selection of assessment thresholds, this report recommends the use of procedures or algorithms for selecting numeric assessment thresholds to comply with water quality objectives and CWA 303(c) water quality criteria. These algorithms are based on a set of guiding principles designed to support the selection of relevant and appropriate water quality-based numeric thresholds. Other policies and regulations, such as the Antidegradation Policy, the Site Assessment and Cleanup Policy, and National Pollutant Discharge Elimination System (NPDES) regulations and policies require that technology-based limits and background levels also are considered in determining the final water quality limits appropriate for a particular situation.
+Guiding Principles
+
+[page 40] Guiding Principles
+The following principles and steps guide the derivation of the assessment threshold selection algorithms that follow. To be defensible, assessment thresholds should be chosen to protect the most sensitive beneficial use by applying all applicable water quality objectives and CWA 303(c) water quality criteria.
+For each constituent or parameter, the process of selecting an assessment threshold involves three steps:
+1) Select a single numeric threshold to satisfy each water quality objective/303(c) criterion or relevant portion thereof.
+2) To satisfy all applicable objectives/criteria and to protect all applicable beneficial uses, select the most restrictive of the numeric thresholds from step (1).
+3) To account for controllable factors policy statements, discussed below, select the larger of  The numeric threshold chosen in step (2) or
+ The natural background level of the constituent.
+
+[page 40]  The natural background level of the constituent.
+As an example of “relevant portions” of an objective in step (1), compliance with the narrative Toxicity objective for surface water normally involves selecting one numeric threshold to protect aquatic life and another numeric threshold to protect human health. Each threshold satisfied a portion of the objective.
+[Note: For the NPDES program and for other situations where it is not clear that background conditions represent true “natural background,” (i.e., not influenced by controllable water quality factors), the limit chosen in step (2) should be imposed even where existing background levels are less stringent.
+According to the SIP the CTR or NTR criterion becomes the effluent limit in such cases.] For each constituent, the above steps should result in a numeric assessment threshold that would protect all applicable beneficial uses of the receiving water. If the concentration in ambient water equals or exceeds the assessment threshold, pollution may have occurred or is threatened to occur.
+
+[page 40] Below the assessment threshold, ambient water should be in compliance with applicable water quality objectives and CWA 303(c) water quality criteria. Antidegradation principles may require that more stringent levels be applied.
+A variety of factors determine which numeric threshold is selected. The most stringent of all available numeric thresholds is not necessarily appropriate. Certain numeric thresholds may be required by law to be applied or may have greater force of law. If a CTR or NTR criterion for human health protection applies to the surface water body, other human health based numeric thresholds (e.g., Public Heath Goals) are normally not considered. CTR and NTR criteria have been promulgated, while the PHGs are merely advisory. Protection from adverse human health effects has already been satisfied by the applicable CTR or NTR human health criteria. Similarly, Ocean Plan objectives and CTR/NTR criteria to protect human health or aquatic life have greater legal force than National Recommended Water
+
+[page 41] A Compilation of Water Quality Goals
+ January 2016 Edition Page 27
+Quality Criteria (NRWQC) to protect the same beneficial uses. Ocean Plan objectives have been established and CTR/NTR criteria have been promulgated, while the NRWQC are merely advisory.
+In step (1) above, especially with respect to toxicity information, the algorithms incorporate a preference for:
+ Purely risk-based numeric thresholds over risk management-based numeric thresholds, unless the water quality objective mandates the use of a risk-management based numeric threshold (e.g., the Chemical Constituent objectives mandates compliance, at a minimum, with California Primary and Secondary drinking water MCLs, some of which are more stringent than other available numeric thresholds). Purely risk based numeric thresholds consider only health risks or other risks to beneficial uses. Risk management based numeric thresholds include economic and/or technologic factors that may not be relevant to protecting beneficial uses of ambient water resources and may not comply with the language of narrative water quality objectives, as discussed above with respect to MCLs.
+
+[page 41]  Numeric thresholds developed and/or published by California agencies, over those developed by federal agencies or other organizations, to provide consistency within state government.
+ Numeric thresholds that reflect peer reviewed science. Avoid using draft or provisional numeric thresholds, unless nothing else is available and sufficient rationale is provided.
+ Numeric thresholds that reflect current science. Select the most recent among available numeric thresholds that address the same beneficial use issues (e.g., Public Health Goals are often more recent than IRIS criteria, which are normally more recent than USEPA health advisories).
+These principles are consistent with the manner in which DTSC and OEHHA select toxicity-based criteria for health risk evaluations.
+
+[page 41] These principles are consistent with the manner in which DTSC and OEHHA select toxicity-based criteria for health risk evaluations.
+Avoid using Proposition 65 levels to apply narrative toxicity objectives. As discussed above, the intent of Proposition 65 is not to designate “safe” levels of chemicals in drinking water. Proposition 65 levels are not calculated in the same manner as other health-based numeric thresholds for water ingestion in California (i.e., PHGs, other health-based criteria from which MCLs are derived, and CTR and NTR criteria to protect human health).
+Based on the above principles, algorithms have been developed to assist users to select protective and defensible assessment thresholds. Because water quality standards for different types of water bodies differ significantly, separate assessment threshold algorithms are presented below for groundwater, inland surface waters, enclosed bays and estuaries, and ocean waters.
+Water Body Types and Beneficial Uses Protected
+
+[page 41] Water Body Types and Beneficial Uses Protected
+Considering the variety of situations encountered in California, the assessment thresholds are intended to support a minimum of four categories of sensitive beneficial uses in four different kinds of water bodies, as follows:
+ Ground water—
+ Beneficial use is designated as municipal or domestic supply (MUN)
+ Beneficial use is designated as agricultural supply (AGR)
+ Inland surface water (salinity less than 10 parts per thousand)—  Beneficial use is designated as MUN
+ Beneficial use is designated as AGR
+ Beneficial uses are designated to protect aquatic life
+
+[page 42] A Compilation of Water Quality Goals
+ January 2016 Edition Page 28
+ Beneficial uses are designated to support fish consumption  Enclosed bays or estuaries (salinity greater than 1 part per thousand)—  Beneficial uses are designated to protect aquatic life  Beneficial uses are designated to support fish consumption  Ocean waters—
+ Beneficial uses are designated to protect aquatic life  Beneficial uses are designated to support fish consumption Note: As used in this document and consistent with the CTR and NTR, the term “inland surface waters” is intended to include all surface waters with salinities less than 10 parts per thousand, even though the surface waters being assessed may be an enclosed bay or estuary. The term “enclosed bays/estuaries” is intended to include all non-ocean surface waters with salinities greater than 1 part per thousand, even though surface waters being assessed may appear to be inland surface waters. As defined in the California Ocean Plan, ocean waters include territorial marine waters of the state that do not qualify as enclosed bays, estuaries, or coastal lagoons.
+Assessment Threshold Algorithm for Groundwater
+
+[page 42] Assessment Threshold Algorithm for Groundwater
+For chemicals in groundwater, the following water quality objectives and numeric thresholds normally apply to the water body:
+ Chemical Constituents Objective—
+Each of the following three items apply separately:
+ Numeric water quality objective from the Basin Plan  Drinking Water MCLs—
+For MUN-designated waters, select the lowest of the following:
+ California Primary MCL
+ California Secondary MCL
+ Concentrations that indicate impairment of any applicable beneficial use— Select the lowest of the following:
+ Agricultural use protective threshold
+[for AGR-designated waters]
+ Federal Primary MCL, if lower than California Primary MCL [for MUN-designated waters] [Note: Statute requires that the California MCL must be lowered to at least as stringent as the Federal MCL. Compliance with the lower Federal MCL is needed to protect the MUN beneficial use in the longer term.]
+ Toxicity Objective
+ Human health risk-based numeric threshold for drinking water use— For MUN-designated waters, select the first available numeric threshold from the following hierarchy:
+ OEHHA Public Health Goal
+
+[page 42]  OEHHA Public Health Goal
+ Cal/EPA cancer potency factor at the one-in-a-million risk level [Note: For volatile carcinogens, this numeric threshold is likely to be less stringent and less relevant to implement the narrative toxicity objective than the Public Health Goal because it considers only ingestion exposure. PHGs consider ingestion, vapor inhalation
+
+[page 43] A Compilation of Water Quality Goals
+ January 2016 Edition Page 29
+and skin adsorption exposures that are likely to occur from the use of drinking water in the household.]
+ California Drinking Water Notification Level based on toxicity [Note: Concurrence from the State Water Board’s Division of Drinking Water may be necessary. Alternatively, cite the original toxicologic threshold used as the basis for the Notification Level.]
+ USEPA IRIS criteria—
+Select the lowest of the following:
+ One-in-a-million cancer risk estimate
+ Reference dose for non-cancer toxicity (as a drinking water threshold)
+ USEPA Health Advisory—
+Select the lowest of the following:
+ One-in-a-million cancer risk estimate
+ Lifetime non-cancer numeric threshold
+ USEPA MCL Goal —
+Use non-zero numeric thresholds only.
+[Note: MCL Goals for carcinogens are set at “zero” to represent no health risk. No significant risk is used for the comparable California PHGs.]  Other health risk-based numeric thresholds—
+[Note: Check the dates and basis for the numeric threshold before using these.]  National Academy of Sciences thresholds
+Select the lowest of:
+
+[page 43] Select the lowest of:
+ One-in-a-million incremental cancer risk estimate  Drinking water health advisory or SNARL
+ Proposition 65 levels—
+[Note: Use only if no other health risk-based numeric thresholds are available.] Select the lowest of:
+ No-Significant-Risk Level
+ Maximum Allowable Dose Level
+ Tastes and Odors Objective
+ Taste- and odor-based numeric threshold—
+For MUN-designated waters, select the first available numeric threshold from the following hierarchy:
+ California Secondary MCL
+ Federal Secondary MCL
+ USEPA National Recommended Water Quality Criterion based on taste & odor [Note: Do not use if numeric threshold is based on tainting of fish flesh.]  Taste and odor thresholds published by other agencies or from the peer reviewed literature
+For each constituent and parameter of interest, first, select one numeric threshold for each of the items above marked with an arrow (). Record your selections in a table, such as the one shown in Figure 3.
+Second, select the most stringent numeric threshold from this table. The result should be an
+
+[page 44] A Compilation of Water Quality Goals
+ January 2016 Edition Page 30
+assessment threshold that satisfies all applicable water quality objectives in a conservative manner.
+Consideration of natural background levels and antidegradation policies may require further modifications to this selection, as discussed below.
+Assessment Threshold Algorithm for Inland Surface Waters Different thresholds apply to surface waters than those that apply to groundwater. Additional beneficial uses—for example, those that protect aquatic life—normally apply. Additional water quality standards apply to surface waters. NTR and CTR criteria apply to California inland and estuarine surface waters.
+
+[page 44] Barring unusual circumstances, CTR or NTR criteria to protect human health or aquatic life should be used in lieu of advisory numeric thresholds to implement the narrative toxicity objective. For example, if the CTR contains a human health protective criterion for the chemical of concern, it should normally be selected instead of a PHG that would be used to implement the narrative toxicity objective to protect human health. Similarly, a CTR aquatic life protective criterion should normally be selected instead of a USEPA-recommended aquatic life criterion for the same chemical.
+The CTR, NTR and USEPA National Recommended Water Quality Criteria (NRWQC) for human health protection apply only to surface water, because they are derived assuming exposure through consumption of fish and shellfish from the water.
+CTR, NTR and the NRWQC contain different criteria to protect freshwater and saltwater aquatic life.
+
+[page 44] CTR, NTR and the NRWQC contain different criteria to protect freshwater and saltwater aquatic life.
+According to the CTR and NTR, only the freshwater criteria should be applied to water bodies with salinities less than 1 part per thousand. Only the saltwater criteria should be applied to waters with salinities greater than 10 parts per thousand. For waters with salinities between 1 and 10 parts per thousand, the more stringent of the freshwater and saltwater criteria should be applied. Note: Care should be exercised when applying these criteria to inland saline waters (e.g., Salton Sea), as indigenous species may have special needs.
+For constituents and parameters in inland surface waters, the following water quality objectives and numeric thresholds normally apply to the water body:
+ USEPA California Toxics Rule and National Toxics Rule— [Note: NTR criteria are listed in the Water Quality Goals online database under “California Toxics Rule Criteria” and footnoted accordingly.]
+ Criteria for human health protection
+
+[page 44]  Criteria for human health protection
+[Note: Use criteria for drinking water sources, based on consumption of water plus aquatic organisms, unless the MUN beneficial use has specifically been de-listed for the water body.]
+ Criteria for aquatic life protection
+[Note: Both the Criteria Continuous Concentration (CCC, 4-day average) and Criteria FIGURE 3. GROUNDWATER ASSESSMENT THRESHOLD ALGORITHM TABLE Water Quality
+Objective / Criterion
+Relevant Portion of
+Objective / Criterion Source Concentration Units
+Chemical Constituents
+Drinking Water MCL (lowest) SWRCB-DDW
+Numerical Water Quality Objective Basin Plan
+Beneficial Use Impairment Numeric
+Threshold
+Toxicity Human Health – Drinking Water
+Tastes & Odors Taste & Odor Based Numeric
+Thresholds for Water
+
+[page 45] A Compilation of Water Quality Goals
+ January 2016 Edition Page 31
+Maximum Concentration (CMC, 1-hour average) criteria apply. Sampling frequency should allow determination that both types of criteria are satisfied. Also note that freshwater criteria should be applied to water bodies with salinities less than 1 part per thousand and saltwater criteria should be applied to waters with salinities greater than 10 parts per thousand. For waters with salinities between 1 and 10 parts per thousand, the more stringent of the freshwater and saltwater criteria should be applied.]  Chemical Constituents Objective—
+Each of the following three items apply separately:
+ Numeric water quality objective from the Basin Plan [Note: Site-specific objectives may supersede CTR or NTR criteria if approved by USEPA.]  Drinking Water MCLs—
+For MUN-designated waters, select the lowest of the following:
+ California Primary MCL
+ California Secondary MCL
+ Concentrations that indicate impairment of any applicable beneficial use— Select the lowest of the following:
+ Agricultural use protective numeric thresholds
+[for AGR-designated waters]
+
+[page 45] [for AGR-designated waters]
+ Federal Primary MCL, if lower than California Primary MCL [for MUN-designated waters]
+[Note: Statute requires that the California MCL must be lowered to at least as stringent as the Federal MCL. Compliance with the lower Federal MCL is needed to protect the MUN beneficial use in the longer term.]
+ Toxicity Objective
+ Human health risk-based numeric threshold for drinking water use— For MUN-designated waters, select the first available numeric threshold from the following hierarchy:
+[Note: Applies only if there are no CTR or NTR criteria for human health protection.]  California Public Health Goal
+ Cal/EPA cancer potency factor at the one-in-a-million risk level [Note: For volatile carcinogens, this numeric threshold is likely to be less stringent and less relevant to implement the narrative toxicity objective than the Public Health Goal because it considers only ingestion exposure. PHGs consider ingestion, vapor inhalation and skin adsorption exposures that are likely to occur from the use of drinking water in the household.]
+
+[page 45]  California Drinking Water Notification Level based on toxicity [Note: Concurrence from the State Water Board’s Division of Drinking Water may be necessary. Alternatively, cite the original toxicologic threshold used as the basis for the Notification Level.]
+ USEPA IRIS criteria—
+Select the lowest of the following:
+ One-in-a-million cancer risk estimate
+ Reference dose for non-cancer toxicity (as a drinking water threshold)
+
+[page 46] A Compilation of Water Quality Goals
+ January 2016 Edition Page 32
+ USEPA Health Advisory—
+Select the lowest of the following:
+ One-in-a-million cancer risk estimate
+ Lifetime non-cancer numeric threshold
+ USEPA MCL Goals—
+Use non-zero numeric thresholds only.
+[Note: MCL Goals for carcinogens are set at “zero” to represent no health risk. No significant risk is used for the comparable California PHGs.]  Other health risk-based numeric thresholds—
+[Note: Check the dates and basis for the numeric threshold before using these.]  National Academy of Sciences criteria
+Select the lowest of:
+ One-in-a-million incremental cancer risk estimate  Drinking water health advisory or SNARL
+ Proposition 65 levels—
+[Note: Use only if no other health risk-based numeric thresholds are available.] Select the lowest of:
+ No-Significant-Risk Level
+ Maximum Allowable Dose Level
+ Human health risk-based numeric threshold that includes fish consumption exposure— [Note: Applies only if there are no CTR or NTR criteria for human health protection.]  USEPA National Recommended Water Quality Criteria (NRWQC) for human health protection
+
+[page 46] [Note: Use criteria for drinking water sources, consumption of water plus aquatic organisms, unless the MUN beneficial use has specifically been de-listed for the water body. If based on cancer risk, check that current cancer risk factors are used.]  Aquatic life protective numeric thresholds
+Select the first available numeric threshold from the following hierarchy:
+[Note: Applies only if there are no CTR or NTR criteria for aquatic life protection.]  California Department of Fish and Wildlife hazard evaluation or water quality criteria [Note: If available, both the Criteria Continuous Concentration (CCC, normally 4-day average) and Criteria Maximum Concentration (CMC, normally 1-hour average) criteria apply. Sampling frequency should allow determination that both types of criteria are satisfied. Also note that freshwater criteria should be applied to water bodies with salinities less than 1 part per thousand and saltwater criteria should be applied to waters with salinities greater than 10 parts per thousand. For waters with salinities between 1 and 10 parts per thousand, the more stringent of the freshwater and saltwater criteria should be applied.]
+
+[page 46]  USEPA NRWQC for aquatic life protection
+[Note: If available, both the Criteria Continuous Concentration (CCC, 4-day average or 24-hour average) and Criteria Maximum Concentration (CMC, 1-hour average or instantaneous maximum) criteria apply. Sampling frequency should allow determination that both types of criteria are satisfied. Also note that freshwater criteria should be applied to water bodies with salinities less than 1 part per thousand and saltwater criteria should be applied to waters with salinities greater than 10 parts per thousand.
+
+[page 47] A Compilation of Water Quality Goals
+ January 2016 Edition Page 33
+For waters with salinities between 1 and 10 parts per thousand, the more stringent of the freshwater and saltwater criteria should be applied.]  Tastes and Odors Objective
+ Taste- and odor-based numeric threshold
+For MUN-designated waters, select the first available numeric threshold from the following hierarchy:
+ California Secondary MCL
+ Federal Secondary MCL
+ USEPA NRWQC based on taste & odor
+ Taste and odor thresholds published by other agencies or from the peer reviewed literature
+For each constituent and parameter of interest, first, select one numeric threshold for each of the items above that begins with an arrow (). Record your selections in a table, such as the one shown in Figure 4. Second, select the most stringent numeric threshold from this table. (In the case of aquatic life criteria, both CCC and CMC limits apply, as noted above.) The result should be a conservative assessment threshold that satisfies all applicable water quality objectives and CWA 303(c) criteria.
+
+[page 47] Where aquatic life criteria vary with hardness, pH, or other factors, aquatic life criteria may be the most restrictive under some conditions while other limits in the table may be more restrictive under other conditions. Consideration of natural background levels and antidegradation policies may require further modifications to this selection, as discussed below.
+FIGURE 4. INLAND SURFACE WATERS ASSESSMENT THRESHOLD ALGORITHM TABLE Water Quality
+Objective / Criterion
+Relevant Portion of
+Objective / Criterion Source Concentration Units
+California Toxics Rule /
+National Toxics Rule
+Human Health Protection CTR or NTR
+Aquatic Life Protection – CCC CTR or NTR
+Aquatic Life Protection – CMC CTR or NTR
+Chemical Constituents
+Drinking Water MCL (lowest) SWRCB-DDW
+Numerical Water Quality Objective Basin Plan
+Beneficial Use Impairment Numeric
+Threshold
+Toxicity
+Human Health – Drinking Water
+Human Health – Fish Consumption USEPA, NRWQC
+Aquatic Life Protection – CCC
+Aquatic Life Protection – CMC
+Tastes & Odors Taste & Odor Based Numeric
+Thresholds
+
+[page 48] A Compilation of Water Quality Goals
+ January 2016 Edition Page 34
+Assessment Threshold Algorithm for Enclosed Bays and Estuaries Much of the information presented above for inland surface waters also applies to enclosed bays and estuaries. Similar constraints involving CTR and NTR criteria apply. Criteria for protection of aquatic life follow the same salinity considerations as presented for inland surface waters. Since municipal and domestic supply (MUN) is not normally a beneficial use of these waters, MCLs and water ingestion-based human health and taste/odor numeric thresholds do not apply. However, human health protective criteria involving ingestion of fish and shellfish do apply. Salinity of these waters normally precludes agricultural supply (AGR) uses.
+For constituents and parameters in enclosed bays and estuaries, the following water quality objectives and numeric thresholds normally apply to the water body:
+ US EPA California Toxics Rule and National Toxics Rule— [Note: NTR criteria are listed in the Water Quality Goals online database under “California Toxics Rule Criteria” and footnoted accordingly.]
+ Criteria for human health protection
+
+[page 48]  Criteria for human health protection
+[Note: Use criteria based on consumption of aquatic organisms only.]  Criteria for aquatic life protection
+[Note: Both the Criteria Continuous Concentration (CCC, 4-day average) and Criteria Maximum Concentration (CMC, 1-hour average) criteria apply. Sampling frequency should allow determination that both types of criteria are satisfied. Also note that freshwater criteria should be applied to water bodies with salinities less than 1 part per thousand and saltwater criteria should be applied to waters with salinities greater than 10 parts per thousand. For waters with salinities between 1 and 10 parts per thousand, the more stringent of the freshwater and saltwater criteria should be applied.]  Chemical Constituents Objective—
+ Numeric water quality objective from the Basin Plan [Note: Site-specific objectives may supersede CTR or NTR criteria if approved by USEPA.]  Toxicity Objective
+ Human health risk-based numeric threshold based on fish consumption exposure— [Note: Applies only if there are no CTR or NTR criteria for human health protection.]  USEPA NRWQC for human health protection
+
+[page 48] [Note: Use criteria based on consumption of aquatic organisms only.]  Aquatic life protective numeric thresholds—
+Select the first available numeric threshold from the following hierarchy:
+[Note: Applies only if there are no CTR or NTR criteria for aquatic life protection.]  California Department of Fish and Wildlife hazard evaluation or water quality criteria [Note: If available, both the Criteria Continuous Concentration (CCC, normally 4-day average) and Criteria Maximum Concentration (CMC, normally 1-hour average) criteria apply. Sampling frequency should allow determination that both types of criteria are satisfied. Also note that freshwater criteria should be applied to water bodies with salinities less than 1 part per thousand and saltwater criteria should be applied to waters with salinities greater than 10 parts per thousand. For waters with salinities between 1 and 10 parts per thousand, the more stringent of the freshwater and saltwater criteria should be applied.]
+ USEPA NRWQC for aquatic life protection
+[Note: If available, both the Criteria Continuous Concentration (CCC, 4-day average or 24-hour average) and Criteria Maximum Concentration (CMC, 1-hour average or
+
+[page 49] A Compilation of Water Quality Goals
+ January 2016 Edition Page 35
+instantaneous maximum) criteria apply. Sampling frequency should allow determination that both types of criteria are satisfied. Also note that freshwater criteria should be applied to water bodies with salinities less than 1 part per thousand and saltwater criteria should be applied to waters with salinities greater than 10 parts per thousand.
+For waters with salinities between 1 and 10 parts per thousand, the more stringent of the freshwater and saltwater criteria should be applied.] For each constituent and parameter of interest, first, select one numeric threshold for each of the items above marked with an arrow (). Record your selections in a table, such as the one shown in Figure 5.
+
+[page 49] Second, select the most stringent numeric threshold from this table. (In the case of aquatic life criteria, both CCC and CMC values apply, as noted above.) The result should be a conservative assessment threshold that satisfies all applicable water quality objectives and CWA 303(c) criteria. Where aquatic life protective criteria vary with temperature, pH, or other factors, aquatic life criteria may be the most restrictive under some conditions while other numeric thresholds in the table may be more restrictive under other conditions. Consideration of natural background levels and antidegradation policies may require further modifications to this selection, as discussed below.
+Assessment Threshold Algorithm for Ocean (Marine) Waters Similar to enclosed bays and estuaries, numeric thresholds that apply to ocean waters are mainly focused on protecting aquatic life and protecting human health from consumption of fish and shellfish.
+
+[page 49] While USEPA CTR and NTR criteria apply to inland surface waters and enclosed bays and estuaries, water quality objectives from the California Ocean Plan apply to ocean waters. Ocean Plan objectives should normally be applied in lieu of recommended or guidance levels to implement a narrative Toxicity objective. Saltwater aquatic life protective criteria apply to ocean waters. Since municipal and domestic supply (MUN) is not a beneficial use of these waters, MCLs and water-ingestion human health and taste/odor numeric thresholds do not normally apply. Salinity of these waters precludes agricultural supply (AGR) uses.
+For chemical constituents and parameters in ocean waters, the following water quality objectives and numeric thresholds normally apply to the receiving water:
+ California Ocean Plan
+ Objectives for human health protection
+ Objectives for marine aquatic life protection
+[Note: Objectives with various averaging periods apply. Sampling frequency should allow determination that all types of objectives are satisfied.] FIGURE 5. ENCLOSED BAYS AND ESTUARIES ASSESSMENT THRESHOLD ALGORITHM TABLE Water Quality
+Objective / Criterion
+Relevant Portion of
+
+[page 49] Relevant Portion of
+Objective / Criterion Source Concentration Units
+California Toxics Rule /
+National Toxics Rule
+Human Health Protection CTR or NTR
+Aquatic Life Protection – CCC CTR or NTR
+Aquatic Life Protection – CMC CTR or NTR
+Chemical Constituents Numerical Water Quality Objective Basin Plan Toxicity
+Human Health – Fish Consumption USEPA,
+NRWQC
+Aquatic Life Protection – CCC
+Aquatic Life Protection – CMC
+
+[page 50] A Compilation of Water Quality Goals
+ January 2016 Edition Page 36
+ Chemical Constituents Objective
+ Numeric water quality objective from the Basin Plan  Toxicity Objective
+ Human health risk-based numeric threshold based on fish consumption exposure [Note: Applies only if there are no Ocean Plan objectives for human health protection.]  USEPA NRWQC for human health protection
+[Note: Use criteria based on consumption of aquatic organisms only.]  Aquatic life protective numeric thresholds
+Select the first available numeric threshold from the following hierarchy:
+[Note: Applies only if there are no Ocean Plan objectives for marine aquatic life protection.]  California Department of Fish and Wildlife hazard evaluation or water quality criteria [Note: If available, both the Criteria Continuous Concentration (CCC, normally 4-day average) and Criteria Maximum Concentration (CMC, normally 1-hour average) criteria apply. Sampling frequency should allow determination that both types of criteria are satisfied.]
+
+[page 50]  USEPA NRWQC for saltwater aquatic life protection [Note: If available, both the Criteria Continuous Concentration (CCC, normally 4-day average or 24-hour average) and Criteria Maximum Concentration (CMC, 1-hour average or instantaneous maximum) criteria apply. Sampling frequency should allow determination that both types of criteria are ] First, select one numeric threshold for each of the items above that begins with an arrow (). Record your selections in a table, such as the one shown in Figure 6. Second, select the most stringent numeric threshold from the table. (In the case of aquatic life criteria, numeric thresholds with various averaging periods may apply, as noted ) The result should be a conservative assessment threshold that satisfies all applicable water quality objectives and CWA 303(c) criteria. Where aquatic life protective criteria vary with temperature, pH, or other factors, aquatic life criteria may be the most restrictive under some conditions while other numeric thresholds in the table may be more restrictive under other conditions.
+
+[page 50] Consideration of natural background levels and antidegradation policies may require further modifications to this selection, as discussed below.
+FIGURE 6. OCEAN WATERS ASSESSMENT THRESHOLD ALGORITHM TABLE Water Quality
+Objective / Criterion
+Relevant Portion of
+Objective / Criterion Source Concentration Units
+California Ocean Plan
+Human Health Protection Ocean Plan
+Marine Aquatic Life Protection –
+6-month median Ocean Plan
+Marine Aquatic Life Protection –
+daily maximum Ocean Plan
+Marine Aquatic Life Protection –
+instantaneous maximum Ocean Plan
+Chemical Constituents Numerical Water Quality Objective Basin Plan Toxicity
+Human Health – Fish Consumption USEPA, NRWQC
+Aquatic Life Protection – CCC
+Aquatic Life Protection – CMC
+
+[page 51] A Compilation of Water Quality Goals
+ January 2016 Edition Page 37
+Limitations and Further Assistance
+The above algorithms should be applied carefully, considering the factors of each specific case.
+Automatically selecting numeric assessment thresholds according to these algorithms will not always generate the most appropriate threshold. If certain beneficial uses do not apply, then numeric thresholds protective of those uses should not be considered. To ensure defensibility, it may be appropriate to deviate from the hierarchies in the algorithms described above in specific cases. For example, a particular numeric threshold may be outdated or is in formal dispute at the agency or authority that published the numeric threshold (as was the case with the former Public Health Goal for chromium at OEHHA).
+
+[page 51] In another example, a California health-based numeric threshold may be less stringent than a comparable USEPA numeric threshold. As discussed above, consistency within California government would normally favor the California numeric threshold over the one from USEPA. However, if the California and USEPA numeric thresholds are based on the same toxicologic information and the California numeric threshold is higher simply because it was “rounded off” from the USEPA numeric threshold, it may be appropriate to use the more precise USEPA numeric threshold. It may also be that a risk-management decision prevented the California numeric threshold from being set at the same level as the USEPA numeric threshold, which would favor using the USEPA threshold.
+What these examples show is that, while an algorithm may be useful to guide the selection process, other information and good judgment are needed to select the most appropriate assessment thresholds. To maintain defensibility, arbitrary selection of numeric thresholds must be avoided.
+Selection should be based on sound rationale and should consider the circumstances of each case.
+
+[page 51] Selection should be based on sound rationale and should consider the circumstances of each case.
+The Guiding Principles section above may be consulted to provide the basis for such rationale.
+Documentation of the rationale is very important, should the decision to use a particular numeric threshold be challenged or appealed.
+Footnotes in the Water Quality Goals online database explain limitations on how the numeric thresholds should be applied and provide other useful information. Before using the numeric thresholds, these footnotes should be reviewed to determine the relevance of the limit for the particular situation of interest.
+To assist the user in selecting numeric assessment thresholds based on the above algorithms, a table of limiting thresholds for Step 1 of the selection process (select a single numeric threshold to satisfy each water quality objective/303(c) criterion or relevant portion thereof) has been generated for a number of commonly encountered constituents, based on the format of Figures 3, 4, 5, and 6 above.
+
+[page 51] The table Water Quality-Based Assessment Thresholds may be found on the Internet at http://www.waterboards.ca.gov/water_issues/programs/water_quality_ goals/. Limiting numeric thresholds for groundwater, inland surface waters, enclosed bays and estuaries and ocean waters are identified. The table does not include numeric water quality objectives from the Basin Plans, because these vary from location to location and Region to Region. Make sure to consult the appropriate Basin Plan and add numeric objectives applicable to your particular situation. The table also identifies which numeric thresholds apply to each beneficial use category. This table will be updated on a regular basis.
+As stated above, conservative assessment thresholds may not be appropriate in all circumstances. A case-by-case evaluation of factors relevant to the individual situation, and in most cases Board action, are needed to establish appropriate regulatory limitations.
+Controllable Factors and Antidegradation Policies
+Thus far, the selection of assessment thresholds has only considered compliance with water quality objectives (both numeric and narrative) and CWA 303(c) water quality criteria (CTR and NTR).
+
+[page 51] Thus far, the selection of assessment thresholds has only considered compliance with water quality objectives (both numeric and narrative) and CWA 303(c) water quality criteria (CTR and NTR).
+Additional factors govern the selection of assessment thresholds. According to the Basin Plans’ policy statements, controllable water quality factors are not allowed to cause further degradation of water quality in instances where other factors have already resulted in water quality objectives being
+
+[page 52] A Compilation of Water Quality Goals
+ January 2016 Edition Page 38
+exceeded. Controllable water quality factors are those actions, conditions, or circumstances resulting from human activities that may influence the quality of the waters of the state, that are subject to the authority of the Water Boards, and that may be reasonably controlled.
+Natural background water quality is an example of a water quality factor that is not “controllable.” Where natural background water quality exceeds a water quality objective or the numeric threshold chosen to implement a narrative objective, controllable factors policy statements in some Basin Plans do not require improvement over the natural condition. [Note: This would not apply to federal CWA 303(c) criteria or to any State Water Board-adopted water quality objectives.] In addition, these policy statements prohibit allowing controllable factors to make the condition worse.
+
+[page 52] For example, if the natural background concentration of a substance exceeds a water quality objective, the Water Boards would not normally require that these background conditions be improved, and the natural concentration would be chosen as the applicable numeric threshold for the water body. Arsenic presents a common example. Naturally occurring arsenic in groundwater in many places in California exceeds health-based numeric thresholds (e.g., the PHG) and in some locations exceeds the MCL. In such cases, these background concentrations are normally considered to comply with the applicable water quality objectives. This also highlights cases where the Regional Water Board should consider amending beneficial use designations and/or adopting site-specific water quality objectives.
+
+[page 52] If there is a chance that local background water quality has been influenced by controllable factors (e.g., an upstream or upgradient discharge of waste), then the water quality objective, or numeric threshold chosen to implement the narrative objective, must be implemented. This latter situation is the default assumption for setting effluent limits in the NPDES program, as governed by the SIP, discussed above.
+State Water Board Resolution No. 68-16, the state’s Antidegradation Policy, requires that the quality of high quality waters be maintained “to the maximum extent possible.” High quality means that the water is of better quality than water quality objectives for the constituent or parameter in question. This needs to be evaluated on a constituent-by-constituent basis. The policy allows water quality to be lowered but only if the discharger demonstrates that any change will:
+1) be consistent with the maximum benefit to the people of the state;
+2) not unreasonably affect the water’s present and anticipated beneficial uses; and 3) not result in water quality less than applicable water quality objectives.
+
+[page 52] 2) not unreasonably affect the water’s present and anticipated beneficial uses; and 3) not result in water quality less than applicable water quality objectives.
+In addition, the policy requires that discharges of waste to high quality waters meet “best practicable treatment or control” prior to discharge. If reasonably available technology can achieve constituent concentrations that are better than water quality objectives, then the Water Boards should require that the lower technology-based concentrations be met.
+In the NPDES permit program, the state antidegradation policy is implemented consistent with the federal antidegradation policy in 40 CFR Section 131.12. If a decrease in water quality is allowed under the federal policy, the permit must include all applicable technology-based and water quality-based effluent limits for the relevant pollutant or pollutants of concern.
+
+[page 52] In site cleanup, State Water Board Resolution No. 92-49 affirmed the applicability of the Antidegradation Policy to the process of setting site cleanup levels. Cleanup levels must meet all applicable water quality objectives and must be the lowest concentrations that are technologically and economically achievable. In cases where cleanup technology cannot reasonably meet water quality objectives, Resolution No. 92-49 allows the Regional Water Board to establish a containment zone to manage residual pollution. A further discussion on cleanup levels is presented below.
+In summary, if some water quality degradation is not found to be consistent with maximum benefit to the people of the state or does not represent best practicable treatment or control, strict application of California’s Antidegradation Policy would require that background levels of chemicals in water be selected as appropriate assessment thresholds. Pursuant to Resolution 92-49, cleanup of water to
+
+[page 53] A Compilation of Water Quality Goals
+ January 2016 Edition Page 39
+meet background levels would be required unless attaining such levels is determined to be technologically or economically infeasible. If cleanup levels higher than background are selected, those levels may not exceed applicable water quality standards, i.e., they should not exceed the assessment thresholds.
+Detection and Quantitation Limits
+Analytical detection and quantitation limits may provide additional technologic constraints. When the assessment threshold is lower than what can be quantified with appropriate analytical methods, the laboratory should be required to submit both detection and quantitation limits and to report “trace” results—results that are able to be detected but not necessarily quantified. For normal analytical work, quantitation limits may be found in the following references:
+1) Minimum Levels (MLs), State Water Board, Policy for Implementation of Toxics Standards for Inland Surface Waters, Enclosed Bays, and Estuaries of California (2005), Appendix 4, available on the Internet at
+http://www.waterboards.ca.gov/water_issues/programs/state_implementation_policy/.
+
+[page 53] http://www.waterboards.ca.gov/water_issues/programs/state_implementation_policy/.
+2) Minimum Levels (MLs), State Water Board, Water Quality Control Plan for Ocean Waters of California (2005), Appendix II, available on the Internet at http://www.waterboards.ca.gov/water_issues/programs/ocean/.
+3) Detection Limits for Purposes of Reporting (DLRs), Division of Drinking Water, available on the Internet at http://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/Labinfo.shtml.
+Detection and quantitation limits may also be found in the analytical method manuals from USEPA. Not all laboratories are equipped to run all of the methods contained in these references.
+4) Method Detection Limits (MDLs) Practical Quantitation Limits (PQLs), USEPA analytical method documents, available on the Internet at http://www.nemi.gov/.
+a) SW-846, Test Methods for Evaluating Solid Waste (also contains methods for water samples)
+b) Methods and Guidance for Analysis of Water
+
+[page 53] b) Methods and Guidance for Analysis of Water
+If available methods cannot detect sufficiently low concentrations to determine compliance with the assessment threshold, then it may be necessary to assume that the constituent is not present in the sample. Methods with lower detection and quantitation limits may need to be specified for certain situations. The need for the information should balance the higher cost of such methods. For example, more expensive methods could be reserved for confirmation sampling or be required at a lower frequency. This is in keeping with Section 13267(b) of the California Water Code which instructs that the Water Boards, when requiring dischargers of waste to furnish technical reports, “[t]he burden, including costs, of these reports shall bear a reasonable relationship to the need for the report and the benefits to be obtained from the reports.”
+Justification
+
+[page 53] Justification
+The selection of assessment thresholds for a particular case should be carefully documented. To be defensible, the assessment threshold selected for each constituent must be tied back to a numeric or narrative water quality objective from the Basin Plan or to a CWA 303(c) water quality criterion. Cite the factors used in selecting numeric thresholds to apply narrative objectives and to address uncontrollable factors and antidegradation policies. Include specific rationale in the documentation (e.g., that the selected numeric threshold is the most recently developed numeric threshold; that its use supports and is consistent with guidance from sister California agencies; that it has been peer reviewed; and that it addresses routes of exposure that are directly related to the beneficial use(s) being protected). The descriptions of the types of numeric thresholds and the Guiding Principles, presented above, should be helpful in developing this documentation. The full justification for selected assessment thresholds
+
+[page 54] A Compilation of Water Quality Goals
+ January 2016 Edition Page 40
+should be included in the findings and/or the Information Sheet of proposed permits, waste discharge requirements, and other Board orders.
+An Example of Assessment Threshold Selection
+Suppose that you are investigating a site where a waste oil tank has leaked into the surrounding soils.
+Groundwater sampling results indicate that zinc, trichloroethylene (TCE), benzene, and xylene have reached groundwater. You want to know whether the levels of constituents detected in water samples are of concern.
+The first step is to look at the Basin Plan for the particular Region in which your site is located. Upon examination of that document, you determine that the beneficial uses designated for groundwater beneath the site are municipal and domestic supply (MUN) and agricultural supply (AGR). No numeric groundwater quality objectives are listed in the Basin Plan for the constituents of concern. However, three narrative objectives apply:
+ Chemical Constituents
+Groundwaters shall not contain chemical constituents in concentrations that adversely affect beneficial uses.
+
+[page 54] Groundwaters shall not contain chemical constituents in concentrations that adversely affect beneficial uses.
+At a minimum, groundwaters designated for use as domestic or municipal supply (MUN) shall not contain concentrations of chemical constituents in excess of the maximum contaminant levels (MCLs) specified in Title 22 of the California Code of Regulations.
+ Toxicity
+Groundwaters shall be maintained free of toxic substances in concentrations that produce detrimental physiological responses in human, plant, animal, or aquatic life associated with designated beneficial use(s). This objective applies regardless of whether the toxicity is caused by a singled substance or the interactive effect of multiple substances.
+ Tastes and Odors
+Groundwaters shall not contain taste or odor-producing substances in concentrations that cause nuisance or adversely affect beneficial uses.
+Together, these beneficial uses (MUN and AGR) and the three narrative water quality objectives constitute the water quality standards for groundwater at the site.
+
+[page 54] Together, these beneficial uses (MUN and AGR) and the three narrative water quality objectives constitute the water quality standards for groundwater at the site.
+The next step is to select assessment thresholds for each constituent, based on the narrative objectives. The Water Quality Goals online database contains an extensive set of numeric thresholds that may be relevant to this example. First, we will review these numeric thresholds to determine those that appear to be most appropriate to implement the identified water quality objectives. Second, we will apply the groundwater algorithm to see whether it achieves an equivalent assessment threshold.
+The Chemical Constituents objective from the Basin Plan incorporates by reference California maximum contaminant levels (MCLs) for drinking water. Since the Basin Plans typically do not differentiate between Primary and Secondary MCLs, both types of levels apply. They are:
+Zinc 5000 ug/L
+TCE 5 ug/L
+Benzene 1 ug/L
+Xylene 1750 ug/L
+
+[page 54] Xylene 1750 ug/L
+The Chemical Constituents water quality objective also prohibits chemical constituents in concentrations that adversely affect beneficial uses. A review of available numeric thresholds shows that one of the constituents of concern for this site has a numeric threshold that relates to the use of
+
+[page 55] A Compilation of Water Quality Goals
+ January 2016 Edition Page 41
+water for the agricultural supply beneficial use. An agricultural water use threshold for zinc is 2000 ug/L. Agricultural use protective numeric thresholds are not available for the organic solvents, TCE, benzene and xylene. Note that the zinc agricultural use threshold (2000 ug/L) is more stringent than the MCL (5000 ug/L). This indicates that MCLs are not necessarily protective of sensitive agricultural uses of water.
+To protect long-term municipal water use, federal drinking water MCLs that are lower than California MCLs are also relevant numeric thresholds. However, federal MCLs for benzene (5 ug/L) and xylene (10,000 ug/L) are less stringent than the respective California MCLs. Federal MCLs for zinc and TCE are equivalent to their respective California MCLs.
+
+[page 55] The water quality objective for Toxicity requires that toxic substances not be present in water in amounts that cause detrimental physiological responses in humans or other organisms associated with beneficial uses. Human health-based numeric thresholds for drinking water exposures are relevant values to consider because humans using the groundwater for municipal or domestic water supply could experience toxic effects if exposed to the chemicals of concern above these numeric thresholds.
+Health-based NRWQC and CTR/NTR criteria from USEPA are not relevant to consider for this case, since they are based on the assumption that exposure occurs through ingestion of contaminated fish and shellfish in addition to water consumption. The fish and shellfish consumption exposure route is not normally relevant for groundwater.
+Relevant health-based numeric thresholds for zinc include the following:
+USEPA IRIS Reference Dose 2100 ug/L
+USEPA Health Advisory 2000 ug/L
+
+[page 55] USEPA Health Advisory 2000 ug/L
+IRIS numeric thresholds are usually preferred over USEPA health advisories, because IRIS is intended to reflect USEPA’s most recent health risk information. In this case, the health advisory was derived from the IRIS reference dose by rounding to one significant figure.
+Relevant health-based numeric thresholds for TCE include:
+Primary MCL 5 ug/L
+California Public Health Goal 1.7 ug/L
+USEPA IRIS Reference Dose 3.5 ug/L
+Cal/EPA Cancer Potency Factor 5.9 ug/L
+USEPA IRIS Cancer Risk Level 0.5 ug/L
+USEPA Health Advisory – cancer 3 ug/L
+NAS cancer risk level 1.5 ug/L
+Prop. 65 No Significant Risk Level 7 ug/L
+
+[page 55] Prop. 65 No Significant Risk Level 7 ug/L
+The MCL is not purely health based because it was set equal to the quantitation limit of an older analytical method. The Proposition 65 no significant risk level is based on the less-appropriate 10–5 cancer risk level. All of the remaining numeric thresholds are based on the 10–6 cancer risk level. In USEPA’s IRIS database, the reference dose is less stringent than the cancer risk level, indicating that cancer risk is a more limiting health effect. To be consistent with other California government agencies, the California-derived numeric thresholds (the PHG and the Cal/EPA cancer potency factor) are preferred over USEPA and NAS numeric thresholds for use in California. The PHG is more protective than the Cal/EPA cancer potency factor because the PHG includes exposure through inhalation and dermal contact caused by in-home water use in addition to direct ingestion of water. The NAS criterion from Drinking Water and Health is least relevant because it is much older than the other numeric thresholds, and because it was “based on limited evidence,” as indicated in a footnote in the Water Quality Goals online database.
+
+[page 56] A Compilation of Water Quality Goals
+ January 2016 Edition Page 42
+Relevant health-based numeric thresholds for benzene include:
+California Primary MCL 1 ug/L
+USEPA Primary MCL 5 ug/L
+California Public Health Goal 0.15 ug/L
+USEPA IRIS Reference Dose 28 ug/L
+USEPA Health Advisory 3 ug/L
+Cal/EPA Cancer Potency Factor 0.35 ug/L
+USEPA IRIS Cancer Risk Level 1 to 10 ug/L
+USEPA Health Advisory – cancer 1 to 10 ug/L
+Prop. 65 No Significant Risk Level 3.2 ug/L
+Prop. 65 Max. Allowable Dose Level 12 ug/L
+
+[page 56] Prop. 65 Max. Allowable Dose Level 12 ug/L
+The USEPA Primary MCL is not purely health based because it was set equal to the quantitation limit of an older analytical method. The Proposition 65 No Significant Risk Level is based on the less-appropriate 10–5 cancer risk level. The Proposition 65 Maximum Allowable Dose Level, the USEPA IRIS reference dose, and the USEPA health advisory are significantly higher than the cancer based numeric thresholds, so they do not protect against significant cancer risks. The California Primary MCL may not be purely health protective by comparison to the PHG. Of the remaining numeric thresholds, the PHG is the most recent California-derived numeric threshold. The Cal/EPA cancer potency factor is less health protective because it does not account for inhalation and dermal exposures associated with in-home water use that were included in calculation of the PHG.
+Health-based numeric thresholds for xylene include:
+California Primary MCL 1750 ug/L
+USEPA Primary MCL 10,000 ug/L
+USEPA MCL Goal 10,000 ug/L
+California Public Health Goal 1800 ug/L
+USEPA IRIS Reference Dose 1400 ug/L
+USEPA Health Advisory 1400 ug/L
+
+[page 56] USEPA Health Advisory 1400 ug/L
+The USEPA IRIS reference doses and health advisory are the most stringent and most recent numeric thresholds. However, California derived numeric thresholds are preferred for consistency within California government. [Note: When newer USEPA numeric thresholds differ significantly from OEHHA thresholds, it is recommended that OEHHA staff be contacted to determine whether newer information would adjust their recommended threshold.] The California Primary MCL and the PHG are virtually identical numeric thresholds, with the PHG being published more recently. The difference between these two numeric thresholds reflects only the number of significant figures used.
+In summary, appropriate health-based numeric thresholds for use in implementing the Toxicity water quality objective for the constituents of concern in groundwater in our example are as follows:
+Zinc 2100 ug/L USEPA IRIS RfD
+TCE 1.7 ug/L California Public Health Goal
+Benzene 0.15 ug/L California Public Health Goal
+Xylene 1800 ug/L California Public Health Goal
+
+[page 57] A Compilation of Water Quality Goals
+ January 2016 Edition Page 43
+The third narrative water quality objective, Tastes and Odors, requires that water not contain substances that could impart objectionable tastes or odors to water supplies. As established earlier, beneficial uses of groundwater beneath our site include municipal and domestic supply. Taste- and odor-based (organoleptic) levels include:
+ California and federal Secondary MCLs;
+ USEPA National Recommended Water Quality Criteria based on taste & odor or welfare; and  Other taste and odor thresholds from the scientific and regulatory literature.
+For the constituents of concern, taste- and odor- based numeric thresholds are:
+Zinc 5000 ug/L
+TCE 310 ug/L
+Benzene 170 ug/L
+Xylene 17 ug/L
+Note that xylene can make water taste or smell bad at a concentration that is more than 100-fold lower than the health-based MCL. The USEPA Secondary MCL for xylene, at 20 ug/L, was actually rounded from and is slightly higher than the taste and odor threshold. However, it should not be cited as it is only a proposed level.
+
+[page 57] So far, we have reviewed the available numeric thresholds and selected those that appear to be the most appropriate to apply each of the applicable narrative water quality objectives for each constituent of concern. Following the groundwater algorithm achieves the same result. Selecting a numeric threshold for each constituent and for each arrow bullet in the algorithm leads to the list of numeric thresholds in Figure 7.
+The most stringent of these numeric thresholds for each constituent of concern would ensure compliance with all water quality objectives and should protect all applicable beneficial uses.
+Therefore, the assessment thresholds for the constituents of concern in groundwater at our leaking waste oil tank site are:
+Zinc 2000 ug/L Agricultural Use Limit
+TCE 1.7 ug/L California Public Health Goal
+Benzene 0.15 ug/L California Public Health Goal
+Xylene(s) 17 ug/L Taste & Odor Threshold
+Measured concentrations in groundwater that exceed these assessment thresholds may violate applicable water quality standards.
+
+[page 57] Measured concentrations in groundwater that exceed these assessment thresholds may violate applicable water quality standards.
+The reader is cautioned that these assessment thresholds would apply to groundwater at the hypothetical site in this example, and not necessarily to water bodies in other locations. Water resources at other sites may have different beneficial use designations and water quality objectives than presented in this example.
+Consideration of natural background levels and antidegradation policies may require further modifications to this selection, as discussed above under Controllable Factors and Antidegradation Policies. In the above example, the solvents—TCE, benzene and xylene(s)—are not normally present naturally in groundwater. So, aquifer-specific background levels are not relevant to beneficial use protection and natural background levels are considered to be “zero.”
+
+[page 58] A Compilation of Water Quality Goals
+ January 2016 Edition Page 44
+ADDITIVE TOXICITY CRITERION FOR MULTIPLE CONSTITUENTS When multiple constituents have been found together in groundwater or surface waters, their combined toxicity should be evaluated. In the absence of scientifically valid data to the contrary, Section 2550.4(g) of the Chapter 15, Article 5 regulations, which is referenced in the State Water Board’s Site Investigation and Cleanup Policy, requires that theoretical risks from chemicals found together in a water body “shall be considered additive for all chemicals having similar toxicologic effects or having carcinogenic effects.” Some Water Quality Control Plans also require that combined toxicological effects be considered in this manner. This requirement is also found in the California hazardous waste management regulations [Title 22 of CCR, Section 66264.94(f)], and in the USEPA Risk Assessment Guidance for Superfund (RAGS).
+The commonly used toxicologic formula for assessing additive risk is:
+n
+ _________________________  1.0
+i  1
+
+[page 58] i  1
+The concentration of each constituent is divided by its toxicologic threshold. The resulting ratios— normalized concentrations—are added for constituents having similar toxicologic effects and, separately, for carcinogens. If the sum is less than one (1.0), no additive toxicity problem is assumed to exist. If the summation is equal to or greater than one, the combination of chemicals is assumed to FIGURE 7. EXAMPLE NUMERIC THRESHOLDS FOR CONSTITUENTS OF CONCERN (COCs)
+COC Water Quality
+Objective / Criterion
+Relevant Portion of
+Objective / Criterion Source Concen-
+tration Units
+Zinc
+Chemical Constituents
+Secondary Drinking Water MCL CA DDW, Title 22 of CCR 5000 ug/L Numerical Water Quality Objective Basin Plan none
+Beneficial Use Impairment
+Numeric Threshold Water Quality for Agriculture 2000 ug/L Toxicity Human Health -- Drinking Water USEPA IRIS Reference Dose 2100 ug/L Tastes and Odors Taste & Odor Based Numeric
+Threshold California Secondary MCL 5000 ug/L
+TCE
+Chemical Constituents
+Primary Drinking Water MCL CA DDW, Title 22 of CCR 5 ug/L Numerical Water Quality Objective Basin Plan none
+Beneficial Use Impairment
+Numeric Threshold none
+
+[page 58] Numeric Threshold none
+Toxicity Human Health -- Drinking Water California Public Health Goal 1.7 ug/L Tastes and Odors Taste & Odor Based Numeric
+Threshold Amoore and Hautala 310 ug/L
+Benzene
+Chemical Constituents
+Primary Drinking Water MCL CA DDW, Title 22 of CCR 1 ug/L Numerical Water Quality Objective Basin Plan none
+Beneficial Use Impairment
+Numeric Threshold none
+Toxicity Human Health -- Drinking Water California Public Health Goal 0.15 ug/L Tastes and Odors Taste & Odor Based Numeric
+Threshold Amoore and Hautala 170 ug/L
+Xylene(s)
+Chemical Constituents
+Primary Drinking Water MCL CA DDW, Title 22 of CCR 1750 ug/L Numerical Water Quality Objective Basin Plan none
+Beneficial Use Impairment Limit none
+Toxicity Human Health -- Drinking Water California Public Health Goal 1800 ug/L Tastes and Odors Taste & Odor Based Limit USEPA 17 ug/L [Concentration of Constituent]i
+[Toxicologic Threshold in Water]i
+
+[page 59] A Compilation of Water Quality Goals
+ January 2016 Edition Page 45
+pose an unacceptable level of health risk unless the State or Regional Water Board is presented with convincing information to the contrary.
+For example, in our leaking waste oil tank example discussed above, monitoring shows that groundwater quality beneath the site has been degraded by four constituents of concern in the following concentrations:
+Zinc 1300 ug/L
+TCE 1.5 ug/L
+Benzene 0.1 ug/L
+Xylene 9 ug/L
+None of these concentrations exceeds its respective assessment threshold. However, two of these constituents, TCE and benzene, are associated with cancer risk. The Public Health Goals for TCE and benzene were established at their respective one-in-a-million incremental cancer risk levels:
+TCE 1.7 ug/L
+Benzene 0.15 ug/L
+Individually, no chemical exceeds its toxicologic limit. However, an additive cancer risk calculation shows:
+____  ____  1.5
+The sum of the ratios is greater than unity (1.0); therefore, the additive toxicity criterion has been violated. The chemicals together may present an unacceptable level of toxicity—in this case, an overall cancer risk greater than one-in-a-million.
+
+[page 59] CLEANUP LEVELS IN WATER
+If contaminants are found to impair or threaten the beneficial uses of groundwater or surface water resources, cleanup levels in water must be chosen. To satisfy State Water Board Resolution No. 92-49, the Antidegradation Policy, and Section 2550.4 of Title 23 of CCR, cleanup levels for constituents in water are to be chosen at or below applicable water quality objectives and CWA 303(c) criteria.
+Assessment thresholds, selected using the procedures discussed above, may be used to determine that constituents remaining after cleanup do not exceed these objectives and CWA 303(c) criteria. In addition, cleanup levels must also:
+ Not result in excessive exposure to sensitive biological receptors;
+ Not pose a substantial present or potential hazard to human health or the environment;
+ Not exceed the maximum concentration allowable under applicable statutes or regulations; and  Be the lowest concentration for each individual constituent that is technologically and economically achievable, toward background levels.
+
+[page 59] Conventional health and ecological risk assessment procedures can be used to satisfy the first and second of these additional requirements. Feasibility studies provide information that can be used to satisfy the last requirement.
+CONCLUSION AND STATUS
+This staff report and the accompanying Water Quality Goals online database have been developed to provide a uniform method and a convenient source of numeric thresholds for consistently assessing conformity with California’s water quality standards. Water Quality Goals has been used by the Water 1.5 0.1
+1.7 0.15
+
+[page 60] A Compilation of Water Quality Goals
+ January 2016 Edition Page 46
+Boards as a reference for selecting appropriate numeric thresholds to implement narrative water quality objectives. Three Basin Plans (San Francisco Bay, Sacramento-San Joaquin River, and Tulare Lake) specifically cite Water Quality Goals as a source of such information.
+A Compilation Water Quality Goals will be updated and expanded to account for newly developed numeric water quality information, as needed and as Water Board staff resources are made available for that effort.
+
+[page 61] A Compilation of Water Quality Goals
+ January 2016 Edition Page 47

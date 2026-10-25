@@ -1,0 +1,247 @@
+Distribution Operator and Water Treatment Operator Certification Guidance
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/dw-ooc-guidance-document.pdf
+Date printed: none found
+
+[page 1] Rev. 6/2024
+Office of Operator Certification
+Drinking Water Operator Certification Program
+Distribution Operator and Water Treatment Operator Certification Guidance
+
+[page 2] Rev. 6/2024
+Office of Operator Certification
+Drinking Water Operator Certification Program
+Distribution Operator and Water Treatment Operator Certification Guidance
+Table of Contents
+
+[page 2] Table of Contents
+Introduction ............................................................................................................................................... 3 Operator Certification Requirements.................................................................................................. 3 Examination Requirements and Application .................................................................................... 5 Certification Requirements and Application..................................................................................... 7 Operator Experience Requirements.................................................................................................... 8 Certificate Renewal.................................................................................................................................. 9 Reciprocity ............................................................................................................................................... 11 Enforcement ............................................................................................................................................
+
+[page 3] 3
+Rev. 6/2024
+Introduction
+The State Water Resources Control Board’s (State Water Board) Drinking Water Operator Certification requirements ensure that customers of any public water system are provided with adequate supply of safe, potable drinking water, consumers are confident that their water is safe to drink, public water system operators are trained and certified, and that they have knowledge and understanding of the public health reasons for drinking water standards. To further these goals, the State Water Board has coordinated with the Drinking Water Operator Certification Advisory Committee, the Operator Experience Guidance Sub Workgroup, and stakeholders to develop the Drinking Water Operator Certification Program (DWOCP), Distribution Operator and Water Treatment Operator Certification Application Guidance (Guidance) to assist applicants in applying for drinking water operator certification.
+Disclaimer
+This Guidance only applies to the Drinking Water Operator Certification Program.
+
+[page 3] This Guidance only applies to the Drinking Water Operator Certification Program.
+Unless otherwise specified, the term “operator” collectively refers to water distribution operators and water treatment operators and the term “certificate” or “certification” collectively refers to water distribution operator certificates and water treatment operator certificates. This Guidance is for informational purposes only; it does not establish any rules or requirements for operator certification.
+Applicants must refer to the following for the applicable statutes and regulations that apply to drinking water operator certification:
+• Health and Safety Code, division 104, part 1, chapter 4, article 3, section 106875 et seq.;
+• Health and Safety Code, division 104, part 12, chapter 4, article 1, section 116275;
+• Health and Safety Code, division 104, part 12, chapter 4, article 7, section 116555; and
+• California Code of Regulations, title 22, division 4, chapter 13, section 63750.10 et seq. (DWOCP Regulations).
+Operator Certification Requirements
+
+[page 3] Operator Certification Requirements
+Any person operating a water distribution system must hold a valid, unexpired water distribution operator certificate. “Operates a water distribution system” means actions or decisions to control the quality or quantity of drinking water in a water distribution system, including: 1) supervision of other persons operating a water distribution system;
+and 2) all activities listed in subdivisions (b) through (d) of section 63770 of the DWOCP Regulations, as an activity that may only be performed by a person with a water
+
+[page 4] 4
+Rev. 6/2024
+distribution operator certificate.1 Any person operating a water treatment system must hold a valid, unexpired water treatment operator certificate. “Operates a water treatment plant” means actions or decisions to control the performance of one or more drinking water treatment processes, including: 1) supervision of other persons operating a water treatment plant; and 2) all activities listed in subdivisions (c) and (d) of section 63770 of the DWOCP Regulations, as an activity that may only be performed by a person with a water treatment operator certificate.1 Any person operating a water recycling plant must hold either a valid, unexpired wastewater treatment plant operator certificate or a valid, unexpired water treatment operator certificate.2 Any person operating a water distribution system, water treatment plant, or water recycling treatment plant without an appropriate, valid, unexpired certification is guilty of a misdemeanor and may be liable civilly.
+
+[page 4] In accordance with separate legal requirements or employer directives, operators also may be required to obtain an advanced water treatment operator certificate from the California-Nevada Section of the American Water Works Association and the California Water Environment Association.
+To be certified as a water distribution operator or water treatment operator, an applicant must meet all the following:
+• Minimum education requirements to take the examination for each applicable grade level and pass the examination. The amount of education required increases with each grade level.
+• Minimum experience requirements for each applicable grade level. The amount of operator experience required increases with each grade level.
+Chief and Shift Operator Requirements
+A “chief operator” is the person who has overall responsibility for the day-to-day, hands-on, operation of a water treatment plant or the person who has overall responsibility for the day-to-day, hands-on, operation of a water distribution system. A “shift operator” is the person in direct charge of the operation of a water treatment plant or water distribution system for a specified period of the day.
+
+[page 4] The chief operator of a water distribution system must hold a valid water distribution operator certificate equal to or greater than the classification of the water distribution system. Shift operators of a water distribution system with a D4 classification or lower must hold a valid water distribution operator certificate no more than one grade level 1 The activities listed in subdivisions (c) and (d) of section 63770 of the DWOCP Regulations may be conducted by a person holding either a water distribution operator certificate or a water treatment operator certificate.
+2 For more information on operator requirements for water recycling treatment plants, see Water Code, division 7, chapter 9, section 13625 et seq. and California Code of Regulations, title 23, division 3, chapter 26, section 3670 et seq.
+
+[page 5] 5
+Rev. 6/2024
+lower than the classification of the water distribution system. Shift operators of a water distribution system with a D5 classification must hold a valid water distribution operator certification no more than two grade levels lower than the classification of the water distribution system. All other persons who conduct any operations at the water distribution system must hold a valid water distribution operator certificate. For more information on these provisions, refer to section 63770 of the DWOCP Regulations.
+
+[page 5] The chief operator of a water treatment plant must hold a valid water treatment operator certificate equal to or greater than the classification of the water treatment plant. Shift operators of a water treatment plant with a T4 classification or lower must hold a valid water treatment operator certificate no more than one grade level lower than the classification of the water treatment plant. Shift operators of a water treatment plant with a T5 classification must hold a valid water treatment operator certification no more than two grade levels lower than the classification of the water treatment plant. All other persons who conduct any operations at the water treatment plant must hold a valid water treatment operator certificate. For more information on these provisions, refer to section 63765 of the DWOCP Regulations.
+Examination Requirements and Application
+
+[page 5] Examination Requirements and Application
+To be eligible for examination, an applicant must meet the minimum education requirements for examination at the applicable grade level. Applicants for an operator examination for a water distribution operator grade 3 level or above and for a water treatment operator grade 4 level or above also must meet the applicable valid certification requirements outlined below. By passing an operator examination, the examinee demonstrates that the examinee has the necessary skills, knowledge, ability, and judgement appropriate for the grade level.
+Minimum education requirements:
+• Have a high school diploma or general equivalency diploma.
+o Water distribution operator grades 1 and 2 also may fulfill this requirement with either the successful completion of the State Water Board’s Basic Small Water Systems Operations Examination or 1 year as an operator of a facility that required an understanding of piping systems that include pumps, valves, and storage tanks. For more information on and to take the State Water Board’s Basic Small Water Systems Operations Examination, contact the Office of Operator Certification.
+
+[page 5] o Water treatment operator grades 1 and 2 also may fulfill this requirement with either the successful completion of the State Water Board’s Basic Small Water Systems Operations Examination or 1 year as an operator of a facility that required an understanding of chemical feeds, hydraulic systems, and pumps. For more information on and to take the State Water Board’s Basic Small Water Systems Operations Examination, contact the Office of Operator Certification.
+
+[page 6] 6
+Rev. 6/2024
+• Water distribution operator grades 2 and above:
+o Complete the required number of courses of specialized training, including the required number of specialized training courses in water supply principles.
+• Water treatment operator grades 2 and above:
+o Complete the required number of courses of specialized training, including the required number of specialized training courses that cover the fundamentals of drinking water treatment.
+Minimum certification requirements:
+• Water distribution operator grade 3:
+o Must hold a valid grade 2 distribution certification.
+• Water distribution operator grade 4:
+o Must hold a valid grade 3 distribution certification.
+• Water distribution operator grade 5:
+o Must hold a valid grade 4 distribution certification.
+• Water treatment operator grade 3:
+o Must hold a valid grade 2 treatment certification.
+• Water treatment operator grade 4:
+o Must hold a valid grade 3 treatment certification.
+• Water treatment operator grade 5:
+o Must hold a valid grade 4 treatment certification.
+For more information on these provisions, refer to sections 63775 and 63780 of the DWOCP Regulations and appendices I and II.
+
+[page 6] For more information on these provisions, refer to sections 63775 and 63780 of the DWOCP Regulations and appendices I and II.
+To apply for an examination, an applicant must:
+• Complete and submit the applicable examination application;
+• Submit the applicable fee, which is listed on the examination application; and • Submit the following required documents:
+o Copy of a high school diploma (or the name and location of the high school and date of graduation) or general equivalency diploma; and o Official transcripts or certificates of completion.
+For more information about examination application content, refer to section 63785 of the DWOCP Regulations.
+Within three years of passing the examination, an examinee must apply for the applicable certification and meet the minimum eligibility criteria. If the applicant does not apply for the applicable certification and meet the minimum eligibility criteria within three years of passing the applicable examination, the applicant must retake the applicable examination. For more information on these provisions, refer to sections 63775 and 63780 of the DWOCP Regulations.
+
+[page 7] 7
+Rev. 6/2024
+Examination questions are confidential. Any person who engages in dishonest conduct during an examination, including, but not limited to, copying questions or removing all or part of any examination from the examination location, or who conveys or exposes all or part of any examination for an unauthorized use may be denied certification pursuant to subdivisions (a)(5) and (b)(5) of section 106877 of the Health and Safety Code. Any person who uses unauthorized reference material during the examination also may be denied certification. The applicant also may be subject to additional disciplinary action in accordance with Health and Safety Code section 106877 and may be liable civilly pursuant to subdivision (c) of section 106878 of the Health and Safety Code.
+Examinees are advised that the State Water Board will investigate any person that it believes has divulged any portion of an examination to any other person and will pursue an enforcement action against that person if the investigation reveals that the person did divulge any portion of an examination to any other person.
+Certification Requirements and Application
+
+[page 7] Certification Requirements and Application
+To be eligible for certification, an applicant must pass an examination at the applicable grade level. Applicants for an operator certificate at a grade 3 level or above must also meet the applicable minimum experience requirements.
+To apply for certification, an applicant must:
+• Pass the operator examination for the applicable grade level;
+• Within three years of passing the examination, complete and submit the applicable certification form:
+o Applicants for an operator certificate at a grade 2 level or below complete and submit the certification request form, provided at the examination testing site with examination results;
+o Applicants for an operator certificate at a grade 3 level or above complete and submit the applicable certification application;
+• Submit the applicable fee, which is listed on the certification form; and • If applying for a water distribution operator certificate or water treatment operator certificate at the grade 3 level or above, submit the following required documents to demonstrate that the applicant has met the minimum experience requirements:
+o Supervisor letter;3
+o Organization Chart;4
+
+[page 7] o Organization Chart;4
+o Official Job Description/Duty Statement;5 and
+o Water Systems Classification.6
+3 For a sample document refer to Appendix III.
+4 For a sample document refer to Appendix IV.
+5 For a sample document refer to Appendix V.
+6 For a sample document refer to Appendix VI.
+
+[page 8] 8
+Rev. 6/2024
+Operator Experience Requirements
+Applicants for a water distribution operator certificate or water treatment operator certificate at the grade 3 level and above must meet minimum on-the-job operator experience requirements. The amount of operator experience required increases with each grade level.
+Experience can be obtained by operating a water distribution system or water treatment plant while holding the applicable certificate. Specifically, “operator experience” means the daily performance of activities consisting of the control or oversight of any process or operation of a water treatment plant or in a water distribution system that may affect the quality or quantity of water.
+There are two required categories of operator experience:
+
+[page 8] There are two required categories of operator experience:
+• Time-in-Grade Experience – experience gained by an operator with a certificate at the specified grade level while operating a water distribution system or water treatment plant that has a classification equivalent to that specified grade level or higher. For example, the eligibility criteria for water treatment operator certification at the grade 4 level requires at least one year of operator experience working as a shift or chief operator, while holding a valid water treatment operator certificate at the grade 3 level, at a water treatment plant classified as a level 3 facility or higher. Water treatment operator experience gained at a lower grade or facility classification will not meet this requirement.
+• Additional years of operator experience – experience gained by a certified operator while operating any classification of water treatment plant or water distribution system.
+
+[page 8] • Additional years of operator experience – experience gained by a certified operator while operating any classification of water treatment plant or water distribution system.
+There also are some provisions in the DWOCP Regulations that allow an applicant to meet specified experience requirements through obtaining other types of experience or additional education. For more information on these provisions, refer to sections 63800 and 63805 of the DWOCP Regulations and appendices I and II.
+Evaluation of Operator Experience Credit
+Generally, the State Water Board will award certification applicants who work full-time 40 hours per week of operator experience and will award certification applicants who work part-time a prorated amount of operator experience. When certification applicants work in both disciplines (water distribution operator and water treatment operator), the hours per week of operator experience must be divided between both disciplines, not counted for both, and clearly stated on each supervisor letter.
+
+[page 8] Generally, the State Water Board will award no more than 40 hours per week of operator experience. It should be noted, however, that certification applicants who have been designated a chief operator or a shift operator may be awarded additional operator
+
+[page 9] 9
+Rev. 6/2024
+experience to account for the increased workload and responsibility that typically come with these job duties.
+In order for the State Water Board to consider awarding additional operator experience to a certification applicant who serves, or used to serve, as a chief operator or shift operator, the certification applicant should:
+• Provide a supervisor letter3 from the chief operator and/or shift operator of a water distribution system or water treatment plant.
+• Be designated in the State Water Board, Division of Drinking Water’s Electronic Annual Reports (eAR) as a chief operator and/or shift operator of a water distribution system or water treatment plant.
+Additional Operator Experience Credit for Shift and Chief Operators Water Distribution System (WDS)
+Water Treatment Plant (WTP)
+Chief Operator – Responsibilities as defined in section 63750.25 WDS Generally, up to an additional 20 hours per work week WTP Generally, up to an additional 20 hours per work week Shift Operator – Responsibilities as defined in section 63750.70 WDS Generally, up to an additional 10 hours per work week WTP Generally, up to an additional 10 hours per work week Certificate Renewal
+
+[page 9] Certificates are valid for only three years. It is the operator’s responsibility to renew their certificate before it expires regardless of whether the operator received a notice. To assist operators and as a courtesy, the Office of Operator Certification generally sends:
+1) a renewal reminder notice approximately 6 months prior to the certificate’s expiration;
+and 2) a notice of expiration if the certificate is not renewed before it expires. For more information on these provisions, refer to sections 63840 and 63845 of the DWOCP Regulations. Operators cannot legally operate with an expired certificate. Any person operating a water distribution system, water treatment plant, or water recycling treatment plant without an appropriate, valid, unexpired certification is guilty of a misdemeanor and may be liable civilly.
+To be eligible for certificate renewal, an operator must complete the applicable number of continuing education contact hours, on or after the date of issuance of the certificate and before the certificate expires.
+To apply for renewal, an applicant must:
+• Complete and submit the applicable renewal application;
+
+[page 9] • Complete and submit the applicable renewal application;
+• Submit the applicable fee listed on the renewal application; and • Submit copies of proof of completion of the applicable number of required
+
+[page 10] 10
+Rev. 6/2024
+continuing education contact hours.
+Continuing Education Requirements
+Number of Required Continuing Education Contact Hours* Grade 1 Grade 2 Grade 3 Grade 4 Grade 5
+12 hours 16 hours 24 hours 36 hours 36 hours
+*No more than 25% may be safety related
+1 Continuing Education Unit (CEU) 3-Unit College Semester Course Generally, equivalent to 10
+continuing education contact hours
+Generally, equivalent to 45
+continuing education contact hours
+Continuing education contact hours may be earned by attending water industry meetings, conferences, workshops, in-house training, college courses, correspondence courses, and online classes that are a minimum of fifty minutes long. Multiple short classes over different days may not be combined to equal one contact hour. Operators, dual certified in water distribution and water treatment, may apply the same continuing education contact hours to both certifications, provided that the hours were earned within the certification renewal period for each certification.
+Acceptable forms of proof of completion include, but are not limited to:
+• Copies of certificates of completion
+• School transcripts that include the following:
+
+[page 10] • School transcripts that include the following:
+o Name of school
+o Operator’s name
+o Name of the class
+o Semester or date of class completion
+o Number of semester units
+o Final grade
+• Sign-in sheets that include the following:
+o Name of company
+o Date
+o Name of class
+o Duration of class
+o Operator’s name and signature
+o Name and phone number of training coordinator
+• Printed training history on company letterhead that includes the following:
+o Operator’s name
+o Date of each class
+o Name of each class
+o Duration of each class
+o Name and phone number of training coordinator
+o Signature of the training coordinator
+
+[page 11] 11
+Rev. 6/2024
+Generally, the State Water Board will award instructors credit for up to 50 percent of the required continuing education contact hours from instructing drinking water classes at a college. To receive credit, the instructor should submit a letter from the school that is on school letterhead and includes the following:
+• Name of instructor (operator’s name)
+• Where the class took place (name of school, city, and state)
+• Title of the class and subject
+• Date(s) when the class took place (example – 8 weeks, every Monday from January 10, 2016 – March 10, 2016 from 6:00pm to 9:00pm)
+• Number of units, if applicable
+• Name, phone number, and signature of the human resources contact person or a supervisor verifying the information
+Reinstatement
+
+[page 11] Reinstatement
+If the applicable continuing education contact hours are not completed by the certificate expiration date, the operator has a six-month grace period to complete them. During this grace period, the certification is expired and the operator cannot work in operations until the certification has been renewed. If an operator completes the applicable continuing education contact hours within six months of the certification’s expiration, the operator is eligible to apply for certification renewal for up to one year after the certification expiration date. Certifications that are not renewed within one year of the certification expiration date no longer can be renewed, and the individual must take and pass an examination to be eligible for a new certification. For more information on these provisions, refer to section 63845 of the DWOCP Regulations.
+Reciprocity
+The State Water Board may grant certification through reciprocity.
+
+[page 11] The State Water Board may grant certification through reciprocity.
+To be eligible for certification through reciprocity, an applicant must hold a valid, unexpired, comparable water distribution operator certificate or water treatment operator certificate issued by another State, the United States, a territory, or tribal government that has been designated as the primacy agency by the United States Environmental Protection Agency, or a unit of any of these. An applicant’s education and experience must be equitable to the California requirements.
+To apply for reciprocity an applicant must:
+• Complete and submit the applicable reciprocity application;
+• Submit the applicable fee, which is listed on the reciprocity application; and • Submit the following required documents:
+o Copy of a valid, unexpired, operator certificate;
+
+[page 12] 12
+Rev. 6/2024
+o Copies of transcripts or certificates of completion for water distribution or water treatment courses;
+o Organization Chart;4 and
+o Official Job Description/Duty Statement.5
+Enforcement
+Any person operating a water distribution system, water treatment plant, or water recycling treatment plant without an appropriate, valid, unexpired certification is guilty of a misdemeanor and may be liable civilly. Owners or permittees and supervising operators, including chief operators, who permit a person who does not have an appropriate, valid, unexpired certification to operate a water distribution system, water treatment plant, or water recycling treatment plant also may be liable for permitting this violation.
+An applicant who submits false or misleading information on an application for certification or an examination is guilty of a misdemeanor and may be liable civilly.
+Supervising operators, including chief operators, who sign false or misleading supervisor letters in support of an applicant’s application for certification also may be guilty of a misdemeanor and may be liable civilly.
+
+[page 12] Any person, or government agency may file an allegation with the State Water Board, Office of Enforcement. Complaints may be submitted via email directly to the Office of Enforcement, Special Investigators Unit at SIU@waterboards.ca.gov. For additional information you may also visit the complaints webpage, https://www.waterboards.ca.gov/water_issues/programs/operator_certification/complaint .html.
+The State Water Board may suspend, revoke, or refuse to grant or renew any water distribution operator certificate or may place on probation or reprimand a water distribution certificate holder upon any reasonable grounds, including, but not limited to, any of the reasons set forth in subdivision (b) of Health and Safety Code section 106877. Any water distribution operator who commits specified acts set forth in Health and Safety Code section 106878 also is guilty of a misdemeanor and may be liable civilly.
+
+[page 12] The State Water Board may suspend, revoke, or refuse to grant or renew any water treatment operator certificate or may place on probation or reprimand a water treatment certificate holder upon any reasonable grounds, including, but not limited to any of the reasons set forth in subdivision (a) of Health and Safety Code section 106877. Any water treatment operator who commits specified acts set forth in Health and Safety Code section 106878 also is guilty of a misdemeanor and may be liable civilly. In addition, any water treatment operator who operates a water recycling plant may be subject to discipline or civil liability under the statutes and regulations applicable to Wastewater Operator Certification.
+
+[page 13] 13
+Rev. 6/2024
+Appendices
+Appendix I: Drinking Water Distribution Minimum Requirements Appendix II: Drinking Water Treatment Minimum Requirements Appendix III: Supervisor Letter – sample
+Appendix IV: Organization Chart – sample
+Appendix V: Official Job Description/Duty Statement – sample Appendix VI: Water Systems Classification – sample Complete appendices are located at:
+Drinking Water Distribution Exam and Cert Requirements (ca.gov)
+Drinking Water Treatment Exam and Cert Requirements (ca.gov)
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/s amplesupervisorletter.pdf
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/s ampleorgchart.pdf
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/s amplejobdescription.pdf
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/s amplewtrsysclass.pdf

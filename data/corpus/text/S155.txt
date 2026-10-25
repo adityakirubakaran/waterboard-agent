@@ -1,0 +1,203 @@
+DWSRF Technical Application Package (Planning/Design)
+https://www.waterboards.ca.gov/drinking_water/services/funding/documents/srf/dwsrf_policy/f3-dwsrf-application-plan-technical.pdf
+Date printed: none found
+
+[page 1] Financial Assistance Application
+(REV. 05/2024)
+Page 1 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+STATE OF CALIFORNIA FINANCIAL ASSISTANCE APPLICATION STATE WATER RESOURCES CONTROL BOARD Drinking Water State Revolving Fund Division of Financial Assistance
+P. O. Box 944212, Sacramento, CA 94244-2120
+Technical Application Instructions (Planning)
+The Technical Package is intended to provide detailed technical information about the project. The Technical Package must include a description of the water treatment facilities, the problem being addressed, and a detailed Scope of Work (SOW). In addition, the applicant must demonstrate that the water system has the required water rights for the project. This section provides information on how to complete the Technical Package for a planning application.
+Project Name – Enter the title or name of the project. This name should match that on the California Environmental Quality Act (CEQA) documents, resolutions, and any other existing documents.
+
+[page 1] Project Name – Enter the title or name of the project. This name should match that on the California Environmental Quality Act (CEQA) documents, resolutions, and any other existing documents.
+Water System Number – Enter the seven-digit number assigned to your drinking water system. You can visit Drinking Water Watch to obtain the number for your water system: https://sdwis.waterboards.ca.gov/pdww/ Applicant Name – Enter the entity that will be the legal signatory to a financing agreement. This should match the name provided in the General Information Package.
+Type of Project – Check all project types that apply. If you select “other,” you must enter a description in the space provided.
+Section I – Technical Information
+Description of Water System Facilities (Attachment T1) – Describe the water system and its facilities.
+Include thorough details of source(s), storage, treatment, and the distribution system. Attach a schematic/map of the system which includes existing facilities. Identify local Groundwater Sustainability Agencies (GSAs) per the Sustainable Groundwater Management Act (if applicable). (Attachment T1)
+Section II – Project Summary
+
+[page 1] Section II – Project Summary
+Problem Description (Attachment T2) – Describe the problem being addressed by the project and attach documents delineating the problem that is being addressed. Such supporting documents include but are not limited to the water quality data (last two years), most recent compliance orders, violations, citations, and sanitary surveys. If the Compliance Order is related to a Maximum Contaminant Level (MCL) exceedance, indicate the contaminant. Briefly discuss potential solutions to be investigated as part of this project. If a single solution will be studied in this project, provide an explanation why alternatives have been eliminated.
+
+[page 1] Scope of Work (Attachment T3) – Provide a Scope of Work (SOW) that includes each task to be performed during the planning project and label as Attachment T3. The SOW should outline all tasks necessary to complete a DWSRF construction application. Each task should include corresponding milestones and deliverables that are consistent with the construction application requirements. The SOW should also contain a time schedule and cost estimate broken down by task. The contents of the SOW must include, but are not limited to, the following:
+1. Project Background –The SOW must include a description of the water system and its facilities, including details relating to sources, storage, treatment, and distribution. Describe the water system’s present condition, suitability for continued use, adequacy of water supply, current water system capacity, age of facilities, and water quality. In addition, include a description of the problem being addressed by the project.
+2. Tasks (Milestones) – Each project is unique, therefore the tasks included in the SOW must be specific
+
+[page 2] Financial Assistance Application
+(REV. 05/2024)
+Page 2 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+to the proposed planning project. The applicant is responsible for determining the tasks that must be completed as part of the planning project which would lead to the submittal of a complete Construction Application (https://www.waterboards.ca.gov/drinking_water/services/funding/SRFForms.html) including all necessary parts of the Technical, Environmental, and Financial Packages.
+3. Deliverables – The applicant must determine appropriate deliverables for each task and complete those accurately and in a timely manner. The applicant, in coordination with the assigned project manager, must determine the format of the deliverables and the appropriate entity to which each deliverable needs to be submitted. Often, deliverables are required to be sent to the Division of Financial Assistance, the Division of Drinking Water District Office, or a Local Primacy Agency (LPA)
+county.
+
+[page 2] county.
+4. Time Schedule – The applicant must provide a project schedule for the planning project. The project schedule should outline the expected time of completion for each task. The timeframes should be expressed in months from the anticipated date of execution of a financing agreement, rather than specific dates. The applicant should note that tasks may need to be developed sequentially to ensure all deliverables are up to date. The time schedule must represent the timing of tasks required to complete a project. The applicant should determine the best methodology to present the time schedule based on the complexity of the project. Common project scheduling tools, including a Gantt chart, can be used to present the proposed project schedule.
+
+[page 2] 5. Cost Estimate – The applicant must provide a detailed cost breakdown of the entire planning project by different task. The cost estimate basis must represent the best prediction of the cost for quantities, resources, deliverables, risks, and uncertainties in the scope of work. In addition, the cost estimate must be consistent with the project information available at the specific time when the cost estimate is developed. The applicant may provide a more detailed cost estimate as the project advances through the approval process. Contingency for uncertainties and risks are subject to approval by the assigned project manager. With the approval of the assigned project manager, the applicant is responsible for effectively estimating, controlling, and managing the project budget. This ensures the project moves forward in a timely manner.
+
+[page 2] 6. Greenhouse Gas (GHG) Reduction Efforts – Provide a detailed description of any project components that will reduce GHG emissions (e.g., solar photovoltaic (PV) electricity, replacing existing pumps with a more energy efficient electric pump, variable frequency drive (VFD) on a pump motor to better match output needs and improve pump efficiency, energy efficiency retrofits, and/or water saving, etc.)
+Engineering Report (Attachment T4) – If available, provide an Engineering Report, or similar document, that is related to the project for which the applicant is seeking funding. The contents of the Engineering Report are intended to provide the Division of Financial Assistance with sufficient information to evaluate whether the project is eligible for DWSRF financing, meets applicable technical requirements, and is likely to meet applicable objectives and standards.
+
+[page 2] Professional Engineering Services Contract (Attachment T5) – Attach a copy of the professional engineering services contract for each engineering consultant contracted for the project. The professional services contract will form the basis for reimbursement of costs incurred relating to the project. Lack of supporting documentation may result in the denial of a claim. California Law requires that a professional engineer utilize a written contract when providing professional engineering services. The contract shall be executed by both the professional engineer and their client prior to commencing work. California law requires that the written contract for engineering services shall include, but not limited to, all of the following:
+• A description of the services to be provided by the professional engineer • A description of any basis of compensation applicable to the contract, and the method of payment agreed upon by the parties
+
+[page 3] Financial Assistance Application
+(REV. 05/2024)
+Page 3 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+• Name, address, and license or certificate number of the professional engineer, and the name and address of the client
+• A description of the procedure that the professional engineer and the client will use to accommodate additional services
+• A description of the procedure to be used by any party to terminate the contract A written contract for engineering services should also include a scope of work, costs, and deliverable due dates.
+Section III – Water Rights (Attachment T6)
+Description of Water Rights – Describe the nature of the water rights applicable to your water source.
+Discuss the status of any existing or proposed water acquisitions. Attach water rights documentation related to your water source associated to the project. This may include documents such as permits, licenses, letters of authority, or other agreements showing all water rights owned or controlled by the system.
+If you have questions regarding whether a petition is required you may contact the Division of Water Rights at (916) 341-5300 or dwr@waterboards.ca.gov.
+
+[page 3] If you have questions regarding whether a petition is required you may contact the Division of Water Rights at (916) 341-5300 or dwr@waterboards.ca.gov.
+1. Surface Water – If the water source for this project is surface water, indicate whether the source of the water is a stream or other surface water body, or subterranean stream flowing through a known and definite channel to another location. If the applicant holds sufficient water rights for the project, provide a copy of water rights and label as Attachment 6. Indicate whether the applicant holds an Appropriative or Riparian water right. Refer to the State Water Board’s Water Rights website for further details:
+
+[page 3] https://www.waterboards.ca.gov/waterrights/board_info/water_rights_process.shtml#law • Appropriative – If the applicant has an appropriative water right, indicate whether it is a Pre-1914 or a permitted/licensed water right. If Pre-1914, provide a statement that water rights were established prior to 1914, and enter the statement number in the file provided in the construction application. If after 1914, provide a copy of the SWRCB water rights permit or license, and enter the permit or license number provided in the construction application.
+• Riparian – Provide a statement that water is derived from a surface source pursuant to a riparian right and include a map showing location relative to extraction point.
+2. Groundwater – If the water source for this project is groundwater, indicate whether the source is an unadjudicated or adjudicated source.
+• Unadjudicated Basin: Provide a statement that the groundwater is extracted from a basin that is not adjudicated. Provide copies of the deeds for the parcels of each unadjudicated groundwater source used by the system.
+
+[page 3] • Adjudicated Basin: Attach the deed for the parcels of each adjudicated groundwater source that notes the adjudication or provide documentation of the Basin Water Master’s terms of the adjudication as they relate to the water system’s right to extract water from the adjudicated basin.
+3. Purchased Water – Provide a copy of the water service agreement for purchased water that specifies the duration of the authorization. Be aware that for SWRCB funded projects the long-term use agreements for purchased water must extend for the life of the loan or a minimum of 20 years for grant funded projects. In the construction application, enter the name of the wholesaler and length of the purchasing agreement.
+Water Diversion Reporting – Check () the box indicating if you are a water diverter in compliance with Water Code Section 5103. For information see:
+
+[page 4] Financial Assistance Application
+(REV. 05/2024)
+Page 4 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+https://www.waterboards.ca.gov/waterrights/water_issues/programs/diversion_use/ Section IV – Comprehensive Response to Climate Change (Attachment T7)
+Complete this section if a proposed facility has already been selected. Otherwise, applicants will need to include this analysis for the selected construction project in the Engineering Report submitted as part of the planning project.
+1. Vulnerability – Provide a detailed description of all effects of climate changes that the proposed facilities are susceptible to. Include critical threshold conditions that may cause damage to the facility or result in loss of services.
+2. Adaptation – Provide a detailed description of all applied adaptation measures considered by the applicant. Include adaptation measures deemed unnecessary and explain why such measures were eliminated.
+3. Mitigation – Provide a detailed description of all mitigation measures considered by the applicant.
+Include mitigation measures deemed unnecessary and explain why such measures were eliminated.
+
+[page 4] Include mitigation measures deemed unnecessary and explain why such measures were eliminated.
+4. Definitions – Climate change vulnerability, mitigation, and adaptation are defined below:
+a. Vulnerability: This term is used to identify effects of climate change that the facility may be susceptible to. Some effects overlap. For example, a treatment facility built on the coast may be severely vulnerable to sea level rise. It would be a poor investment for the State to invest in a treatment facility with an expected useful life of 50 years when the facility is projected to be under water in 20 years due to sea level rise. Coincidentally, as sea level rises, the neighboring groundwater aquifers may be vulnerable to saltwater intrusion and water quality issues. The two effects are related, and both should be discussed in the attachment. Other examples of vulnerability include, water supply depletion, adverse water supply quality, flooding/storm surges, drought, and wildfires.
+
+[page 4] b. Adaptation: This term is used to identify measures taken as a direct response to climate change effects. Multiple measures can be taken in response to a single vulnerability. For example, in response to sea level rise an agency may investigate constructing sea walls or levees in order to prevent flooding. Flood contingencies should also be explored to protect the facility if the levees fail or in the event of severe storm surges.
+c. Mitigation: This term is used to identify measures taken to slow or stop changes caused by greenhouse gas emissions in the atmosphere. Measures identified in adaptation may also be used for mitigation. For example, water conservation may be an adaptation response to drought vulnerability but a mitigation measure by reducing the energy consumed to move excessive volumes of water. Green roofing as an adaptation measure will help to reduce the heat island effect of an urban community, and as a mitigation measure will reduce the energy consumed to heat and cool the building.
+Section V – Drought Planning (Attachment T8)
+
+[page 4] Section V – Drought Planning (Attachment T8)
+Check () the box indicating if you are a Small Water Supplier or Non-Transient Non-Community Water System in compliance with California Water Code Section 10609.60 through Section 10609.63.
+Check () the box indicating if this project includes components to come into compliance with California Water Code Section 10609.60 through Section 10609.63.
+For information see: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220SB552
+
+[page 5] Financial Assistance Application
+(REV. 05/2024)
+Page 5 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+Provide supporting documentation for all compliance, deficiencies, and plans to comply.
+Section VI – Attachment Checklist
+All attachments must be submitted to consider this application package complete. Below is a list of the required attachments:
+T1 –Schematic/Map of System and Facilities
+T2 – Supporting Documents of the Problem
+T3 – Scope of Work (see application instructions)
+T4 – Engineering Report (If available)
+T5 –Professional Engineering Services Contract
+T6 – Water Rights Documentation
+T7 – Supporting Documents for Climate Change Response T8 – Documentation for Compliance with Drought Planning
+
+[page 6] Financial Assistance Application
+(REV. 05/2024)
+Page 6 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+Describe the water system and its facilities. Include details relating to source, storage, treatment, and distribution system. Attach a schematic/map of the system which includes existing facilities (label as Attachment T1).
+I. TECHNICAL INFORMATION
+TECHNICAL PACKAGE (PLANNING)
+It is important that you read and understand the Application Information and Instructions before you complete this application. Submit this application along with required attachments through the Financial Assistance Application Submittal Tool (FAAST). All fields are required.
+Project Name:
+Water System Number:
+Applicant (Entity) Name:
+Type of Project: ☐ Treatment ☐ Distribution/Transmission ☐ Water Supply ☐ Water Shortage ☐ Other
+
+[page 7] Financial Assistance Application
+(REV. 05/2024)
+Page 7 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+II. PROJECT SUMMARY
+1. Problem Description: Describe the problem being addressed by the planning project and attach supporting documents of the problem (label as Attachment T2).
+
+[page 8] Financial Assistance Application
+(REV. 05/2024)
+Page 8 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+2. Attach a Scope of Work for the Project (label as Attachment T3).
+3. Attach an Engineering Report or similar Technical report if available (label as Attachment T4).
+4. Attach a copy of the applicable professional engineering services contract (label as Attachment T5).
+III. WATER RIGHTS
+DESCRIPTION OF WATER SOURCE (label as Attachment T6):
+☐Yes
+1. Surface Water – Is the source of water for this project a stream or other surface water body, or subterranean stream f lowing through a known and definite channel to another location?
+☐No (If No, proceed to question 2.)
+☐Yes - If Yes,
+2. Does the entity currently hold sufficient water rights for the project?
+☐Yes – Provide a copy of the water right(s) (label as Attachment T6).
+☐No – Proceed to question 1.b and 1.c.
+3. If a new water right permit is required, has an application for a water right been f iled with the State Water Board, Division of Water Rights?
+☐Yes – Provide a copy of the water right application (label as Attachment T6).
+
+[page 8] ☐Yes – Provide a copy of the water right application (label as Attachment T6).
+Provide the status of the Petition for Change or the Order Number and Date of the Order Approving the Change:
+☐No – Provide the date you anticipate submitting the water right application:
+☐N/A
+4. Is a change to a water right or transfer required to implement the project, and has a Petition for Change been f iled with the State Water Board, Division of Water Rights?
+☐Yes – Provide a copy of the Petition for Change (label as Attachment T6).
+☐No – Provide the date you anticipate submitting the Petition f or Change:
+5. Groundwater – Is the groundwater an adjudicated or unadjudicated source?
+☐Unadjudicated (Provide documentation and label as Attachment T6).
+☐Adjudicated (Provide documentation and label as Attachment T6).
+6. Purchased Water – Is the water for this project purchased?
+☐No (If Yes, provide purchasing agreement and label as Attachment T6).
+Name of Wholesaler:
+What is the length of purchasing agreement?
+WATER DIVERSION REPORTING
+Are you a water diverter in compliance with Water Code Section 5103?
+☐YES ☐NO
+
+[page 8] ☐YES ☐NO
+For information see: https://www.waterboards.ca.gov/waterrights/water_issues/programs/diversion_use/
+
+[page 9] Financial Assistance Application
+(REV. 05/2024)
+Page 9 of 9 Technical Package (Planning)
+Drinking Water State Revolving Fund
+IV. COMPREHENSIVE RESPONSE TO CLIMATE CHANGE
+Identify how the current water system facilities are vulnerable to climate change and the potential impact the proposed project may have on climate change. (Detailed study, analysis, and description to be included in this project as part of the engineering report.)
+☐ N/A – Proposed facility has not been selected, and analysis will be completed in Final Project Report.
+1. Vulnerability – Identify effects of climate change to which the facility may be susceptible ☐Sea Level Rise ☐Water Supply Depletion ☐Water Supply Quality ☐Flooding/Storm Surges ☐Forest Fires ☐Drought
+☐Other (Explain below):
+2. Adaptation – Identify Measures taken in response to climate change.
+☐Alternative Energy Sources ☐Drought Resiliency and Flood Contingency ☐Permeable Pavements ☐Elevated construction, Sea Walls, and Levees ☐Green Roofing ☐Fire Resistant Water Connections and Hydrants ☐Other (Explain below):
+3. Mitigation – Identify Actions taken to reduce concentration of greenhouse gases in the atmosphere.
+
+[page 9] 3. Mitigation – Identify Actions taken to reduce concentration of greenhouse gases in the atmosphere.
+☐Renewable Energy Sources ☐Energy Conservation
+☐Water Conservation
+☐Other (Explain below):
+V. DROUGHT PLANNING
+As applicable, are you a Small Water Supplier or Non-Transient Non-Community Water System in compliance with Water Code Section 10609.60 through Section 10609.63? ☐Yes ☐No ☐N/A (Skip this section)
+Does this project include components to come into compliance with California Water Code Section 10609.60 through Section 10609.63. ☐Yes ☐No ☐N/A
+For information see: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220SB552 Provide supporting documentation for all compliance, deficiencies, and plans to comply (Label as Attachment T8)
+VI. ATTACHMENT CHECKLIST
+Check the box next to each item attached to your application.
+☐T1 – Schematic/Map of System and Facilities
+☐T2 – Supporting Documents of the Problem
+☐T3 – Scope of Work (see application instructions)
+☐T4 – Engineering Report (or Similar; i.e., Feasibility Studies, Pre-design, or Conceptual Design)
+☐T5 –Professional Engineering Services Contract
+☐T6 – Water Rights Documentation
+
+[page 9] ☐T6 – Water Rights Documentation
+☐T7 – Supporting Documents for Climate Change Response ☐T8 – Documentation for Compliance with Drought Planning

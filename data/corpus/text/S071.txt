@@ -1,0 +1,142 @@
+ELAP FAQs
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/elap_faq.html
+Date printed: 08/02/2024
+
+## ELAP FAQs
+- General
+- Proficiency Testing
+- Reciprocity Accreditation
+- Third-Party Assessments
+General
+Q: Which laboratory tests require ELAP accreditation?
+A: California Health and Safety Code § 100825 requires laboratories that perform analyses on any combination of environmental samples, or raw or processed agricultural products for regulatory purposes shall obtain a certificate of accreditation pursuant to this article. “Regulatory purposes” is defined as a statutory or regulatory requirement of a state board, office, or department, or of a division or program that requires a laboratory certified under this article or of any other state or federal agency that requires a laboratory to be accredited. ELAP provides accreditation for the testing procedures used to generate this data. ELAP does not accredit laboratories for methods used only for internal process control work.
+Q: Which laboratory tests do not require accreditation?
+A: The California Water Code § 13176 exempts field tests such as color, odor, turbidity, pH, temperature, dissolved oxygen, and disinfectant residual from the requirement that testing be performed in an accredited laboratory.
+
+## ELAP FAQs > Proficiency Testing
+- Does CA ELAP have approved Proficiency Testing (PT) providers?
+Yes. All laboratories must choose from a list of seven approved PT providers:
+- Absolute Standards, Inc.
+- Advanced Analytical Solutions, LLC -
+- Environmental Resource Associates, Inc. (ERA)
+- NYS DOH Wadsworth Center
+- NSI Solutions, Inc.
+- Phenova
+- What should I do if the PT provider my laboratory uses does not offer the PT I need?
+You need to check with the other approved providers for the PTs you need. Not all providers offer all PTs, and it is the laboratory’s responsibility to check with all approved PT providers to get the PTs you need.
+- What if there is not a PT available for an analyte through any of the approved providers?
+The laboratory does not need to participate in a study when there are no PTs available through any provider. However, ELAP may require verification of quality control data as an alternative demonstration of capability.
+- If my laboratory does not pass the PT evaluation for one or more subgroups in its application, will we get an extension to complete the PTs, as was offered in the past?
+
+## ELAP FAQs > Proficiency Testing
+- If my laboratory does not pass the PT evaluation for one or more subgroups in its application, will we get an extension to complete the PTs, as was offered in the past?
+No. After January 1, 2021, the laboratory will no longer receive a courtesy notice and thirty-day extension beyond the due date to correct deficiencies in PT requirements. This practice was adopted to help laboratories transition to the Water Boards because laboratories were historically not required by the program to meet the PT requirements as written in regulation while ELAP was at the Department of Public Health. Under the new regulations, laboratories are required to meet the due dates established in regulation and will receive the results of the evaluation when the certificate is issued.
+- How do I get a Field of Accreditation added back to my certificate if I am denied accreditation for not submitting an acceptable PT?
+To be reinstated after denial or suspension of an FOA, the laboratory must achieve an Acceptable Score in a PT study for that FOA and submit an amendment application package, in accordance with Section 64808.15.
+- What matrix should I request when ordering a PT from a PT provider?
+
+## ELAP FAQs > Proficiency Testing
+- What matrix should I request when ordering a PT from a PT provider?
+- Drinking water FOAs require a “water supply” (WS) or “drinking water” study
+- Non-potable and ambient water FOAs require a “water pollution” (WP) or “wastewater” study
+- Hazardous waste FOAs require a “soil” or “hazardous waste” study
+- Can the results for a drinking water PT be used to meet the requirements for PTs in other matrices like non-potable water and hazardous waste?
+No. You must perform PTs in the matrix you are applying or accredited for.
+- Is a separate PT required for Colilert and Colilert 18?
+Yes. Separate PT study results are required for Colilert and Colilert 18.
+- Where can I email if I have PT related questions?
+Please send all PT questions to: ELAPCA_PT@waterboards.ca.gov.
+
+## ELAP FAQs > Reciprocity Accreditation
+- What is “reciprocity” accreditation?
+Reciprocity accreditation is granted to a laboratory located physically outside of California based on that laboratory’s primary accreditation by another state or nongovernmental accreditation body. This is also commonly called “secondary” accreditation. ELAP relies on the assessment, evaluation, and determinations of an acceptable primary accrediting body or bodies to grant accreditation to a laboratory to conduct regulatory analysis in California for specific analyses
+- Can my laboratory apply for reciprocity accreditation?
+Laboratories physically located outside of California must apply for accreditation via reciprocity. Laboratories in California cannot apply for accreditation via reciprocity.
+- Does California ELAP grant primary accreditation to laboratories located outside of California?
+No.
+- What primary accrediting bodies are acceptable to apply with?
+- If applying for Drinking Water Fields of Accreditation that are federally regulated under the Safe Drinking Water Act, the laboratory must have primary accreditation from a state accreditation body.
+
+## ELAP FAQs > Reciprocity Accreditation
+- If applying for Drinking Water Fields of Accreditation that are regulated by California for state-specific requirements outside of the Safe Drinking Water Act, the laboratory’s primary accreditation may be a state accreditation body or a TNI-recognized non-governmental accreditation body.
+- When applying for all other Fields of Accreditation, the laboratory’s primary accreditation may be a state accreditation body or a TNI-recognized non-governmental accreditation body.
+- Will the National Voluntary Laboratory Accreditation Program (NVLAP) be accepted as a primary accrediting body?
+NVLAP will be accepted as a primary accrediting body only until January 1, 2024. At that time, laboratories will need to have a primary accrediting body that evaluates laboratories to the 2016 TNI Standard, or higher.
+- What should I do if my laboratory’s primary accrediting body does not offer accreditation for all the FOAs that we would like to be accredited for in California?
+
+## ELAP FAQs > Reciprocity Accreditation
+- What should I do if my laboratory’s primary accrediting body does not offer accreditation for all the FOAs that we would like to be accredited for in California?
+The laboratory will need to obtain another primary accreditation for those FOAs before applying. For California specific methods, you would need an on-site assessment or accreditation from one of the non-governmental accreditation bodies in addition to the state accreditation body.
+
+## ELAP FAQs > Third-Party Assessments
+- What is a Third-Party Assessment Agency (TPA)?
+A “TPA” is any NELAP-recognized state or non-governmental accreditation body that performs evaluations of environmental laboratories. These include any TNI state accreditation body (FL, IL, KS, LA, MN, NH, NJ, NY, OK, OR, PA, TX, UT, VA), any TNI-recognized NGAB (A2LA, ANAB, IAS, PJLA), or any DoD- or DoE-recognized accreditation body (A2LA, ANAB, IAS, PJLA).
+- What are their qualifications?
+TPAs must prove they meet the extensive management and technical requirements in the TNI Standard for accreditation bodies, which is based on the international standard ISO 17011. They are evaluated every three years. This is very similar to the process a laboratory goes through to become accredited, but with different requirements. Part of the evaluation includes proving that assessors are qualified for the assessments they perform.
+- Which laboratories must use a TPA?
+
+## ELAP FAQs > Third-Party Assessments
+- Which laboratories must use a TPA?
+Laboratories with sophisticated technologies must use a TPA. Sophisticated technology means analytical instruments, detection systems, and/or preparation techniques requiring an advanced level of user understanding, including:
+gas chromatography/mass spectrometry (GC/MS), inductively coupled plasma spectrometry (ICP), inductively coupled plasma/mass spectrometry (ICP/MS), liquid chromatography/mass spectrometry (LC/MS), atomic absorption spectrophotometry (AA), gas chromatography (GC), alpha particle or gamma ray spectrophotometry, electron microscopy (EM), polarized light microscopy (PLM), high pressure performance liquid chromatography (HPLC), bioanalytical assays,
+advanced molecular methods and other similar instruments or technologies.
+- If my laboratory has both sophisticated and non-sophisticated technologies, do I need to have two assessments (one by a TPA and one by ELAP)?
+No. The TPA should assess the full scope for which you plan to apply. If you were to have an assessment done by both bodies, you would need to pay two assessment fees – one to the TPA and one to ELAP.
+
+## ELAP FAQs > Third-Party Assessments
+- Can a laboratory without sophisticated technology choose to use a TPA?
+Yes. You do not need to use sophisticated technology to have a TPA assess your laboratory.
+- Will ELAP tell me which TPA to use?
+No. Laboratories can select any qualified TPA that has signed an agreement with the State Water Board. A list of TPAs is maintained on ELAP’s Laboratory Assessments webpage.
+- Who pays the TPA?
+The laboratory pays the TPA directly.
+- How much does it cost?
+ELAP does not set the cost of TPA assessments, and laboratories should reach out to TPAs to find out the different pricing available. Laboratories that use TPAs will not be required to pay ELAP an assessment fee, but instead will pay ELAP only the application or annual accreditation fee.
+- What is the process for using a TPA?
+See our snazzy Roadmap to Accreditation: Overview of Third-Party Assessment Process graphic for details.
+- Who schedules the assessment?
+The laboratory contacts the TPA and works with them to determine a convenient assessment date.
+- When should the assessment take place?
+
+## ELAP FAQs > Third-Party Assessments
+- When should the assessment take place?
+ELAP recommends initiating an assessment one year before you need to have it fully complete. However, a laboratory can schedule an assessment whenever is most convenient, provided it is either within one year preceding the submittal of an amendment or initial application, or during the two-year accreditation window of your certificate for renewal applications.
+- Do TPA’s have adequate insurance to satisfy municipal government requirements for their contractors?
+Generally, yes. If your municipality has specific requirements, you need to inquire with the TPAs when you contact them.
+- Will the laboratory be penalized for a delay on behalf of the TPA?
+No. Contact ELAP if this happens so we can help you move forward.
+- What are the TPA’s responsibilities?
+They will conduct the laboratory’s on-site assessment, including all necessary pre- and post- assessment activities, for any laboratory utilizing a TPA. This includes planning, scheduling, assembly of a qualified assessment team, document review, traveling to and from your location, the actual on-site assessment, issuance of the On-Site Assessment Report, and Corrective Action Plan review.
+
+## ELAP FAQs > Third-Party Assessments
+- What are the laboratory’s responsibilities?
+The laboratory is responsible for determining if it needs or wants to use a TPA, selecting an approved TPA for the assessment, contacting the TPA to schedule, fulfilling documentation requests, participating in the on-site assessment, and completing the on-site assessment (including the Corrective Action Plan) before you submit your application for accreditation in accordance with required timelines.
+- What auditing standards will TPAs use during the three-year transition period before TNI is required?
+The TPAs can audit to either the 2016 TNI Standard with two exceptions as listed in California Code of Regulations 64802.05 (a)(1) or to the requirements of the California Code Regulations, Section 64802.05 (b) (which are similar to the previous regulations but include a few new quality assurance requirements). A checklist for the 2016 TNI Standard is available online at www.nelac-institute.org and a checklist for California regulations to be used during the transition period is available on ELAP’s Forms and Checklists webpage.
+
+## ELAP FAQs > Third-Party Assessments
+- Will ELAP review the On-Site Assessment Report and/or Corrective Action Plan before the TPA sends it to the laboratory?
+No, this process occurs between the TPA and laboratory. ELAP reviews the OSAR and CAP during review of the laboratory’s application and prior to granting accreditation.
+- Can I disagree with a finding from a TPA?
+Yes, at several separate points in the process. First, a laboratory can dispute a finding with their assessor during the assessment and corrective action processes (TPAs are required to have formal processes to do so). Secondly, a laboratory can contact TNI and file a Request for Standards interpretation if the dispute involves the TNI Standard requirements. If those avenues are not sufficient, a laboratory can use the Assessment Dispute Request Form on the Forms and Checklists webpage to file a dispute with ELAP at the time of application if it does not agree with the final report from the TPA. ELAP will review the dispute and decide. Lastly, a laboratory can petition any final decision made by ELAP to the State Water Board through the process established in California Health and Safety Code §116701.
+- What do I do once my assessment is complete?
+
+## ELAP FAQs > Third-Party Assessments
+- What do I do once my assessment is complete?
+For renewal applications, you will apply according to your existing application deadline. Include the documentation from your assessment in your application package. Initial and amendment applications can be submitted upon completion of the assessment, assuming all other application requirements have been met as well.
+- Is the TPA accrediting my laboratory to do regulatory work in California?
+No. The TPA is only performing the on-site assessment requirement needed to obtain CA ELAP accreditation. Some TPAs can offer accreditation to different standards and a laboratory can elect to pursue those accreditations in addition to the assessment if it wishes. However, you must apply to California ELAP and be granted accreditation from ELAP to submit results to a California regulatory agency. ELAP makes all decisions about accreditation.
+- How does ELAP oversee TPA activities?
+
+## ELAP FAQs > Third-Party Assessments
+- How does ELAP oversee TPA activities?
+Each TPA has signed a Memorandum of Understanding (MOU), which defines service terms the TPAs must meet to in order to have their assessments accepted by California ELAP. If a TPA does not comply with the requirements, the TPA would not be able to continue providing assessments for California. ELAP will audit TPA activities annually and promptly investigate complaints to ensure they are following the requirements established in the MOU.
+- How does ELAP ensure assessments are fair and that TPA assessors are impartial?
+ELAP’s regulations require that all TPAs meet minimum standards set by NELAP, the US Department of Defense, or US Department of Energy. Their standards are based on ISO 17011, the international industry standard for laboratory accrediting bodies, which has robust requirements to ensure that accredited organizations meet professional and ethical codes of conduct, including requirements for staff qualifications, impartiality, conflicts of interest, and internal audits, amongst others. Additionally, TPAs are required to submit an annual report of their work to ELAP, which will be incorporated into our own internal audit.
+
+## ELAP FAQs > Third-Party Assessments
+- I have a serious grievance with my TPA that is not solvable through their dispute process. What should I do?
+You can contact ELAP at any time to lodge a formal complaint, which ELAP will investigate and respond to. This process is to address serious issues, not mediate disagreements about on-site assessment findings, which should be resolved during the corrective action process, through TNI’s Standards Interpretation Response process, by filing a dispute with your application, or by petitioning ELAP’s final determination. Additionally, the laboratory may consider terminating its employment of the TPA.
+- Does every TPA follow the same procedures?
+Although the TPAs all follow requirements based on 17011, each TPA has the flexibility to conduct assessment activities in a manner that suits its own business practices while meeting the needs of the laboratory and the requirements of ELAP. Many TPA processes are similar and may be available for the laboratory to review prior to hiring the TPA. Although the MOU will provide the requirements for the essentials and guidelines for reporting, it is not our intent to dictate all aspects of the process.
+(Page last updated 08/02/2024)

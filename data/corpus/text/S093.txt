@@ -1,0 +1,61 @@
+Permanent Closure Requirements for Underground Storage Tank with Single-Walled Components
+https://www.waterboards.ca.gov/water_issues/programs/ust/single_walled.html
+Date printed: 06/24/2026
+
+## Permanent Closure Requirements for Underground Storage Tank with Single-Walled Components > Background
+On September 25, 2014, Senate Bill (SB) 445 (Stats. 2014, Ch. 547) changed the underground storage tank (UST) program regarding design and construction of USTs. These changes are reflected in Health and Safety Code, chapter 6.7 (H&SC), section 25292.05. Specifically, this change required that on or before December 31, 2025, the owner or operator must have permanently closed a UST if it was designed and constructed before January 1, 1984, and does not meet the requirements of H&SC, section 25291(a)(1)-(6) or if it was designed and constructed before January 1, 1997 in accordance with H&SC, section 25291(a)(7).
+
+## Permanent Closure Requirements for Underground Storage Tank with Single-Walled Components > Background
+All regulated USTs that do not meet the requirements of H&SC, section 25291(a)(1)-(6), must have been permanently closed on or before December 31, 2025 in accordance with H&SC, section 25298, and the California Code of Regulations, title 23, chapter 16 (UST Regulations), section 2672 (currently section 2681). A single-walled UST is either the tank and/or the connected piping which do not have secondary containment and a continuous leak detection system meeting the requirements of H&SC, section 25291(a)(1)-(6). UST Systems which do not have secondary containment and a continuous leak detection system that have not been permanently closed by the regulatory due date are out of compliance, cannot be operated, and could be red tagged by the Unified Program Agency (UPA) or the State Water Resources Control Board (State Water Board), preventing fuel deliveries and dispensing. Penalties for systems out of compliance are $500 to $5,000 per day per underground storage tank.
+UST Statutes and Regulations are available here:
+- Health and Safety Code, chapter 6.7
+- California Code of Regulations, Title 23, Chapter 16
+
+## Permanent Closure Requirements for Underground Storage Tank with Single-Walled Components > Available Guidance for the Closure of Single-Walled UST Systems
+The State Water Board has prepared guidance in the form of Local Guidance (LG) 171 - Permanent Closure of Underground Storage Tanks That Do Not Meet Health and Safety Code, Chapter 6.7, Section 25291, Subdivisions (a)(1)-(6) to help owners, operators, and UPA staff navigate single-walled closure statute and regulation. LG 171 summarizes the main provisions of SB 445 as they apply to UST design and construction. The guidance addresses common questions of UST owners, operators and UPA staff. In addition, LG 171 specifies what actions are necessary for USTs that do not meet all the requirements of H&SC, section 25291(a)(1)-(6).
+- Single-Walled UST Enforcement for Unified Program Agencies 2025
+- Single-Walled UST Enforcement Guidance for Unified Program Agencies
+- UST Closure Deadline Reminder for Single-Walled UST Owners and Operators
+- The Technical Details of Single-Walled Systems (2023 CUPA Conference Presentation)
+- LG 171 – Permanent Closure of Underground Storage Tank
+- Single-Walled UST Closure Commitment Plan Workshop
+- Replacing, Removing, or Upgrading Underground Storage Tanks (RUST) Program
+
+## Permanent Closure Requirements for Underground Storage Tank with Single-Walled Components > Available Funding for the Cleanup of Single-Walled UST Systems
+If a release is discovered upon permanent closure by removal, the owner or operator may need to undertake corrective action (i.e., investigate and clean up the release). Filing a claim application with the UST Cleanup Fund, completing corrective action, and receiving reimbursement for eligible corrective action costs is a lengthy process. The deadline for submitting a claim application to the UST Cleanup Fund for reimbursement of eligible costs for corrective action is December 31, 2034. The UST Cleanup Fund sunsets on January 1, 2036. Therefore, it is best for owners and operators to utilize these resources as early as possible.
+More information on the UST Cleanup Fund can be found here:
+- Underground Storage Tank Cleanup Fund
+
+## Permanent Closure Requirements for Underground Storage Tank with Single-Walled Components > Outreach
+The State Water Board and the UPAs continue to work with owners and operators of single-walled USTs to ensure compliance with the December 31, 2025 permanent closure deadline. As part of these efforts, the State Water Board, in partnership with the U.S. Environmental Protection Agency and their contractor, Tellus Civic Science, is actively engaging with single-walled UST owners and operators about the past due deadline and available funding opportunities.
+
+## Permanent Closure Requirements for Underground Storage Tank with Single-Walled Components > Map of Facilities with a Single-Walled Tank and/or Piping
+The State Water Board, Office of Enforcement’s interactive single-walled UST map can be found below:
+Permanent Closure Requirements for Single-Walled USTs
+
+## Permanent Closure Requirements for Underground Storage Tank with Single-Walled Components > Questions or Comments
+For more information regarding the requirements for USTs with single-walled components or a complete list of UST facilities with single-walled components, please visit the Office of Enforcement, Single-Walled UST website: Permanent Closure Requirements for Single-Walled USTs
+Or contact
+Jenna Hartman, REHS
+Supervisor, Office of Enforcement
+State Water Resources Control Board
+Jenna.Hartman@waterboards.ca.gov
+(Page last updated 06/24/2026)
+
+## Questions or Comments > Resources
+- UST Home
+- Cleanup
+- - Petition How To
+- - Low-Threat Policy
+- - LUFT Manual
+- Cleanup Fund
+- Enforcement
+- ESI GeoTracker
+- Leak Prevention
+- - LG Letters
+- - Tank Tester Licensing
+- Online GeoTracker
+- Publications
+- Regulatory Agencies
+- Statutes & Regulations
+- UST Program News

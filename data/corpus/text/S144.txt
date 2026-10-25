@@ -1,0 +1,122 @@
+Annual Water Diversion and Use Reporting Help – Guidelines and Help
+https://www.waterboards.ca.gov/waterrights/water_issues/programs/water_diversion_reporting/
+Date printed: 1/8/26
+
+## Annual Water Diversion and Use Reporting Help – Guidelines and Help
+All water right holders must submit Water Diversion and Use Reports electronically to the State Water Resources Control Board annually. (CCR, Title 23, Division 3, Chapter 2.7.). These reports provide critical water diversion and use data for water rights across the state.
+
+## Annual Water Diversion and Use Reporting Help – Guidelines and Help > Important Upcoming Dates
+Reporting Period | Reporting Begins | Reporting Deadline
+October 1, 2024 – September 30, 2025 | October 21, 2025 | January 31, 2026
+October 1, 2025 – September 30, 2026 | October 1, 2026 | January 31, 2027
+
+## Annual Water Diversion and Use Reporting Help – Guidelines and Help > Late Reporting Fees
+Annual reports submitted more than 30 days after the deadline will be subject to late fees. You can avoid these late fees by submitting your water use report on time – before February 1 of each year.
+The amount of the late fee can be substantial and is based on how late the water use information is reported and the size of the water right as shown in the table below.
+Summary of Late Reporting Fees
+Size of Water Right
+(acre-feet) | 1-30 days late | 31-60 days late | 61-90 days late | >90 days late
+Up to 100 | No late fee | 25% of annual fee | 40% of annual fee | 50% of annual fee
+>100-1,000 | No late fee | 30% of annual fee | 45% of annual fee | 55% of annual fee
+>1,000-5,000 | No late fee | 40% of annual fee | 50% of annual fee | 60% of annual fee
+>5,000-25,000 | No late fee | 50% of annual fee | 60% of annual fee | 75% of annual fee
+>25,000 | No late fee | 60% of annual fee | 75% of annual fee | 85% of annual fee
+Current fee schedules can be found at: https://www.waterboards.ca.gov/resources/fees/water_rights/
+
+## Annual Water Diversion and Use Reporting Help – Guidelines and Help > Filing your Annual Water Use Report
+To file your annual water use report:
+- Reporting Letter: A reporting letter will be sent to you via USPS Mail in Fall 2025 (anticipated in October). Refer to the instructions provided in the letter to create a California Water Accounting, Tracking, and Reporting System. (CalWATRS) account and link your water rights to your account.
+- Log into CalWATRS
+- Submit Your Report: Follow the instructions in CalWATRS to submit your annual water use data. Be prepared to provide information about beneficial uses and monthly diversion amounts.
+- Stay Updated: Ensure your contact and ownership information is accurate. If you need to update your contact or ownership information, visit https://www.waterboards.ca.gov/changerequest/.
+
+## Annual Water Diversion and Use Reporting Help – Guidelines and Help > Need Help?
+If you have questions or need assistance regarding your annual water use report, please reach out to us before January 2026. As the deadline approaches, we experience a high volume of calls, which can lead to longer response times.
+For the quickest assistance, we encourage you to email the Division of Water Rights at CalWATRS-Help@waterboards.ca.gov. You can also call us at (916) 341-5333, but please be aware that call back times may be longer during peak periods.
+
+## Frequently Asked Questions > 1. How do I access my report in CalWATRS?
+You will receive a letter via USPS mail Fall 2025. Refer to the instructions in the letter to create a CalWATRS account, link your water right(s), and access your report(s). If you do not receive letter, please contact our office at (916) 341-5333 or via email at: CalWATRS-Help@waterboards.ca.gov.
+
+## Frequently Asked Questions > 2. What happens if I don’t submit my report before February 1?
+If you miss the reporting deadline, your report will be considered late. Although late fees do not apply if your report is submitted within 30 days of the deadline, you still may be subject to fines of up to $500 per day for late reports. To minimize the risk of penalties, it’s crucial to submit your report as soon as possible.
+
+## Frequently Asked Questions > 3. Can I change my report after submitting it?
+Yes, you can amend your report in CalWATRS after submitting it. To amend your report, log into CalWATRS, navigate to the report you want to edit, and select “Amend Report”. If you encounter any problems, contact our office for assistance.
+
+## Frequently Asked Questions > 4. What if my water right ownership or contact information has changed?
+You are required to notify the State Water Board within 30 days of any changes to ownership, contact information, or diverter information. Failure to do so may result in fines. You can update this information by submitting the appropriate change request form, which can be found at https://www.waterboards.ca.gov/changerequest/.
+
+## Frequently Asked Questions > 5. Do I need to submit a report if I didn’t divert any water during the reporting period?
+Yes, all water right holders are required to submit a report even if no water was diverted. If you will no longer be diverting water, you may request a voluntary revocation request by logging into CalWATRS and submitting a Request for Revocation form.
+
+## Frequently Asked Questions > 6. How can I confirm that my report was successfully submitted?
+When you file a report, you will receive an email confirmation. Log into CalWATRS to view your submitted report and any previously submitted reports.
+
+## Frequently Asked Questions > 7. What documents or information should I have ready before filing my report?
+Most reports require the following:
+- Use of water Information
+- Types of beneficial uses
+- Crop information for irrigation use, including area irrigated
+- Monthly water diversion amounts for the following:
+- Amount directly diverted
+- Amount diverted to storage
+- Amount used
+Information Required for Advanced Reporting and Larger Diversions:
+- Monthly Maximum Rate of Diversion (if available)
+- Water Transfer Information
+- Water Supply Contract Information
+- Measurement Device Information (for diversions > 10 acre-feet annually)
+- View the measurement page for more details
+- Reservoir Information (if your water right includes storage)
+- Name of reservoir
+- Spillway Information
+- Water Levels
+- Water Conservation Information
+- Water Quality and Wastewater Reclamation
+- Conjunctive Use of Groundwater and Surface Water
+
+## Frequently Asked Questions > 8. Are there any penalties for incorrect information in my report?
+When you submit your report, you certify under penalty of perjury that the information contained in your report is true and correct. If you discover an error, promptly log in to CalWATRS and amend your report.
+
+## Frequently Asked Questions > 9. What should I do if I am unable to file my report electronically?
+All water use reports must be submitted electronically; paper reports are not accepted. If you're having trouble filing your report, our staff is here to help. We can provide guidance and resources to assist you in completing the process successfully. Please reach out to us before the reporting deadline so that you have time to obtain assistance and file your report before the deadline.
+
+## Frequently Asked Questions > 10. What are the late reporting fees if I miss the deadline?
+Late fees are calculated as a percentage of your annual water right fee, and the amount increases depending on how late your report is filed. The structure is as follows:
+- 31-60 days late: 25% to 60% of the annual water right fee
+- 61-90 days late: 40% to 75% of the annual water right fee
+- More than 90 days late: 50% to 85% of the annual water right fee
+Larger water rights incur higher late fees, and the fee increases the later your report is submitted. For details about the annual water rights fee schedule, visit https://www.waterboards.ca.gov/resources/fees/water_rights/
+
+## Frequently Asked Questions > 11. How will I be notified if I incur a late reporting fee?
+The late reporting fee will be added to the amount regularly assessed in your annual water right fee invoice. The California Department of Tax and Fee Administration issues the fee invoices in November each year. The notice will provide details on the fee amount and payment instructions.
+Subscribe directly to the Water Rights Reporting Notification Email List
+Subscribe to our Water Rights Reporting Notification email list to receive notifications and the latest updates. After subscribing, you will need to check your email host for a confirmation email to complete the subscription.
+
+## Frequently Asked Questions > Contact Us
+CalWATRS-Help@waterboards.ca.gov
+(916) 341-5333
+Related Pages
+- Water Measurement Requirements
+- California Water Accounting, Tracking, and Reporting System (CalWATRS)
+- Water Rights Forms
+- Water Rights Fees
+(Page last updated 1/8/26)
+
+## Related Pages > Water Rights Resources
+- Applications: Permitting & Licensing
+- Bay-Delta Program
+- Business Help
+- Complaints and Enforcement
+- Hearings
+- Petitions and Transfer
+- Policies & Regulations
+- Public Trust
+- Records (CalWATRS)
+- Registrations
+- Orders, Decisions & Judgments
+- Useful Water Rights Information
+- Water Quality Certification
+- Water Rights Fees
+- Water Use Reports & Measurement
+- More Programs

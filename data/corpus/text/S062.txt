@@ -1,0 +1,190 @@
+Reciprocity Accreditation Application
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/docs/applications/elap-reciprocity-accreditation.pdf
+Date printed: none found
+
+[page 1] State Water Resources Control Board
+APPLICATION FOR RECIPROCITY ACCREDITATION
+Environmental Laboratory Accreditation Program
+This application is for use by laboratories geographically located outside of California seeking accreditation by reciprocity under the California Environmental Laboratory Accreditation Act (Health & Saf. Code, division 101, part 1, chapter 4, commencing with section 100825).
+California ELAP does not grant primary accreditation to out-of-state laboratories.
+Laboratories located outside of California must apply for accreditation by reciprocity using primary accreditation(s) as described below:
+· If applying for Drinking Water Fields of Accreditation that are federally regulated under the Safe Drinking Water Act – the laboratory must have primary accreditation from a state accreditation body.
+· If applying for Drinking Water Fields of Accreditation that are regulated by California for state-specific requirements outside of the Safe Drinking Water Act – the laboratory’s primary accreditation may be a state accreditation body or non-governmental accreditation body.
+
+[page 1] · Applying for all other Fields of Accreditation – the laboratory’s primary accreditation may be a state accreditation body or non-governmental accreditation body.
+Submit application documents by email to elapca@waterboards.ca.gov. Please note the Environmental Laboratory Accreditation Program (ELAP) is unable to download documents from external sites due to security protocols. If files are too large to submit in one message, it is acceptable to submit a .zip file or in multiple emails.
+PART A – LABORATORY INFORMATION
+Name of Laboratory:
+ELAP Certificate Number (if applicable):
+ELAP Certificate Expiration Date (if applicable):
+Laboratory Address (physical location):
+Street:
+
+[page 2] Page 2 of 9
+SWRCB 243 (Rev. 10/2025) Application for ELAP Accreditation by Reciprocity City: State: Zip:
+Laboratory Mailing Address (if different from physical location):
+Street:
+City: State: Zip:
+Laboratory Technical Manager:
+Technical Manager Phone Number:
+Laboratory Quality Manager:
+Quality Manager Phone Number:
+Laboratory Owner:
+Laboratory Contact Person:
+Title of Contact Person:
+Contact Email:
+Contact Phone Number:
+Laboratory Website:
+Is this a Mobile Laboratory?
+☐ Yes
+☐ No
+If this is a Mobile Laboratory:
+Vehicle Make:
+Vehicle License #:
+Model:
+State of Registration:
+Vehicle ID #:
+
+[page 3] Page 3 of 9
+SWRCB 243 (Rev. 10/2025) Application for ELAP Accreditation by Reciprocity Laboratory Type (select one):
+☐ Commercial
+☐ Federal
+☐ State
+☐ County
+☐ City
+☐ Public water system
+☐ Public wastewater system
+☐ Recycling Facility
+☐ Academic Institute
+☐ Hospital or health care
+☐ Industrial (with NPDES permit only)
+☐ Other:
+State Regulatory Agency the Laboratory Reports to (select all that apply):
+☐ Division of Drinking Water
+☐ State Water Resources Control Board
+☐ Regional Water Quality Control Board(s):
+☐ Department of Toxic Substances Control
+☐ Department of Conservation
+☐ Other:
+Number of Full-time Technical Employees:
+Number of Part-time Technical Employees:
+PART B – QUALITY MANUAL
+Submit an electronic copy of the laboratory Quality Manual. The Quality Manual must meet the requirements of the 2016 TNI Standard Volume 1 – Revision 2.1, Module 2, Section 4.2.8.3 and 4.2.8.4.
+PART C – CALIFORNIA-SPECIFIC REGULATORY REQUIREMENTS APPLICATION ADDENDUM
+Submit the completed California-specific Regulatory Requirements Addendum, available for download here.
+
+[page 4] SWRCB 243 (Rev. 10/2025) Application for ELAP Accreditation by Reciprocity Page 4 of 9
+PART D – FIELD OF ACCREDITATION TABLES (EXCEL FILE FORMAT)
+Populate the Field(s) of Accreditation Tables for which the laboratory is seeking accreditation by placing a (Y) in the appropriate column. Submit the completed Field(s)
+of Accreditation Tables in Excel file format to allow for direct upload of the requested Fields of Accreditation to ELAP’s database.
+PART E – PROFICIENCY TESTING
+Submit electronic copies of the laboratory’s Proficiency Testing study results with acceptable scores for each Field(s) of Accreditation in the application. Proficiency Testing must comply with the requirements of California Code of Regulations, title 22, section 64802.15.
+Laboratories seeking renewal accreditation for aquatic toxicity testing must include a current reference toxicant control chart for each method, species, and endpoint.
+PART F – PRIMARY ACCREDITATION
+Submit copies of documents for the laboratory’s primary accreditation. If the laboratory is applying using multiple primary accreditation bodies, provide information and documentation for all.
+Primary Accrediting Body 1:
+Certificate Start Date:
+
+[page 4] Certificate Start Date:
+Certificate Expiration Date:
+Checklist of Required Documents (must be official documents from the accrediting body):
+☐ Certificate of Accreditation
+☐ Scope of Accreditation
+☐ On-Site Assessment Report
+☐ Approved Corrective Action Plan (CAP)
+Primary Accrediting Body 2:
+Certificate Start Date:
+Certificate Expiration Date:
+
+[page 5] Page 5 of 9
+SWRCB 243 (Rev. 10/2025) Application for ELAP Accreditation by Reciprocity Checklist of Required Documents (must be official documents from the accrediting body):
+☐ Certificate of Accreditation
+☐ Scope of Accreditation
+☐ On-Site Assessment Report
+☐ Approved Corrective Action Plan (CAP)
+Primary Accrediting Body 3:
+Certificate Start Date:
+Certificate Expiration Date:
+Checklist of Required Documents (must be official documents from the accrediting body):
+☐ Certificate of Accreditation
+☐ Scope of Accreditation
+☐ On-Site Assessment Report
+☐ Approved Corrective Action Plan (CAP)
+PART G – APPLICATION FEE TABLE
+Each laboratory is required to pay a non-refundable reciprocity application fee, due at the time of submittal of the application. The reciprocity application fee has three components:
+A. Base fee – $4,030
+B. Reciprocity Fee – $6,500
+
+[page 5] B. Reciprocity Fee – $6,500
+C. Per Field of Accreditation (FOA) fee – Count the number of individual subgroups in the Field(s) of Accreditation Tables for which you are seeking accreditation to determine which Tier applies. Select only one Tier price in the table below. You do not have to pay the fees for any Tiers falling outside of the one that applies to your laboratory.
+The fee calculator table must be completed or the application will be returned. The base fee and reciprocity fee have been filled in for you because they apply to all out-of-state laboratories. Fill in only the Tier price that corresponds with the number for Fields of Accreditation included in your application and add it to the base fee and reciprocity fee to determine your total Reciprocity Application Fee.
+
+[page 6] Page 6 of 9
+SWRCB 243 (Rev. 10/2025) Application for ELAP Accreditation by Reciprocity Fee Component Price My Cost
+Base Fee $4,030 $4,030
+Reciprocity Fee $6,500 $6,500
+Field of Accreditation (FOA) Fee -- --
+Tier 1 – 1-10 FOAs $585
+Tier 2 – 11-49 FOAs $1,495
+Tier 3 – 50-99 FOAs $4,485
+Tier 4 – 100-149 FOAs $7,475
+Tier 5 – 150-249 FOAs $10,465
+Tier 6 – 250-349 FOAs $13,445
+Tier 7 – 350-499 FOAs $16,445
+Tier 8 – 500-999 FOAs $19,500
+Tier 9 – 1,000-1,999 FOAs $24,500
+Tier 10 – 2,000 + FOAs $29,500
+Total Reciprocity Application Fee
+
+[page 7] Page 7 of 9
+SWRCB 243 (Rev. 10/2025) Application for ELAP Accreditation by Reciprocity HOW TO PAY
+Option 1: Online Payments (via Visa, MasterCard, or Discover):
+1. Visit http://www.officialpayments.com/ and select “State Payments” 2. On the “Make A Payment” page, select the following:
+a. State or Territory – Select California
+b. Payment Entity – Select State Water Resources Control Board c. Payment Type – Select Invoices
+3. Select the “Make A Payment” button
+4. In the “SWRCB Invoice Types” drop down menu on the bottom of the page, select “Environmental Laboratory Accreditation Program (ELAP) Invoice” and click “Search”
+5. Input the “SWRCB Invoice Number” and “Amount” from the laboratory’s Renewal Application and Fee Notice, then click the green “ADD” button 6. Select “View Cart”
+7. If everything is correct, select “Continue” to input payment information and submit.
+Option 2: Manual payments (via check, money order, or cashier’s check):
+1. Make your payment payable to the State Water Resources Control Board 2. Include the ELAP invoice number from the laboratory’s Renewal Application and Fee Notice on the payment
+3. Remit payment to one of the following addresses:
+
+[page 7] 3. Remit payment to one of the following addresses:
+State Water Resources Control Board Accounting Department ATTN: ELAP FEES
+PO Box 1888
+Sacramento, CA 95812-1888
+Or
+State Water Resources Control Board Accounting Department ATTN: ELAP FEES
+1001 I Street, 18th Floor
+Sacramento, CA 95814
+(physical address for courier services)
+
+[page 8] Page 8 of 9
+SWRCB 243 (Rev. 10/2025) Application for ELAP Accreditation by Reciprocity PART H – CERTIFYING SIGNATURES
+The Technical Manager and Quality Manager must certify below that the laboratory location or ownership has not changed since the prior application, and re-affirm the laboratory’s commitment to compliance with the Environmental Laboratory Accreditation Act and its regulations (Cal. Code Regs., title 22, chapter 19, articles 1 through 7):
+Name of Technical Manager:
+Signature: Date:
+Name of Quality Manager:
+Signature: Date:
+The owner, owner’s agent, or corporate officer authorized to act on behalf of the laboratory, is authorized to sign and submit this document and certifies that all information contained within is true and accurate.
+Name of Representative Submitting Application:
+Signature: Date:
+
+[page 9] Page 9 of 9
+SWRCB 243 (Rev. 10/2025) Application for ELAP Accreditation by Reciprocity State Water Resources Control Board Privacy Notice on Collection Civil Code section 1798.17 requires a Privacy Notice on Collection to be provided when personal information is collected. Individuals have the right to review personal information maintained by the State Water Resources Control Board unless access is exempted by law. You may review your records by contacting the official responsible for maintaining your information below. We will not disclose your personal information unless authorized by law. To learn more about our Privacy Policy, visit waterboards.ca.gov/privacy.html.
+Authority for Collection of Personal Information
+ELAP collects the information requested on this form under the authority of the Environmental Laboratory Accreditation Act, Health & Safety Code sections 100825– 100875.
+
+[page 9] ELAP collects the information requested on this form under the authority of the Environmental Laboratory Accreditation Act, Health & Safety Code sections 100825– 100875.
+Principal Purpose for Which the Information Collected is to Be Used The information will be used by the State Water Resources Control Board and its programs to administer program requirements, verify compliance with applicable statutes and regulations, and evaluate applications, permits, or submissions relevant to program responsibilities. This includes ensuring compliance with applicable laws, supporting program operations, and maintaining the integrity and reliability of services provided through ELAP.
+Consequences of Not Providing Any or All Parts of the Requested Information All requested information is mandatory unless otherwise specified. Failure to provide the required information may delay processing, result in inability to evaluate the application, or prevent the laboratory from receiving accreditation.
+Please do not include any personal information that is not requested.
+
+[page 9] Please do not include any personal information that is not requested.
+Known or Foreseeable Disclosures of Personal Information Personal information may be shared with other units or state departments for the purposes of program administration, compliance verification, or as otherwise required under California law. Information may also be shared with other state or federal agencies for accreditation, regulatory, or enforcement purposes.
+Official Responsible for Maintenance of Information Christine Sotelo, ELAP Manager
+Contact Information for Responsible Official
+1001 I St.
+Sacramento, CA 95814
+(916) 323-3431

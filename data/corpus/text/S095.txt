@@ -1,0 +1,123 @@
+Underground Storage Tank (UST) Program – Cleanup
+https://www.waterboards.ca.gov/water_issues/programs/ust/cleanup/
+Date printed: 07/23/2026
+
+Leaking USTs are a significant source of petroleum contamination in groundwater. This contamination poses various potential threats to health, safety, and the environment. These include, but are not limited to:
+- Exposure to contaminated soil and/or groundwater
+- Contamination of drinking water aquifers
+- Contamination of public or private drinking water wells
+- Inhalation of petroleum vapors
+The risk of these threats is reduced when owners or operators, also known as responsible parties (RPs), promptly report any leaking USTs to the local Unified Program Agency (also known as UPA or CUPA).
+
+If an unauthorized release (leak) occurs from an UST, responsible parties or their representative are required to report the leak to the appropriate CUPA within 24 hours of detection and submit an unauthorized release form. Responsible parties may be required to perform a soil and groundwater investigation and/or cleanup activities (corrective actions) under the direction of a Cleanup Oversight Agency. Cleanup Oversight Agencies are typically Regional Water Quality Control Boards (Regional Water Boards) or county-based certified Local Oversight Programs (LOPs). Site investigation and cleanup costs may be eligible for reimbursement by the UST Cleanup Fund.
+Looking to report an unauthorized UST leak? Contact your local CUPA.
+
+## Highlights
+- UST Regulations (CCR, Title 23, Chapter 16) Effective January 1, 2026
+- Guidance for Petroleum Underground Storage Tank (UST) Sites with Per- and Polyfluoroalkyl Substances (PFAS)
+
+## UST Cleanup Fund
+- Authorities, Resolutions, and Orders
+- LUFT Manual
+- Resources
+- Training
+- Health and Safety Code Chapter 6.75. Petroleum Underground Storage Tank Cleanup [25299.1 - 25299.97]
+- Water Code sections 13140, 13267, and 13304
+- California Code of Regulations Title 23 Chapter 16 – Updated January 2026
+- Resolution No. 92-49 – Cleanup and Abatement Policies and Procedures
+- Resolution No. 2012-0016 – Adoption of Low-Threat Closure Policy
+- Resolution No. 2012-0062 – UST Cleanup Program Implementation Plan
+- Resolution No. 2013-0001 – UST Local Oversight Program
+- Resolution No. 2023-0036 – Delegation of Authority to the Executive Director
+- Local Oversight Program Certification
+- Order No. 98-04 - Matthew Walker Decision
+- Order No. 2013-0109 - Salvatore precedential decision on commingled plumes
+- UST Program Statutes & Regulations
+Leaking Underground Fuel Tank (LUFT) Manual
+LUFT Manual - Updated December 2015
+
+## UST Cleanup Fund
+LUFT Manual - Updated December 2015
+The California Leaking Underground Fuel Tank Guidance Manual (CA LUFT Manual, Manual) is intended to assist stakeholders involved in the California State Water Resources Control Board Underground Storage Tank (UST) Cleanup Program to meet the Program’s main objective of protecting human health, safety, and the environment from petroleum products and/or petroleum additives which have leaked from USTs and/or their associated systems.
+The Manual provides guidance to stakeholders and to assist them in making informed decisions regarding the investigation and cleanup of unauthorized releases of fuels from USTs in the State of California. The Manual is designed to guide its users towards solutions for fuel-impacted sites; its contents intended to be user-friendly and "state of the science."
+Historic Links
+September 2012 LUFT Manual
+October 1989 LUFT Manual
+- Guidance for Petroleum Underground Storage Tank (UST) Sites with Per- and Polyfluoroalkyl Substances (PFAS)
+- Petitions
+- Closure Denials and Approved Orders
+- UST and Site Cleanup Programs Home
+- UST Enforcement
+- Water Boards Cleanup Programs Fact Sheet
+
+## UST Cleanup Fund
+- Water Boards Cleanup Programs Fact Sheet
+- Well Destruction and Waste Removal Fact Sheet
+- Relevant Publications
+- Clu-In
+- ITRC TPH Risk Evaluation
+- ITRC Petroleum Vapor Intrusion
+- ITRC LNAPL
+- EPA PVI Guidance
+- NEWIPCC webinars
+
+## UST Cleanup Process > Finding a Consultant
+- Choosing an environmental consulting firm to perform the required investigation and cleanup can be a difficult and time-consuming task. It is also one of the most important tasks. Responsible parties are advised to take this task very seriously and proceed with caution.
+- Environmental consultants can be found in the online Environmental Yellow Pages. They are commonly listed under "Environmental Consultants", "Geologists", “Geological Consultants”, or “Environmental Cleanup”. The State Water Board does not endorse or warranty the work performed by these companies.
+- Consider soliciting bids from several consultants. Be sure that the consultant includes in the proposal the experience and qualifications of the people who will be doing the work. In California, reports of site investigation and cleanup activities must be signed and stamped by a California registered Civil Engineer, Geologist or Engineering Geologist.
+
+## UST Cleanup Process > Finding a Consultant
+- Ask other UST owners and operators about consultants they have hired. Many consultants can provide references to previous customers upon your request. Talk to previous customers to find out if they were satisfied with the work of prospective consultants. Ask them whether they were satisfied with the consultant’s expertise, technical and regulatory skills, promptness, client relations, etc.
+- Links on Controlling UST Cleanup Costs:
+- Hiring A Contractor
+- Negotiating the Contract
+- Interpreting the Bill
+- Managing the Process
+- Understanding Contractor Code Words
+
+## UST Cleanup Process > Site Assessment
+Results of the site assessment are used to create a conceptual site model, providing details about the contents and magnitude of the release and site-specific characteristics that affect contaminant migration. The conceptual site model is analyzed to recommend cleanup alternatives for the site (feasibility study). View more information about Site Assessments.
+
+## UST Cleanup Process > Cleanup
+Cleanup is conducted under the direction of the Cleanup Oversight Agency and may include free product removal, vapor extraction, ozone sparging, groundwater extraction, soil excavation, or other technologies. View more information about site cleanup.
+- Evaluating Alternative Cleanup Technologies
+Evaluating alternative cleanup technologies requires an understanding of site-specific conditions and the nature and extent of the contamination. Data from site assessment studies is used to recommend one of several cleanup alternatives. It is important to avoid carrying out prolonged interim remedial actions without simultaneously considering alternative cleanup technologies. A RP needs to understand the inherent limitations of the chosen cleanup method, considering the specific conditions at the site. Lastly, when evaluating alternative cleanup technologies, it's important to consider cleanup objectives and the estimated time required to achieve those objectives. View more information about evaluating alternative cleanup technologies.
+
+## UST Cleanup Process > Cleanup
+- Path to Closure Meetings
+Path to Closure Meetings can be requested by the Cleanup Oversight Agency or RP for a UST cleanup case that does not have an active UST Cleanup Fund claim. These meetings provide an opportunity for the Cleanup Oversight Agency and RP to negotiate a path to closure with the assistance of State Water Board staff. Details regarding Path to Closure Meetings can be found in the State Water Board’s "Path to Closure Meeting Process" document.
+
+## UST Cleanup Process > Case Closure
+In 2012, the State Water Board adopted a legal guideline known as the Low-Threat Underground Storage Tank Case Closure Policy (Policy). This Policy establishes uniform statewide criteria for closing low-threat petroleum UST sites. Cases that meet the criteria outlined in this Policy do not require additional corrective action and shall be issued a uniform closure letter consistent with Health and Safety Code section 25296.10.
+- Any RP with an UST case who believes that the corrective action plan for the site has been successfully completed can submit a Request for Closure (RFC) to the Cleanup Oversight Agency. If the RFC is denied, the State Water Board will conduct an automatic review of that agency's denial according to Resolution No. 2012-0062. You can monitor the status of State Water Board’s review on GeoTracker's "Closure Denial Review Report".
+
+## UST Cleanup Process > Petitions
+- Responsible parties also have the option to appeal to the State Water Board for case closure under Health and Safety Code section 25296.40. Typically, a RP can make a request for case closure to the State Water Board once the site has been thoroughly characterized, remediated, and it's shown that either the Policy's criteria are met or water quality objectives will be reached within a reasonable timeframe (State Water Board Resolution No. 92-49, Amended by Resolution 96-0079, October 2, 1996).
+- The State Water Board can either dismiss the petition or formally discuss the matter at a public State Water Board meeting to decide on the site’s closure. For further details on how to file a closure petition or any other petitions related to USTs, please visit the State Water Board’s UST Petition Page.
+
+## Stay informed > Email Subscription List
+Subscribe to our email lists to receive notifications and the latest updates.
+- Underground Storage Tank, Leak Prevention, and GeoTracker lists.
+
+## Stay informed > Contact Us
+Have a program-specific question?
+Please contact us at DWQ-USTCleanup@waterboards.ca.gov
+(Page last updated 07/23/2026)
+
+## Contact Us > Resources
+- UST Home
+- Cleanup
+- - Petition How To
+- - Low-Threat Policy
+- - LUFT Manual
+- Cleanup Fund
+- Enforcement
+- ESI GeoTracker
+- Leak Prevention
+- - LG Letters
+- - Tank Tester Licensing
+- Online GeoTracker
+- Publications
+- Regulatory Agencies
+- Statutes & Regulations
+- UST Program News

@@ -1,0 +1,74 @@
+Environmental Laboratory Assessments
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/laboratory_assessments.html
+Date printed: 09/15/2026
+
+## Environmental Laboratory Assessments
+Welcome to the Environmental Laboratory Assessments webpage. This page provides information for laboratories applying for accreditation by the Environmental Laboratory Accreditation Program (ELAP).
+
+## Environmental Laboratory Assessments > Assessment Requirement
+An assessment is required for all initial (new laboratory) applications, renewal applications, and for specific types of amendment applications. The assessment must be performed and completed before applying.
+
+## Environmental Laboratory Assessments > Assessment Timing
+- For new applications – must be performed no earlier than 12 months before applying for accreditation
+- For renewal applications – must be performed within the two years before the expiration of date of the accreditation, with enough time to allow for completion before renewal application due date. Use our Timeline Guidance Tool to determine when this should be based on your certificate dates.
+- For amendment applications – see below for more information
+
+## Environmental Laboratory Assessments > Assessment Components
+The laboratory’s assessment will include an evaluation of the analytical methods in the application, laboratory instrumentation and equipment requirements, compliance with applicable California laws and regulations, and the laboratory’s quality system. The laboratory can choose from two quality system options:
+- 2016 TNI standard, Revision 2.1, Volume 1, Modules 2, and 3-7 where appropriate based on laboratory operations, with two exceptions as listed in California Code of Regulations 64802.05 (a)(1). These exceptions include changes to the proficiency testing and technical manager requirements.
+- 2016 TNI Standard, Revision 2.1, Volume 1, all modules.
+
+## Assessment Components > Assessments by Third-Party Assessment (TPA) Agencies
+Any laboratory can have an assessment performed by an approved third-party provider from the list provided below. Laboratories requesting assessment of “sophisticated technologies” as defined in Section 68401.00 of the California Code of Regulations must have their assessments performed by a third-party provider. Laboratories will pay the provider its market rate for services provided. ELAP recommends getting quotes from multiple providers to compare costs. Resources for laboratories using TPAs are provided below:
+- List of Approved Third-Party Assessment Agencies
+- Requirements for TPA Assessment Packages
+- TPA Frequently Asked Questions – The Basics
+- TPA Frequently Asked Questions – The Process
+- Third Party Assessment Overview Webinar (June 8, 2020)
+- Memorandum of Understanding - the agreement that defines the service terms TPAs must follow
+More questions about using a TPA? Email us at elapca@waterboards.ca.gov.
+
+## Assessment Components > Assessments by Third-Party Assessment (TPA) Agencies
+More questions about using a TPA? Email us at elapca@waterboards.ca.gov.
+The appearance of hyperlinks on this page does not constitute endorsement by ELAP of any particular provider. It is the individual laboratory’s responsibility to ensure the on-site assessment report meets the requirements listed in Code of California Regulations 64802.20.
+
+## Assessment Components > Assessments by ELAP
+Laboratories without sophisticated technologies may choose to have their assessment performed by ELAP staff. The cost of ELAP assessments are listed below. Laboratories will receive an invoice for the service(s) when the assessment is scheduled. Please do not pay for an assessment ahead of time or combine your assessment fee with your accreditation fee.
+
+## Assessment Components > Assessment Pricing
+Initial Assessment | Fee
+Main Laboratory | $6,500
+Mobile laboratory (as Main laboratory) | $6,500
+Renewal Assessment | Fee
+Main Laboratory | $6,500
+Mobile laboratory (as Main laboratory) | $6,500
+Satellite or mobile laboratory under a Main laboratory accreditation | $3,250
+Renewal Assessment plus Amendment Assessment for Reinstatement of Field(s) of Accreditation | $7,800
+Amendment Assessment | Fee
+Addition or Reinstatement of Field(s) of Accreditation as Standalone Items | $6,500
+Addition of a satellite or mobile laboratory under a main laboratory accreditation | $3,250
+Change in laboratory location | $6,500
+
+## Assessment Components > Request an Assessment by ELAP
+To request an assessment by ELAP, follow the instructions below:
+- Determine which type of assessment(s) your laboratory needs.
+- Initial Assessment – for new laboratories not currently accredited by ELAP
+- Renewal Assessment – for laboratories currently accredited who are not requesting any changes to the current Fields of Accreditation
+- Amendment Assessment – for any laboratory request to add or reinstate Fields of Accreditation, changing location, or adding a satellite or mobile laboratory to a current accreditation
+- Determine when you are going to schedule the assessment.
+- Initial Assessment – can be scheduled at any time
+- Renewal Assessment – can schedule beginning on your annual fee due date (one year after the start date on your certificate)
+- Amendment Assessment – can schedule anytime
+- Fill out the ELAP Assessment Request Form
+- Fill out the Fields of Accreditation tables for the subgroups you want assessed.
+
+## Assessment Components > Request an Assessment by ELAP
+- Fill out the Fields of Accreditation tables for the subgroups you want assessed.
+- Submit the ELAP Assessment Request Form and Fields of Accreditation forms to elapca@waterboards.ca.gov with the subject line: “[TYPE of ASSESSMENT] Assessment Request – LAB NAME, Certificate #xxxx”. For example: “Renewal Assessment Request – ABC Laboratory, Certificate #1234”. For initial assessment requests, the certificate number is not required.
+ELAP is now scheduling assessments for the month of:
+November 2026
+ELAP is available to assess Asbestos methods
+
+## Assessment Components > Assessments for Amendment Applications
+A completed assessment is required with an amendment application when requesting new Fields of Accreditation be added to a laboratory’s accreditation, location change, or the addition of a satellite or mobile laboratory to an existing accreditation. The assessment requirement for an amendment application may be waived by ELAP if the laboratory shows that the amendment would not affect the quality of data (CCR 64808.15i). This waiver may be considered in situations such as adding an additional compound for a method the laboratory is already accredited for or reinstating a Field of Accreditation that was denied or revoked for a non-technical reason, such as an administrative error. Contact ELAP at elapca@waterboards.ca.gov if you believe your amendment application may qualify for an amendment assessment waiver.
+(Page last updated 09/15/2026)

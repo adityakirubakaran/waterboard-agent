@@ -1,0 +1,126 @@
+Residential Water Treatment Devices
+https://www.waterboards.ca.gov/drinking_water/certlic/device/watertreatmentdevices.html
+Date printed: 06/27/2025
+
+## Residential Water Treatment Devices
+Para el sitio web en Español haga clic aquí
+Additional Information for Water Systems
+Additional Information for Manufacturers
+
+## Residential Water Treatment Devices > Current Listing of Registered Devices
+List of Registered Devices
+The Residential Water Treatment Device Registration Program now has a searchable database of all currently registered devices. Click the link above to view and use this database. You can search for devices by treated contaminants (such as Lead, Arsenic, or PFOA/PFOS), system type (such as refrigerator filter or whole home/point-of-entry), manufacturer name, or device name/model number. You can also export any search results as an Excel spreadsheet.
+
+## Residential Water Treatment Devices > General Information for Consumers
+If you are thinking of buying a home water treatment device, you are probably concerned about your drinking water. Some common concerns are:
+- The appearance or taste of the water such as the odor of chlorine or an unpleasant mineral flavor.
+- Worries about a specific contaminant that might be in the water.
+- A family member may be vulnerable due to a preexisting health condition.
+- Excessive staining or deposits on your plumbing.
+Whatever the reason, you want to be sure that the device you are using will meet your needs. You want to be sure that the device will reduce contaminants as stated on the packaging or advertisements. The goal of the State of California Water Treatment Device Registration Program is to ensure that devices sold in California have been independently evaluated and tested to reduce 'health-related' contaminants as claimed by the packaging. Health related contaminants include:
+- Nitrates
+- Arsenic
+- Bacteria, virus and cysts
+- Organic chemicals (such as by-products of chlorination)
+
+## General Information for Consumers > Changing the Filter
+To ensure that your water treatment system performs as expected, you must replace the replaceable filter element after a certain number of gallons of usage. If you do not do this, the device will not continue to reduce contaminants. Check your product literature to find out how many gallons can be used before replacement. This information may be on the Performance Data Sheet that came with the device. Otherwise contact the manufacturer.
+
+## General Information for Consumers > Private Well Supplies
+If your water comes from a private well (serving just your home, typically), you (or the property owner) will need to make testing arrangements of the well water on your own. There may be some testing data available in county environmental health department files but usually not. The following website provide helpful information regarding private wells.
+- Guide for Domestic Well Owners
+- Guía para los dueños de Pozos Domésticos
+Your local County Environmental Health Department may be able to help you to understand test results. They may also have information on protecting your well from contamination.
+
+## Residential Water Treatment Devices > California Residential Water Treatment Devices Registration Program
+California registration means that devices sold in California that make health-related claims have been tested and certified by an independent, accredited certification organization. This certification includes extensive water quality testing in accordance with national standards. Accreditation means that the organization and their testing laboratory have the proper ability, personnel and equipment to fully evaluate these devices. The websites of the following independent certification organizations provide helpful information on water treatment devices certification.
+- IAPMO R&T
+- NSF International
+- UL
+- Water Quality Association
+- CSA Group
+Manufacturers that wish to have their devices registered for sale in California must provide proof of the independent certification and other information on each device model. The California Registration program is designed to verify this certification and ensure that literature provided with each model adequately informs the customer. The Registration program monitors the marketplace for illegal sales of devices as well as misleading advertisement for ANY water treatment device.
+
+## California Residential Water Treatment Devices Registration Program > Contaminant-Specific Information
+Arsenic / Arsénico
+- There are two forms of arsenic in the groundwater: Arsenic 3 and Arsenic 5. In well water, arsenic is typically found in both forms. However, the amount of each form in the well water varies from location to location. Both forms of Arsenic are of health concern. Arsenic 3 is much more difficult to remove from the water. Many water treatment devices are certified to reduce Arsenic 5 but may provide a minimal reduction of Arsenic 3. If you are concerned about the performance of a water treatment device, you should have the water tested periodically for reduction of Arsenic.
+If you suspect that your well may have arsenic, you should not use the water until it is tested, and you take appropriate measures to protect yourself and your family from potential chronic health effects if arsenic is present.
+Si usted sospecha que el agua de su pozo tal vez este contaminada con arsénico, no bebe el agua. Usted necesita analizar el agua por la presencia de arsénico y tomar la precaución si se identifica arsénico.
+- Arsenic in Drinking Water (Information and Resources)
+- Arsenic Maximum Contaminant Level (MCL)
+Chromium
+- Hexavalent Chromium (Chromium-6) Resources
+Lead
+
+## California Residential Water Treatment Devices Registration Program > Contaminant-Specific Information
+Lead
+- Lead and Copper Rule for Drinking Water
+Nitrate / Nitratos
+- Generally, it is acceptable for treatment of nitrates at levels of less than or no more than 108 mg/l of nitrate (measured as NO3) OR 24 mg/L of nitrate (measured as N). Water supply pressure of at least 40 psi is required for effective operation. Regular testing of the treated water by a State-certified testing laboratory is recommended to verify performance. Some manufacturers provide a home test kit that can also be used to evaluate the performance. However, periodic laboratory testing is needed to be sure that nitrate is being effectively reduced.
+If you suspect that your well may have high levels of nitrates, you should not use the water for the preparation of infant formula until you have tested the water.
+Si usted sospecha que el agua de su pozo tal vez este contaminada con nitratos, no debería usar el agua para la preparación de formula infantil.
+- Nitrates and Nitrites in Drinking Water (Information and Resources)
+Microbial Contaminants
+The USA EPA’s guidance document on Point-of-Use (POU) and Point-of-entry (POE) treatment options states:
+
+## California Residential Water Treatment Devices Registration Program > Contaminant-Specific Information
+The USA EPA’s guidance document on Point-of-Use (POU) and Point-of-entry (POE) treatment options states:
+"The SDWA strictly prohibits EPA from listing the use of POU devices as a compliance technology for any MCL or treatment technique requirement for a microbial contaminant or indicator of a microbial contaminant."
+We encourage residents receiving notices from their water system regarding microbial contaminants to take any measures identified in the notices.
+VOCs/Benzene
+US EPA's Point-of-Use or Point-of-Entry Treatment Options for Small Drinking Water Systems, includes the following discussion (at p. 3-1) on the use of POU technologies for removal of volatile organic compounds such as benzene:
+
+## California Residential Water Treatment Devices Registration Program > Contaminant-Specific Information
+"Although some POU technologies are capable of removing microbial contaminants, VOCs, or radon, POU devices should not be used for achieving compliance with these contaminant rules. The SDWA strictly prohibits EPA from listing the use of POU devices as a compliance technology for any MCL or treatment technique requirement for a microbial contaminant or indicator of a microbial contaminant. VOCs and radon are both volatile and present an inhalation or contact exposure risk at untreated taps (e.g., showerheads). Therefore, POU devices at a single kitchen tap would not sufficiently protect the public from these risks."
+
+## California Residential Water Treatment Devices Registration Program > Performance Data Sheets for Registered Devices
+For each water treatment device, information is provided on a document called the Performance Data Sheet (PDS). The PDS covers the following:
+- Which contaminants the device has been certified to reduce.
+- How many gallons of water can be produced by the device per day or per minute.
+- How many gallons can be produced before replacement.
+- Limitations and disclaimers on the use of the device.
+For more information, or to request a copy of a Performance Data Sheet for a Registered Water Treatment Device, please contact our support team at WTDevices@waterboards.ca.gov.
+
+## California Residential Water Treatment Devices Registration Program > Fraud Protection
+Please inform us if you become aware of what you believe may be fraudulent claims regarding a water treatment device. You may contact us at (916) 323-0372 or via email at WTDevices@waterboards.ca.gov. Please provide some details on your concerns.
+
+## California Residential Water Treatment Devices Registration Program > Statutory Changes in the Device Program
+Assembly Bill 119 was signed into law in 2013, making significant changes to the Water Treatment Device Program. The statute's major provisions became effective January 1, 2014. Please see "Information for Manufacturers" for the details.
+
+## Residential Water Treatment Devices > Contact Us
+For more information about residential water treatment devices, please contact us at:
+Residential Water Treatment Devices Registration Program
+Division of Drinking Water
+State Water Resources Control Board
+P.O. Box 100
+Sacramento, CA 95812-0100
+(916) 323-0372 (phone)
+WTDevices@waterboards.ca.gov (email)
+(Page last updated 06/27/2025)
+
+## Contact Us > Drinking Water Resources
+- California Laboratory Intake Portal (CLIP)
+- Contaminants in Drinking Water
+- Consolidation and Extension of Service
+- COVID-19 Drinking Water
+- Cyanobacteria/Cyanotoxins in Drinking Water
+- Consumer Confidence Reports (CCRs)
+- Drinking Water Branch Districts
+- Drinking Water Supply Service Area Lookup Tool
+- Drinking Water Watch Database
+- Electronic Annual Reports (EAR)
+- Environmental Laboratory Accreditation Program (ELAP)
+- Funding for Public Water Systems
+- Information for Public Water Systems
+- Notification and Response Levels
+- Operator Certification - Drinking Water
+- Permits
+- PFAS: Per- and Polyfluoroalkyl Substances
+- Public Notification Templates
+- Public Safety Power Shutoff and Wildfire Info
+- Public Water System Monitoring Schedules
+- Regulations and Statutes
+- Residential Water Treatment Devices
+- Safe Drinking Water Plan for California
+- SAFER Drinking Water
+- Water Quality Data

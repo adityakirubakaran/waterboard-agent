@@ -1,0 +1,300 @@
+Water Quality Control Policy for Addressing Impaired Waters (TMDL Policy, 2005)
+https://www.waterboards.ca.gov/water_issues/programs/tmdl/docs/iw_policy.pdf
+Date printed: June 16, 2005
+
+[page 1] Adopted by Resolution 2005-0050 June 16, 2005
+Water Quality Control Policy
+for
+Addressing Impaired Waters: Regulatory Structure and Options TABLE OF CONTENTS
+Section Page
+Preface…………………………………………………… 1
+I. Addressing Impaired 1
+Waters…………………………………………………………...
+Delist……………………………………………………… 3
+Correct the Standards……………………………………..
+Natural conditions alone are incompatible with the Standards……………………………………………… 3
+Standards are too broad or too vague………………… 3
+Incompatible Uses Exist……………………………… 4
+State Water Board & USEPA designated pollutants……... 4 Whether impaired waters will be corrected using existing regulatory tools…………………………………………… 5
+Multiple actions must be implemented through a basin plan amendment or other regulation…………………. 5
+Single vote……………………………………………. 5
+Certification of Regulatory Action…………………… 6
+Certification of Non-Regulatory action……………… 7
+II. Process for adopting 7
+TMDLs…………………………………….
+Definitions……………………………………………….. 7
+Ways of adopting TMDLs………………………………... 8
+State Water Board Review……………………………….. 10
+Transmittal to USEPA for approval……………………… 10
+Delisting………………………………………………….. 10
+Existing Authority Preserved…………………………….. 11
+
+[page 1] Existing Authority Preserved…………………………….. 11
+Attachment A: Impaired Waters Regulatory Decision Tree
+
+[page 2] Adopted by Resolution 2005-0050 June 16, 2005
+Water Quality Control Policy
+for
+Addressing Impaired Waters: Regulatory Structure and Options Preface
+The State Water Resources Control Board and the Regional Water Quality Control Boards (Water Boards) are committed to protecting and restoring the waters of California to ensure that all applicable beneficial uses are fully attained. Where waters are not meeting their beneficial uses from anthropogenic sources of pollutants, the Water Boards will use the Total Maximum Daily Load (TMDL) program to craft an implementation plan to ensure that the waters meet all applicable standards as soon as is practicable. The TMDL program remains a high priority program of the Water Boards.
+
+[page 2] This Policy is intended to ensure that the impaired waters of the state are addressed in a timely and meaningful fashion. In those cases where immediate restoration activities are available, the policy encourages those actions to take place immediately rather than waiting for a regulatory action by the Water Boards. In this respect, the Water Boards are committed to work with all interested parties to develop appropriate plans to restore water bodies to water quality standards.
+The Water Boards will continue to pursue information from all interested persons in developing such plans and will encourage early restoration activities prior to completion of a TMDL, where such activities will result in improved water quality.
+
+[page 2] While the Policy allows a TMDL to be established through alternative regulatory actions, it is anticipated that the majority of TMDLs will be established through an implementation plan adopted as a Basin Plan amendment. This is due to the complexity of the problems needing correction for most of the impaired waters. Where alternative regulatory methods are used to establish TMDLs, however, those TMDLs will be incorporated into the Water Quality Management Plan after they are approved. Using existing regulatory programs to ensure waters are restored, where such mechanism exists, will promote a cost effective and timely response that has proven elusive when relying exclusively on basin planning to establish TMDLs.
+The Water Boards are committed to use all means to ensure that the waters of the State are protected for the use and enjoyment of the people of the State and that the waters attain the highest water quality that is reasonable, considering all demands being made and to be made of the waters. The Water Boards will continue to use the best information and science available to the program in developing restoration plans for the waters of the State.
+
+[page 2] I. Addressing Impaired Waters
+Section 303(d) of the Clean Water Act (CWA) contains backstop provisions designed to ensure that all state water quality standards are met. The water quality of many waters of the state is currently unacceptable. The Total Maximum Daily Load (TMDL) program was created by the State Board to implement the requirements of these backstop provisions, consistent with state and federal law, for the purpose of ensuring that water quality standards are attained. The TMDL program is the primary program responsible for achieving clean water where traditional controls on point sources have proven inadequate to do so. The program thus is charged with creating plans that consider all sources and causes of impairment, and allocating responsibility for corrective measures, regardless of sources or cause, that will attain water quality standards.
+1
+
+[page 3] Adopted by Resolution 2005-0050 June 16, 2005
+The State Water Resources Control Board (State Board) and Regional Water Quality Control Boards (Regional Boards) are delegated the responsibility for implementing California’s Porter Cologne Water Quality Control Act and the federal Clean Water Act (CWA). Pursuant to relevant provisions of both of those acts the State and Regional Boards establish water quality standards, including designated (beneficial) uses and criteria or objectives to protect those uses.
+
+[page 3] Section 303(d) of the CWA (33 USC § 1313(d)) requires the states to identify certain waters within their borders that are not attaining water quality standards and to establish the total maximum daily load (TMDL) for certain pollutants impairing those waters. According to USEPA, a TMDL is a numerical calculation of the amount of a pollutant that a water body can assimilate and still meet standards. A TMDL includes one or more numerical targets that represent attainment of the applicable standards, considering seasonal variations and a margin of safety, in addition to the allocation of the target or load among the various sources of the pollutant. These include waste load allocations (WLAs) for point sources, and load allocations (LAs) for nonpoint sources and natural background. TMDLs established for impaired waters must be submitted to the US Environmental Protection Agency (USEPA) for approval.
+
+[page 3] CWA section 303(e) requires the states to implement their approved TMDLs through their Continuing Planning Process. The USEPA’s regulations do not provide for USEPA approval of TMDL implementation plans (however the regulations do require NPDES permits to be consistent with the assumptions and requirements of TMDLs and available WLAs). TMDL implementation is therefore largely a function of California law, including but not limited to CWC Section 13242, which requires a program of implementation to achieve water quality objectives.
+Regional Boards have wide latitude, numerous options, and some legal constraints that apply when determining how to address impaired waters. Irrespective of whether CWA section 303(d)
+
+[page 3] Regional Boards have wide latitude, numerous options, and some legal constraints that apply when determining how to address impaired waters. Irrespective of whether CWA section 303(d)
+requires a TMDL, the process for addressing waters that do not meet applicable standards must be accomplished through existing regulatory tools and mechanisms. This policy is intended to outline those tools and mechanisms, and explain how the federal requirement to establish TMDLsfits within those confines. This policy also establishes a certification1 process whereby the Regional Boards can formally recognize regulatory or nonregulatory actions of other entities as appropriate implementation programs when the Regional Boards determine those actions will result in attainment of standards. In addition, implementation activities taken to achieve LAs must be consistent with the SWRCB Policy for Implementation and Enforcement of the Nonpoint Source Pollution Control Program (NPS Implementation Policy).
+
+[page 3] This policy is not intended and shall not be construed as limiting the authority of the State Board or the Regional Boards in any manner. A flowchart is included as attachment A, which tracks this discussion.
+The following principles apply to the process of resolving impairments in surface waters not attaining standards in California:
+1 The term “certification” has been used in many contexts related to point and nonpoint source pollution control. Its use here is expressly intended to not embody any of those definitions. Unless otherwise indicated, the term “certification”, as used in this policy, is limited to describing a process by which the Regional Boards can formally recognize an acceptable alternative implementation program for a TMDL.
+The term “Certification” is further defined in the glossary.
+2
+
+[page 4] Adopted by Resolution 2005-0050 June 16, 2005
+A. If the water body is neither impaired nor threatened, the appropriate regulatory response is to delist the water body.
+The first step in addressing a listing is to identify the scope of the problem. In some cases, this analysis will lead to a conclusion that standards are in fact being attained and the water is not threatened, either because the assumptions underlying the listing were incorrect, or because the impairment has been corrected. In such circumstances, it is appropriate to delist the water body in accordance with the “Water Quality Control Policy for Developing California’s Clean Water Act Section 303(d) List.”.
+B. If the failure to attain standards is due to the fact that the applicable standards are not appropriate to natural conditions, an appropriate regulatory response is to correct the standards.
+
+[page 4] B. If the failure to attain standards is due to the fact that the applicable standards are not appropriate to natural conditions, an appropriate regulatory response is to correct the standards.
+If the water body is impaired, the cause of the impairment must be ascertained. There are five common reasons (see below2) that standards are being exceeded. In most cases, a pollution reduction strategy of some sort will be warranted. However, in some instances part or the entire cause of the impairment will be due to problems with the standards themselves. While in most cases the existing standards are appropriate and amenable to TMDL development, periodically investigation during the development of a TMDL or its implementation plan may reveal that the standards may be inappropriate or imprecise, thus rendering water quality attainment impossible unless standards are modified. In such cases, staff will undertake a limited review of the standards. The purpose of standards review during the TMDL process is not to reassess the Water Boards’ previous policy determinations that underlie the Beneficial Use Designations or Water Quality Objectives, but rather to ensure that the standards are amenable to an appropriate implementation plan.
+
+[page 4] Modification of standards should not be viewed as “an easy fix” to avoid a TMDL, and review of the appropriateness of the standards will not be considered in every case.
+Reviewing the appropriateness of the policies underlying standards is complex and involves processes that generally are beyond the scope of TMDL process. Review of standards’ underlying policies generally occurs in the triennial review process. Unlike the triennial review process, the TMDL process is not designed to evaluate standards’ appropriateness, but to create a strategy to attain those standards that have already been established. If staff determines that the policies underlying the existing standards should be revisited, in lieu of crafting an implementation plan under this policy, the impaired water shall be referred to the Water Quality Standards staff for consideration of an appropriate standards action, through the appropriate processes. Irrespective, it is always necessary to review the standards applicable to the listed waterbody in order to determine the appropriate target or targets. Three typical examples of where standards may need modification are where:
+
+[page 4] 1. Natural conditions alone are incompatible with the Standards: This occurs either when natural background levels of a pollutant exceed water quality objectives, or natural background conditions are incompatible with the beneficial uses assigned in the basin plan, or natural background conditions are degrading the water body.
+2. Standards are too broad or too vague: For example, a water body may extend beyond an area where associated beneficial uses are appropriate, such as the geographic boundaries of an estuarine environment.
+2 This is not intended to be an exclusive list of causes.
+3
+
+[page 5] Adopted by Resolution 2005-0050 June 16, 2005
+3. Incompatible Uses Exist: This may occur when two or more uses are incompatible with each other. For instance, wildlife waste may generate pathogen levels that render the water unsuitable for human recreation.
+In each of the above situations, revision of the standards themselves may be the best (or only)
+way to address the impairment. Revision of the standards can include removing uses, establishing subcategories of uses, establishing seasonal uses (all of which may require a Use Attainability Analysis (UAA), establishing a Site-Specific Objective (SSO), or other modification of the water quality standard. When a standards action is deemed appropriate, the State and Regional Board shall follow all applicable requirements, including but not limited to those set forth in part 131 of Title 40 of the Code of Federal Regulations and Article 3 of Division 7, Chapter 4 of the California Water Code.
+
+[page 5] Additionally, an anti-degradation finding may authorize the lowering of water quality to some degree, which may address the impairment. The anti-degradation policies established in federal regulations and state policy both authorize the lowering of water quality in certain circumstances, where doing so would not impair beneficial uses. If an anti-degradation finding is appropriate, the requirements of 40 CFR § 131.12 and Resolution #68-16 shall be adhered to.
+C. The State Board and Regional Boards are responsible for the quality of all waters of the state, irrespective of the cause of the impairment. In addition, a TMDL must be calculated for impairments caused by certain EPA designated pollutants.
+The two other common causes or categories of impairment are related to anthropogenic factors.
+
+[page 5] The two other common causes or categories of impairment are related to anthropogenic factors.
+They include waters impaired by pollution and waters impaired by certain EPA designated pollutants. The Porter-Cologne Water Quality Control Act charges the State Board and Regional Boards with the responsibility of protecting the beneficial uses and quality of all waters of the state, irrespective of the cause of the impairment. Thus, if possible, the impairment should be corrected in either event. Presently, the EPA has designated all pollutants as suitable for TMDL calculation under proper technical conditions.
+1. Pollutants: The term “pollutant” is defined in section 502(6) of the Clean Water Act. Section 303(d) of the Clean Water Act requires TMDLs be established for each impairing “pollutant” that is suitable for TMDL calculation. EPA has determined that under proper technical conditions, all pollutants are suitable for TMDL calculation.
+
+[page 5] Thus, before undertaking an action to correct an impairment, the Loading Capacity of the pollutant must be calculated for impaired waters, and thus the load reductions necessary (considering seasonal variations and a margin of safety) to attain standards.
+Corrective action will implement the assumptions and requirements of the Loading Capacity using any combination of existing regulatory tools.
+2. Pollution: The term “pollution” is defined in section 502(19) of the Clean Water Act and section 13050(l) of the California Water Code. When non-pollutant pollution is the cause of the impairment, the Regional Boards may skip the step of calculating the Loading Capacity and proceed immediately to designing corrective action using existing regulatory tools.
+4
+
+[page 6] Adopted by Resolution 2005-0050 June 16, 2005
+D. Whether or not a TMDL calculation is required as described above, impaired waters will be corrected (and implementation plans crafted) using existing regulatory tools
+All violations of standards should be redressed, and the Boards may use any combination of existing regulatory tools to do so. Existing regulatory tools include3 individual or general waste discharge requirements (be they under Chapter 4 or under Chapter 5.5 (NPDES permits) of the Porter-Cologne Water Quality Control Act), individual or general waivers of waste discharge requirements, enforcement actions, interagency agreements, regulations, basin plan amendments, and other policies for water quality control. Basin plan amendments can include adopting new or revised implementation measures, adopting prohibitions, or where appropriate, modifying standards. The priority ranking assigned to an impaired water will help the Regional Boards determine which impairments will be addressed in what order, according to available resources.
+
+[page 6] The following sections describe the different forms in which an implementation plan may be adopted. The requirement to establish the TMDL or Loading Capacity for the pollutant does not change this analysis.
+1. If the solution to an impairment will require multiple actions of the regional board that affect multiple persons, the solution must be implemented through a basin plan amendment or other regulation.
+The requirement to use a basin plan amendment or other regulation to tie together numerous actions by the Regional Board stems from the California Administrative Procedures Act (APA).
+
+[page 6] The requirement to use a basin plan amendment or other regulation to tie together numerous actions by the Regional Board stems from the California Administrative Procedures Act (APA).
+Consistent with the APA, any policy, plan, or guideline must be adopted as a regulation in the proper manner before it may be applied. The term “underground regulation” has been used to describe regulations that have not been properly adopted. The APA requirements ensure that persons subject to regulations have the opportunity to participate in the process during which the assumptions underlying an implementation plan are derived. If there were no such process, every regulated person would be subject to subsequent requirements based upon assumptions determined in a previous proceeding to which they were not a party. Accordingly, when an implementation plan would require multiple actions of the Regional Board, the plan itself must be adopted as a separate action to enable interested persons to comment upon the assumptions of the plan, before they are imposed, one by one, on members of the public at large. The Regional Boards generally use the basin planning process to adopt such plans.
+
+[page 6] 2. If the solution to an impairment can be implemented with a single vote of the regional board, it may be implemented by that vote.
+When an implementation plan can be adopted in a single regulatory action, such as a permit, a waiver, or an enforcement order, there is no legal requirement to first adopt the plan through a basin plan amendment. The plan may be adopted directly in that single regulatory action. The permittee (or other regulated party), and any other interested persons may challenge all assumptions underlying the implementation plan during that permitting (or other regulatory)
+action. In such circumstances, a basin plan amendment may be redundant. There may nonetheless be case-specific reasons why a Regional Board may choose to adopt an implementation plan by a basin plan amendment even if it could be implemented by a single vote 3 This section is not intended to articulate an exhaustive list of tools available to the State Board or Regional Boards to address violations of standards. It is only intended to provide an example of possibilities.
+5
+
+[page 7] Adopted by Resolution 2005-0050 June 16, 2005
+of the Regional Board. There is no error in doing so should the Regional Board, for whatever reason, deem it desirable.
+3. If a solution to an impairment is being implemented by a regulatory action of another state, regional, local, or federal agency, and the Regional Board finds that the solution will actually correct the impairment, the Regional Board may certify that the regulatory action will correct the impairment and if applicable, implement the assumptions of the TMDL, in lieu of adopting a redundant program.
+
+[page 7] The Regional Boards and State Board have the ultimate responsibility over water quality protection for all waters in the State. That responsibility does not imply that the State Board or a Regional Board must adopt redundant regulations when they determine that another regulatory body is adequately addressing a water quality problem. Like most state agencies, the State and Regional Boards generally have inadequate resources to timely address each and every water quality problem, and they must therefore, prioritize use of their resources to where they will do the most good. The fact, however, that another regulatory body is addressing a water quality problem is not alone a sufficient basis for a Regional Board to forego remedial action. The Regional Boards may neither delegate nor abdicate their responsibility over the waters of the State. Furthermore, they may not indefinitely defer taking necessary action if another agency is not properly addressing a problem.
+
+[page 7] However, where another agency is constructively involved in efforts to address an impairment, the SWRCB and RWQCB should seek to take those efforts into account and, where appropriate, take advantage of these third-party efforts. Not only does this avoid unnecessary duplication of effort, it can leverage the SWRCB’s and RWQCBs’ limited staffing and financial resources.
+
+[page 7] Only when the Regional Board independently determines that a program being implemented by another regulatory entity will be adequate to correct the impairment, may the Regional Board rely upon that program. If a Regional Board makes such findings, and the findings are supported by substantial evidence in the administrative record, the Regional Board may certify that such program will implement the assumptions and requirements of the TMDL. Nothing in this policy should be construed as implying that State may avoid its responsibilities under Water Code sections 13263, 13269, 13377, or any other section of the Porter Cologne Act. In other words, this certification procedure shall not be deemed to allow the Regional Board to rely upon an alternative program where the Regional Board has a legal responsibility to implement its own requirements (such as issuing or waiving WDRs, or imposing certain effluent limitations in permits where such effluent limitations are required by law). The Regional Boards must perform their statutorily mandated responsibilities irrespective of whether another body is also regulating an activity.
+
+[page 7] Finally, if water quality problems persist, the Regional Board may not indefinitely defer enforcement action to other agencies. The RWQCB can ask the agency to enforce its own requirements, and if they fail to do so in a manner consistent with the assumptions and requirements of the TMDL, the Regional Board must exercise its independent authority.
+6
+
+[page 8] Adopted by Resolution 2005-0050 June 16, 2005
+4. If a solution to an impairment is being implemented by a non-regulatory action of another entity, and the regional board finds that the solution will actually correct the impairment, the regional board may certify that the non-regulatory action will correct the impairment and if applicable, implement the assumptions of the TMDL, in lieu of adopting a redundant program.
+Similar to subsection c., above, the Regional Boards may rely upon actions by non-regulatory entities, if the Regional Board makes findings, supported by substantial evidence in the record, that a program being implemented by a non-regulatory entity will be adequate to correct the impairment. The fact that the Regional Boards have limited resources to accomplish their water quality mission can and should be used as a basis to encourage interested persons to undertake to abate impairments in the time before the Regional Boards may otherwise be able to address them.
+
+[page 8] For instance, several RWQCBs have had experience working with industry groups, both formally and informally, to develop education and self-regulation within a particular industry. Other organizations have become active in NPS pollution prevention and land restoration efforts through CWA §319(h) grants, State bond grants, or the State Revolving Fund loan program.
+Many of the partnerships formed to take advantage of these financial resources have developed into self-sustaining third-party organizations. Some are affiliated with RCDs or have developed as part of the Coordinated Resource Management Planning (CRMP) approach; others are watershed groups or have developed their own organizational structure based on other geographic or industry-specific factors. In some situations the organizations accomplish their goals through a mix of public and private partnership efforts. The RWQCB staff has worked with these groups at various levels. The RWQCBs have broad flexibility and discretion in fashioning TMDL implementation programs, and are encouraged to be as innovative and creative as possible, and, as appropriate, to build upon Third-Party Programs II. Process for adopting TMDLs
+
+[page 8] Section 1. Definitions:
+a) Certification. As used in this policy, the term “certification” shall refer to a formal attestation by a Regional Board that a specific program of implementation, proposed by another regulatory or non-regulatory entity, will be consistent with the assumptions and requirements of a Regional Board-established TMDL that is set at a level that will ensure attainment of water quality standards, considering seasonal variations and a margin of safety. The term “certify” or “certifies” shall refer to the act of issuing the certification.
+A certification under this policy shall not be deemed to confer any other form of certificate or create any other form of certification, including but not limited to those described in sections 1288 or 1341 of Title 33 of the United States Code.
+b) Loading capacity (LC). The greatest amount of loading that a water can receive without violating water quality standards.
+
+[page 8] b) Loading capacity (LC). The greatest amount of loading that a water can receive without violating water quality standards.
+c) Load allocation (LA). The portion of a receiving water’s loading capacity that is attributed either to one of its existing or future nonpoint sources of pollution or to natural background sources. Load allocations are best estimates of the loading, which can range from reasonably accurate estimates to gross allotments, depending on the availability of data and appropriate techniques for predicting the loading. Wherever possible, natural and nonpoint source loads should be distinguished. (40 CFR 130.2(g))
+7
+
+[page 9] Adopted by Resolution 2005-0050 June 16, 2005
+d) Waste Load allocation (WLA). The portion of a receiving water’s loading capacity that is allocated to one of its existing or future point sources of pollution. WLAs constitute a type of water quality-based effluent limitation (40 CFR 130.2(h)).
+e) Margin of Safety (MOS). The required component of the TMDL that accounts for the uncertainty about the relationship between the pollutant loads and the quality of the receiving waterbody (CWA section 303(d)(1)(C)). The MOS is normally incorporated into the conservative assumptions used to develop TMDLs (generally within the calculations or models) and approved by EPA either individually or in state/EPA agreements. This may be referred to as an “implicit” MOS. If the MOS needs to be larger than that which is allowed through the conservative assumptions, additional MOS can be added as a separate component of the TMDL (in this case, quantitatively, a TMDL = LC = WLA + LA + MOS). When the MOS is expressed as a specific reservation or assignment of part of the LC, it may be referred to as an “explicit” MOS.
+
+[page 9] f) Total Maximum Daily Load (TMDL). The sum of the individual wasteload allocations (WLAs) for point sources, load allocations (LAs) for nonpoint sources and natural background, and a margin of safety (MOS). TMDLs can be expressed in terms of mass per time, toxicity, or other appropriate measures that relate to a state’s water quality standard.
+Section 2. TMDLs are adopted with programs that implement correction of the impairment.
+TMDLs may be adopted in any of the following ways:
+a) The TMDL may be adopted with and reflected in assumptions underlying a basin plan amendment, or another regulation or policy for water quality control that is designed to guide the Regional Board in correcting the impairment b) The TMDL may be adopted with and reflected in assumptions underlying a permitting action, enforcement action, or another single regulatory action that is designed by itself to correct the impairment
+c) The TMDL may be adopted with and reflected in a resolution or order that certifies either that:
+
+[page 9] c) The TMDL may be adopted with and reflected in a resolution or order that certifies either that:
+i) A regulatory program has been adopted and is being implemented by another state, regional, local, or federal agency, and the program will correct the impairment; or ii) A non-regulatory program is being implemented by another entity, and the program will correct the impairment.
+d) Subsection c), above, shall not be construed as authorizing the Regional Board to delegate its authority over water quality control to another regulatory or non-regulatory entity. In all cases the Regional Board must determine the LC of the water body, and thus the load reductions necessary (considering seasonal variations and a margin of safety) to attain standards. The Regional Board must exercise its independent discretion to determine whether or not such alternative program is consistent with the LC. As such, any resolution under subsection c), above, must include specific findings, supported by substantial evidence in the record, that demonstrate each of the following about the regulatory or non-regulatory program:
+i) The program is consistent with the assumptions and requirements of the TMDL;
+
+[page 9] i) The program is consistent with the assumptions and requirements of the TMDL;
+ii) Sufficient mechanisms exist to provide reasonable assurances that the program will address the impairment in a reasonable period of time;
+8
+
+[page 10] Adopted by Resolution 2005-0050 June 16, 2005
+iii) Sufficient mechanisms to enforce the program exist or the regional board otherwise has sufficient confidence that the program will be implemented, such that further regulatory action in the form of a TMDL implementation plan by the Regional Board is unnecessary and would be redundant.
+The above findings will require a fact-specific inquiry, dependent upon the type of impairment at issue, the identity, authority, and interests of those proposing the alternative program, and a variety of other factors. A lower confidence that the program will remain in place and will succeed can be mitigated by findings that sufficient fallback provisions exist to ensure that the impairment will be addressed in a reasonable period of time if the program is unsuccessful. Such fallback provisions could include instructions that staff commence a regulatory program under section 2.a) or 2.b) above at a time-certain if the impairment has not then been addressed.
+e) Any certification under subdivision c) above, may only be issued and remains valid if:
+
+[page 10] e) Any certification under subdivision c) above, may only be issued and remains valid if:
+i) A monitoring plan that addresses the impaired water has been adopted or approved by the Regional Board, and it is adhered to;
+ii) The program contains conditions that require trackable progress, and such progress is tracked. A timeline must identify the point or points at which regulatory intervention and reversion to Regional Board direct oversight will be triggered if the pace of work lags or fails;
+iii) The certification contains a provision setting forth that the it must be revoked by the Regional Board based upon its findings that the program has not been adequately implemented, is not achieving its goals, or is no longer adequate to restore water quality;
+iv) For alternative programs intended to control non-point source contributions to an impairment, such programs comport with the requirements of the Policy for Implementation and Enforcement of the Nonpoint Source Pollution Control Program, including, but not limited to, the Key Elements of an NPS Pollution Control Implementation Program.
+
+[page 10] Any interested party may file a petition with the State Board pursuant to Water Code section 13320 to review a Regional Board’s failure to adequately ensure that the certification remains valid.
+f) A Regional Board may delegate the authority to make certifications under section 2.c) to its Executive Officer for non-controversial TMDLs.
+g) A certification under section 2.c), above, shall be valid only for the purpose of implementing TMDLs required by section 303(d) of the Clean Water Act. Such a certification shall not be deemed to constitute a “certification” as used in any other section of the Clean Water Act or as used in any other statute.
+h) A certification under section 2 c), above, shall include a date upon which the certification will expire, if not reissued. On of before the expiration date, the Regional Board shall review the actions taken to address the impaired waters, and may renew the certification if significant progress has been made to correct the impairment, or the Regional Board may direct staff to develop another regulatory solution to the impairment.
+
+[page 10] i) When TMDLs are adopted under sections 2.b) or 2.c), above, the TMDLs must be referenced in the relevant Basin Plans before or during the next triennial review. (40 CFR 130.6(c).)
+9
+
+[page 11] Adopted by Resolution 2005-0050 June 16, 2005
+Section 3. State Board Review. The manner of review by the State Board shall depend upon and be consistent with the manner in which the TMDL has been adopted by the Regional Board.
+a) Basin Plan amendments are subject to State Board approval pursuant to Water Code section 13245.
+b) Permits and orders are subject to State Board review pursuant to Water Code section 13320.
+c) Interested persons may file a petition for State Board reconsideration of any resolution or order issuing or denying a certification under section 2.c) above, in the manner described in Division 3, Chapter 28, Article 6, of Title 23 of the California Code of Regulations, however, any such petition shall be filed not later than 30 days after the date of the certification resolution or order by the Regional Board.
+Section 4. Transmittal to USEPA and Request for Approval. The TMDL shall be transmitted to USEPA for approval as follows:
+a) By the Division of Water Quality, for TMDLs adopted pursuant to Section 2.a).
+
+[page 11] a) By the Division of Water Quality, for TMDLs adopted pursuant to Section 2.a).
+i) The Division of Water Quality shall not transmit the TMDL for approval until the Office of Administrative Law has concluded any applicable review of the regulations implementing the TMDL.
+b) By the Regional Board’s Executive Officer, for TMDLs adopted pursuant to Section 2.b)
+or 2.c).
+i) The Division of Water Quality shall prepare a standard transmittal form for use by the Regional Boards.
+ii) The Regional Board shall not transmit the TMDL for approval until either the time to file a petition for review with the State Board has lapsed, or the State Board has dismissed any petitions challenging, or has otherwise approved, the certification or order. The Regional Board may transmit the TMDL for approval if a petition is pending and either no request for a stay has been filed, or the State Board has denied the request for a stay.
+iii) A copy of each transmittal by a Regional Board shall be sent to the Division of Water Quality.
+Section 5. Delisting.
+
+[page 11] Section 5. Delisting.
+a) When a Regional Board determines that a water body is in fact attaining standards and is not threatened, the Regional Board may on its own motion entertain a resolution recommending the water body be delisted, in lieu of waiting until the next listing cycle.
+Given the process established by the 303(d) list policy to list and delist waters at regular intervals, failure to take action under this subsection in lieu of waiting until the next 303(d) listing cycle, shall not be deemed inappropriate or improper.
+b) No water body shall be deemed delisted pursuant to section 5.a), above, until the State Board has approved the recommendation, and the decision has been transmitted to, and thereafter approved by, USEPA.
+10
+
+[page 12] Adopted by Resolution 2005-0050 June 16, 2005
+Section 6. Existing Authority Preserved.
+a) Nothing in this policy shall affect the responsibility of the State Board or any Regional Board to implement the provisions of an applicable Basin Plan or other policy for water quality control, and to ensure that all water quality standards are attained, whether or not a TMDL has yet been established for a given water body. Nor shall any provision of this policy be construed as limiting the authority of the State Board or any Regional Board with respect to any of its existing regulatory tools or processes." Furthermore, where multiple actions of a Regional Board are simply using existing regulatory or enforcement authorities to IMPLEMENT one or more existing regulatory standards, and/or prohibitions, no underground regulation problem is presented and no rulemaking is required because the regulatory standard, and/or prohibition has already been adopted through the proper rulemaking or legislative process.
+11
+
+[page 13] Adopted by Resolution 2005-0050 June 16, 2005
+Attachment A: Impaired Waters Regulatory Decision Tree Is listed water now
+attaining standards? Delist
+Yes
+Determine cause
+No
+Natural
+background levels
+exceed WQS
+Revise WQS as
+appropriate UAA
+SSO
+WQS is too broad
+or vague
+Incompatible
+uses exist
+Pollutants designated by
+EPA under CWA
+304(a)(2)(D).
+Calculate Loading
+Capacity
+Cause of impairment
+can be redressed by
+single vote of the
+Regional Board
+Cause of impairment is
+being redressed by a
+regulatory action of
+another local, state, or
+federal agency
+Cause of impairment is
+being redressed by a
+non-regulatory action of
+another entity
+Cause of impairment
+must be redressed
+through multiple actions
+of the Regional Board
+alone or with other
+entities, or other factors
+make a basin plan
+amendment desirable
+Develop
+appropriate
+remedy/
+implementation
+plan
+Issue or revise
+individual permit
+or waiver
+Issue or revise
+general permit
+or waiver
+Take enforcement
+action
+Adopt interagency
+agreement
+Other?
+Certify that the
+other regulatory
+action will
+implement the
+TMDL (or correct
+the impairment)
+Certify that the
+non-regulatory
+action will
+implement the
+TMDL (or correct
+the impairment)
+Adopt basin plan
+
+[page 13] Adopt basin plan
+amendment that
+guides staff in
+implementing the
+Anti-deg finding
+Pollution
+(including pollutants
+not designated by EPA)
+Inappropriate
+Regulations
+Anthropogenic
+Causes
+TMDL using any
+combination of the
+following tools:
+Note: After implementation of the chosen regulatory tool(s) the practitioner would start at the beginning of the decision tree to evaluate the effectiveness of the implementation program and, as appropriate, choose an alternative regulatory option to address the water body impairment

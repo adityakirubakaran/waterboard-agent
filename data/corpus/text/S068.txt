@@ -1,0 +1,86 @@
+Proficiency Testing
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/proficiency_testing.html
+Date printed: 07/16/2024
+
+## Proficiency Testing
+Welcome to the Environmental Laboratory Accreditation Program’s Proficiency Testing (PT) webpage.
+Proficiency Testing Requirement
+Once per year laboratories are required to obtain an “Acceptable” PT score for each Field of Accreditation (FOA) the laboratory is applying or accredited for.
+Proficiency Testing Timing
+- PTs for initial and amendment applications must be completed before the application is submitted.
+- PTs for renewal applications must be completed during the second year of the laboratory’s certificate before the application due date. Annual PTs are due before the end of the first year of a laboratory’s certificate.
+Proficiency Testing Reporting
+The analyte, method, and matrix reported in a PT study must match the analyte, method, and matrix in ELAP’s FOA tables.
+
+## Proficiency Testing > Approved Proficiency Testing Providers
+Does CA ELAP have approved Proficiency Testing (PT) providers?
+Yes. All laboratories must choose from the list of the approved PT providers below:
+- Absolute Standards, Inc.
+- Advanced Analytical Solutions, LLC
+- Environmental Resource Associates, Inc. (ERA)
+- NYS DOH Wadsworth Center
+- NSI Solutions, Inc.
+- Phenova
+What should I do if the PT provider my laboratory uses does not offer the PT I need?
+You need to check with the other approved providers for the PTs the laboratory needs. Not all providers offer all PTs, and it is the laboratory’s responsibility to check with all approved PT providers to get the PTs it needs.
+If my laboratory does not pass the PT evaluation for one or more subgroups in its application, will we get an extension to complete the PTs, as was offered in the past?
+
+## Proficiency Testing > Approved Proficiency Testing Providers
+If my laboratory does not pass the PT evaluation for one or more subgroups in its application, will we get an extension to complete the PTs, as was offered in the past?
+No. After January 1, 2021, the laboratory will no longer receive a courtesy notice and thirty-day extension beyond the due date to correct deficiencies in PT requirements. This practice was adopted to help laboratories transition to the Water Boards because laboratories were historically not required by the Program to meet the PT requirements as written in regulation while ELAP was at the Department of Public Health. Under the new regulations, laboratories are required to meet the due dates established in regulation and will receive the results of the evaluation when the certificate is issued.
+How do I get a Field of Accreditation (FOA) added back to my certificate if I am denied accreditation for not submitting an acceptable PT?
+To be reinstated after denial or suspension of an FOA, the laboratory must achieve an acceptable score in a PT study for that FOA and submit an amendment application package, in accordance with section 64808.15 of Title 22 of the California Code of Regulations (22 CCR).
+
+## Proficiency Testing > Procedures for Failed Proficiency Tests
+If on the first attempt, a laboratory receives a “Not Acceptable” score for a Field of Accreditation (FOA), then within forty-five (45) days of receiving notification of the result, the laboratory must:
+- Notify the ELAP Monitoring Unit of the “Not Acceptable” score by emailing at ELAPCA_PT@waterboards.ca.gov,
+- Investigate and document the root cause of the failure,
+- Take corrective action,
+- Achieve an acceptable score in a subsequent Proficiency Testing study for that Field of Accreditation, and
+- Notify ELAP at ELAPCA_PT@waterboards.ca.gov of the “Acceptable” score.
+If on the second attempt, a laboratory receives a “Not Acceptable” score for the same FOA, the laboratory shall:
+- Be automatically suspended for the FOA upon receiving the result from the provider per CCR Section 64802.15(j). This suspension occurs automatically; the laboratory will not receive a suspension notice from ELAP.
+- Immediately cease reporting of results for regulatory purposes for that FOA
+- Notify ELAP at ELAPCA_PT@waterboards.ca.gov of the “Not Acceptable” result within three days;
+
+## Proficiency Testing > Procedures for Failed Proficiency Tests
+- Notify ELAP at ELAPCA_PT@waterboards.ca.gov of the “Not Acceptable” result within three days;
+- Notify affected clients of second “Not Acceptable” result by registered mail, email with return receipt, or electronic signature document;
+- Investigate and document the root cause of the failure and take corrective action within 30 days
+To be reinstated after Suspension of a Field or Fields of Accreditation, the laboratory shall:
+- Achieve acceptable scores in a Proficiency Testing study for the corresponding FOA(s)
+- Submit an amendment application package, in accordance with Section 64808.15.
+
+## Proficiency Testing > Common Proficiency Testing Errors
+Use these cautionary tales to avoid making common proficiency testing mistakes. The five most common reasons that laboratories are denied or lose accreditation for not meeting PT requirements are:
+- Not performing a PT – With the many demands that laboratories face, it is easy to forget to complete all your PTs. However, because PTs are required for accreditation, planning ahead is important to avoid denial or loss of accreditation. ELAP recommends laboratories develop a proficiency testing plan for support.
+- Misreporting a method – The method reported in a PT study must match the method for which the laboratory is seeking accreditation or seeking to maintain accreditation. For example, a common PT reporting error is shown here:
+Field of Accreditation 101.01 – SM 9215 B – Heterotrophic Bacteria
+Reported as “SM 9215”
+Incorrect
+The laboratory did not report the method version, and it does not match the ELAP FOA form.
+Reported as “SM 9215 B”
+| Correct!
+The method name and version exactly match the ELAP FOA form.
+Field of Accreditation 108.075 001 – SM 2540 D -2011 – Total Suspended Solids
+Reported as “SM 2540 D” | Incorrect
+
+## Proficiency Testing > Common Proficiency Testing Errors
+Reported as “SM 2540 D” | Incorrect
+The laboratory did not report the revision year, and it does not match the ELAP FOA table.
+Reported as “SM 2540 D -2011”
+| Correct!
+The method name, version, and revision year exactly match the ELAP FOA table.
+- Wrong matrix – Laboratories often perform only one PT and mistakenly believe it will apply to FOAs in more than one matrix. Be sure to perform the right type of study.
+- Drinking water FOAs require a “water supply” (WS) or “drinking water” study
+- Non-potable and ambient water FOAs require a “water pollution” (WP) or “wastewater” study
+- Hazardous waste FOAs require a “soil” or “hazardous waste” study
+- Outside of required timeframe – To meet the ELAP PT requirements, it is important that laboratories understand the two-year accreditation cycle and when they need to perform their PTs within that cycle.
+- Annual PTs – Must be completed during the first year of the laboratory’s certificate.
+- Renewal PTs - Must be completed during the second year of the laboratory’s certificate before the application due date
+
+## Proficiency Testing > Common Proficiency Testing Errors
+- Renewal PTs - Must be completed during the second year of the laboratory’s certificate before the application due date
+- Not checking with all providers for available PTs – Not all providers will offer the same products, and some laboratories may find that more than one provider is needed to obtain every PT they need. This requires some research and planning on behalf of the laboratory.
+Visit ELAP’s Frequently Asked Questions (FAQs) webpage for more questions and answers.
+(Page last updated 07/16/2024)

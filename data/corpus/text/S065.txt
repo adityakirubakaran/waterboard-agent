@@ -1,0 +1,98 @@
+Laboratory Fact Sheet for Hexavalent Chromium
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/docs/2024/cr6-lab-factsheet.pdf
+Date printed: October 1, 2024
+
+[page 1] Monitoring Hexavalent Chromium in Drinking WaterInformation for Laboratories Performing Drinking Water Analysis Regulatory Requirements for Water Systems
+Beginning October 1, 2024, public drinking water systems will be required to monitor for hexavalent chromium [Cr (VI)], in order to demonstrate compliance with a Maximum Contaminant Level (MCL) of 0.010 mg/L. The Division of Drinking Water (Division)
+incorporated two analytical methods into the regulations that water systems must utilize, EPA 218.6 revision 3.3 (1994) and EPA 218.7 version 1.0 (2011), and water systems must use an Environmental Laboratory Accreditation Program (ELAP) accredited laboratory for the analysis.
+To fulfill the California Safe Drinking Water Act requirements, ELAP-accredited laboratories will need to meet the Detection Limit for Purposes of Reporting (DLR) to be able to upload results to the California Laboratory Intake Portal (CLIP). The laboratory must appropriately conduct and document its Limit of Quantitation (LOQ) in accordance with 2016 TNI standard, revision 2.1, volume 1 module 4 requirements, incorporated by reference in ELAP’s regulations.
+DLR – i.e. the laboratory’s highest
+
+[page 1] DLR – i.e. the laboratory’s highest
+allowable Limit of Quantitation
+MCL – i.e. the drinking water standard
+0.0001 mg/L (0.1 ppb) 0.010 mg/L (10 ppb)
+Method Selection
+Laboratories conducting analysis for drinking water compliance must utilize either EPA 218.6 or EPA 218.7 as written. The two methods contain significant differences and must be followed as written. Laboratories cannot pick and choose requirements from the two different methods. Laboratories must meet the minimum requirements specified in the method it uses. Laboratories or water systems interested in utilizing the extended holding time defined in EPA 218.7 are encouraged to seek accreditation to use EPA 218.7.
+Unincorporated Guidance
+Allowances or requirements of other programs, such as those identified in the Code of Federal Regulations, title 40 part 136, cannot be applied to drinking water compliance samples tested under the Division’s requirements. Similarly, old guidance from the US EPA’s Unregulated Contaminant Monitoring Rule and old guidance from ELAP when the program was under the California Department of Public Health cannot be followed.
+
+[page 2] ELAP-DOC-001 Revision: 1.0 Revision Date: 9/26/2024 CrVI Guidance Page 2 of 3
+Under the new regulations, alterations to the method’s defined sample collection and preservation sections are not permitted. Because no additional requirements outside of the method-defined parameters were incorporated into the Division’s regulation, the methods must be followed without modification. Laboratories must abide by the holding time and buffers defined in the method the laboratory uses.
+Method Comparison
+This list is non-exhaustive and does not supersede or overwrite the requirements within the methods. While ELAP has made every effort to ensure the accuracy of the items below, the laboratory must comply with the requirements within the specific method in which they seek or hold accreditation. Commonly used acronyms or synonyms are used to create parallels between the method terms.
+Requirement EPA 218.6 EPA 218.7
+DLR – Maximum
+LOQ/MRL
+0.0001 mg/L (0.1 ppb)
+(§ 64432)
+0.0001 mg/L (0.1 ppb)
+(§ 64432)
+Holding Time 24 hours (Section 8.3) 14 days when preserved (Section 8.4)
+Temperature Preservative 4oC (Section 8.3) 6oC (recommended)
+(Section 8.3)
+Chemical Preservative pH 9-9.5 with
+
+[page 2] Chemical Preservative pH 9-9.5 with
+(NH₄)₂SO₄/NH₄OH
+(Sections 7.9 and 8.2)
+NOTE: Concentration
+differs from 218.7 option
+pH > 8 with either:
+(NH₄)₂SO₄/NH₄OH or
+CO3-2/HCO3-/(NH₄)₂SO₄
+(Section 8.1)
+Sample Container HDPE
+(Section 6.3)
+HDPE or polypropylene,
+see section 4.1 for
+exceptions (Section 6.1)
+Column type high-capacity anion
+exchange resin
+(Section 6.1.7)
+Flexible, see section 6.5.4
+Eluent (NH₄)₂SO₄/NH₄OH
+(Section 7.7)
+Flexible, see section 7.1
+Linear Dynamic Range Part of the IDP
+(Section 9.2.3)
+Not required
+QC Recovery Summary
+Second Source (QCS/ICV) 90-110% (Section 9.3.5) 85-115% (section 9.2.5)
+Blanks (LRB/MB) 1 per Batch
+< MDL (Section 9.3.1)
+1 per Batch
+<1/3 MRL/LOQ (Section
+9.3.1)
+Positive Controls
+(LFB/LCS)
+1 per Batch
+90-110% (Sections 9.3.2,
+9.3.3)
+1 per Batch, may count as
+CCC.
+85-115% (section 10.3.1)
+
+[page 3] ELAP-DOC-001 Revision: 1.0 Revision Date: 9/26/2024 CrVI Guidance Page 3 of 3
+Requirement EPA 218.6 EPA 218.7
+Calibration Verification
+(IPC/CCC/CCV)
+1 per 10 samples
+95-105% (Section 9.3.4)
+Beginning, end, and 1 per
+10 samples. (Section
+9.3.2)
+Mid-point: 85-115%
+low CCC at MRL/LOQ: 50-
+150%
+(section 10.3.1)
+Matrix Spikes
+(LFM/LFMD/MS/MSD)
+10% of samples (Section
+9.4)
+1 per analysis batch,
+and LFMD or duplicate
+(Section 9.3.4)
+Additional Resources
+More information on the rulemaking may be found on the Division's website at https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/SWRCBDDW-21-003_hexavalent_chromium.html
+Technical Questions regarding methods or laboratory technical requirements can be directed to elapca_technical@waterboards.ca.gov.

@@ -1,0 +1,1551 @@
+Composting General Order (Order WQ 2020-0012-DWQ, amends 2015-0121-DWQ)
+https://www.waterboards.ca.gov/board_decisions/adopted_orders/water_quality/2020/wqo2020_0012_dwq.pdf
+Date printed: April 7, 2020
+
+[page 1] GENERAL WASTE DISCHARGE REQUIREMENTS
+FOR COMMERCIAL COMPOSTING OPERATIONS
+STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2020-0012-DWQ
+April 7, 2020
+
+[page 2] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+Table of Contents
+
+[page 2] Table of Contents
+GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS STATE WATER RESOURCES CONTROL BOARD ORDER WQ 2020-0012-DWQ .......................................................................................... 1 ACRONYMS AND ABBREVIATIONS 3 BACKGROUND FOR REVISING ORDER WQ 5 FINDINGS AND BACKGROUND INFORMATION ......................................................... 6 Table 1. Biosolids Feedstock Ceiling Concentrations ................................................. 10 SCOPE OF THIS GENERAL ORDER 11 Table 2. Allowable Feedstocks ................................................................................... 11 Table 3. Tier 1 Percolation Rate and Depth to Groundwater Standards..................... 12 APPLICATION PROCESS ........................................................................................... 16 ANTIDEGRADATION ANALYSIS ................................................................................ 17 TITLE 27 APPLICABILITY ........................................................................................... 20 CALIFORNIA ENVIRONMENTAL QUALITY ACT .......................................................
+
+[page 2] 21 OTHER REGULATORY CONSIDERATIONS .............................................................. 26 IT IS HEREBY ORDERED ........................................................................................... 27 PROHIBITIONS 27 SPECIFICATIONS 29 DESIGN, CONSTRUCTION, AND OPERATION REQUIREMENTS – ALL TIERS 30 DESIGN, CONSTRUCTION, AND OPERATION REQUIREMENTS FOR COMPOSTING MANURE AT TIER 1 FACILITIES .................................................... 32 DESIGN, CONSTRUCTION, AND OPERATION REQUIREMENTS – TIER 2 ONLY32 MONITORING REQUIREMENTS .............................................................................. 34 MAINTENANCE REQUIREMENTS ........................................................................... 34 SITE CLOSURE REQUIREMENTS ........................................................................... 34 REPORT REQUIREMENTS ...................................................................................... 35 NOTIFICATION REQUIREMENTS ............................................................................ 37 ADDITIONAL REQUIREMENTS ................................................................................ 38 CERTIFICATION
+
+[page 2] 41 ATTACHMENT A - DEFINITIONS ............................................................................. A-1 ATTACHMENT B – MONITORING AND REPORTING PROGRAM .......................... B-1 A. ROUTINE MONITORING REQUIREMENTS .................................................... B-1 Table B-1. Detention Pond Monitoring ..................................................................... B-3
+
+[page 3] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+
+[page 3] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+Table B-2. Biosolids Monitoring............................................................................... B-4 Table B-3. Groundwater Monitoring ........................................................................ B-5 B. REPORTING REQUIREMENTS ....................................................................... B-7 C. RECORD-KEEPING REQUIREMENTS .......................................................... B-10 ATTACHMENT C – NOTICE OF INTENT.................................................................. C-1 DISCHARGER INFORMATION ............................................................................... C-1 COMPOSTING OPERATION INFORMATION ......................................................... C-1 REASONS FOR FILING........................................................................................... C-1 STORMWATER PERMIT ......................................................................................... C-2 OTHER PERMITS .................................................................................................... C-2 CALIFORNIA ENVIRONMENTAL QUALITY ACT (CEQA) ......................................
+
+[page 3] C-2 PROCESS................................................................................................................ C-2 SITE CONDITIONS .................................................................................................. C-3 DESIGN SPECIFICATION TIERS (check one) ........................................................ C-3 TECHNICAL REPORT ............................................................................................. C-3 FILING FEE.............................................................................................................. C-3 CERTIFICATION ...................................................................................................... C-3 ATTACHMENT D – TECHNICAL REPORT REQUIREMENTS ................................. D-1 A. GENERAL INFORMATION ............................................................................... D-1 B. SITE CONDITION INFORMATION.................................................................... D-3 C. DESIGN INFORMATION ................................................................................... D-4 D. OPERATIONS AND MONITORING INFORMATION ........................................ D-5 E.
+
+[page 3] SITE CLOSURE INFORMATION ...................................................................... D-6 F. COMPLIANCE SCHEDULE (EXISTING FACILITIES) ...................................... D-6 ATTACHMENT E – NOTICE OF TERMINATION ...................................................... E-7 DISCHARGER INFORMATION 7 COMPOSTING OPERATION INFORMATION ............................................................. 7 REASON FOR TERMINATION 7 CERTIFICATION ...................................................................................................... E-2
+
+[page 4] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+3
+ACRONYMS AND ABBREVIATIONS
+Antidegradation Policy State Water Board Resolution 68-16, Statement of Policy with Respect to Maintaining High Quality of Waters of California
+Basin Plan Water Quality Control Plan
+BMP Best Management Practices
+BPTC Best Practicable Treatment or Control
+CalOES California Governor’s Office of Emergency Services CalRecycle California Department of Resources Recycling and Recovery
+CEQA California Environmental Quality Act
+cm/s Centimeters per second
+CPLX Complexity of the Discharge Rating
+EDF Electronic Deliverable Format
+EIR Environmental Impact Report
+EQ Exceptional Quality
+FEMA Federal Emergency Management Agency
+FDS Fixed Dissolved Solids
+Industrial General Permit Waste Discharge Requirements for Discharge of Storm Water Associated with Industrial Activities
+Excluding Construction Activities
+LEA Local Enforcement Agency
+MDL Method Detection Limit
+mg/L Milligrams per Liter
+mg/kg Milligrams per kilogram
+μmhos/cm Micromhos per centimeter
+MRP Monitoring and Reporting Program
+NOA Notice of Applicability
+
+[page 4] NOA Notice of Applicability
+NOI Notice of Intent to Comply with the Terms of General Waste Discharge Requirements for Composting
+Operations
+
+[page 5] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+4
+NPDES National Pollutant Discharge Elimination System PDF Portable Document Format
+POTW Publicly Owned Treatment Works
+PQL Practical Quantitation Limit
+QA/QC Quality Assurance/Quality Control
+Regional Water Board Regional Water Quality Control Board State Water Board State Water Resources Control Board TDS Total Dissolved Solids
+TTWQ Threat to Water Quality Rating
+U.S. EPA United States Environmental Protection Agency WDRs Waste Discharge Requirements
+
+[page 6] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+5
+BACKGROUND FOR REVISING ORDER WQ 2015-0121-DWQ
+On August 4, 2015, the State Water Resources Control Board (State Water Board)
+adopted General Waste Discharge Requirements for Composting Operations (General Order, Order WQ 2015-0121-DWQ). The General Order includes requirements to protect water quality from composting activities while streamlining the permitting process. The General Order applies to facilities that aerobically compost materials such as green waste, manure, anaerobic digestate, biosolids, food scraps, and scrap paper products. Eligible composting operations are classified into two tiers based on types of feedstocks used, volume of materials on site, and hydrogeologic site conditions. Tier 2 specifications are more protective of water quality than Tier 1 and apply to facilities with greater volumes or materials which pose a higher threat to water quality.
+
+[page 6] At the September 19, 2017 State Water Board meeting, staff presented an informational item on the implementation of the General Order, providing information about performance measures, enrollment, and compliance. Stakeholders expressed concerns regarding limitations of the agricultural exemption and requirements for composting manure. The Board directed staff to evaluate the General Order relative to these concerns and report back with recommendations in six months.
+At the March 20, 2018 State Water Board meeting, staff presented an informational item with recommendations for pursuing changes to the agricultural exemption, requirements for composting manure, and to provide clarity regarding applicability of the General Order. The Board supported staff’s recommendations and directed staff to revise the General Order. These revisions affect new composting operations or existing composting operations that may now be eligible for a different tier or exemption.
+
+[page 6] Manure is a nutrient-rich material and can be a beneficial soil amendment when applied at agronomic rates. Manure may also be composted to create a beneficial soil amendment. A variety of methods are used to manage manure at agricultural operations including land spreading, anaerobic digestion, and composting. Currently, the predominant practice for manure management is stockpiling on site and applying to feed crops.
+Research by the Central Valley Dairy Representative Monitoring Program (CVDRMP)
+indicates there are greater impacts to water quality from over-application of manure to fields than from corrals and manure storage areas; some dairies have more manure than can be land-applied agronomically on-site. Untreated manure is expensive to transport and the crops to which it can be applied are limited.
+
+[page 6] The CVDRMP evaluated best management practices (BMPs) for storing, handling, and processing dairy manure. Recommendations were submitted in 2019 on behalf of CVDRMP members to the Central Valley Regional Water Board based on results of monitoring and research conducted by CVDRMP. One key recommendation for achieving a whole-farm nitrogen balance at all dairies is to build the capacity for exporting excess manure from dairies to willing participants (e.g., farmers in need of nitrogen fertilizer or organic material to improve soil health) in an economically
+
+[page 7] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+6
+sustainable manner. One potential component of expanding the capacity to export manure is composting.
+Research to evaluate BMPs for composting manure in California soil and climate conditions will be performed as a result of a State Water Board contract with the University of California at Davis. The amendments to the General Order remove barriers to create compost for beneficial uses.
+Order WQ 2020-0012-DWQ amends Order WQ 2015-0121-DWQ.
+FINDINGS AND BACKGROUND INFORMATION
+The State Water Resources Control Board (State Water Board) finds that:
+1. The State of California currently disposes an estimated 35 million tons of waste annually in landfills, of which 32 percent is compostable organic material, 29 percent is construction debris, and 17 percent is paper.
+
+[page 7] 2. Composting is the biological decomposition of organic materials by microorganisms under controlled aerobic conditions to create a product (e.g., soil amendment or soil blend). Compostable materials comprise a wide range of material types: grass, leaves, branches, prunings, stumps, wood waste, agricultural materials, manure, food, and biosolids.
+3. Composting organic material yields environmental benefits by recycling nutrients and diverting materials from landfills. Diversion of compostable materials from landfills reduces the amount of material landfilled and extends landfill capacity and service life.
+4. Compost can be a valuable soil amendment that improves soil tilth and plant health, increases soil water holding capacity, reduces runoff, adds beneficial micro-organisms, adds organic matter, and sequesters carbon.
+5. Composting activities typically occur on open and uncovered land, exposed to precipitation. However, some composting activities are performed within structures, protected from precipitation.
+
+[page 7] 5. Composting activities typically occur on open and uncovered land, exposed to precipitation. However, some composting activities are performed within structures, protected from precipitation.
+6. Compostable materials may contain nutrients, metals, salts, pathogens, and oxygen- reducing compounds that can degrade water quality if allowed to migrate into groundwater or surface water. The process of composting can allow contaminants to migrate with leachate or wastewater from these materials. Additionally, composting nutrient-rich feedstocks on more permeable soil has the potential to create elevated nitrate concentrations in groundwater.
+7. Composting facilities may contain areas where composting operations occur as well as ancillary buildings (e.g., office space, equipment storage, etc.).
+For the purposes of these General Waste Discharge Requirements for Composting Operations (General Order), the term “Composting Operation”
+
+[page 8] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+7
+shall mean the area at which operations are conducted, including the receiving area, pre-processing, processing, curing, storage areas, detention ponds, and other areas associated with production of compost, including storage areas for feedstocks, additives, or amendments. Attachment A, attached hereto and made part of this order, provides definitions of terms and phrases used in this General Order.
+8. For the purposes of this General Order, all references to compost include compost piles actively being composted, cured, and stored on site to mature prior to sale or use (final product).
+
+[page 8] 8. For the purposes of this General Order, all references to compost include compost piles actively being composted, cured, and stored on site to mature prior to sale or use (final product).
+9. Water Code section 13260, subdivision (a) requires that any person discharging waste or proposing to discharge waste, other than to a community sewer system, that could affect the quality of the waters of the state, shall file a report of waste discharge. Water Code section 13263 provides that a Regional Water Quality Control Board (Regional Water Board) or the State Water Board shall prescribe waste discharge requirements (WDRs) that implement the Regional Water Boards’ water quality control plans (Basin Plans) and take into consideration the beneficial uses to be protected and the water quality objectives reasonably required for that purpose and the need to prevent nuisance. “Waste” is defined in Water Code section 13050, subdivision (d).
+
+[page 8] 10. Assembly Bill No. 341 enacted in 2011 (2011–2012 Reg. Sess.; Stats. 2011, ch. 476) established a policy goal that not less than 75 percent of the solid waste generated in the state be source-reduced, recycled, or composted by 2020. The California Department of Resources Recycling and Recovery (CalRecycle) developed a plan to increase the diversion of compostable materials.
+11. CalRecycle has adopted regulations governing compostable material handling facilities. (Cal. Code Regs., tit. 14, div. 7, ch. 3.1.) The regulations address composting operations including facility siting, design standards, operating standards, environmental health standards, such as sampling and pathogen reduction requirements for the compost products derived from compostable materials prior to being sold or given away, recordkeeping, monitoring, reporting, and site restoration. CalRecycle’s authority does not include regulating water quality. The State Water Board and each Regional Water Board have primary responsibility for coordination and control of water quality (Wat. Code, § 13001).
+
+[page 8] 12. Historic regulation of composting operations by the Regional Water Boards has included individual WDRs or conditional waivers of WDRs. This General Order provides a streamlined method to allow the Regional Water Boards to permit composting operations and address potential impacts to water quality.
+
+[page 9] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+8
+13. Composting activities covered by individual WDRs or a conditional waiver of WDRs may continue operating under that authority until those orders expire or come up for renewal. At that time, or earlier at the discretion of the Regional Water Boards, it is the intent of the State Water Board that Regional Water Boards will enroll all eligible composting operations under this General Order as appropriate. If a Regional Water Board determines that, due to site-specific conditions and operations, the General Order will not appropriately address a composting operation or if coverage under this General Order will not be protective of water quality, the Regional Water Board may issue individual WDRs for a composting operation. If a composting operation is co-located at a facility that has individual or general WDRs, the composting operation does not need to be covered under this General Order if the facility’s WDRs include requirements for the composting activities that are protective of water quality as determined by the Regional Water Board.
+
+[page 9] 14. Water Code section 13263, subdivision (i) states that the State Water Board or a Regional Water Board may prescribe general WDRs for a category of discharges if the State Water Board or Regional Water Board finds or determines that all of the following criteria apply to the discharges in that category:
+a. The discharges are produced by the same or similar operations;
+b. The discharges involve the same or similar types of waste;
+c. The discharges require the same or similar treatment standards; and d. The discharges are more appropriately regulated under general WDRs than individual WDRs.
+Composting operations that will be regulated under this General Order are consistent with the criteria listed above, and therefore a general order is appropriate. All discharges regulated under this order will be from similar operations and will be consistent with the description of composting operations as defined in this General Order. The discharges will use similar containment methods (e.g. pads and ponds). Individual WDRs are not necessary because the discharges are similar and discharge requirements would be similar if individual WDRs were issued.
+
+[page 9] 15. This General Order does not preempt or supersede the authority of federal, state, or local governmental agencies to prohibit, restrict, or control discharges of waste subject to their jurisdiction.
+
+[page 10] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+9
+16. A composting operation typically consists of a receiving and storage area for feedstocks, additives and amendments; a pre-processing area where materials are prepared for composting (screening, size adjustment, etc.); an active composting area; a curing area where the material matures before sale (moisture content and temperature is reduced); and a final screening and storage area where the final compost product is prepared for sale.
+Additives and amendments are often added to compost to adjust moisture content, product bulk, or pH.
+17. Composting can be done on a small or large scale. This General Order only addresses composting operations that receive, process, and store at least 500 cubic yards of materials at any given time.
+
+[page 10] 17. Composting can be done on a small or large scale. This General Order only addresses composting operations that receive, process, and store at least 500 cubic yards of materials at any given time.
+18. Composting typically results in release of liquid from the feedstock material as biological decomposition occurs. The released liquid is leachate and, if sufficient in volume, will drain from the compost pile. Precipitation that falls on, or water that is applied to the compost piles may also result in leachate draining from the compost piles. Leachate may contain dissolved solids, nutrients, metals, salts, pathogens, and/or oxygen reducing compounds.
+19. Water evaporates from the compost piles, in part due to the heat generated in biological decomposition. Liquids are added to maintain appropriate moisture content. Added liquids may include wastewater collected in the detention ponds, or water from a water supply source.
+
+[page 10] 20. Composting operations have the potential to degrade water quality with nutrients (e.g., nitrate), salinity (e.g., sodium chloride), pathogens, oxygen-reducing materials, sediment, and other waste constituents. Implementation of best practicable treatment or control (BPTC) can prevent or limit the degradation.
+21. Composting operation setbacks from water supply wells and surface water bodies are provided in this General Order. Setbacks are included as a means of reducing pathogenic risks by coupling pathogen inactivation rates with groundwater travel time to a well or other potential exposure route (e.g.
+water contact activities). In general, a substantial unsaturated zone reduces pathogen survival compared to saturated soil conditions. Fine grained (silt or clay) soil particles reduce the rate of groundwater transport and therefore are generally less likely to transport pathogens; coarse grained soil particles or fracture flow groundwater conditions may be more likely to transport pathogens. Setbacks also provide attenuation of other wastewater constituents through physical, chemical, and biological processes.
+
+[page 11] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+10
+22. Strategies to control infiltration of wastewater into groundwater include reducing the permeability of areas where compostable materials are stored or composted, constructing sloped pads to facilitate drainage to a detention pond or tank, and reducing the permeability of detention ponds.
+23. Wastewater refers to leachate or any other liquid flowing from, or on the working surface. That wastewater from the working surface may be conveyed to a detention pond. Wastewater may be reapplied to the compost piles as needed.
+24. Total dissolved solids (TDS) consists of both volatile (organic) and fixed (inorganic) fractions. Varying concentrations of volatile dissolved solids will exist in wastewater that is collected in the detention pond. Volatile dissolved solids in the wastewater reapplied to compost piles may be reduced to negligible concentrations by filtration and biological degradation. However, fixed dissolved solids (FDS) do not degrade biologically.
+
+[page 11] 25. The 40 Code of Federal Regulations part 503 biosolids regulations establish ceiling concentration limits for metals; pollutant concentration limits; Class A pathogen requirements; Class B pathogen requirements; site restrictions;
+and vector attraction reduction requirements.
+26. This General Order requires biosolids that are used as a feedstock at the composting facility to comply, at a minimum, with the ceiling concentrations listed in Table 1 of 40 Code of Federal Regulations part 503.13 listed in Table 1 below, and Class B pathogen requirements. The United States Environmental Protection Agency (U.S. EPA) regularly reviews, and may revise, the limitations and requirements of 40 Code of Federal Regulations, part 503. Consult 40 Code of Federal Regulations part 503 for updates.
+Table 1. Biosolids Feedstock Ceiling Concentrations Constituent Ceiling Concentration
+(Milligrams per Kilogram)
+Arsenic 75
+Cadmium 85
+Copper 4,300
+Lead 840
+Mercury 57
+Molybdenum 75
+Nickel 420
+Selenium 100
+Zinc 7,500
+
+[page 12] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+11
+SCOPE OF THIS GENERAL ORDER
+27. The amount and type of feedstocks composted, as well as site conditions such as depth to groundwater, percolation rate, and proximity to surface water and wells inherently affects the threat to water quality. This General Order employs a tiered approach to regulating composting operations.
+28. Only composting operations that comply with the allowable feedstock and setback requirements are eligible for coverage under this General Order.
+a. Tier 1 and Tier 2 allowable feedstocks (as defined in Attachment A) are limited to the materials listed in Table 2.
+b. Composting operations shall be setback at least 100 feet from the nearest surface water body and/or the nearest water supply well. A lesser setback distance may be allowed by the Regional Water Board if the Discharger can demonstrate that the groundwater, geologic, topographic, and well construction conditions at the site are adequate to protect water quality.
+Table 2. Allowable Feedstocks
+Tier 1 Feedstocks:
+· Vegetative agricultural materials,
+· Green materials,
+· Paper materials,
+
+[page 12] · Paper materials,
+· Vegetative food materials,
+· Anaerobic digestate derived
+from allowable Tier 1
+feedstocks,
+· Residentially co-collected or
+self-hauled food and green
+materials, and,
+· Manure: in accordance with
+Finding 29 and Design,
+Construction, and Operation
+Requirements for Composting
+Manure at Tier 1 Facilities.
+Tier 2 Feedstocks:
+· Food materials (non-vegetative),
+· Biosolids (Class A, B, and/or
+Exceptional Quality (EQ)): as
+defined in Attachment A,
+· Anaerobic digestate derived
+from allowable Tier 2 feedstocks,
+and
+· A combination of allowable Tier
+1 and Tier 2 feedstocks
+29. Composting operations (Tier 1 or Tier 2) are classified based on the types of feedstocks; total volume of materials received, processed, and stored at any given time; and hydrogeologic siting considerations. The tiers are defined as follows:
+
+[page 13] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+12
+a. Tier 1 includes a composting operation that meets all the following conditions:
+1) The feedstocks are limited to Tier 1 feedstocks listed in Table 2 and defined in Attachment A;
+2) The facility receives, processes, and stores less than 25,000 cubic yards of a combination of allowable Tier 1 feedstocks, compost (active, curing, and final product), additives and amendments on site at any given time; and
+3) The percolation rate and depth to the highest anticipated groundwater level underlying the composting operation is consistent with Table 3 below.
+
+[page 13] 3) The percolation rate and depth to the highest anticipated groundwater level underlying the composting operation is consistent with Table 3 below.
+Manure may be accepted as a feedstock at Tier 1 facilities if a groundwater protection monitoring plan is implemented for the composting operation. The Discharger shall confirm this intention by submitting a complete Groundwater Protection Monitoring Plan in the technical report with the Notice of Intent, as described in Attachment D. Groundwater monitoring wells must be constructed and monitored in accordance with the requirements of Attachment D to allow early detection of potential migration of waste constituents to the environment. If a groundwater protection monitoring plan is not implemented, the Discharger must seek coverage under Tier 2.
+Table 3. Tier 1 Percolation Rate and Depth to Groundwater Standards Soil Percolation Rate Depth to Groundwater
+(minimum)
+< 1 minutes per inch 50 feet
+1 to 5 minutes per inch 20 feet
+> 5 to 30 minutes per inch 8 feet
+> 30 minutes per inch 5 feet
+b. Tier 2 includes a composting operation that meets one or more of the following conditions:
+
+[page 13] b. Tier 2 includes a composting operation that meets one or more of the following conditions:
+1) The feedstocks include any of the Tier 2 feedstocks listed in Table 2, and defined in Attachment A;
+2) The facility receives, processes and stores 25,000 cubic yards or more of allowable Tier 1 and /or Tier 2 feedstocks, compost, additives and amendments on site at any given time; and/or
+
+[page 14] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+13
+3) The site-specific hydrogeologic conditions do not meet the Tier 1 percolation rate and depth to groundwater standards listed in Table 3.
+30. The following activities are unlikely to degrade water quality if the management practices noted below are implemented and are therefore conditionally exempt from this General Order. However, the Regional Water Board may determine individual WDRs are appropriate under site-specific conditions. Conditionally exempt composting operations may be subject to other federal, state, or local regulations. Composting operations that occur on farm or are part of agricultural, horticultural, aquaculture, silvicultural, floricultural, vermicultural, or viticultural activities are conditionally exempt if all the following conditions are met:
+a. The facility receives, processes, and stores less than 25,000 cubic yards of a combination of allowable feedstocks, compost (active, curing, and final product), additives and amendments on site at any given time;
+
+[page 14] b. Feedstocks consist of vegetative agricultural materials, green materials, manure, and/or other material as allowed by the Regional Water Board, but do not include animal carcasses. Examples include manures and bedding, orchard and vineyard prunings, culls and crop residues, and spoiled or unsalvageable food commodities;
+c. The resulting compost product is returned to the same site or a property owned by the owner of the composting activity and applied at an agronomic rate; and
+d. No more than 5,000 cubic yards of compost final product is given away or sold annually.
+Conditionally exempt activities must implement the following best management practices:
+1) Materials and activities on site must not cause, threaten to cause, or contribute to conditions of pollution, contamination, or nuisance;
+2) Activities shall be setback at least 100 feet from the nearest surface water body and/or the nearest water supply well;
+3) Dischargers must implement practices to minimize or eliminate the discharge of wastes that may adversely impact the quality or beneficial uses of waters of the state;
+
+[page 14] 3) Dischargers must implement practices to minimize or eliminate the discharge of wastes that may adversely impact the quality or beneficial uses of waters of the state;
+4) Dischargers must manage the application of water (including from precipitation events) to reduce the generation of wastewater; and
+
+[page 15] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+14
+5) Working surfaces must be designed to prevent, to the greatest extent possible, ponding, infiltration, inundation, and erosion, notwithstanding precipitation events, equipment movement, and other aspects of the facility operations.
+31. The following composting-related activities are unlikely to degrade water quality and are therefore exempt from this General Order. However, the Regional Water Board may determine individual WDRs are appropriate under site-specific conditions. Composting operations may be subject to other federal, state, or local regulations.
+a. Chipping and grinding facilities and operations. This includes chipping and grinding facilities and operations at a composting facility if located outside of the composting operation area;
+b. Lot clearing by local government agencies (e.g., grubbing, tree trimming, etc.) for fire protection;
+c. Composting activities that are within a fully enclosed vessel;
+d. Composting operations that receive, process, and store less than 500 cy of allowable materials at any given time; and
+
+[page 15] d. Composting operations that receive, process, and store less than 500 cy of allowable materials at any given time; and
+e. Composting operations that receive, process and store less than 5,000 cy per year of allowable Tier I and Tier II feedstocks, additives and amendments that implement the following management practices:
+1) Completely cover materials during storm events as needed to reduce the generation of wastewater; and
+2) Manage the application of water to reduce the generation of wastewater.
+32. Discharges of the following wastes may pose a significant threat to water quality and are therefore prohibited from being discharged under this General Order. The discharge of these wastes may be more appropriately regulated by individual WDRs or other orders issued by the Regional Water Board.
+a. Animal carcasses (whole or in part);
+b. Liquid wastes other than those of food origin;
+c. Medical wastes as defined in Health and Safety Code section 117690;
+d. Radioactive wastes;
+e. Septage;
+f. Sludge, including but not limited to sewage sludge, water treatment sludge, and industrial sludge;
+g. Wastes classified as “designated”, as defined in Water Code section 13173;
+
+[page 16] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+15
+h. Wastes classified as “hazardous” as defined in California Code of Regulations, title 22, section 66261.3;
+i. Wood containing lead-based paint or wood preservatives, or ash from such wood; or
+j. Any feedstock, additive, or amendment other than those specifically described in this General Order, unless approved by the Regional Water Board as described in the Specifications.
+33. The use of additives and amendments, as defined and limited by this General Order, is not expected to pose a significant threat to water quality as long as the Discharger maintains compliance with the requirements and prohibitions of this General Order. A Regional Water Board may limit or prohibit the use of an additive or amendment if the use of the additive or amendment could result in pollution or nuisance.
+34. Compliance with design specifications and associated performance requirements included in this General Order is determined to be protective of water quality.
+35. The requirements in this General Order do not apply to the application or use of the final compost product.
+
+[page 16] 35. The requirements in this General Order do not apply to the application or use of the final compost product.
+36. Technical and monitoring reports specified in this General Order are required. Failing to furnish the reports by the due date or falsifying information in the reports, are misdemeanors that may result in assessment of civil liabilities against the Discharger. Water Code section 13267 states, in part:
+
+[page 16] “In conducting an investigation specified in subdivision (a), the regional board may require that any person who has discharged, discharges, or is suspected of having discharged or discharging, or who proposes to discharge waste within its region, or any citizen or domiciliary, or political agency or entity of this state who has discharged, discharges, or is suspected of having discharged or discharging, or who proposes to discharge, waste outside of its region that could affect the quality of waters within its region shall furnish, under penalty of perjury, technical or monitoring program reports which the regional board requires. The burden, including costs, of these reports shall bear a reasonable relationship to the need for the report and the benefits to be obtained from the reports. In requiring those reports, the regional board shall provide the person with a written explanation with regard to the need for the reports and shall identify the evidence that supports requiring that person to provide the ” The technical reports required by this General Order and the Monitoring and Reporting Program (MRP) in Attachment B are necessary to assure compliance with this General Order.
+
+[page 17] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+16
+37. In accordance with Water Code section 13000 et seq., this General Order implements regulations and policies adopted by the State Water Board, including the agency’s regulations under California Code of Regulations, title 23, and implements applicable provisions of the Health and Safety Code.
+APPLICATION PROCESS
+
+[page 17] APPLICATION PROCESS
+38. Composting operations that were in operation prior to August 4, 2015 when General Order WQ 2015-0121-DWQ was adopted, except those with individual WDRs, general WDRs, or conditional waivers of WDRs that address the composting operation as determined by the Regional Water Board, were required to seek coverage under the General Order by submitting a complete Notice of Intent (NOI) (Attachment C), including the appropriate filing fee (Cal. Code Regs., tit. 23, § 2200), and a technical report including, but not limited to, information requested in Attachment D to the Regional Water Board. The NOI, filing fee and technical report were required to be submitted by August 4, 2016. The technical report shall include a proposed schedule for full compliance and must be as short as practicable but may not exceed 6 years from the date of the NOI.
+
+[page 17] 39. New composting operations that began operating after August 4, 2015, are required to seek coverage by submitting a complete NOI (Attachment C), including the appropriate filing fee (Cal. Code Regs., tit. 23, § 2200) and a technical report including, but not limited to, information requested in Attachment D, to the Regional Water Board not less than 90 days prior to commencement of the composting operation. Early consultation with Regional Water Board staff is encouraged.
+40. For the purposes of this General Order, an NOI and accompanying technical report (as described in Attachments C and D, respectively) is equivalent to a Report of Waste Discharge. After the Regional Water Board determines that the NOI and accompanying technical report are complete, the initial fee has been received, and the composting operation can be appropriately regulated under this General Order, a Notice of Applicability (NOA) will be issued by the Regional Water Board. Within the NOA, the Regional Water Board will at a minimum, confirm a Discharger's tier, timeline for compliance, and method of monitoring to comply with applicable monitoring requirements.
+
+[page 17] 41. Upon issuance of an NOA for coverage under this General Order, the Discharger’s NOI and technical report will become incorporated by reference into this General Order. The Discharger is responsible for implementing all operations in a manner that complies with this General Order.
+
+[page 18] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+17
+42. The Discharger is required to pay an annual fee (e.g., waste discharge permit fee) (Wat. Code, § 13260 et seq.). The filing fee accompanying the NOI is the first year's annual fee. The annual fee is based on the threat to water quality (TTWQ) and complexity (CPLX) rating of the discharge (Cal.
+Code Regs., tit. 23, § 2200.). The ratings are available at:
+http://www.waterboards.ca.gov/resources/fees/.
+ANTIDEGRADATION ANALYSIS
+43. State Water Board Resolution No. 68-16, Statement of Policy with Respect to Maintaining High Quality of Waters of California (hereafter the Antidegradation Policy) requires that disposal of waste into the waters of the state be regulated to achieve the highest water quality consistent with maximum benefit to the people of the state. The quality of some waters of the state is higher than that established by adopted policies, and that higher quality water shall be maintained to the maximum extent possible consistent with the Antidegradation Policy. The Antidegradation Policy requires the following:
+
+[page 18] a. Maintenance of existing high quality waters of the state unless limited degradation is consistent with maximum benefit to the people of the state, will not unreasonably affect present and anticipated beneficial use of the water, and will not result in water quality less than that prescribed in state policies.
+b. Any activity that produces or may produce a waste and discharges or proposes to discharge to existing high quality waters will be required to meet WDRs that will result in BPTC of the discharge necessary to assure pollution or nuisance will not occur, and the highest water quality consistent with maximum benefit to the people of the state will be maintained.
+44. When issuing NOAs under this General Order, the Regional Water Board must assure that Dischargers implement BPTC as necessary to maintain the highest water quality consistent with maximum benefit to the people of the state.
+
+[page 18] 45. This General Order may allow limited discharges to groundwater. There are not sufficient data to determine which receiving waters are high quality waters. To the extent a discharge covered under this General Order may be to high quality waters, this General Order authorizes limited degradation consistent with the Antidegradation Policy as described in the findings below.
+
+[page 19] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+18
+46. Limited degradation of groundwater by some waste constituents associated with composting operations, after effective source control, treatment, and control measures are implemented, is consistent with the maximum benefit to the people of the state. The economic prosperity of communities and associated industry, and the diversion of wastes from landfills and associated conservation of landfill space are of maximum benefit to the people of the state and provide sufficient justification for allowing limited groundwater degradation that may occur pursuant to this General Order provided the terms of the applicable Basin Plan and other applicable State Water Board and Regional Water Board policies are consistently met.
+
+[page 19] 47. This General Order places restrictions on the discharge of waste from composting operations. The terms and conditions of this General Order are designed to minimize groundwater quality degradation and protect beneficial uses of waters of the state. Implementation of water and wastewater management plans, groundwater protection plans, and construction of waste containment features at composting operations will minimize groundwater quality degradation.
+48. The General Order establishes limits on the volume, types, and quality of the feedstocks, additives and amendments used at the facility. Some waste types are explicitly prohibited from use due to their threat to water quality. All feedstocks, additives and amendments must be contained in areas to control wastewater. In addition, hydrogeologic site conditions are considered when classifying a compost facility as Tier 1 or Tier 2.
+
+[page 19] Facilities that receive, process, and store less than 25,000 cubic yards of allowable Tier 1 feedstocks, compost, additives and amendments on site at any given time are inherently less likely to degrade water quality because the amount and types of waste constituents present at the facility is lower than at Tier 2 facilities. The limits apply both to the feedstocks and the types and amounts of additives and amendments. Tier 1 facilities must also comply with the hydrogeologic site conditions (depth to groundwater and percolation rate)
+specified in the General Order. Composting operations that do not meet Tier 1 hydrogeologic site conditions must comply with Tier 2 design and operation standards.
+In addition, groundwater monitoring wells must be constructed at Tier 1 composting operations that accept manure as a feedstock to allow early detection of potential migration of waste constituents to the environment. If a groundwater protection monitoring plan is not implemented, the Discharger must comply with Tier 2 design and operation standards.
+
+[page 20] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+19
+Tier 2 facilities impose additional BPTC measures such as limits on feedstock quality; and hydraulic conductivity requirements for working surfaces, detention ponds, and drainage ditches. Biosolids used as a feedstock must comply with the ceiling concentrations contained in Code of Federal Regulations, section 503.13 (Table 1), at a minimum. In addition, detention ponds must be constructed with a pan lysimeter to allow early detection of pond liner leakage.
+
+[page 20] 49. To mitigate potential impacts to water quality, siting restrictions specified in this General Order prohibit composting operations within 100 feet of the nearest surface water body or water supply well. A lesser setback distance may be allowed by the Regional Water Board if the Discharger can demonstrate that the groundwater, geologic, topographic, and well construction conditions at the site are adequate to protect water quality. In addition, feedstocks used (Table 2), volume of materials (received, processed and stored) on site at any given time, soil percolation rate, and depth to groundwater standards (Table 3) of this General Order are used to classify composting operations into two tiers. Composting operations not meeting minimum standards for percolation rate and depth to groundwater are classified into the more protective Tier 2 category.
+50. This General Order establishes requirements and standards for BPTC measures to limit or prevent degradation. Identified BPTC measures include:
+
+[page 20] 50. This General Order establishes requirements and standards for BPTC measures to limit or prevent degradation. Identified BPTC measures include:
+a. Minimize Infiltration of Waste Constituents on Working Surfaces - The most effective way to reduce or eliminate water quality impacts is to restrict infiltration of wastes on working surfaces (including receiving, processing, and storage areas). The General Order requires working surfaces to be designed and constructed to be sloped to prevent ponding and convey wastewater to an approved wastewater management system. Tier 2 facilities must also comply with a hydraulic conductivity standard to limit infiltration of liquids to the subsurface at working surfaces, drainage ditches and detention ponds.
+b. Design and Operate Detention Ponds to Contain and Reuse Wastewater - All detention ponds must comply with design, construction, and maintenance requirements in this General Order. The General Order includes requirements that ponds must be designed and certified by a registered professional engineer to have adequate capacity and structural integrity to hold wastewater and precipitation.
+
+[page 20] All ponds must be managed to prevent breeding of mosquitos and generation of odors. Detention ponds constructed at Tier 2 facilities must also comply with a hydraulic conductivity standard to limit infiltration of liquids to the subsurface.
+
+[page 21] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+20
+c. Perform Monitoring to Ensure BPTC Measures are Effective - To detect potential threats to water quality, detention ponds constructed at Tier 2 facilities must be constructed with a pan lysimeter monitoring device under the lowest point of the pond or equivalent engineered alternative approved by the Regional Water Board. The engineered alternative must provide equivalent assurance of the earliest possible detection of a release from the pond.
+51. The State Water Board recognizes that composting operations play an important role in meeting California's recycling goals to divert more wastes from landfills into reusable products. In addition, composting is a strategy for reducing greenhouse gas emissions throughout the state. Benefits of using compost include increasing soil water holding capacity, adding beneficial micro-organisms to improve soil health, improving soil tilth, and carbon sequestration. Considering these benefits, the State Water Board finds that composting in compliance with this General Order is consistent with the maximum benefit to the people of the state.
+
+[page 21] TITLE 27 APPLICABILITY
+52. California Code of Regulations, title 27, sections 20200 through 20230 establish a waste classification system. Wastes covered under California Code of Regulations, title 27 are classified as either inert, nonhazardous solid, or designated. Inert wastes pose minimal risk to water quality, nonhazardous solid wastes present a greater risk than inert wastes, and designated wastes pose the greatest risk to water quality. Allowable compostable materials per this General Order meet the definition of nonhazardous solid waste under California Code of Regulations, title 27, section 20220, subdivision (a).
+53. California Code of Regulations, title 27, section 20200, subdivision (a)(1)
+
+[page 21] 53. California Code of Regulations, title 27, section 20200, subdivision (a)(1)
+allows a finding to be made that, "…a particular waste constituent or combination of constituents presents a lower risk of water quality degradation than indicated by classification according to this article." Therefore, to the extent that a particular compostable material could be characterized as designated waste, such material shall be regulated as a nonhazardous solid waste pursuant to California Code of Regulations, title 27, section 20200, subdivision (a)(1) because the compostable material presents a lower risk to water quality than typical designated wastes when managed as required by this General Order.
+
+[page 22] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+21
+54. California Code of Regulations, title 27, regulations include requirements for containing nonhazardous waste that is disposed in facilities such as landfills.
+Because composting facilities do not operate like disposal facilities, and these requirements are sufficient to protect water quality from the discharges eligible for coverage under this General Order, California Code of Regulations, title 27, do not apply to compost operations enrolled under this General Order so long as the Discharger continues to meet the requirements of this General Order.
+CALIFORNIA ENVIRONMENTAL QUALITY ACT
+
+[page 22] CALIFORNIA ENVIRONMENTAL QUALITY ACT
+55. On August 4, 2015, in accordance with the California Environmental Quality Act (CEQA) (Pub. Resources Code, § 21000 et seq.), the State Water Board certified Environmental Impact Report (EIR) No. 2015012021 for General Order WQ 2015-0121-DWQ. Several significant impacts related to water quality were identified in the EIR. The General Order contains mitigation measures designed to reduce the impact when possible. A summary of the water quality related significant impacts and the mitigation measures is presented below:
+EIR
+Impact
+Number
+Impact Summary General Order Mitigation Measures
+Impact
+6.5 Composting operations have
+the potential to create
+objectionable odors affecting a
+substantial number of people.
+The General Order requires control of
+objectionable odors. Mitigation
+measures are contained in the
+Specifications and Design
+Construction and Operation
+Requirements – All Tiers.
+Impact
+9.2 Composting operations have the
+potential to result in substantial
+soil erosion or loss of topsoil.
+The General Order requires control
+of wastewater generated by the
+compost process. Mitigation
+measures are contained in the
+
+[page 22] measures are contained in the
+Design Construction and Operation
+Requirements – All Tiers.
+
+[page 23] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+22
+EIR
+Impact
+Number
+Impact Summary General Order Mitigation Measures
+Impact
+11.1 Composting operations have
+the potential to result in
+violations of water quality
+standards or waste discharge
+requirements.
+The General Order requires surface
+and groundwater quality to be
+maintained to protect beneficial uses.
+The following mitigation measures
+related to water quality standards are
+included in the General Order:
+· For mitigation related to surface
+water objectives, see mitigation
+measures in response to Impact
+9.2 (listed above).
+· For mitigation related to
+groundwater objectives mitigation
+measures are contained in
+Prohibitions, Specifications,
+Design Construction and
+Operation Requirements – All
+Tiers, and Tier 2, and maintenance
+requirements. The General Order
+limits the types of feedstocks used
+and requires certain containment
+requirements to minimize
+infiltration.
+
+[page 24] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+23
+EIR
+Impact
+Number
+Impact Summary General Order Mitigation Measures
+Impact
+11.3 Composting operations have the
+potential to substantially alter
+existing drainage resulting in
+substantial erosion or siltation on-
+or off-site.
+Composting operations will be
+designed to contain wastewater on-
+site. See the mitigation measures
+described for Impact 9.2 and 11.1.
+Requirements of the General
+Order to contain wastewater on-
+site include the following:
+· Design, construct, and maintain
+areas used for receiving,
+processing, or storing feedstocks,
+additives, amendments, or
+compost to control and manage
+run-on and run-off from a 25-
+year, 24-hour peak storm event;
+· Protect areas used for receiving,
+processing, or storing feedstocks,
+additives, amendments, or
+compost from surface flows
+associated with a 25-year, 24-
+hour peak storm event from
+inundation by surface flow;
+· Design and operate the
+detention pond, containment
+berm, and drainage
+conveyance systems to contain
+a 25-year,
+24-hour peak storm event;
+Require low permeability drainage
+ditches for Tier 2 operations.
+
+[page 25] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+24
+EIR
+Impact
+Number
+Impact Summary General Order Mitigation Measures
+Impact
+11.4 Composting operations may have
+the potential to substantially alter
+the existing drainage pattern of
+the site or area, including through
+the alteration of the course of a
+stream or river, or substantially
+increase the rate or amount of
+surface runoff in a manner which
+would result in flooding on- or off-
+site.
+The General Order requires
+management of drainage and
+wastewater run-off. See Mitigation
+Measures 9.2, 11.1, and 11.3.
+Impact
+11.5 Composting operations may
+create or contribute runoff water
+which could exceed the capacity
+of existing or planned storm water
+drainage systems or provide
+substantial additional sources of
+polluted runoff.
+Composting operations will be
+designed to contain wastewater on-
+site. See the mitigation measures
+described for Impact 9.2.
+Impact
+11.6 Composting operations may have
+the potential to substantially
+degrade water quality.
+Composting operations will be
+designed to contain wastewater on-
+site and prevent wastewater from
+changing groundwater quality to the
+
+[page 25] changing groundwater quality to the
+extent beneficial uses are impacted.
+See the responses to Impacts 9.2 and
+11.1.
+Impact
+15.2 Composting operations have the
+potential to exceed wastewater
+treatment requirements of the
+applicable Regional Water
+Board.
+The General Order requires
+containment of wastewater that is
+generated. Active treatment systems
+at composting facilities are possible
+(most likely a mechanical aerator in a
+detention pond). If off-site disposal of
+wastewater is necessary, delivery to a
+treatment system is possible via a
+collection system or tank truck
+hauling. See the responses to Impacts
+9.2 and 11.1.
+
+[page 26] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+25
+EIR
+Impact
+Number
+Impact Summary General Order Mitigation Measures
+Impact
+15.6 Composting operations have the
+potential to result in a
+determination by the wastewater
+treatment provider that it does not
+have adequate capacity to serve
+the project’s projected demand in
+addition to the provider’s existing
+commitments.
+The General Order requires
+containment of wastewater that is
+generated; therefore, a discharge at
+a wastewater treatment facility is
+unlikely. See the responses to
+Impacts 9.2 and 11.1.
+56. The State Water Board has notified composting operators and owners, and governmental agencies and interested persons of its intent to certify an EIR and adopt a General Order and provided them the opportunity to attend a public meeting and submit their written views and recommendations.
+57. The State Water Board, in a public meeting, heard and considered all comments pertaining to this matter.
+
+[page 26] 57. The State Water Board, in a public meeting, heard and considered all comments pertaining to this matter.
+58. In accordance with CEQA, the State Water Board certified a Supplement to Environmental Impact Report No. 2015012021 (SEIR) for General Order WQ 2020-0012-DWQ on April 7, 2020. Significant impacts related to water quality were identified in the SEIR as summarized below:
+a. Manure as a Feedstock for Tier 1 Facilities: Using manure as a feedstock at Tier 1 facilities has the potential to impact water quality.
+To mitigate potential impacts, the General Order requires the development and implementation of a groundwater protection monitoring plan for Tier 1 facilities that use manure as a feedstock. If the composting operation is designed, operated, and maintained in compliance with the General Order, potential impacts should be reduced to less than significant.
+b. Conditionally Exempt Operations: Conditionally exempt composting operations may pose a threat to water quality. If best management practices are implemented, potential impacts to water quality should be reduced to less than significant.
+
+[page 26] 59. The State Water Board notified composting operators and owners and governmental agencies and interested persons of its intent to certify a SEIR and adopt a General Order. Opportunities to attend a public meeting and submit written comments were provided. The State Water Board heard and considered all comments pertaining to this matter in a public meeting.
+
+[page 27] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+26
+OTHER REGULATORY CONSIDERATIONS
+60. All WDRs must implement the applicable Regional Water Board’s Basin Plan for the region in which the discharge occurs; therefore, this General Order requires dischargers to comply with all applicable Basin Plan requirements and water quality objectives governing the discharge. In the event of a conflict between the requirements of this General Order and the Basin Plan, the more stringent requirement prevails.
+61. The Discharger, as a condition of this General Order, may be required to conduct regular maintenance and monitoring to demonstrate protection of water quality and beneficial uses. Dischargers are financially responsible for costs associated with these activities as long as the operation is covered under this General Order.
+62. This General Order is not a National Pollutant Discharge Elimination System (NPDES) permit issued pursuant to the Federal Clean Water Act. For composting operations where storm water discharges off-site, the Discharger may be required to enroll under the State Water Board’s General Order No.
+
+[page 27] 2014-0057-DWQ, NPDES General Permit No. CAS000001, Waste Discharge Requirements for Discharges of Storm Water Associated with Industrial Activities Excluding Construction Activities (Industrial General Permit), and/or future promulgations. If wastewater is discharged to surface water, the Discharger may be required to obtain an individual NPDES permit.
+Coverage under this General Order does not exempt a facility from the federal Clean Water Act. Any facility required to obtain such permits must notify the Regional Water Board.
+63. The issuance of this General Order is consistent with the goal to provide water resources protection, while considering economic and environmental impacts as stated in the Strategic Plan of the Water Boards and section 13263, subdivision (a) of the Water Code. Economic considerations are discussed in Appendix D of the EIR.
+
+[page 27] 64. This General Order does not supersede the authority of local governmental agencies to prohibit, restrict, or control the use of biosolids subject to their control, as allowed under current law. It is the responsibility of the Discharger to obtain any local governmental agency permits or authorizations prior to the composting or use of biosolids at each site.
+65. This General Order does not supersede any federal, state, or local law or regulation.
+66. Pursuant to Water Code section 13263, subdivision (g), the discharge of waste into waters of the state is a privilege, not a right, and adoption of this General Order does not create a vested right to discharge wastes into the
+
+[page 28] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+27
+waters of the state. Failure to prevent conditions that create or threaten to create pollution or nuisance or that may unreasonably degrade waters of the state will be sufficient reason to modify, revoke, or enforce this General Order.
+67. Pursuant to Water Code section 13241 and 13263, the State Water Board, in establishing the requirements contained herein, considered factors including, but not limited to, the following:
+a. Past, present, and probable future beneficial uses of water;
+b. Environmental characteristics of the hydrographic unit under consideration, including the quality of water available thereto;
+c. Water quality conditions that could reasonably be achieved through the coordinated control of all factors which affect water quality in the area;
+d. Economic considerations;
+e. The need for developing housing within the region(s); and f. The need to develop and use recycled water.
+IT IS HEREBY ORDERED
+
+[page 28] IT IS HEREBY ORDERED
+IT IS HEREBY ORDERED pursuant to Water Code sections 13263 and 13267, the Discharger, its agents, successors, and assigns, in order to meet the provisions contained in division 7 of the Water Code and regulations adopted hereunder, shall comply with the following:
+PROHIBITIONS
+1. Any feedstock, additive, amendment, or compost (active, curing, or final product) stored, processed, or composted outside of the designated composting operation areas, as those boundaries are specified in an NOI and/or a technical report, and approved by the Regional Water Board, is prohibited.
+2. Any volume of any feedstock, additive, amendment, or compost (active, curing, or final product) exceeding those specified in this General Order is prohibited.
+3. Use of any feedstock, additive, amendment, or material, other than those described in this General Order is prohibited.
+
+[page 29] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+28
+4. Discharge of any of the following wastes, including storage thereof, at a composting operation under this General Order is prohibited:
+a. Animal carcasses (whole or in part);
+b. Liquid wastes other than those of food origin;
+c. Medical wastes as defined in the Health and Safety Code section 117690;
+d. Radioactive wastes;
+e. Septage;
+f. Sludge, including but not limited to sewage sludge, water treatment sludge, and industrial sludge;
+g. Wastes classified as “designated” as defined in Water Code section 13173;
+h. Wastes classified as “hazardous” as defined in California Code of Regulations, title 22, section 66261.3;
+i. Wood containing lead-based paint or wood preservatives, or ash from such wood; or
+j. Any feedstock, additive, or amendment other than those specifically described in this General Order, unless approved by the Regional Water Board.
+5. Discharges of feedstocks, additives, amendments, or wastes to lands not owned, leased, or otherwise controlled by the Discharger for the purposes of composting is prohibited.
+
+[page 29] 5. Discharges of feedstocks, additives, amendments, or wastes to lands not owned, leased, or otherwise controlled by the Discharger for the purposes of composting is prohibited.
+6. Discharge of wastes to surface waters is prohibited, except as authorized by an NPDES permit.
+7. Discharge of wastes including overflow, wastewater, or bypass from transport, treatment, storage, or disposal systems to adjacent drainages or adjacent properties is prohibited.
+8. Use of biosolids as a feedstock with concentrations of a metal that exceeds the ceiling concentration presented in 40 Code of Federal Regulations section 503.13 (Table 1), is prohibited.
+9. Use of biosolids as an additive or amendment is prohibited.
+10. Use of anaerobic digestate derived from sewage sludge as an additive or amendment is prohibited.
+11. Evapo-concentration of constituents in any detention pond that results in hazardous constituent concentration levels, as defined in California Code of Regulations, title 22, section 66261.3 is prohibited.
+
+[page 30] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+29
+SPECIFICATIONS
+1. The use of additives defined in this General Order, and Attachment A, is allowed provided that the additives meet the following specifications.
+a. For Tier 1 facilities, the following approved additives may comprise no more than 10 percent combined, on a total volume basis, of the total feedstocks for any given batch of compost:
+1) Fertilizing material applied at rates that will be consumed or fixed/immobilized during active composting;
+2) Manure*;
+3) Anaerobic digestate (solid) derived from any material other than allowable Tier 1 feedstocks; and/or
+4) Other material specified in an NOI and/or a technical report and approved by the Regional Water Board.
+
+[page 30] 4) Other material specified in an NOI and/or a technical report and approved by the Regional Water Board.
+* If manure is accepted at greater than 10 percent combined, on a total volume basis, of the total feedstocks for any given batch of compost, a groundwater protection monitoring plan must be implemented for the composting operation in accordance with Finding 29 and Design, Construction, and Operation Requirements for Composting Manure at Tier 1 Facilities. If a groundwater protection monitoring plan is not implemented, the Discharger must seek coverage under Tier 2.
+b. For Tier 2 facilities, the following approved additives may comprise no more than 30 percent combined (other than liquid food material), on a total volume basis, of the total feedstocks for any given batch of compost:
+1) Fertilizing material applied at rates that will be consumed or fixed/immobilized during active composting;
+2) Liquid food material specified in an NOI and/or a technical report, and approved by the Regional Water Board, and applied at a rate that prevents conditions leading to pollution or nuisance, as defined in Water Code section 13050;
+
+[page 30] 3) Anaerobic digestate (solid) derived from any material other than allowable Tier 1 and Tier 2 feedstocks; and/or
+4) Other material specified in an NOI and/or a technical report and approved by the Regional Water Board.
+2. Additives and amendments must be handled, stored, and processed in the manner specified in the NOI and/or technical report and approved by the Regional Water Board.
+
+[page 31] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+30
+3. All feedstocks, additives, amendments, and compost (active, curing, or final product) must not cause, threaten to cause, or contribute to conditions of pollution, contamination, or nuisance. These discharges must comply with the applicable Basin Plan requirements.
+4. All feedstocks, additives, amendments, and compost (active, curing, or final product) must be located on containment structures designed and constructed as required by this General Order.
+5. Dischargers must submit with the NOI and technical report, a Water and Wastewater Management Plan that describes how wastewater will be managed to prevent discharge. The plan must describe the design, operations, and maintenance of the systems, including water balance calculations and assumptions, if required.
+6. Wastewater shall be handled and managed in accordance with an approved Water and Wastewater Management Plan in the technical report described in Attachment D.
+7. Feedstocks for composting shall be limited to the allowable Tier 1 and Tier 2 feedstocks listed in Table 2 and defined in Attachment A.
+
+[page 31] 7. Feedstocks for composting shall be limited to the allowable Tier 1 and Tier 2 feedstocks listed in Table 2 and defined in Attachment A.
+8. Composting operations shall be setback at least 100 feet from the nearest surface water body and/or the nearest water supply well. A lesser setback distance may be allowed by the Regional Water Board if the Discharger can demonstrate that the groundwater, geologic, topographic, and well construction conditions at the site are adequate to protect water quality.
+9. For Tier 1 and Tier 2 facilities, the type of amendments must be specified in a NOI and/or a technical report.
+DESIGN, CONSTRUCTION, AND OPERATION REQUIREMENTS – ALL TIERS 1. Areas used for receiving, processing, or storing feedstocks, additives, amendments, or compost (active, curing, or final product) must be designed to limit water quality degradation. Working surfaces and containment structures must be designed, constructed, operated and maintained to:
+a. Facilitate drainage and minimize ponding by sloping or crowning pads to reduce infiltration of liquids;
+
+[page 31] a. Facilitate drainage and minimize ponding by sloping or crowning pads to reduce infiltration of liquids;
+b. Reliably transmit free liquid present during storage, treatment, and processing of materials to a containment structure to minimize the potential for waste constituents to enter groundwater or surface water;
+and
+c. Prevent conditions that could contribute to, cause, or threaten to cause a condition of contamination, pollution, or nuisance.
+
+[page 32] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+31
+2. Working surfaces must be constructed to allow year-round equipment access to feedstocks, additives, amendments, and compost (active, curing, or final product) without damage to the working surfaces and containment structures.
+3. To prevent potential impacts to waters of the state, the Discharger must minimize the potential for piles of feedstocks, additives, amendments, or compost (active, curing, or final product) to become over-saturated and generate wastewater.
+4. Areas used for receiving, processing, or storing feedstocks, additives, amendments, or compost (active, curing, or final product) must be designed, constructed, and maintained to control and manage all run-on, runoff, and precipitation which falls onto or within the boundaries of these areas, from a 25-year, 24-hour peak storm event at a minimum.
+5. Areas used for receiving, processing, or storing feedstocks, additives, amendments, or compost (active, curing, or final product) must be protected from inundation by surface flows associated with a 25-year, 24-hour peak storm event at a minimum.
+
+[page 32] 6. Detention ponds, if used, must be designed, constructed, and maintained to prevent conditions contributing to, causing, or threatening to cause contamination, pollution, or nuisance, and must be capable of containing, without overflow or overtopping (taking into consideration the crest of wind-driven waves and water reused in the composting operation), all runoff from the working surfaces in addition to precipitation that falls into the detention pond from a 25-year, 24-hour peak storm event at a minimum, or equivalent alternative approved by the Regional Water Board.
+7. Detention ponds, if used, shall be managed as described in the facility’s Water and Wastewater Management Plan.
+8. Detention ponds, if used, must be managed to maintain a dissolved oxygen concentration in the upper zone (one foot) of at least 1.0 milligram per liter (mg/L).
+9. Detention ponds, if used, shall be managed to mitigate breeding of mosquitoes including, but not limited to the following:
+a. An erosion control program shall be implemented to ensure that small coves and irregularities are not created around the perimeter of the water surface.
+
+[page 32] a. An erosion control program shall be implemented to ensure that small coves and irregularities are not created around the perimeter of the water surface.
+b. Weeds shall be minimized through control of water depth, a shoreline synthetic liner, harvesting, or herbicides.
+c. Dead algae, vegetation, and debris shall be removed from the water surface.
+
+[page 33] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+32
+d. Coordination with the local mosquito abatement or vector control district to supplement the measures described above in cases where other methods are infeasible.
+10. Berms must be designed, constructed, and maintained to prevent run-on and run-off from a 25-year, 24-hour peak storm event at a minimum. Berms must be adequately protected from erosion, and must not cause, threaten to cause, or contribute to conditions resulting in contamination, pollution, or nuisance.
+11. Drainage conveyance systems must be designed, constructed, and maintained for conveyance of wastewater from the working surface in addition to direct precipitation from a 25-year, 24-hour peak storm event at a minimum. Ditches must be properly sloped to minimize ponding and kept free and clear of debris to allow for continuous flow of liquid. Ditches must be adequately protected from erosion, and must not cause, threaten to cause, or contribute to conditions resulting in contamination, pollution, or nuisance. Ditches must be inspected and cleaned out annually prior to the wet season.
+
+[page 33] DESIGN, CONSTRUCTION, AND OPERATION REQUIREMENTS FOR COMPOSTING MANURE AT TIER 1 FACILITIES
+1. Tier 1 composting operations that propose to compost manure as a feedstock must meet all specifications listed in PROHIBITIONS;
+SPECIFICATIONS 1(a); SPECIFICATIONS 2–9; and DESIGN, CONSTRUCTION, AND OPERATION REQUIREMENTS – ALL TIERS.
+2. The Discharger must implement a groundwater protection monitoring program. The Discharger shall submit a complete Groundwater Protection Monitoring Plan in the technical report with the NOI, as described in Attachment D.
+3. Within 90 days of issuance of an NOA for existing facilities or within 90 days after commencement of operations at newly constructed facilities, the Discharger shall implement the approved Groundwater Protection Monitoring Plan.
+DESIGN, CONSTRUCTION, AND OPERATION REQUIREMENTS – TIER 2 ONLY 1. Working surfaces must be capable of resisting damage from the movement of equipment and weight of piles and have a hydraulic conductivity of 1.0 x 10-5 centimeters per second (cm/s) or less. Working surfaces must consist of one of the following:
+
+[page 34] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+33
+a. Compacted soils, with a minimum thickness of one foot;
+b. Asphaltic concrete or Portland cement concrete; or c. An equivalent engineered alternative specified in an NOI and/or a technical report and approved by the Regional Water Board.
+2. Drainage ditches must be designed, constructed, and maintained to convey all precipitation and runoff from a 25-year, 24-hour peak storm event at a minimum, have a hydraulic conductivity of 1.0 x 10-5 cm/s or less, and be lined with one of the following:
+a. Compacted soils, with a minimum thickness of one foot;
+b. Asphaltic concrete or Portland cement concrete; or c. An equivalent engineered alternative specified in an NOI and/or a technical report and approved by the Regional Water Board.
+3. In lieu of meeting hydraulic conductivity specifications for Tier 2 working surfaces and drainage ditches, the Discharger may implement a groundwater protection monitoring program. The Discharger shall confirm this intention by submitting a complete Groundwater Protection Monitoring Plan in the technical report with the NOI, as described in Attachment D.
+
+[page 34] 4. Detention ponds must be designed, constructed, operated, and maintained to meet a hydraulic conductivity of 1.0 x 10-6 cm/s or less. These ponds must include one of the following:
+a. A liner system consisting of a 40 thousandths of an inch (mil) synthetic geomembrane (60-mil if high-density polyethylene), underlain by either one foot of compacted clay or a geosynthetic clay liner installed over a prepared base;
+b. A liner system that includes Portland cement concrete – designed to minimize cracking and infiltration – underlain by a 40-mil synthetic geomembrane (60-mil if high-density polyethylene); or c. An equivalent engineered alternative specified in an NOI and/or a technical report and approved by the Regional Water Board.
+5. Detention ponds must be designed and constructed with a pan lysimeter monitoring device under the lowest point of the pond, or an equivalent engineered alternative specified in an NOI and/or a technical report and approved by the Regional Water Board. The engineered alternative must provide equivalent assurance of the earliest possible detection or prevention of a release from the pond.
+
+[page 34] 6. Tanks, if used, must be designed, operated, maintained and monitored in accordance with applicable laws and regulations.
+
+[page 35] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+34
+MONITORING REQUIREMENTS
+1. Dischargers subject to this General Order must implement the applicable requirements specified in Attachment B, the MRP, which are hereby incorporated by reference as part of this General Order.
+2. Pursuant to Water Code section 13267, the Discharger must comply with the applicable requirements specified in the MRP (Attachment B). If a site-specific MRP becomes necessary, the Discharger must comply with requirements specified in an individual MRP issued to the Discharger by the Regional Water Board. Failure to comply with the applicable requirements specified in Attachment B or a site-specific MRP issued by the Regional Water Board may subject the Discharger to civil liability. (Wat. Code, § 13268.)
+3. Within 90 days of issuance of an NOA for existing facilities or within 90 days after commencement of operations at newly constructed facilities, the Discharger shall implement the approved Groundwater Protection Monitoring Plan, if applicable.
+MAINTENANCE REQUIREMENTS
+
+[page 35] MAINTENANCE REQUIREMENTS
+1. The Discharger shall maintain containment structures (e.g. berms, pads, detention ponds, tanks, run-on/run-off control structures, etc.) and monitoring systems (e.g. groundwater monitoring devices) in good working order.
+2. The Discharger must regularly inspect and maintain all containment structures and monitoring systems pursuant to this General Order, MRP, and NOA. The frequency of inspections must be sufficient to prevent feedstocks, additives, amendments, compost (active, curing, or final product), or wastewater from creating, threatening to create, or contributing to conditions of contamination, pollution, or nuisance.
+SITE CLOSURE REQUIREMENTS
+1. Release of wastes or waste-derived constituents at an unmanaged, inactive, or abandoned composting operation may cause, threaten to cause, or contribute to degradation of the waters of the state. At least 90 days prior to ceasing composting operations, the discharger shall submit a Site Closure Plan to the Regional Water Board for approval.
+
+[page 35] 2. The Discharger must jointly notify the appropriate Regional Water Board and Local Enforcement Agency in writing at the conclusion of the site closure activities that describes closure in accordance with the Site Closure Plan and Regional Water Board requirements.
+
+[page 36] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+35
+REPORT REQUIREMENTS
+1. General Reporting Requirements – The Discharger must furnish the following information within a timeframe specified by the Regional Water Board:
+a. Any information which the Regional Water Board may request to determine compliance with this General Order; and
+b. Copies of records required to be kept by this General Order.
+2. NOI and Technical Report – The Discharger must submit an NOI and technical report as specified in Attachments C and D of this General Order.
+
+[page 36] 2. NOI and Technical Report – The Discharger must submit an NOI and technical report as specified in Attachments C and D of this General Order.
+The Discharger must submit general information, site conditions, design, operations and monitoring information and a compliance schedule for existing facilities. The Discharger must submit a technical report with design information at least 90 days prior to any new construction of any working surfaces, detention ponds, berms, ditches, or any other water quality protection containment structure for approval by the appropriate Regional Water Board. The design information must include water balance calculations for detention ponds, design of wastewater conveyance features, liner materials and thicknesses, and rationale for liner system design. The technical report must ensure testing and quality assurance of liner materials and compacted soils in accordance with commonly accepted engineering practices, American Society for Testing and Materials test methods, and/or other appropriate material standards.
+
+[page 36] 3. Final Post-Construction Report – The Discharger must submit a post-construction report to the Regional Water Board within 60 days of completing all construction activities associated with all applicable containment and monitoring structures, as required for compliance with this General Order and the MRP. The post-construction report must contain as-built plans and specifications to document that containment and monitoring structures were properly constructed and tested.
+
+[page 36] 4. Annual Monitoring and Maintenance Report - The Discharger must submit an Annual Monitoring and Maintenance Report to the appropriate Regional Water Board no later than April 1st of each year (or next subsequent business day, if falling on a weekend or state- observed holiday), as described in the MRP. The Annual Monitoring and Maintenance Report must summarize all monitoring and maintenance activities performed and adverse conditions noted since the prior reporting period with respect to all berms, ditches, working surfaces, detention ponds, and monitoring systems. As part of the Annual Monitoring and Maintenance Report, the Discharger must certify that the composting operation complies with the requirements of this General Order and applicable portions of the MRP.
+
+[page 37] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+36
+5. Reporting Declaration - All applications, reports, or information submitted to the Regional Water Boards must be signed and certified as follows:
+a. The NOI must be signed as follows:
+1) For a corporation - by a principal executive officer of at least the level of vice president;
+2) For a partnership or sole proprietorship - by a general partner or the proprietor, respectively;
+3) For a municipality, state, federal, or other public agency - by either a principal executive officer or ranking elected official; or 4) For a military facility - by the base commander or person with authority and responsibility for environmental matters at the facility.
+b. All other reports required by this General Order and other information required by the Regional Water Board must be signed by a person designated in paragraph (a) above, or by a duly authorized representative of that person. An individual is a duly authorized representative only if:
+1) The authorization is made in writing by a person described in paragraph (a) above;
+
+[page 37] 1) The authorization is made in writing by a person described in paragraph (a) above;
+2) The authorization specifies either an individual or a position having responsibility for the overall operation of the regulated facility or activity; and
+3) The written authorization is submitted to the Regional Water Board.
+c. Any person signing a document under this section must make the following certification:
+"I certify under penalty of law that this document, including all attachments and supplemental information, were prepared under my direction and supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information submitted.
+Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information submitted is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment."
+
+[page 37] 6. Report Submittals –The State Water Board and Regional Water Boards are transitioning to the paperless office system. Dischargers must submit reports (both technical and monitoring reports) to the State Water Board’s GeoTracker database over the Internet in portable document format (PDF) as
+
+[page 38] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+37
+specified in California Code of Regulations, title 23, section 3892, subdivision (d) and section 3893. In addition, analytical data must be uploaded to the GeoTracker database under a site-specific global identification number.
+Information on the GeoTracker database is provided at:
+http://www.swrcb.ca.gov/ust/electronic_submittal/index.shtml.
+
+[page 38] http://www.swrcb.ca.gov/ust/electronic_submittal/index.shtml.
+7. Use of Licensed Professionals – The Business and Professions Code sections 6735, 7835, and 7835.1 require that engineering and geologic evaluations and judgments be performed by or under the direction of licensed professionals. Any plan or report submitted in compliance with the requirements of this General Order, which requires technical interpretation, or proposes either a design, or a design change that might affect the composting operation’s containment features, detention ponds, or monitoring systems must be prepared by, or under the direction of, appropriately licensed professionals (e.g., registered civil engineer, professional geologist, or other registered certified specialty geologist) by the State of California. In addition, the licensee must sign and provide his or her registration number or stamp the submitted plan or report.
+NOTIFICATION REQUIREMENTS
+
+[page 38] NOTIFICATION REQUIREMENTS
+1. Revised Notice of Intent – The Discharger must submit a revised NOI to the Regional Water Board, CalRecycle, and the Local Enforcement Agency at least 90 days prior to: (1) adding a new feedstock, additive, or amendment; (2) changing material or construction specifications;
+(3) changing a monitoring program; or (4) changing an operation or activity that was not described in the approved NOI and technical report. The Regional Water Board may require submittal of a revised technical report.
+2. Change in Ownership Notification Requirements – The Discharger must notify the Regional Water Board, CalRecycle, and the Local Enforcement Agency, in writing, at least 30 days in advance of any transfer of the General Order’s responsibility and coverage from the current owner to a new owner.
+This notification shall include:
+a. A statement of acknowledgment that the current owner is liable for violations occurring up to the transfer date and that the new owner is liable for violations occurring after the date that ownership of the property transfers; and
+b. The new owner’s NOI and technical report (if applicable).
+
+[page 39] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+38
+3. Termination of Enrollment – Enrollment under this General Order may be terminated if any of the following occur:
+a. The Regional Water Board, based on site-specific conditions or management practices, may require the Discharger to apply for individual WDRs. The applicability of this General Order to such dischargers will be rescinded upon adoption of individual WDRs;
+b. At least 90 days prior to terminating all waste discharge activates, the Discharger must submit a Site Closure Plan to the Regional Water Board for approval. Filing a request by the Discharger for termination of this General Order does not stay any requirements of this General Order; or
+c. If the operation is eligible for an exemption due to changes in process or procedures, the Discharger may propose termination. Filing a request by the Discharger for an exemption modification, revocation, reissuance, or termination of this General Order does not stay any requirement of this General Order.
+
+[page 39] 4. Notification of Violations – If a violation of requirements of this General Order or MRP occurs, the Discharger must notify the Regional Water Board by telephone or email, within 48hours, once the Discharger has knowledge of the violation. This notification must include a description of the noncompliance and its cause, the period of noncompliance (dates and times); and if the noncompliance has not been corrected, the anticipated time the noncompliance is expected to continue. The notification must also include steps taken or planned to reduce, eliminate, or prevent recurrence of the noncompliance. Depending on the severity of the violation, the Regional Water Board may require the Discharger to submit a separate technical report regarding the violation within 10 working days of the initial notification.
+
+[page 39] 5. Monitoring Wells – The Discharger must comply with all notice and reporting requirements of the Department of Water Resources, and with any local agency well permitting requirements regarding construction, alteration, destruction, or abandonment of any monitoring wells used for compliance with this General Order and MRP, as required under Water Code sections 13750.5 through 13755, and local agency requirements ADDITIONAL REQUIREMENTS
+1. Duty to Comply – Any noncompliance with this General Order constitutes a violation of the Water Code, and is grounds for enforcement action, and/or termination of enrollment under this General Order.
+
+[page 40] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+39
+2. Corrective Action – The Discharger must take all reasonable steps to minimize or correct any adverse impact to the environment resulting from noncompliance with this General Order, including accelerated or additional monitoring necessary to determine the nature and impact of the noncompliance.
+3. Responsibility for Monitoring and Maintenance – Dischargers must be responsible for covering the costs associated with the activities necessary to maintain compliance with this General Order.
+4. Maintenance Period – The maintenance period must continue until the Regional Water Board finds that all feedstocks, additives, amendments, compost (active, curing, or final product), wastewater, or other waste constituents or degradation products will not threaten waters of the state.
+5. Revision of Waste Discharge Requirements – Enrollment under this General Order may be modified, revoked, reissued, or terminated for causes including, but not limited to, the following:
+
+[page 40] 5. Revision of Waste Discharge Requirements – Enrollment under this General Order may be modified, revoked, reissued, or terminated for causes including, but not limited to, the following:
+a. Violation of any terms or conditions of this General Order, b. Obtaining this General Order by misrepresentation or failure to disclose relevant facts, or
+c. A change in any condition that requires a reduction or elimination of the authorized discharge.
+Filing a request by the Discharger for modification, revocation, re-issuance, or termination of this General Order or notification of planned changes or anticipated noncompliance does not stay any condition of this General Order.
+6. Change in Ownership – This General Order is not transferable to any person except after notice to the Regional Water Board, CalRecycle, and the Local Enforcement Agency. The Discharger must submit a Change in Ownership Notification, pursuant to the Notification Requirements section of this General Order.
+
+[page 40] 7. Property Rights – This General Order does not convey any property rights of any sort or any exclusive privileges. Requirements prescribed herein do not authorize commission of any act causing injury to persons or property, nor protect the Discharger from liability under federal, state, or local laws or regulations, nor create a vested right for the owner and operator to continue the regulated activity.
+8. Entry and Inspection – Under authority of Water Code section 13267, the Discharger must allow the State Water Board and/or Regional Water Board, or an authorized representative, upon presentation of credentials and other documents as may be required by law to:
+
+[page 41] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+40
+a. Enter premises where a regulated facility or activity is located or conducted, or where records must be kept under specification of this General Order;
+b. Have access to copy, at reasonable times, any records that must be kept under specification of this General Order;
+c. Inspect any facilities, equipment (including monitoring and control equipment), practices, or operations regulated or specified under this General Order;
+d. Sample or monitor for the purposes of determining compliance with this General Order, any substances or parameters at any location; and e. Photograph or video-record any structures, facilities, activities, or other conditions to determine compliance with this General Order.
+9. Repository for Waste Discharge Requirements – A complete and correct copy of this General Order, the NOA, and any pertinent technical documents must be maintained at the local offices of the Discharger and must be available to facility personnel at all times.
+
+[page 41] 10. Severability – Provisions of this General Order are severable, and if any provision of this General Order or application of any provision of this General Order to any circumstance is held invalid, application of such provisions to other circumstances and the remainder of this General Order must not be affected thereby.
+11. Effective Date – This General Order becomes effective upon its adoption by the State Water Board.
+12. Penalties for Investigations, Monitoring, or Inspection Violations – The State Water Board and Regional Water Boards reserve the right to take any enforcement action authorized by law for violations of any terms and conditions of this General Order.
+13. Civil Monetary Remedies – Water Code section 13350 et seq. provides that any person who intentionally or negligently violates any conditions issued or amended by the Regional Water Board or State Water Board, is subject to administrative civil liability of up to $10 per gallon of waste discharged, or up to $5,000 per day of violation. The Superior Court may impose civil liability of up to $10,000 per day of violation or, if a cleanup and abatement order has been issued, up to $15,000 per day of violation.
+
+[page 41] 14. Other Regulations – Dischargers enrolled under this General Order may be subject to additional federal, state, or local regulations.
+
+[page 42] ORDER WQ 2020-0012-DWQ, GENERAL WASTE DISCHARGE REQUIREMENTS FOR COMMERCIAL COMPOSTING OPERATIONS
+41
+15. Requesting Judicial Review – Any person aggrieved by this General Order may, not later than 30 days from the date of adoption, file a petition for a writ of mandate for judicial review. Petitions that are not received within 30 days of the State Water Board’s adoption of the General Order will not be eligible for review by any court. (Wat. Code, § 13330 et seq.)
+16. Delegation of Authority – By adoption of this General Order, the State Water Board delegates to the nine Regional Water Board Executive Officers, all powers and authority that may be delegated pursuant to Water Code section 13223. The State Water Board intends for the Executive Officers to make modifications or revisions in appropriate cases, to the maintenance and monitoring requirements contained within the MRP for Dischargers enrolled under this General Order; and to grant Dischargers enrollment or termination under this General Order and MRP pursuant to eligibility and termination criteria established in this General Order.
+CERTIFICATION
+
+[page 42] CERTIFICATION
+The undersigned, Clerk to the Board, does hereby certify that this general order with all attachments is a full, true, and correct copy of an order duly and regularly adopted at a meeting of the State Water Resources Control Board held on April 7, 2020.
+AYE: Chair E. Joaquin Esquivel
+Vice Chair Dorene D’Adamo
+Board Member Tam M. Doduc
+Board Member Sean Maguire
+Board Member Laurel Firestone
+NAY: None
+ABSENT: None
+ABSTAIN: None
+Jeanine Townsend
+Clerk to the Board
+
+[page 43] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-1
+A
+ATTACHMENT A - DEFINITIONS
+For the purposes of this General Order, the following terms, phrases, or abbreviations have a narrow scope of meaning, and are as follows:
+Active Compost - Compost feedstock that is in the process of being rapidly decomposed and is unstable. Active compost is generating temperatures of at least 50 degrees Celsius (122 degrees Fahrenheit) during decomposition or is releasing carbon dioxide at a rate of at least 15 milligrams per gram of active compost per day, or the equivalent of oxygen uptake. This high temperature on thermophilic phase may last from several days to several weeks.
+Additives - Material mixed with feedstocks or active compost in order to adjust the moisture level, carbon to nitrogen ratio, or porosity to create a favorable condition.
+Additives include, but are not limited to, fertilizers and urea. Additives do not include septage, biosolids, or compost feedstock.
+
+[page 43] Additives include, but are not limited to, fertilizers and urea. Additives do not include septage, biosolids, or compost feedstock.
+Amendments - Materials added to stabilized compost or cured compost to provide attributes for certain compost products, such as product bulk, product nutrient value, product pH, and soils blend. Amendments do not include septage, biosolids, or compost feedstock.
+Anaerobic Digestate - The solid portion of the material remaining after the anaerobic digestion of any combination of agricultural materials, biosolids, sewage sludge, food materials, green materials, manure, paper materials, or vegetative food materials.
+Dewatered digestate contains organic matter that may need to be further treated to stabilize it, usually through aerated composting.
+
+[page 43] Dewatered digestate contains organic matter that may need to be further treated to stabilize it, usually through aerated composting.
+Animal Carcasses - Refers to any whole or part (including, but may not be limited to the flesh, organs, blood, bones, and marrow) of a carcass of a bird, fish, or mammal, which cannot meet the definition of “food material.” Background Water Quality - The concentrations or measures of constituents or indicator parameters in water or soil that have not been affected by waste constituents from the area being monitored.
+Beneficial Uses - Pursuant to division 7, section 13050, subdivision (f) of the Water Code. “Beneficial uses” of waters of the state that may be protected against degradation include, but are not limited to, domestic, municipal, agricultural and industrial supply, power generation, recreation, aesthetic enjoyment, navigation, and preservation and enhancement of fish, wildlife, and other aquatic resources or preserves.
+
+[page 44] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-2
+Best Management Practice - A practice, or combination of practices, that is the most effective and feasible means of controlling degradation or pollution generated by nonpoint sources for the attainment of water quality objectives.
+Biosolids - Sewage sludge that has been treated, tested, and meets:
+1. The Ceiling Concentration Limits in Table 1 of 40 Code of Federal Regulations section 503.13;
+2. The Class A or Class B pathogen control requirements in 40 Code of Federal Regulations part 503.32(a) or (b); and
+3. One of the Vector Attraction Reduction requirements in 40 Code of Federal Regulations part 503.33(b) (1—8).
+Exceptional Quality (EQ) biosolids – Biosolids meeting metals standards, Class A pathogen reduction standards, and one of the vector attraction reduction standards contained in 40 Code of Federal Regulations sections 503.13 (Table 3), section 503.32(a), and section 503.33(b) (1—8), respectively Brine - Water saturated with or containing large amounts of common salt (sodium chloride), or a strong saline solution (e.g., calcium chloride).
+
+[page 44] California Environmental Quality Act (CEQA) - Refers to the statute promulgated in Public Resources Code, beginning with section 21000, and regulations promulgated in California Code of Regulations, title 14, chapter 3, beginning with section 15000, requiring state and local agencies to identify the significant environmental impacts of their actions and to avoid or mitigate those impacts, if feasible.
+CalRecycle - The Department of Resources Recycling and Recovery (formerly the California Integrated Waste Management Board), which is the lead agency for implementing the state’s municipal solid waste permit program that is deemed to be adequate by U.S. EPA under regulations published pursuant to sections 2002 and 4005 of the Resource Conservation and Recovery Act of 1976.
+
+[page 44] Chipping and Grinding Facilities and Operations - Facilities or operational areas that do not produce compost, but mechanically reduce the size or otherwise engage in the handling of “green material.” Each load of “green material” must be removed from the site within 48-hours from receipt, unless the Discharger has received written permission from the Local Enforcement Agency allowing the “green material” to remain onsite for up to 7 days.
+Composting - A controlled microbial degradation of organic wastes yielding a safe and nuisance-free product.
+
+[page 45] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-3
+Composting Conducted at a Publicly Owned Treatment Works - Refers to the composting of treated biosolids at a publicly owned treatment works, currently operating pursuant to permit or waste discharge requirements issued by a Regional Water Board or the State Water Board.
+Composting Operation - shall mean the areas at which operations are conducted, including the receiving area, pre-processing, processing, curing, storage areas, detention ponds, and other areas associated with production of compost, including storage areas for feedstocks, additives, and/or amendments.
+Constituent - An element or compound which occurs in or is likely to be derived from waste handled by a composting operation.
+Constituent(s) of Concern - Any waste constituent(s), reaction product(s), and hazardous constituent(s) that is reasonably expected to be in or derived from waste handled by the composting operation.
+
+[page 45] Constituent(s) of Concern - Any waste constituent(s), reaction product(s), and hazardous constituent(s) that is reasonably expected to be in or derived from waste handled by the composting operation.
+Construction Quality Assurance - A planned system of activities that provides assurance that the facility or component thereof, is constructed as specified in the approved design. As used in this General Order, the term includes “Construction Quality Control,” a planned system of inspections that is used to directly monitor and control the quality of a construction project.
+Containment Structures - Refers to any berm, ditch, working surface, detention pond, or other mechanism approved by the Regional Water Board at a Composting Operation designed, constructed, and maintained to limit feedstocks, additives, amendments, and/or compost (active, curing, or final product) from threatening to cause, causing, or contributing to conditions of contamination, pollution, or nuisance.
+Contamination - Defined in section 13050, subdivision (k) of the Water Code.
+
+[page 45] Contamination - Defined in section 13050, subdivision (k) of the Water Code.
+Curing Compost - The final stage of the composting process that occurs after compost has undergone pathogen reduction, as defined in California Code of Regulations title 14, section 17868.3, and after most of the readily metabolized material has been decomposed and stabilized. This curing phase begins after an active compost pile endures a sustained drop in temperature as remaining materials continue to decompose, but at a much slower rate. This helps to further decompose and stabilize potentially toxic organic acids and resistant compounds. The curing process helps bring compost to full maturity and can last several months.
+Day - A calendar day unless otherwise specified.
+Depth to Groundwater - The vertical distance measured, in feet, from the ground surface to the highest anticipated groundwater level.
+Detention Pond - An excavated or diked area designed to capture and hold any wastewater.
+
+[page 46] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-4
+Discharge - The accidental or intentional spilling, leaking, pumping, pouring, emitting, emptying or dumping of wastes into or on any land or water.
+Discharger - Any person who discharges waste which could affect the quality of waters of the state and includes any person who owns a composting operation or who is responsible for the operation.
+Distance to Nearest Water Supply Well - The horizontal distance measured, in feet, from the nearest edge of the composting operation to the center of the water supply well head.
+Distance to Nearest Surface Water - Horizontal distance measured, in feet, from the nearest edge of the composting operation to the edge of the high-water mark for lakes and reservoirs, mean high tide line for tidally influenced water bodies, or the natural or levied bank for creeks and rivers.
+Electronic Deliverable Format - Defined in California Code of Regulations, title 23, division 3, chapter 30, article 1, section 3891.
+Evapo-concentration - The process by which the ratio of solute to water solvent is increased by the removal of the solvent and retention of the solute.
+
+[page 46] Evapo-concentration - The process by which the ratio of solute to water solvent is increased by the removal of the solvent and retention of the solute.
+Feedstocks - Materials used in the production of compost. Feedstocks shall not be considered as either additives or amendments.
+Fertilizing Material - Defined in division 7, section 14533 of the Food and Agriculture Code.
+Final Product - The compost material that has completed the curing phase. Residual substances originally present in the compost pile are consumed after proper curing.
+The compost has been brought to maturity, and organic acids and resistant compounds have been substantially decomposed.
+
+[page 46] The compost has been brought to maturity, and organic acids and resistant compounds have been substantially decomposed.
+Food Material - Solid, and/or semi-solid materials resulting from the production or processing of food for animal or human consumption, but is no longer intended for such consumption, that is separated from the municipal solid waste stream. Food material includes, without limitation, food waste from food facilities (as defined in Health and Safety Code, section 113789), food processing establishments (as defined in Health and Safety Code, section 111955), grocery stores, institutional cafeterias (such as prisons, schools, and hospitals), restaurants, and residential food scrap collection.
+Food material may include meat and materials incidental to a food scrap collection program. Food material shall not contain any substance included in the Prohibitions section of this General Order.
+Geocomposite Liner - A manufactured material using geotextiles, geogrids, geonets, and/or geomembranes in laminated or composite form.
+
+[page 47] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-5
+Geomembrane - Flexible materials in planar form manufactured to meet specific engineering purposes. Commonly, they are used as a barrier to waste solids and fluids. The term “geomembrane” is synonymous with “synthetic liner” and “flexible membrane liner”.
+GeoTracker - The State Water Board database as defined in California Code of Regulations, title 23, section 3891.
+Green Composting Waiver - Refers to the “Conditional Waiver of Waste Discharge Requirements for Composting Operations.” Adopted by most Regional Water Boards in 1996, this waiver covered the composting of green waste, some food processing waste, agricultural waste, and paper waste discharged to land with a volume in excess of 500 cubic yards.
+
+[page 47] Green Material - Any plant material that is separated at the point of generation and consists of, or contains, materials from plants, including leaves, clippings, cuttings, trimmings of grass, weeds, shrubbery, bushes, or trees, residential or community garden waste, and untreated wood waste. Green material does not include food material, biosolids, material processed from commingled collection, wood containing lead-based paint or wood preservative, mixed construction or mixed demolition debris.
+Groundwater - Water below the ground surface that is at or above atmospheric pressure (i.e., perched, unconfined, or confined water).
+Groundwater Elevation - The vertical distance measured, in feet, from mean sea level to the water table of the first encountered groundwater below the ground surface.
+Hydraulic conductivity - The ability of natural and artificial materials to transmit fluid.
+
+[page 47] Hydraulic conductivity - The ability of natural and artificial materials to transmit fluid.
+For water, including aqueous solutions, the term is expressed as a measure of the rate of flow (e.g., cubic centimeters per second) one can expect through a unit-area (e.g., one square centimeter) cross section of the material under a unit hydraulic gradient (e.g., one centimeter of head loss per centimeter of travel through the material). The resulting numerical value is expressed in velocity units (e.g., centimeters per second).
+Leachate - Any liquid formed by the drainage of liquids from, or percolation/flow of liquids through any feedstock, additive, amendment, or compost (active, curing, or final product) pile.
+Liquid Food Material - Liquid materials resulting from the production or processing of food for animal or human consumption - but is no longer intended for such consumption - that is separated at the point of generation from the waste stream (e.g., cheese whey, brewery waste, etc.). Liquid food material shall not contain either: brines or any waste included in the Prohibitions section of this General Order.
+
+[page 48] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-6
+Liquid Wastes - Waste materials which are not spadeable or in a physical state where the waste materials behave sufficiently like a solid to be moved by a spade at normal outdoor temperatures.
+Liner - A material or combination of materials designed, constructed, and maintained to contain any wastewater feedstock, additive, amendment, or compost (active, curing, or final product) discharged to land.
+Local Enforcement Agencies (LEA) - Agencies that are designated by the governing body of a county or city and, upon certification by CalRecycle, are empowered to implement delegated CalRecycle programs and locally designated activities.
+Lot Clearing for Fire Protection - Refers to the storage of yard trimmings at a publicly designated site for the collection of lot clearing necessary for fire protection provided that the public agency designating the site has notified the fire protection agency.
+
+[page 48] Manure - Excrement from animals (e.g., cattle, chicken, pig) which includes feces and urine and any bedding material, spilled feed, or soil that is mixed with feces or urine, and the accumulated material does not exceed its moisture holding capacity. Manure does not include carcasses, whole or in part, in accordance with Prohibition 4.a.
+Major Storm Event - Is defined as a minimum of one inch of precipitation within 24 hours.
+Moisture Holding Capacity - The amount of liquid which can be held against gravity by waste materials without generating free liquid.
+National Pollutant Discharge Elimination System (NPDES) - Refers to the national program under Clean Water Act section 402 (33 U.S.C. § 1342), for regulation of discharges of pollutants from point sources to waters of the United States. Discharges are illegal unless authorized by a National Pollutant Discharge Elimination System permit.
+
+[page 48] Nonhazardous Solid Waste - Means all putrescible and nonputrescible solid, semi-solid, and liquid wastes, including garbage, trash, refuse, paper, rubbish, ashes, industrial wastes, demolition and construction wastes, abandoned vehicles and parts thereof, discarded home and industrial appliances, manure, vegetable or animal solid and semi-solid wastes and other discarded waste (whether of solid or semi-solid consistency); provided that such wastes do not contain wastes which must be managed as hazardous wastes, or wastes which contain soluble pollutants in concentrations which exceed applicable water quality objectives, or could cause degradation of waters of the state (i.e., designated waste).
+Nuisance - Defined in section 13050, subdivision (m) of the Water Code.
+Pad - See definition for “working surface.”
+
+[page 49] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-7
+Paper Material - Nonhazardous paper and paper by-products (including paper, cardboard, tissue, and other products manufactured from vegetative fibers).
+Percolation test - A method of testing water absorption of soil. The percolation test shall be conducted as follows or an approved alternative: a minimum of six percolation tests shall be required as follows:
+1. Four holes shall be spaced uniformly throughout the operations pad area to a minimum of 24 inches deep; and
+2. Two holes outside the perimeter of the detention pond nearest the deepest corner. The holes shall be dug a minimum of 24 inches below the deepest part of the pond.
+3. Percolation testing shall be conducted in accordance with local codes and ordinances and performed under the direction of a Professional Geologist, Civil Engineer, or Registered Environmental Health Specialist.
+Pollution - Defined in section 13050, subdivision (l) of the Water Code.
+Portable Document Format (PDF) - Defined in California Code of Regulations, title 23, division 3, chapter 30, article 2, section 3891.
+
+[page 49] Portable Document Format (PDF) - Defined in California Code of Regulations, title 23, division 3, chapter 30, article 2, section 3891.
+Precipitation - Is any condensate of atmospheric water vapor and includes hail, mist, rain, sleet, or snow.
+Publicly Owned Treatment Works (POTW) - Is as defined in part 403, section 403.3(q) of 40 Code of Federal Regulations.
+Radioactive Material - Defined in California Code of Regulations, title 17, section 30100, subdivision (q).
+Residentially co-collected or self-hauled food and green materials - Food scraps, food soiled paper, and related items that are produced in a residential setting and are set out to be co-collected with green materials (i.e. yard trimmings) as part of a municipal co-collection, or self-hauled program. No more than 10 percent of residential food material may be comingled with green materials.
+Regional Water Quality Control Board (Regional Water Board) - All references to a Regional Water Board, include the Executive Officer, who may act for the Regional Water Board in carrying out this General Order. (Wat. Code, § 13050, subd. (b) & § 13223.)
+
+[page 49] Residual - The waste destined for disposal or recycling and removed from the site.
+Runoff - Any precipitation, wastewater, or other liquids that drain from any part of a Composting Operation.
+
+[page 50] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-8
+Run-on - Any precipitation, wastewater, or other liquids that drain onto any part of the Composting Operation.
+Separated at the Point of Generation - Includes material separated from the waste stream by the generator of that material. It may also include material from a centralized facility as long as that material was kept separate from the waste stream prior to receipt by that facility and the material was not commingled with other waste during handling.
+Septage - Any waste removed from a septic tank, cesspool, portable toilet, Type III marine sanitation device, or similar wastewater handling device that has not passed through a municipal wastewater treatment facility.
+
+[page 50] Sewage Sludge - Any solid, semi-solid, or liquid residue generated during the treatment of domestic sewage in a municipal wastewater treatment facility. It includes solids removed or used during primary, secondary, or advanced wastewater treatment processes. It does not include grit or screening material generated during preliminary treatment of domestic sewage at a municipal wastewater treatment facility. Sewage sludge does not include biosolids that meet the criteria in Table 1 of 40 Code of Federal Regulations section 503.13.
+Significant Maintenance Activities - Refers to, but may not be limited to, those activities which could alter existing surface drainage patterns, change the existing slope configuration, occur as a result of repairing surfaces or conveyances that were damaged, or result in the installation or destruction of any monitoring system at the composting operation (e.g., groundwater monitoring well, lysimeter, etc.).
+Sludge - Refers to the solid, semi-solid, or liquid residue produced by water, wastewater, or sewage treatment processes.
+
+[page 50] Sludge - Refers to the solid, semi-solid, or liquid residue produced by water, wastewater, or sewage treatment processes.
+Source Separated - Materials that have been separated or kept separate from the waste stream, at the point of generation, for the purpose of composting.
+Tier 1 Feedstocks - The following are allowable Tier 1 feedstocks: vegetative agricultural materials, green materials, paper materials, vegetative food materials, residentially co-collected food and green materials, anaerobic digestate derived from allowable Tier 1 feedstocks, and a combination of allowable Tier 1 feedstocks. Manure may be accepted as a feedstock at Tier 1 facilities if a groundwater protection monitoring plan is implemented.
+Tier 2 Feedstocks - The following are allowable Tier 2 feedstocks: food materials (non- vegetative); biosolids (Class A, B, and/or EQ) as defined by 40 Code of Federal Regulations part 503; manure; anaerobic digestate derived from allowable Tier 2 feedstocks; and a combination of allowable Tier 1 and Tier 2 feedstocks.
+
+[page 51] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-9
+Vegetative Agricultural Material - Consists of pre-consumer plant materials coming directly from lands used in the production of farm, agricultural, horticultural, aquacultures, silvicultural, floricultural, vermicultural, or viticultural products, including, but not limited to, orchard and vineyard prunings, grape pomace, and crop residues.
+Vegetative agricultural material does not include manure. With the exception of grape pomace or material generated during nut or grain hulling, shelling, and processing, vegetative agricultural material has not been processed except at its point of generation and has not been processed in a way that alters its essential character as a waste resulting from the production of food or fiber for human or animal consumption or use.
+
+[page 51] Vegetative Food Material - Food material resulting from the production or processing of food for animal or human consumption, but is no longer intended for such consumption, that is derived solely from plants and is separated from the municipal solid waste stream. Vegetative food material may be processed or cooked but must otherwise remain in its essentially natural state and no salts, preservatives, fats, oils, or other adulterants have been added.
+Water Quality Control Plan (Basin Plan) - Defined in division 7, section 13050, subdivision (j) of the Water Code.
+Wastewater - Refers to leachate or any other liquid flowing from, or on the working surface.
+Water Boards - Refers collectively to the State Water Resources Control Board and the nine Regional Water Quality Control Boards.
+Waste - Defined in Water Code section 13050, subdivision (d).
+Water Quality Objectives - Defined in Water Code section 13050, subdivision (h).
+Waters of the State - Defined in Water Code section 13050, subdivision (e).
+Wet Season - Defined as October 1 through April 30.
+
+[page 51] Wet Season - Defined as October 1 through April 30.
+Working Surface - Any area at a Composting Operation used for the storage and/or treatment of feedstocks, additives, amendments, or compost (active, curing, or final product). The final product area may be excluded from the working surface hydraulic conductivity requirements under the following conditions:
+· The area is isolated in a dedicated area away from the active and curing compost;
+· The area is clearly marked as “final product” and · The area is identified in the NOI and technical report and approved by the Regional Water Board.
+
+[page 52] ATTACHMENT A: DEFINITIONS – ORDER WQ 2020-0012-DWQ A-10
+Within Vessel and Fully enclosed - Refers to the action of receiving, composting, curing or storing any feedstock within a fully enclosed vessel or container (e.g., drum, silo, bin, bunker, tunnel, reactor, fabric-covered aerated static piles) where the organic material is covered on all sides and rests on a stable surface with environmental controls for managing all wastewaters.
+
+[page 53] THIS PAGE INTENTIONALLY LEFT BLANK
+
+[page 54] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-1
+B
+ATTACHMENT B – MONITORING AND REPORTING PROGRAM
+This Monitoring and Reporting Program (MRP) is issued pursuant to Water Code section 13267. The Discharger shall not implement any changes to this MRP unless and until a revised MRP is issued by the Regional Water Board.
+This MRP includes monitoring, reporting and record keeping requirements for composting operations. Monitoring requirements include facility inspections, detention basin water quality, groundwater protection monitoring, and general sampling, as appropriate. Reporting includes requirements for the Annual Monitoring and Maintenance Report, notification of violations, and reporting of significant events.
+Record keeping describes the types of information and length of time that the Discharger must keep and maintain reports.
+
+[page 54] Record keeping describes the types of information and length of time that the Discharger must keep and maintain reports.
+The Discharger owns and/or operates the composting operation subject to the NOA and this General Order. The reports are necessary to ensure that the Discharger complies with the NOA and the General Order. Pursuant to Water Code section 13267, the Discharger shall implement this MRP and shall submit monitoring reports described herein.
+A. ROUTINE MONITORING REQUIREMENTS
+1. FACILITY INSPECTIONS
+Any discharger enrolled under this General Order must inspect the composting operation in accordance with the following schedule and record, at a minimum, the observations described below:
+a. Operations Areas – Perform quarterly inspections of the working surfaces, berms, ditches, facility perimeter, erosion control best management practices (BMPs), and any other operational surfaces (as specified in the NOI and/or a technical report and approved by the Regional Water Board). The Discharger shall include the following observations in the Annual Monitoring and Maintenance Report:
+1) Date and time of inspections, along with the name of the inspector;
+
+[page 54] 1) Date and time of inspections, along with the name of the inspector;
+2) Evidence of areas of deficiency such as cracking or subsidence in the working surfaces;
+3) Evidence of ponding over the working surfaces and within ditches (show affected area on a map);
+4) Effectiveness of erosion control BMPs;
+5) Maintenance activities associated with, but not limited to, the working surfaces, berms, ditches, and erosion control BMPs;
+
+[page 55] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-2
+6) Evidence of any water or wastewater leaving or entering the facility, estimated size of affected area, and estimated flow rate (show affected area on a map);
+7) Integrity of drainage systems during the wet season; and 8) Photographs of observed and corrected deficiencies.
+b. Wastewater Management System - Perform quarterly inspections of the wastewater management system and submit the following observations and records in the Annual Monitoring and Maintenance Report:
+1) Date and time of inspections along with name of inspector;
+2) The overall condition of the wastewater management system (i.e.
+pond liner, storage tank construction, municipal wastewater connection points);
+3) The available capacity within storage systems and the current volume of wastewater (gallons) or solids (cubic yards) contained;
+4) Presence of odors from the wastewater management system – characterization, source, and distance from source;
+
+[page 55] 4) Presence of odors from the wastewater management system – characterization, source, and distance from source;
+5) Volume of wastewater treated and discharged, if applicable; and 6) Volume of wastewater disposed at an off-site treatment system and name and location of the wastewater treatment facility, if applicable.
+c. Annual Survey – Perform annual survey of the facility to confirm that all containment structures are prepared for the pending wet season.
+Dischargers shall conduct an annual survey prior to the anticipated wet season, but no later than August 31 and complete any necessary construction, maintenance, or repairs by October 31. The Discharger shall include the following in the Annual Monitoring and Maintenance Report:
+1) The observation date and time of the survey, along with the name of the inspector
+2) The type of deficiency/non-compliance observed;
+3) The cause for the deficiency/noncompliance;
+4) Map showing the area of deficiency/noncompliance;
+5) The corrective actions undertaken, or planned to resolve the deficiency/non- compliance, including the date and time of repairs;
+
+[page 55] 5) The corrective actions undertaken, or planned to resolve the deficiency/non- compliance, including the date and time of repairs;
+6) The measures undertaken by the Discharger to prevent the recurrence of the observed deficiency/noncompliance; and 7) Photographs of the observed deficiencies/noncompliance with corresponding location on the map.
+
+[page 56] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-3
+d. Major Storm Events - The Discharger shall inspect all precipitation, diversion, and drainage facilities for damage within 7 days following major storm events. Necessary repairs shall be completed within 30 days of the inspection. The Discharger shall report any damage and subsequent repairs including photographs of the problem and repairs in the Annual Monitoring and Maintenance Report.
+2. DETENTION POND MONITORING (IF APPLICABLE)
+a. Any Discharger enrolled under this General Order that has a detention pond to manage wastewater onsite must conduct monitoring of the wastewater within the detention pond quarterly when there is sufficient water and analyze the sample for the parameters listed Table B-1.
+
+[page 56] These field parameters are measured during each sampling event. A laboratory providing water sample analyses must hold a valid certificate of accreditation from the State of California Environmental Laboratory Accreditation Program (ELAP) for the analytical test methods or analytes selected. These laboratory analyses shall be conducted in accordance with methods approved for use in 40 Code of Federal Regulations part 136 (Guidelines Establishing Test Procedures for the Analysis of Pollutants) or other test methods approved by the Regional Water Board.
+Table B-1. Detention Pond Monitoring
+Constituent Units Sample Frequency Reporting
+FrequencypH standard units Quarterly Annually
+Dissolved Oxygen mg/L Quarterly Annually
+Total Dissolved Solids mg/L Quarterly Annually
+Fixed Dissolved Solids mg/L Quarterly Annually
+Total Nitrogen mg/L Quarterly Annually
+Specific Conductance μmhos/cm Quarterly Annually
+
+[page 56] Specific Conductance μmhos/cm Quarterly Annually
+Detention Pond Leak Detection Monitoring (Tier 2 only) – The leak detection monitoring device (i.e. pan lysimeter) shall be checked monthly during the wet season for liquid. Upon detection of liquid in a previously dry monitoring device Discharger shall notify the Regional Water Board within 48 hours;
+collect a sample and analyze the liquid for the constituents listed in Table B-1; remove the liquid from the device; and continue to monitor weekly. If liquid reappears, another sample must be collected and analyzed for the constituents in Table B-1. If the liquid is confirmed to be wastewater, the Discharger must submit a Response Action Plan within 30 days for review and approval by the Regional Water Board.
+
+[page 57] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-4
+b. The results of any monitoring conducted more frequently than required at the locations specified in this General Order shall be reported to the Regional Water Board.
+3. BIOSOLIDS MONITORING (IF APPLICABLE)
+
+[page 57] 3. BIOSOLIDS MONITORING (IF APPLICABLE)
+a. Any Discharger enrolled under this General Order that uses biosolids as a feedstock, shall present analytical results from a laboratory with a valid certificate of accreditation from the State of California ELAP for the analytical test methods or analytes selected to show proof that the biosolids meet, at a minimum, with the ceiling concentrations listed in Table 1 of 40 Code of Federal Regulations part 503. Biosolids may be characterized by the entity that generates or otherwise processes the material. Use of analytical data prepared by such an entity may be accepted in lieu of the sampling listed below. The characterization shall contain a description of the sample procedures, the analytical report, and a statement by a responsible person that the characterization was performed in a way that accurately characterizes the quality of the biosolids and includes the certification language contained in the General Order under Reporting Requirements.
+U.S. EPA regularly reviews, and may revise, the limitations and requirements of 40 Code of Federal Regulations part 503 and should be reviewed for updates.
+
+[page 57] U.S. EPA regularly reviews, and may revise, the limitations and requirements of 40 Code of Federal Regulations part 503 and should be reviewed for updates.
+b. Any discharger enrolled under this General Order that uses biosolids as a feedstock and does not show results from a laboratory with a valid certificate of accreditation from the State of California ELAP for the analytical test methods or analytes selected shall perform monitoring to characterize the material for the parameters listed in Table B-2. The characterization shall contain a description of the sample procedures, the analytical report, and a statement by a responsible person that the characterization was performed in a way that accurately characterizes the quality of the biosolids and includes the certification language contained in the General Order under Reporting Requirements.
+Table B-2. Biosolids Monitoring
+Constituent Units Sample Frequency Reporting
+FrequencyArsenic mg/kg Sample each delivery Annually Cadmium mg/kg Sample each delivery Annually
+Copper mg/kg Sample each delivery Annually
+Lead mg/kg Sample each delivery Annually
+Mercury mg/kg Sample each delivery Annually
+
+[page 57] Mercury mg/kg Sample each delivery Annually
+Molybdenum mg/kg Sample each delivery Annually
+
+[page 58] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-5
+Constituent Units Sample Frequency Reporting
+FrequencyNickel mg/kg Sample each delivery Annually Selenium mg/kg Sample each delivery Annually
+Zinc mg/kg Sample each delivery Annually
+4. GROUNDWATER PROTECTION MONITORING (IF APPLICABLE)
+a. A Discharger that is required to perform groundwater monitoring shall perform the monitoring shown in Table B-3. A laboratory providing water sample analyses must hold a valid certificate of accreditation from the State of California ELAP for the analytical test methods or analytes selected. These laboratory analyses shall be conducted in accordance with methods approved in 40 Code of Federal Regulations part 136 (Guidelines Establishing Test Procedures for the Analysis of Pollutants)
+or other test methods approved by the Regional Water Board.
+b. Discharger is required to implement the sampling and analysis program detailed in the approved Groundwater Protection Monitoring Plan submitted with the NOI as part of the accompanying technical report described in Attachment D, which is hereby incorporated by reference as part of this MRP.
+
+[page 58] c. The results of any monitoring conducted more frequently than required at the locations specified in this General Order shall be reported to the Regional Water Board.
+Table B-3. Groundwater Monitoring
+Constituent Units Sample Frequency Reporting Frequency Groundwater Elevation 0.01 Feet Quarterly Annually Depth to Groundwater 0.01 Feet Quarterly Annually
+Gradient Feet/Feet Quarterly Annually
+Gradient Direction Degrees Quarterly Annually
+pH Std. Units Quarterly Annually
+Total Dissolved Solids mg/L Quarterly Annually
+Nitrate as Nitrogen mg/L Quarterly Annually
+Sodium mg/L Quarterly Annually
+Chloride mg/L Quarterly Annually
+Total Coliform Bacteria MPN/100 mL Quarterly Annually Notes for Table B-3:
+· Groundwater elevation shall be based on depth to water using a surveyed measuring point elevation on the well and a surveyed reference elevation.
+· If Total Coliform Bacteria are measured with the multiple tube fermentation technique, use a minimum of 15 tubes and three dilutions.
+
+[page 59] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-6
+5. GENERAL SAMPLING REQUIREMENTS
+a. The Discharger shall use clean sample containers and sample handling, storage, and preservation methods that are accepted or recommended or required by the approved analytical method.
+b. All samples collected shall be representative of the volume and nature of the material being sampled.
+c. All sample containers shall be labeled, and records maintained to show the time and date of collection as well as the person collecting the sample and the sample location.
+d. All samples collected for laboratory analyses shall be preserved and submitted to the laboratory within the required holding time appropriate for the analytical method used and the constituents analyzed.
+e. All samples submitted to a laboratory for analyses shall be identified in a properly completed and signed Chain of Custody form.
+f. Field instruments may be used provided:
+1) The operator is trained in the proper use and maintenance of the instruments;
+2) The instruments are field calibrated prior to each monitoring event;
+and
+
+[page 59] and
+3) Instruments are serviced and/or calibrated by the manufacturer at the recommended frequency.
+g. Analytical results falling between the method detection limit (MDL) and the practical quantitation limit (PQL) shall be reported as “estimated,” be accompanied by documents reporting both the MDL and PQL values for that analytical run, and be flagged appropriately (i.e., “J-flagged”).
+h. MDLs shall be derived by the laboratory for each analytical method in accordance with 40 CFR 136. The PQLs shall be derived consistent with the analytical method, or described by the laboratory and shall be approved by the Regional Water Board. In a relatively interference-free laboratory, derived MDLs and PQLs are expected to agree closely with published MDLs and PQLs such as those published by U.S. EPA.
+i. If the laboratory suspects that, due to a change in matrix or other effects, the MDL or PQL for a particular analytical run differs significantly from historic MDL or PQL values, results shall be flagged and reported in the quality assurance/quality control (QA/QC) report.
+
+[page 59] j. The MDL shall always be calculated such that it represents the lowest achievable concentration associated with a 99 percent reliability of non-zero results.
+
+[page 60] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-7
+k. The PQL shall represent the lowest concentration at which a numerical value can be assigned with reasonable certainty.
+l. All quality assurance/quality control data shall be reported, along with sample results to which it applies. This information shall include method, equipment, analytical detection, quantitation limits, recovery rates, an explanation for any recovery rate that is outside method specifications, results of equipment and method blanks, results of matrix spikes and surrogate samples, and the frequency of quality control analysis. Sample results shall be reported unadjusted for blank results or spike recovery. In cases where contaminants are detected in the quality assurance/quality control samples (i.e., field, trip, or laboratory blanks), the accompanying sample results shall be appropriately flagged.
+B. REPORTING REQUIREMENTS
+1. ANNUAL MONITORING AND MAINTENANCE REPORT
+
+[page 60] 1. ANNUAL MONITORING AND MAINTENANCE REPORT
+The Annual Monitoring and Maintenance Report shall be submitted to the Regional Water Board by April 1st each year. The Discharger must submit this report in a searchable, electronic format (i.e., Portable Document Format (PDF) and Electronic Deliverable Format (EDF) via the State Water Board’s Internet GeoTracker system <http://geotracker.waterboards.ca.gov/> as required by this General Order. The report must include the following:
+a. A transmittal letter explaining the essential points shall accompany each report. At a minimum, the transmittal letter shall identify any violations found since the last report was submitted and a description of the actions taken or planned for correcting those violations, including any references to previously submitted time schedules. If no violations have occurred since the last submittal, this shall be stated in the transmittal letter;
+b. A map or aerial photograph showing the locations of observation stations and monitoring points;
+
+[page 60] b. A map or aerial photograph showing the locations of observation stations and monitoring points;
+c. Tabular and graphical summaries of all water quality data collected during the year, including wastewater monitoring if applicable; and d. All historical monitoring data collected during the previous 5 years, and for which there are detectable results, including data for the previous year, shall be submitted in tabular form and in a digital file format.
+
+[page 61] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-8
+e. Monitoring information must include at a minimum:
+1) The date, identity of sample, monitoring point from which the sample was collected, and time of sampling or measurement;
+2) The name of the individual(s) who performed the sampling or measurements;
+3) Date and time that analyses were started and completed;
+4) The analytical techniques or method used, including method of preserving the sample and the identity and volume of reagents used; and
+5) Field instrument calibration logs.
+f. Copy of the complete laboratory analytical report(s), signed by the laboratory director or project manager, and at a minimum contain:
+1) Complete sample analytical reports;
+2) Complete laboratory QA/QC reports;
+3) A discussion of the sample and QA/QC data;
+4) A properly completed “chain of custody” from the analyzed samples; and
+5) A transmittal letter stating whether or not all of the analytical work was supervised by the director of the laboratory, and contain the following statement:
+
+[page 61] 5) A transmittal letter stating whether or not all of the analytical work was supervised by the director of the laboratory, and contain the following statement:
+“All analyses were conducted at a laboratory accredited for such analyses by the State Water Board’s Environmental Laboratory Accreditation Program.”
+g. Results and discussion from the annual survey;
+h. Results and discussion of the groundwater protection monitoring, if applicable, including statistical analysis as submitted in the NOI and accompanying technical report, and approved by the Regional Water Board;
+i. A summary of completion of inspections and maintenance of the working surfaces, berms, ditches, erosion control BMPs or other containment structures;
+j. An evaluation of completion of inspections and maintenance on the effectiveness of the wastewater handling facilities including results of the annual testing of wastewater, capacity issues, nuisance conditions, and system problems;
+k. A comprehensive discussion of the compliance record, and the result of any corrective actions taken or planned which may be needed to bring the Discharger into full compliance with this General Order; and
+
+[page 62] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-9
+l. A discussion of any data gaps and potential deficiencies/redundancies in the monitoring system or reporting program.
+2. NOTIFICATION OF VIOLATIONS
+If the Discharger determines there has been a violation of the requirements specified in either the General Order or this MRP, the Discharger must notify the Regional Water Board office by telephone or email, within 48 hours, once the Discharger has knowledge of the violation. The notification must include a description of the noncompliance and its cause, the period of noncompliance (dates and times); and if the noncompliance has not been corrected, the anticipated time the noncompliance is expected to continue. The notification must also include steps taken or planned to reduce, eliminate, or prevent recurrence of the noncompliance.
+The Regional Water Board may, depending on the severity of the violation, require the Discharger to submit a separate technical report regarding the violation within 10 working days of the initial notification.
+3. PRIORITY REPORTING OF SIGNIFICANT EVENTS
+
+[page 62] 3. PRIORITY REPORTING OF SIGNIFICANT EVENTS
+The Discharger shall report any noncompliance that endangers human health or the environment within 24 hours of becoming aware of its occurrence. The incident shall be reported to the Regional Water Board, the local environmental health department, and to the California Governor’s Office of Emergency Services (CalOES). During non-business hours, the Discharger shall leave a message on the Regional Water Board’s voice mail. The message shall include the time, date, place, and nature of the noncompliance, name, and number of the reporting person, and shall be recorded in writing by the Discharger. CalOES is operational 24 hours a day. A written report shall be submitted to the Regional Water Board office within 10 working days of the Discharger becoming aware of the incident. The report shall contain a description of the noncompliance, causes, duration, and the actual or anticipated time for achieving compliance. The report shall include complete details of steps that the Discharger has taken or intends to take to prevent recurrence. All intentional or accidental spills shall be reported as required by this provision. The written submission shall contain:
+
+[page 62] a. The approximate date, time, and location of the noncompliance including a description of the ultimate destination of any unauthorized discharge and the flow path of such discharge to a receiving water body;
+b. A description of the noncompliance and its cause;
+c. The flow rate, volume, and duration of any discharge involved in the noncompliance;
+
+[page 63] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-10
+d. The amount of precipitation (in inches) the day of any discharge and for each of the seven days preceding the discharge;
+e. A description (location, date and time collected, field measurements of pH, temperature, dissolved oxygen and electrical conductivity, sample identification, date submitted to laboratory, and analyses requested) of noncompliance discharge samples and/or surface water samples taken;
+f. The period of noncompliance, including dates and times, and if the noncompliance has not been corrected, the anticipated time it is expected to continue;
+g. A time schedule and a plan to implement corrective actions necessary to prevent the recurrence of such noncompliance; and h. The laboratory analyses of the noncompliance discharge sample and/or upstream and downstream surface water samples shall be submitted to the Regional Water Board office within 45 days of the discharge.
+C. RECORD-KEEPING REQUIREMENTS
+
+[page 63] C. RECORD-KEEPING REQUIREMENTS
+The Discharger must retain records of all monitoring information, including all calibration and maintenance records, and copies of all reports required by this MRP, for a minimum of 5 years from the date of sample, measurement, report, or application.
+This period may be extended during the course of any unresolved litigation regarding the discharge or when requested by the Regional Water Board. Records of monitoring information must include at a minimum:
+a. The date, identity of sample, monitoring point from which the sample was collected, and time of sampling or measurement;
+b. The name of the individual(s) who performed the sampling or measurements;
+c. Training logs and records;
+d. Date and time that analyses were started and completed;
+e. The analytical techniques or method used, including method of preserving the sample and the identity and volume of reagents used;
+f. Calculation of results;
+
+[page 63] f. Calculation of results;
+g. Results of analyses performed, and method used (as proposed in an NOI and accompanying technical report, and approved by the Regional Water Board) for calculating the concentration limits for each naturally occurring constituents, based on background water quality monitoring data;
+h. Results of analyses and the MDL for each non-naturally occurring constituent;
+
+[page 64] ATTACHMENT B: MONITORING AND REPORTING – ORDER WQ 2020-0012-DWQ B-11
+i. Laboratory quality assurance results (e.g., percent recovery, response factor, etc.); and
+j. Chain of Custody forms.
+Ordered by:
+(Regional Water Board Executive Officer)
+
+[page 65] THIS PAGE INTENTIONALLY LEFT BLANK
+
+[page 66] ATTACHMENT C: NOTICE OF INTENT – ORDER WQ 2020-0012-DWQ C-1
+C
+ATTACHMENT C – NOTICE OF INTENT
+General Waste Discharge Requirements for Commercial Composting Operations Order WQ 2020-0012-DWQ
+DISCHARGER INFORMATION
+Owner Name: __________________________
+Street Address: ________________________
+City/Locale: ___________________________
+County: ______________________________
+State/Zip: _____________________________
+Telephone Number: _____________________
+Facsimile Number: ______________________
+Email Address:
+_____________________________________
+Owner Type (select one): ________________
+□ Individual
+□ Corporation
+□ Partnership
+□ Other (please specify): ______________
+OPERATOR INFORMATION IF DIFFERENT
+FROM OWNER INFORMATION
+Operator Name: ________________________
+Mailing Address: _______________________
+City/Locale: ___________________________
+County: ______________________________
+State/Zip: _____________________________
+Telephone Number: _____________________
+Facsimile Number: ______________________
+Email Address:
+_____________________________________
+COMPOSTING OPERATION INFORMATION
+Compost Facility Name:
+_____________________________________
+Street Address:
+
+[page 66] Street Address:
+_____________________________________
+City/Locale: ___________________________
+County: ______________________________
+State/Zip: _____________________________
+Telephone Number: _____________________
+Type (check one): ______________________
+□ Existing Composting Operation
+□ New Composting Operation
+Facility Acreage (acres): _________________
+Total Facility Capacity (cubic yards): ________
+Average Weekly Throughput (cubic yards per
+week): _______________________________
+Assessor Parcel Number(s): ______________
+Latitude: ______________________________
+Longitude: ____________________________
+Regional Water Board Address:
+_____________________________________
+REASONS FOR FILING
+□ New Discharge
+□ Existing Discharge
+□ Expansion or Change in Operations
+□ Changes in Ownership/Operator
+□ Other: __________________________
+
+[page 67] ATTACHMENT C: NOTICE OF INTENT – ORDER WQ 2020-0012-DWQ C-2
+STORMWATER PERMIT
+Is there an Industrial Storm Water Permit for
+this facility?
+□ Yes
+□ No
+If yes, WDID Number: ___________________
+Related to storm water, have you received a
+“No Exposure Certification”, “Notice of
+Termination”, or “Notice of Exemption” for this
+facility?
+□ Yes
+□ No
+If yes, please provide a copy.
+The Notice of Intent for coverage under the
+Industrial Storm Water Permit may be obtained
+over the internet at the Industrial Stormwater
+Program webpage:
+http://www.waterboards.ca.gov/water_issues/p
+rograms/stormwater/industrial.shtml
+OTHER PERMITS
+Has another agency issued permits or other
+entitlements (e.g., solid waste facility permit,
+notification permit, conditional use permit,
+building permits, air permits) for the unit?
+□ Yes
+□ No
+For each permit or entitlement, list the type,
+issuing agency, and date of issuance:
+_____________________________________
+_____________________________________
+_____________________________________
+CALIFORNIA ENVIRONMENTAL QUALITY
+ACT (CEQA)
+Has a CEQA determination been made by an
+agency?
+□ Yes
+□ No
+Name of Agency:
+____________________________________
+
+[page 67] ____________________________________
+Type and Date of Determination:
+_____________________________________
+State Clearinghouse Number:
+_____________________________________
+PROCESS
+Allowable Materials (check all that apply, and
+specify the quantity onsite at any time):
+□ vegetative agricultural materials: ________
+□ biosolids (Class A, B, or EQ): ___________
+□ green materials: _____________________
+□ paper materials: _____________________
+□ residentially co-collected or self-hauled food
+and green materials: __________________
+□ anaerobic digestate: __________________
+□ food material (non-vegetative): _________
+□ manure: ___________________________
+□ vegetative food material: ______________
+□ other: _____________________________
+Current Processing Capacity (cubic yards):
+_____________________________________
+Months during which compostable materials
+will be on-site: _________________________
+Additives/Amendments and maximum dry
+weight percentage used (list):
+_____________________________________
+_____________________________________
+_____________________________________
+_____________________________________
+
+[page 68] ATTACHMENT C: NOTICE OF INTENT – ORDER WQ 2020-0012-DWQ C-3
+SITE CONDITIONS
+Anticipated highest groundwater elevation (feet
+mean sea level): _______________________
+Average ground surface material percolation
+rate (minutes per inch) or attach results of
+percolation testing: _____________________
+Annual average precipitation (inches per year):
+_____________________________________
+Distance to nearest water supply well (feet):
+_____________________________________
+Closest surface water and distance (name,
+feet):
+_____________________________________
+DESIGN SPECIFICATION TIERS (check one)
+□ Tier 1
+□ Tier 1 (monitoring)
+□ Tier 2
+□ Tier 2 (monitoring)
+If the box for Tier 1 (monitoring) or Tier 2
+(monitoring) has been marked, provide the
+proposed Groundwater Protection Monitoring
+Plan with the Technical Report.
+TECHNICAL REPORT
+Provide a complete technical report with all the
+information required in Attachment D of this
+General Order.
+FILING FEE
+Pursuant to California Water Code section
+13260 et seq., Dischargers enrolled under this
+General Order are required to pay an annual
+fee, as determined by the State Water
+Resources Control Board. The filing fee
+
+[page 68] Resources Control Board. The filing fee
+accompanying this NOI is the first year’s
+annual fee. The annual fee is based on the
+threat to water quality and complexity of the
+discharge in accordance with California Code
+of Regulations, title 23, section 2200.
+Dischargers enrolled under this General Order
+will be assigned a threat to water quality and
+complexity rating as described in the General
+Order and will be assessed the corresponding
+fee, plus any applicable surcharges. The NOI
+is to be accompanied by a check, made out to
+the State Water Resources Control Board for
+the payment of the filing fee.
+CERTIFICATION
+“I certify under penalty of law that I have
+personally examined and am familiar with the
+information submitted in this document and all
+attachments and that based on my inquiry of
+those individuals immediately responsible for
+obtaining the information, I believe that the
+information is true, accurate, and complete. I
+am aware that there are significant penalties
+for submitting false information, including the
+possibility of fine and imprisonment.”
+Signature (Owner/Authorized Representative):
+_____________________________________
+Date: ________________________________
+
+[page 68] Date: ________________________________
+Printed name: _________________________
+Title: _________________________________
+Telephone Number: _____________________
+Email Address:
+_____________________________________
+
+[page 69] THIS PAGE INTENTIONALLY LEFT BLANK
+
+[page 70] ATTACHMENT D: TECHNICAL REPORT – ORDER WQ 2020-0012-DWQ D-1
+D
+ATTACHMENT D – TECHNICAL REPORT REQUIREMENTS
+The technical report required as part of the Notice of Intent (NOI) to comply with the terms of this General Order must be organized such that each item listed below is addressed in the same format, including the numbering scheme. The entire General Order should be thoroughly reviewed for its requirements prior to preparation of this technical report. The minimum information needed to provide a complete review of your application by the appropriate Regional Water Board is listed below. This list may not reference all information needed for every composting operation.
+
+[page 70] The Business and Professions Code sections 6735, 7835, and 7835.1 require that engineering and geologic evaluations and judgments be performed by or under the direction of licensed professionals. Any plan or report submitted in compliance with the requirements of this General Order, which requires technical interpretation, or proposes either a design, or a design change that might affect the composting operation’s containment features, detention ponds, or monitoring systems must be prepared by, or under the direction of, appropriately licensed professionals (e.g., registered civil engineer, professional geologist, or other registered certified specialty geologist) by the State of California. In addition, the licensee must sign and provide his or her registration number, and/or stamp the submitted plan or report.
+A. GENERAL INFORMATION
+1. Property owner’s contact information including business name, main point of contact, address, telephone number, facsimile number, email address, and type of ownership (e.g., individual, corporation, etc.).
+
+[page 70] 2. Operator’s contact information including business name, main point of contact, address, telephone number, facsimile number, and email address.
+3. Information including name, address, telephone number, facsimile number, and email address where legal notices may be served (if different than above).
+4. Legal business name and location of composting operation. Use the most accurate location, which may include address, nearest town, cross streets, and latitude and longitude in accordance with the online document, "GeoTracker’s Survey XYZ, Well Data, and Site Map Guidelines & Restrictions." <http://www.waterboards.ca.gov/ust/electronic_submittal/ docs/geotrackersurvey_xyz_4_14_05.pdf>
+5. Description of the Facility including:
+a. Assessor’s Parcel Number(s);
+b. Legal description including Section, Township, and Range;
+c. Total Operational Footprint (acres) including ancillary activities;
+
+[page 71] ATTACHMENT D: TECHNICAL REPORT – ORDER WQ 2020-0012-DWQ D-2
+d. Permitted Operational Capacity expressed in cubic yards of all materials received, processed, and stored on site at any given time;
+e. Land uses within one mile from the perimeter of the operation; and f. Description of water supply.
+6. Provide a detailed site map showing the following:
+a. Location and size (in acres) of the working surface used for the storage of incoming feedstocks, additives, and amendments (receiving area);
+b. Location and size (in acres) of the working surface used for active and curing composting;
+c. Location and size (in acres) of the working surface used for the storage of final product;
+d. Drainage pattern;
+e. Berms and ditches for the conveyance of wastewaters;
+f. Location, size (in acres), and capacity (in acre feet) of all detention ponds, if applicable;
+g. Location of all sampling points for the monitoring of wastewater contained within ponds pursuant to the requirements of the General Order, if applicable;
+
+[page 71] g. Location of all sampling points for the monitoring of wastewater contained within ponds pursuant to the requirements of the General Order, if applicable;
+h. Location of all sampling points for the monitoring of storm water runoff under the Industrial General Storm Water Permit, if applicable; and i. Location of any groundwater monitoring wells and water supply wells within and/or near the property boundary.
+7. Provide background information on the composting operation including history and a description of methods and operation used including the following:
+a. Describe the feedstock types, volumes, sources, and suppliers.
+b. Describe the additives used, sources, suppliers, and the maximum dry weight percentage used in the active composting process.
+c. Describe the amendments used, sources and suppliers in the final product.
+d. Describe the method of composting (e.g., windrow, static, forced air, mechanical).
+e. Provide process flow diagram showing movement of the material from received to final product. Include average amount of time the material remains in each part of the process.
+f. Describe how residuals are removed from the feedstocks managed and/or disposed.
+
+[page 72] ATTACHMENT D: TECHNICAL REPORT – ORDER WQ 2020-0012-DWQ D-3
+B. SITE CONDITION INFORMATION
+1. Climatology — Calculate required climatologic values from measurements made at a nearby climatologically similar station and provide the source data from which such values were calculated, together with the name, location, and period of record of the measuring station.
+a. Maximum, minimum, and average annual precipitation in inches/year;
+b. Mean evaporation in inches/year;
+c. 25-year, 24-hour design storm event.
+2. Geology:
+a. Map and Cross Sections — A comprehensive geologic map and geologic cross sections showing lithology and structural features.
+b. Materials — A description of natural geologic materials in and underlying the location of the operations, including identification of lithology, distribution and dimension features, physical characteristics, special physical or chemical features (i.e., alteration other than weathering), susceptibility to natural surface/near-surface processes, and all other pertinent lithologic data, all in accordance with current industry practices.
+3. Hydrogeology, including:
+
+[page 72] 3. Hydrogeology, including:
+a. General – An evaluation of water bearing characteristics of natural geologic materials identified under Geology above, including hydraulic conductivity and delineation of groundwater zones.
+b. Hydraulic Conductivity – An evaluation of the in-place hydraulic conductivity of soils immediately under the operation. For Tier 1 facilities, this would be substituted by the soil percolation test. This evaluation includes:
+1) Hydraulic conductivity in tabular form, for selected locations within the boundary of the operations;
+2) A map of the operations showing test locations; and 3) An evaluation of the test procedures and rationale used to obtain the data.
+c. Groundwater Flow Direction and Depth – an evaluation of the groundwater flow velocity and direction(s) within the uppermost groundwater zone and the following conditions:
+1) Maximum and average depth to first encountered groundwater below the native ground surface (in feet) and identify the source of the information; and
+2) Maximum and average groundwater elevation of first encountered groundwater (in feet) relative to mean sea level.
+
+[page 73] ATTACHMENT D: TECHNICAL REPORT – ORDER WQ 2020-0012-DWQ D-4
+4. Discuss the location and distance (in feet) to the nearest water supply wells (e.g., municipal supply, domestic supply, agricultural wells) from the nearest property boundary of the operation.
+5. Discuss whether the operation is located within a 100-year flood plain based on the Federal Emergency Management Agency’s (FEMA)
+designation and any design features to prevent inundation of the feedstocks, additives, amendments, compost (active, curing, or final product), or detention ponds. Include a reference to the appropriate FEMA Flood Hazard Map. Operations located within a 100-year floodplain may be subject to state and/or local land use restrictions and permits.
+6. Identify all nearby surface water bodies, including streams, ditches, canals, and other drainage courses. Provide distances from the nearest property boundary of the operation to these areas on a map.
+C. DESIGN INFORMATION
+
+[page 73] C. DESIGN INFORMATION
+1. Provide the current and/or proposed design of all working surfaces, berms, and conveyance ditches for the storage and/or treatment of feedstocks, additives, amendments, and compost (active, curing, or final product), along with information demonstrating that these containment structures comply with appropriate design specifications of this General Order.
+Submit for each operational area detailed preliminary and/or (if existing, or later upon completion) as-built plans, specifications, and descriptions for all working surfaces or other containment structures and drainage/conveyance systems. In addition, the report shall contain a description of, and location data for, ancillary facilities including roads, waste handling areas, detention ponds, buildings, and equipment cleaning facilities.
+2. Provide a Water and Wastewater Management Plan describing how water and wastewaters will be managed in accordance with this General Order.
+
+[page 73] 2. Provide a Water and Wastewater Management Plan describing how water and wastewaters will be managed in accordance with this General Order.
+Information must include a description of and/or plan illustrating all precipitation controls, containment structures, (i.e., conveyance systems for wastewater and detention ponds), best management practices, and contingency plan including:
+a. A wastewater conveyance system for controlling run-on and runoff from the working surface.
+b. A description of how water and wastewater is obtained and used in the compost process.
+
+[page 74] ATTACHMENT D: TECHNICAL REPORT – ORDER WQ 2020-0012-DWQ D-5
+c. A description of how the operation collects and manages wastewater.
+Information may include, but is not limited to, quantity that is reused back into the process, description of wastewater treatment systems, other water quality permits, and best management practices (i.e.
+covering materials) that reduce the production of wastewater.
+d. If using a detention pond, provide a water balance demonstrating compliance with the Design, Construction and Operation Requirements section of this General Order.
+D. OPERATIONS AND MONITORING INFORMATION
+1. Include a proposal for an annual survey of the operation prior to the rainy season to assure that the site has been graded and prepared for the rainy season to eliminate and minimize erosion and ponding, in compliance with the requirements of this General Order.
+2. Describe the inspection and maintenance program that will be undertaken regularly during composting operations, such as inspection of the containment structures for evidence of leachate, ponding, or surface failures such as cracking, spilling, or subsidence, in compliance with the specifications of this General Order.
+
+[page 74] 3. Describe the means by which the composting operation will be conducted in a manner that does not cause, threaten to cause, or contribute to conditions of contamination, pollution, or nuisance.
+4. Provide a description of the operations during periods of wet weather to ensure integrity of the containment systems.
+5. For Dischargers proposing groundwater protection monitoring in lieu of the design specifications, include a Groundwater Protection Monitoring Plan for establishing, operating, and monitoring to verify groundwater has not been impacted by the composting operation. Include rationale for the type of monitoring, monitoring frequency, spatial distribution of monitoring points, selection of monitoring equipment, construction specifications, procedures for sampling, analysis of the data, and data evaluation. This plan must include the following:
+a. Map – a map showing the locations of the proposed monitoring system;
+b. Plans and Specifications – drawings and data showing construction details of the proposed monitoring system.
+c. Inspection Procedures – construction quality assurance plan to ensure the system will be constructed per approved plans.
+
+[page 75] ATTACHMENT D: TECHNICAL REPORT – ORDER WQ 2020-0012-DWQ D-6
+d. Sampling and Analysis – the plan shall include consistent sampling and analytical procedures that are designed to ensure that monitoring results provide a reliable indication of water quality at all monitoring points. At a minimum, the plan shall include a detailed description of the procedures and techniques for:
+1) Sample collection (i.e. container types), sampling equipment (i.e.
+field instruments, pumps, bailers, etc.), equipment calibration, and decontamination of sampling equipment;
+2) Sample preservation and shipment;
+3) Analytical procedures;
+4) Chain of custody control; and
+5) QA/QC procedures.
+e. Proposed Data Analysis Method – describe the methods that will be used in evaluating protection of water quality. The specifications for each data analysis method shall include a list of constituents of concern that will be monitored and a detailed description of the criteria to be used for determining “measurably significant” evidence of any release from the operation and for determining compliance.
+E. SITE CLOSURE INFORMATION
+
+[page 75] E. SITE CLOSURE INFORMATION
+The technical report must include a plan for site closure activities upon completion of operations under this General Order to protect public health, safety, and the environment. The plan must describe how the site will be restored in compliance with the Site Closure Requirements section of this General Order.
+F. COMPLIANCE SCHEDULE (EXISTING FACILITIES)
+The technical report shall include a proposed schedule for achieving compliance with this General Order. Proposed schedules for implementation of the identified collection, control, and monitoring practices must be as soon as practicable, supported with appropriate technical or economic justification and in no case may the schedule exceed six years from the date of the NOI. The Regional Water Board may modify the schedules based on evidence that meeting the compliance date is technically or economically infeasible.
+
+[page 76] ATTACHMENT E: NOTICE OF TERMINATION – ORDER WQ 2020-0012-DWQ E-7
+E
+ATTACHMENT E – NOTICE OF TERMINATION
+Dischargers with Notice of Intent (NOI) request termination of coverage under the General Waste Discharge Requirements for Commercial Composting Operations (General Order) when either; (a) the operation of the facility has been transferred to another entity, (b) the facility has ceased operations and completed closure activities, (c) the facility’s operations have changed and are now subject to different requirements of the General Order, or (d) the facility’s operations have changed and are no longer subject to the General Order. Until a valid Notice of Termination is processed by the Regional Water Quality Control Board, the Discharger remains responsible for compliance with the General Order and payment of accrued annual fees. A Notice of Termination can only be certified by the duly authorized representative for the facility.
+DISCHARGER INFORMATION
+Owner Name: ____________________
+Street Address:
+_______________________________
+City/Locale: _____________________
+County: ________________________
+State/Zip: _______________________
+Telephone Number: _______________
+
+[page 76] Telephone Number: _______________
+Facsimile Number: ________________
+Email Address:
+_______________________________
+Owner Type (select one): __________
+1. Individual
+2. Corporation
+3. Partnership
+4. Other (please specify):
+Operator Information (if different)
+Operator Name: __________________
+Mailing Address:
+_______________________________
+City/Locale: _____________________
+County: ________________________
+State/Zip: _______________________
+Telephone Number: _______________
+Facsimile Number: ________________
+Email Address:
+_______________________________
+COMPOSTING OPERATION
+INFORMATION
+Compost Facility Name:
+_______________________________
+Street Address:
+_______________________________
+City/Locale: _____________________
+County: ________________________
+Zip: ____________________________
+Telephone Number: _______________
+REASON FOR TERMINATION
+Please select one below: ___________
+A. The facility has ceased operations
+and completed closure activities;
+B. Operations are subject to different
+requirements of the General Order;
+C. Facility operations have been
+transferred to another entity; or
+D. The operations are no longer
+subject to the General Order.
+
+[page 77] ATTACHMENT E: NOTICE OF TERMINATION – ORDER WQ 2020-0012-DWQ E-2
+CERTIFICATION
+“I certify under penalty of law that I have personally examined and am familiar with the information submitted in this document and all attachments and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment.”
+Signature (Owner or Authorized Representative):
+______________________________________________
+Date: _________________________________________
+Printed name: __________________________________
+Title: _________________________________________
+Telephone Number: _____________________________
+Email Address: _________________________________

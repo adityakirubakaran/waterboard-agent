@@ -1,0 +1,793 @@
+CWSRF Financial Assistance Application Instructions (Construction/Implementation)
+https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/forms/financial_assist_application_instructions.pdf
+Date printed: none found
+
+[page 1] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 1 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Application Information and Instructions
+Administered by the State Water Resources
+Control Board (State Water Board), Division
+of Financial Assistance (Division), the Financial
+Assistance Application is designed to help
+determine your eligibility for funding through the following programs:
+Clean Water State Revolving Fund (CWSRF)
+Water Recycling Funding Program (WRFP)
+To streamline the review process, the
+application is divided into four packages:
+• General Information
+• Technical
+• Environmental
+• Financial Security
+Instructions for each package are provided
+below.
+An overview of the financing process can be
+found on the Division’s web site at
+http://www.waterboards.ca.gov/water_issues/pro
+grams/grants_loans/srf/docs/forms/application_p
+rocess.pdf
+Before proceeding with your application, please
+read the applicable policy/guidelines for your
+project:
+Clean Water State Revolving Fund Policy at
+https://www.waterboards.ca.gov/water_issues/pr
+
+[page 1] https://www.waterboards.ca.gov/water_issues/pr
+ograms/grants_loans/srf/cwsrf_policy.shtml
+Water Recycling Funding Program Guidelines at
+https://www.waterboards.ca.gov/water_issues/pr
+ograms/grants_loans/water_recycling/docs/wrfp
+_guidelines.pdf
+_
+Submitting Your Application
+You can help the review process by ensuring your application contains accurate and complete information. To avoid delays in the processing of your application, we recommend:
+ Contact the Division as early as possible to coordinate your application with your project’s schedule; contact information is provided on the next page.
+(NOTE: No action is necessary on your part to be added to the Project List; the Division will make arrangements for your project to be added to the Project List at http://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/cwsrf/cwsrf_p roject_list.pdf.)
+ Review the Potential CWSRF Flags Worksheet at
+
+[page 1]  Review the Potential CWSRF Flags Worksheet at
+http://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/forms/cwsrf_p otential_flags_worksheet.pdf. Although not required as part of your application, we recommend you review this worksheet and discuss your answers with Division staff at your earliest opportunity so we can identify issues up front that may require supplementary information or additional review time.
+ Submit complete packages whenever possible.
+(NOTE: Projects are funded based on a complete application. Partial packages may be submitted, but complete packages will be reviewed before incomplete packages, and complete applications will be reviewed and approved for financing first.)
+ Submit the Environmental Package first. Generally the review of this package takes the longest lead time. The Technical and Financial Security Packages can be submitted later to ensure that the information is as current as possible.
+
+[page 2] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 2 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+ Have your legal counsel review the FAQs at
+http://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/forms/legal_f aq.pdf regarding the legal opinion we will need from you at the time of signing of the financing agreement. The Division’s legal counsel will contact your legal counsel approximately eight to sixteen weeks prior to execution of the financing agreement to discuss the contents of the legal opinion.
+ Clearly type or print all information.
+ Sign and date the application where indicated.
+ Include all required attachments.
+The application and attachments should be submitted electronically or as a hard copy in one of the following three ways. Applicants are encouraged to utilize the Financial Assistance Application Submittal Tool (FAAST) to streamline the application submittal and review process, but if that will create a hardship, email or mail can be utilized instead:
+
+[page 2] 1) Apply online via the FAAST: https://faast.waterboards.ca.gov To submit a CWSRF Construction Application in FAAST you must complete all the tabs in FAAST and attach (at minimum) the General Information Package. (Note: Once the CWSRF Construction Application has been uploaded, you must still complete the application by clicking on the “Submit” button.) Once the CWSRF Construction Application is submitted in FAAST a project manager will be assigned to help the applicant complete the application process.
+To submit additional documents for the same project, DO NOT start a new application, instead click on the Submitted Applications link on the Main Menu and choose the project from the list of previously submitted applications. Open the Attachments tab, and then the Post-Submission sub-tab. Choose which document from the Attachment Category drop-down list and then select the file to upload. The project manager will receive an email notification letting them know you have submitted additional information for review.
+The following FAAST resources are available online:
+Frequently Asked Questions
+How-to-Videos
+User Manual
+
+[page 2] User Manual
+If you need assistance, you can also contact the FAAST Help Desk, which is staffed Monday through Friday 8am through 5pm, at 1-866-434-1083 or FAAST_ADMIN@waterboards.ca.gov.
+2) Send the application and attachments via email to cleanwatersrf@waterboards.ca.gov.
+3) Mail a CD or hard copy to:
+State Water Resources Control Board
+Division of Financial Assistance
+ATTN: Marketing Unit
+1001 I Street, 16th Floor, Sacramento, CA 95814
+P.O. Box 944212
+
+[page 3] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 3 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Sacramento, CA 94244-2120
+CONTACT INFORMATION
+If you have general questions regarding the program, contact the CWSRF at (916) 327-9978
+or
+cleanwatersrf@waterboards.ca.gov
+If you already submitted a CWSRF Financial Assistance application and would like to know the status, please check the CWSRF Application Status Report at https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/appstatusweb.pdf If you have specific questions regarding the program or your application, please refer to the CWSRF Contact List on the Division’s web site at
+http://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/cwsrf_contacts.
+pdf
+
+[page 4] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 4 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+General Information Package
+Section I - Type of Assistance Requested
+Amount of Assistance Requested – Enter the amount of assistance requested.
+Proposed Security – Enter the revenues and funds you will use to repay the CWSRF financing.
+Project Type(s) – Select the type(s) of project for which funding is requested. Check all that apply.
+• Wastewater - publicly-owned treatment works projects (Clean Water Act Section 212).
+• Water Recycling - publicly-owned treatment works projects (Clean Water Act Section 212).
+• Estuary – publicly or privately owned projects that implement a Comprehensive Conservation and Management Plan for the San Francisco Bay estuary, the Morro Bay estuary or the Santa Monica Bay estuary (Clean Water Act Section 320).
+• Nonpoint Source – publicly or privately owned nonpoint source water quality projects (Clean Water Act Section 319) implementing CA’s NPS Implementation Plan.
+Section II - Applicant Information
+
+[page 4] Section II - Applicant Information
+Applicant Name – Enter the entity that will be the legal signatory to a financing agreement.
+Street Address, City, State, Zip – Enter the applicant’s physical street address. The Zip+4 Code can be found at https://tools.usps.com/go/ZipLookupAction!input.action.
+Applicant Type – Enter one of the following entity types:
+• Public – local or state (including cities, counties, and districts with wastewater authority)
+• Native American Tribe - Federally recognized tribes • Nonprofit (nonpoint source and estuary projects only)
+• Other – please specify
+County – Enter the County where the project will be physically located.
+Charter City/County – Indicate if the applicant is a charter city/county.
+Mailing Address, City, State, Zip – Enter the applicant’s mailing address, if different from the street address.
+Congressional District(s) – Enter the Congressional district(s) where the project will be physically located. If the project will span multiple Congressional Districts (i.e., a pipeline project), list all affected districts. A map of California Congressional Districts can be found at http://house.gov/representatives/find/.
+
+[page 4] State Senate District(s) – Enter the State Senate district(s) where the project will be physically located. Refer to http://findyourrep.legislature.ca.gov/.
+State Assembly District(s) – Enter the State Assembly district(s) where the project will be physically located. Refer to http://findyourrep.legislature.ca.gov/.
+
+[page 5] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 5 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Data Universal Numbering System (DUNS) No. - If you don’t already have a DUNS number, you can get more information at http://fedgov.dnb.com/webform/index.jsp. This number is required to receive CWSRF financing.
+Federal Tax ID No. – Enter the Federal tax identification number of the applicant.
+Regional Water Board - Check the Regional Water Quality Control Board (Regional Water Board)
+jurisdiction(s) where the project will be physically located or affected by the project. A list of Regional Water Boards can be found at
+
+[page 5] jurisdiction(s) where the project will be physically located or affected by the project. A list of Regional Water Boards can be found at
+http://www.waterboards.ca.gov/publications_forms/publications/factsheets/docs/region_brds.pdf Authorized Representative Name, Title – Identify the person who has the authority to represent the applicant and sign documents pertaining to the funding application. If the applicant is a public agency or has a governing board, the application must include a copy of a resolution adopted by the governing body designating its authorized representative and authorizing the submission of an application. If the applicant does not have a governing board, then it must provide documentation supporting the authorization of the authorized representative. It is advisable to designate the title of the position authorized to sign and submit an application rather than naming a specific person. The funding application must be signed by the authorized representative.
+Auth. Rep. Phone - Enter the authorized representative’s telephone number.
+Auth. Rep. Email – Enter the authorized representative’s email address.
+
+[page 5] Auth. Rep. Email – Enter the authorized representative’s email address.
+Contact Person Name – Enter the name of the person who is the day-to-day contact for the project. This person should be able to answer general questions about the project and application.
+Contact Person Phone – Enter the contact person’s telephone number.
+Contact Person Email – Enter the contact person’s email address.
+Local Counsel Name – Enter the name of the applicant’s local counsel.
+Local Counsel Phone – Enter the local counsel’s telephone number.
+Local Counsel Email – Enter the local counsel’s email address.
+Section III - Project Information and Proposed Schedules Project Description – Provide a brief description of the project.
+Project Title – Enter the title or name of the project.
+Project Location – Enter the physical location for the project.
+NPDES Permit or WDR Order No. – Enter the National Pollutant Discharge Elimination System Permit number or the Waste Discharge Requirement number, if applicable.
+Current Year Estimated Population Served – Enter the estimated population of the proposed project service area.
+
+[page 6] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 6 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Estimated Project Schedule – Provide an estimated or actual date for the following:
+• Complete Facilities Planning Documents
+• Complete Project Plans and Specifications
+• Advertise Bids
+• Issue Notice to Proceed
+• Complete Construction
+Consultation with Other Agencies – Provide the following:
+• Name of other Federal and State agencies involved in this project (e.g. planning, CEQA/NEPA consultation, funding, etc.)
+• Contact information for the named agencies
+• Estimated dates for resolution of any issues
+Partnering Agencies – Provide the name and contact information of all other agencies that have an interest in the project.
+Potential Flags Worksheet – To avoid potential delays later in the application process, it is recommended that the applicant complete and submit this worksheet with the General Information Package to alert the Division staff of any issues that may potentially affect the application review.
+
+[page 6] Section IV – Estimated Project Capital Costs and Funding Summary Provide the dollar amount requested for each cost classification listed in this section.
+NOTE: Soft costs may be provided for planning, design, value engineering, construction management, and administration costs.
+Section V – Technical Sponsorship
+If the Division set up a technical sponsorship program, indicate if you would be interested in providing in-kind technical assistance to another CWSRF applicant in exchange for special financing over and above the cost of your in-kind contribution. NOTE: Checking “Yes” does not obligate you to participate in this potential program or guarantee that this incentive will be available or offered.
+If you answer “Yes”, please indicate the area(s) where you are willing to provide assistance.
+Section VI - Sustainability
+Priority points are given during the application review and funding process for projects that support or incorporate any of the listed sustainability goals. Check () all the sustainability goal(s) that apply to your project. One priority point is given for each identified area.
+
+[page 6] The Division will review projects on the Project List with complete applications, except as directed by the State Water Board, based on the project class (“A” being the highest class and “E” being the lowest class) and the number of sustainability points. Projects within each project class will be ranked according to their sustainability points. If the State Water Board lacks sufficient funds to fund all projects with complete applications, then the Division will first fund projects based on project
+
+[page 7] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 7 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+class, giving priority within the class to the small disadvantaged community with the lowest median household income, and then to the project that most effectively addresses sustainability and global climate change.
+Certification and Signature of Authorized Representative The authorized representative is the person who has the authority to sign and submit the application materials, certify compliance with applicable state and federal laws, execute the financial assistance agreement and amendments, and certify disbursement requests.
+ Print the name and title of the authorized representative.
+ Sign and date the application.
+
+[page 8] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 8 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Technical Package
+Applicant (Entity) Name – Enter the entity that will be the legal signatory to a financing agreement.
+Project Title – Enter the title of the project.
+Contact Person and Phone – Enter the name and phone number of the day-to-day contact for the project. This person should be able to answer general questions about the project and application.
+Section I – Water Rights
+1. Check () the box indicating whether the Project will change the point of discharge, place of use, or purpose of use of treated wastewater and decrease the flow in any portion of a watercourse.
+If the NO box is checked, proceed to question 2.
+If the YES box is checked, a Petition for Change must be filed with the State Water Board, Division of Water Rights, if the project will decrease the flow in the affected watercourse.
+Provide a copy of the Petition for Change (label as Attachment T5a) or the date that you anticipate filing the Petition.
+
+[page 8] Provide a copy of the Petition for Change (label as Attachment T5a) or the date that you anticipate filing the Petition.
+2. Check () the box indicating whether the Project will divert flow from a stream or other surface water body to another location.
+If the NO box is checked, proceed to question 3.
+If the YES box is checked, a Petition for Change or application for a Water Right or License must be filed with the State Water Board, Division of Water Rights. Provide copies of the Petition for Change, application for a Water Right or License or copy of the Change of Use approval, or Water Right Permit or License, as appropriate (label as Attachment T5b), or the date that you anticipate filing the Petition for Change or application for a Water Right or License.
+If you have questions regarding whether a petition or application is required you may contact your CWSRF Project Manager or Patricia Fernandez with the Division of Water Rights at (916) 319-9141 or Patricia.Fernandez@waterboards.ca.gov.
+
+[page 8] 3. Check () the box indicating if your entity is a water diverter and subject to section 5103 of the Water Code. Subdivision (e) (1) states that on or after January 1, 2012, monthly records of water diversion must be reported to the State Water Board’s Division of Water Rights.
+
+[page 9] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 9 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Section II – Water Conservation and Urban Water Management Requirements
+Prior to the State Water Board’s approval of the project, specific water conservation and urban water management requirements must be achieved.
+Check () the box(es) that apply to your project.
+Water Conservation
+Non-Point and Estuary projects are not required to meet the water conservation requirements.
+Water Suppliers (an urban water supplier to more than 3,000 customers or supplying more than 3,000 acre-feet annually) must fulfill one of the following:
+ Approved Water Conservation Program on file with the State Water Board  Developed Water Conservation Program for approval by the State Water Board (submit copy labeled as Attachment T6)
+ Signed the “Memorandum of Understanding Regarding Urban Water Conservation in California” (submit proof labeled as Attachment T7)
+
+[page 9]  Signed the “Memorandum of Understanding Regarding Urban Water Conservation in California” (submit proof labeled as Attachment T7)
+ Submitted an Urban Water Management Plan (UWMP) to the Department of Water Resources (DWR) per Water Code Section 10653 (submit proof labeled as Attachment T8)
+Non Water Suppliers must fulfill one of the following:
+ Certify that seventy-five (75) percent of the water connections in the water supplier’s service area are covered by an adopted, Division-approved Water Conservation Program (label as Attachment T10)
+ Demonstrate that the water supplier(s) have signed the “Memorandum of Understanding Regarding Urban Water Conservation in California”, covering at least seventy-five (75) percent of the water connections within the applicant’s sewer service area (label as Attachment T7)
+ Demonstrate that the water supplier has submitted an Urban Water Management Plan to the Department of Water Resources per water Code Section 10653 (label as Attachment T8)
+
+[page 9]  Demonstrate that the water supplier has submitted an Urban Water Management Plan to the Department of Water Resources per water Code Section 10653 (label as Attachment T8)
+Waiver: An Applicant may request a waiver of the Water Conservation requirement if the water supplier(s) for the community serve 3,000 or fewer customers and the costs to comply with the requirements are found by the Division to be burdensome to the supplier in light of the benefits derived from the water Conservation Program. Submit waiver request labeled as Attachment T9.
+
+[page 10] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 10 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+A flow chart outlining the different tracks for satisfying the Water Conservation requirement is found in the CWSRF Policy at
+http://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/forms/water_conserv ation_flowchart.pdf.
+Urban Water Management
+1. Check () the box indicating if you are an urban water supplier as defined in Water Code Section 10617 or an agricultural water supplier as defined in Water Code Section 10608.12(a).
+
+[page 10] 1. Check () the box indicating if you are an urban water supplier as defined in Water Code Section 10617 or an agricultural water supplier as defined in Water Code Section 10608.12(a).
+If you are an urban water supplier or an agricultural water supplier, provide any documentation you have from the CA Department of Water Resources confirming compliance with (a) the urban water use reduction targets described in Water Code Section 10608.24, (b) the efficient agricultural water management practices described in Water Code Section 10608.48, and/or (c) the Urban Water Management Planning Act (Water Code Section 10610) or the Agricultural Water Management Planning Act (Water Code Section 10800), as applicable to your agency (label as Attachment T11).
+2. Provide a self-certification that you are in compliance with the water meter requirements of Water Code Section 529.5 (Attachment T2b).
+Section III – Delta Plan
+1. Check () the box indicating if the project is a “covered action” under section 85225 of the Water Code. More information about what constitutes a “covered action” is available online at http://deltacouncil.ca.gov/covered-actions.
+
+[page 10] 2. If the project is a “covered action” there is a self-certification process for demonstrating consistency with the Delta Plan, which must be submitted by the lead agency to the Delta Stewardship Council. More information about this process is available online at http://deltacouncil.ca.gov/covered-actions. Check () the box indicating if you have submitted the consistency certification required under section 85225 of the Water Code. If the project is not a “covered action”, check () “N/A”.
+3. Check () the box indicating if any person has appealed the consistency certification per section 85225.10 of the Water Code. More information about this appeal process is available at http://deltacouncil.ca.gov/covered-actions. If the project is not a “covered action”, check ()
+“N/A”.
+Section IV – Architectural and Engineering (A/E) Procurement Check () the box indicating if you follow a qualifications-based procurement process for A/E procurement (for services such as program management, construction management, feasibility studies, engineering, surveying, or mapping).
+If yes, check () the box indicating if your A/E procurement process complies with one of the following codes:
+
+[page 10] If yes, check () the box indicating if your A/E procurement process complies with one of the following codes:
+• 40 United States Code Section 1101 et seq.
+• California Government Code Section 4525 et seq. (as it relates to state agencies)
+
+[page 11] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 11 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Section V – Green Project Reserve (GPR)
+
+[page 11] Section V – Green Project Reserve (GPR)
+1. Check () the box indicating if this project or a portion of this project is eligible for CWSRF GPR. Municipalities applying for GPR-eligible projects or project components may be eligible for principal forgiveness. United States Environmental Protection Agency (U.S. EPA) Guidance regarding GPR eligibility is available online at: https://www.epa.gov/sites/production/files/2015-04/documents/green_project_reserve_eligibility_guidance.pdf 2. Indicate the percentage of total project cost within each GPR category. Only the components of the project that clearly advance one or more of the objectives articulated in the four GPR categories should be counted as GPR eligible. If the Project qualifies for more than one GPR category, please indicate the percentage in each category, and then the total percentage of the project that qualifies for GPR. The above U.S. EPA guidance lists categorically eligible project types under each of the 4 categories. If your project is not categorically eligible, you may consider preparing a business case to document GPR eligibility. The decision criteria and required content for business cases are provided in the U.S. EPA guidance above.
+
+[page 11] Section VI – Attachments
+ T1 – Project Report: Submit a Project Report containing all of the items in the Suggested Project Report outline attached to the Technical Package application form applicable to the proposed project. The Project Report must be signed and stamped by a registered Professional Engineer. Please contact your assigned project manager, if known, or the CWSRF general telephone number at (916) 327-9978 with specific questions about the contents of the Project Report.
+ T2a – General Plan Compliance Certification: The CWSRF Policy requires all funded projects to be consistent with the applicant’s adopted General Plan or to serve an area in which at least 75% of the cities and counties have adopted land use and housing elements.
+Applicants must complete the General Plan Compliance Certification confirming these conditions.
+
+[page 11] Applicants must complete the General Plan Compliance Certification confirming these conditions.
+ T2b – Certification for Compliance with Water Metering Form: Water Code sections 525 through 529.7 prohibit water purveyors, both agricultural and urban, from receiving State funds if metering requirements are not met. If you are an urban water supplier (i.e., supply to more than 3,000 customers or supplying more than 3,000 acre-feet annually), you must comply with this requirement. Please consult with your legal counsel and review sections 525 through 529.7 of the Water Code before completing this certification.
+ T2c – Certification for Fiscal Sustainability Plan: Section 603(d)(1)(E) of the Clean Water Act requires CWSRF financing recipients for treatment works projects to develop and implement a Fiscal Sustainability Plan (FSP). Applicants must complete the Certification for Fiscal Sustainability Plan to either certify that an FSP has been developed and implemented, or to certify a date by which an FSP will be developed and implemented.
+
+[page 11]  T2d – Certification for Cost and Effectiveness and Water and Energy Conservation and Efficiency: Section 602(b)(13) of the Clean Water Act requires municipalities, intermunicipals, interstate and State agencies who are recipients of CWSRF funds to certify
+
+[page 12] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 12 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+that they have performed a cost and effectiveness analysis and has selected the proposed project or activity for its potential to maximize the efficient use, reuse, recapture of water and to maximize conservation of water and energy.
+ T3 – Climate Change Worksheet: The purpose of the Climate Change Worksheet is to motivate the applying agency to identify how the proposed facility is vulnerable to the effects of climate change and the impacts the facility may have on the climate. Investigation into adaption and mitigation measures that lead to responsible resolutions made by the agency will ultimately improve the investments made by the state. Priority points will be awarded to applicants that thoroughly and thoughtfully complete this worksheet.
+
+[page 12] Worksheet – The worksheet is broken into three sections: Vulnerability, Adaptation, and Mitigation Each section has check boxes. Check all boxes applicable to the facility regarding climate change vulnerability, and all boxes considered by the applicant regarding adaptation and mitigation. Each section is equipped with an “Other” box followed by an area to define the unnamed option. This option is available to encourage creative ideas and in the event an agency identifies options that have been overlooked.
+Attachments – Each section will be followed up by an attachment. The attachments are intended to provide a detailed description of the vulnerabilities and response measures selected, risk level, critical conditions, intended responses, and explanations why certain vulnerabilities and response measures are not considered essential enough for response measures to be implemented. The attachments may include detailed plans to incorporate the measures mentioned such as alternative options, scope of work, budget, construction estimates and schedule.
+
+[page 12] Definitions – Climate change vulnerability, mitigation, and adaptation are terms that many individuals find ambiguous or don’t understand what the differences between them may be.
+Climate Change Vulnerability: This term is used to identify effects of climate change that the facility may be susceptible to. Some effects overlap. For example, a treatment facility built on the coast may be severely vulnerable to sea level rise. It would be a poor investment for the state to invest in a treatment facility with an expected useful life of 50 years when the facility is projected to be under water in 20 years due to sea level rise. Coincidentally, as sea level rises, the neighboring groundwater aquifers may be vulnerable to saltwater intrusion and water quality issues. The two effects are related, and both should be discussed in the attachment.
+
+[page 12] Adaptation: This term is used to identify measures taken as a direct response to climate change effects. Multiple measures can be taken in response to a single vulnerability. For example, in response to sea level rise an agency may investigate constructing sea walls or levees in order to prevent flooding. Flood contingencies should also be explored to protect the facility if the levees fail or in the event of severe storm surges.
+Mitigation: This term is used to identify measures taken to slow or stop changes to the environment caused by greenhouse gas emissions in the atmosphere. Measures identified in adaptation may also be used for mitigation. For example, water conservation may be an adaptation response to drought vulnerability and also a mitigation measure by reducing the energy consumed to move excessive volumes of water. Green roofing as
+
+[page 13] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 13 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+an adaptation measure will help to reduce the heat island effect of an urban community, and as a mitigation measure will reduce the energy consumed to heat and cool the building.
+ T4 – Regional Water Quality Control Board Requirements: Submit any permit requirements and/or enforcement orders that have been issued by the Regional Water Board relative to the proposed project. If the proposed project is not subject to permit requirements and/or enforcement orders, please indicate this in the comment box.
+ T5 – Water Rights Determination Letter: Provide a letter or an email from the Division of Water Rights stating whether a petition is or is not required.
+
+[page 13]  T5 – Water Rights Determination Letter: Provide a letter or an email from the Division of Water Rights stating whether a petition is or is not required.
+ T6 – Water Conservation Program: If an approved Water Conservation Program is not on file with the State Water Board, provide a developed Water Conservation Program for State Water Board approval. In lieu of a Water Conservation Program, either Memorandum of Understanding (Attachment T7) or Urban Water Management Plan (Attachment T8) may be submitted.
+ T7 – Memorandum of Understanding: In lieu of a Water Conservation Program (T6) or proof of an Urban Water Management Plan (T8), may provide proof that the applicant is a signatory to the “Memorandum of Understanding Regarding Urban Water Conservation in California,” September 1991, California Urban Water Conservation Council.
+ T8 – Urban Water Management Plan: In lieu of a Water Conservation Program (T6) or Memorandum of Understanding (T7), may provide proof that an Urban Water Management Plan per Water Code Section 10653 has been submitted to the Department of Water Resources.
+
+[page 13]  T9 – Waiver Request Letter: An applicant supplying water to 3,000 or less customers may request a waiver of the Water Conservation requirement. The request should explain why the costs to prepare a document to satisfy the CWSRF Policy requirements are burdensome to the supplier in light of the benefits derived from the Water Conservation Program.
+ T10 – Certification for Non-Water Suppliers: An applicant who is not a water purveyor must submit written certification that seventy-five (75) percent of the water connections in its service area are covered by either Division-approved Water Conservation Program (T6), Memorandum of Understanding (T7), or Urban Water Management Plan (T8).
+ T11 – Compliance with Water Demand Management Measures – An urban water supplier with a water management project must implement Water Demand Management Measures as described in Water Code section 10631.5. The DWR will determine if these water conservation measures have been implemented. Provide a letter from DWR confirming compliance with this requirement.
+Attachments T12 and T13 are applicable to Water Recycling Funding Program projects ONLY:
+
+[page 13] Attachments T12 and T13 are applicable to Water Recycling Funding Program projects ONLY:
+ T12 – Recycled Water User Assurance: Recycled Water User Assurances document the commitment of users’ participation on the Project. For existing users, provide either an adopted mandatory use ordinance or letters of intent to execute a user contract.
+
+[page 14] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 14 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+ T13 – User Connection Schedule: Provide the anticipated connection schedule and estimated recycled water deliveries for all users of the project.
+
+[page 15] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 15 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Environmental Package
+This Environmental Package has been prepared to serve both the Clean Water and Drinking Water (CW & DW) State Revolving Fund (SRF) Programs, within the Division of Financial Assistance, State Water Resources Control Board (State Water Board). A complete Environmental Package is required for all projects seeking funds from SRF Programs. Detailed information, including statutes and guidelines on the California Environmental Quality Act (CEQA), can be obtained at http://www.opr.ca.gov/ceqa/.
+NOTE: The CEQA and federal cross-cutter document(s) must be completed prior to receiving a financing agreement for a project. All environmental documents, including addendums, supplemental and subsequent CEQA documents, must be circulated through the Governor’s Office of Planning and Research (OPR), State Clearinghouse (SCH), and be less than five (5) years old at the time a financing agreement is executed for a project.
+
+[page 15] More information about the SRF Programs’ environmental review process can be found in the State Environmental Review Process (SERP). The SERP addresses how the State Water Board utilizes CEQA to meet the SRF Programs’ environmental requirements. To view the DW or CW SERP, respectively, please visit:
+https://www.waterboards.ca.gov/drinking_water/services/funding/documents/srf/serp.pdf, or http://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/policy0513/appendix _i_envguide.pdf. For more information on the State Water Board’s implementation of federal cross-cutter authorities in the SRF Programs, please visit:
+https://www.epa.gov/sites/production/files/2015--08/documents/crosscutterhandbook.pdf. For more information on program policy and guidance, please visit:
+https://www.epa.gov/drinkingwatersrf/program-policy-and-guidance-drinking-water-state-revolving-fund-program.
+I. General Information
+Applicant (Entity) Name: Enter the entity that will be the legal signatory to a financing agreement.
+Project Title: Enter the title of the project. The project title must be consistent with the technical package and the CEQA document for the project.
+
+[page 15] Project Title: Enter the title of the project. The project title must be consistent with the technical package and the CEQA document for the project.
+Contact Person and Phone/Email: Provide the contact information for the person/entity responsible for coordinating with the State Water Board on the environmental review.
+Project Description: Provide a brief description of the activities that are expected to occur during the project construction and operation. The project description must be consistent with both the CEQA document and the Project Technical Report/Engineering Report.
+II. California Environmental Quality Act (CEQA) Status CEQA Lead Agency: Provide the name of the lead agency preparing the environmental document(s) pursuant to CEQA Guidelines.
+NOTE: If the applicant is not the lead agency, but is a public agency acting as a responsible agency, they must adopt/certify the CEQA document, approve the project, and then file a Notice of Determination with the County Clerk and the OPR, SCH.
+
+[page 16] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 16 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+If the applicant is not a public agency (e.g., non-profit, private water system, etc.) and not subject to CEQA, please contact the State Water Board for assistance in determining the lead agency for the proposed project.
+Public Hearing/Meeting Date(s) for CEQA Document Adoption/Certifcation: All projects, except those with little to no environmental impacts (Statutorily and/or Categorically exempt), must hold a public hearing or meeting to adopt/certify the CEQA document(s) and approve the project.
+Please provide the date(s) of when such meeting(s) were held to adopt/certify CEQA document(s)
+and approve the project. Please note, all CEQA documents must be circulated through the OPR, SCH, and be less than five (5) years old at the time a financing agreement is executed for a project.
+
+[page 16] and approve the project. Please note, all CEQA documents must be circulated through the OPR, SCH, and be less than five (5) years old at the time a financing agreement is executed for a project.
+List and describe all related environmental permits, approvals, and certifications required for the project: Indicate which permits, approvals, and/or certifications are required for the project, including those issued by the county, state, and federal agencies. Examples include the California Department of Fish and Wildlife (CDFW) Lake or Streambed Alteration (LSA) Agreement, Clean Water Act (CWA) Sections 404 Permit and 401 Certification, Coastal Development permit, etc.
+
+[page 16] NOTE: Any project, regardless of funding, must obtain approval for any temporary or permanent disturbance to federal and state waters. The CWA Sections 404 and 401 require consultation with the United States Army Corps of Engineers (USACE) and the Regional Water Quality Control Board(s) (RWQCB), if a project may result in the discharge of dredged or fill material into waters of the United States, including wetlands. The CWA Section 404 Permit process through the USACE can be lengthy, and, as with the CWA Section 401 Certification process, may ultimately require project alterations to avoid an adverse impact on waters of the United States. The applicant must consult with the USACE and the RWQCB(s) early on in the planning process if any portion of the project site contains or may impact waters of the United States, so that practical project alternatives and/or impact avoidance can be discussed. For more information on the CWA Sections 404 Permit and Section 401 Certification processes, please visit https://www.epa.gov/cwa-404/section-404-permit-program and https://www.epa.gov/sites/production/files/2016-11/documents/cwa_401_handbook_2010.pdf.
+
+[page 16] CEQA Document Status: Place a check () in all boxes that describe the environmental documents and submit the required attachments, identified in Section V, as applicable to the project.
+State Clearinghouse Number: Enter the number assigned to the project at the time of filing at the OPR, SCH.
+Project and Environmental Settings: Evaluate the project in regard to the questions listed under the Environmental Setting, and check the applicable boxes. If you answer “Yes” to any of the questions, explain the potential significant environmental impacts, both direct and indirect. When considering potential environmental impacts, you must include all of the project’s elements:
+facilities, conveyance lines, storage, points of diversions, staging areas, and other elements of service area - as applicable. Use attachment(s) if necessary.
+III. CEQA Exemption Information
+Complete this Section only if the project is exempt from CEQA.
+
+[page 17] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 17 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Categorical Exemptions — Check the applicable class(es) and provide a brief description of how the project is consistent with the exemption class(es) and whether or not any exception(s) to the exemption(s) apply.
+Statutory Exemptions — Check the applicable section(s) and explain how the project is consistent with the exemption(s).
+Division of Financial Assistance Environmental Review staff will review the exemption information provided to determine if the State Water Board concurs with the applicant’s determination, and what type of federal cross-cutter documentation may be necessary.
+
+[page 17] Completion of the Environmental Package, including the Evaluation Form for Federal Environmental Coordination section below, is required for all SRF funded projects regardless of whether the project is CEQA exempt. The applicant should contact Environmental Review staff before completing any additional federal cross-cutter documents. Contact the Division of Financial Assistance Project Manager to obtain the contact information for Environmental Review staff.
+IV. Evaluation Form for Federal Environmental Coordination This section is required for all projects requesting SRF funding. The applicant should discuss in detail the steps taken to meet the federal cross-cutting environmental regulations identified below, and provide the appropriate supporting information. Supporting information must be uploaded to FAAST labeled E2 “Document Type” (e.g., E2-Air Quality Estimates, E2-Biological Assessment, etc.) Please contact the Environmental Review staff (refer to contact list at http://www.waterboards.ca.gov/water_issues/programs/grants_loans/environmental_requirements.
+shtml for the CW SRF Program or
+
+[page 17] shtml for the CW SRF Program or
+http://www.waterboards.ca.gov/drinking_water/services/funding/environmental_requirements.shtml for the DW SRF Program) if you have any questions.
+Potential Co-Funding Sources
+Indicate if the project is also pursuing funding from another federal agency(ies). If more than one (1) federal agency is involved in a project, the agencies will need to coordinate to determine who will be the federal lead agency when conducting consultations (i.e. Section 7 of the Endangered Species Act and Section 106 of the National Historic Preservation Act).
+Provide the State Water Board Environmental Review staff with contact information of the environmental coordinator/reviewer of the other federal agency(ies), to coordinate and identify the federal lead agency for the project.
+
+[page 17] United States Forest Service, Bureau of Land Management, and Other Federal Land Required Documentation: Explain if any portion of the proposed project is located on United States Forest Service (USFS), Bureau of Land Management (BLM), or any other federally managed land. If applicable, attach a colored map identifying the project location with respect to the USFS, BLM, or other federal land and provide further explanation, or indicate where this information may be found (e.g., CEQA document, biological report/assessment, etc.). To aid the State Water Board in federal coordination, please provide the name and contact information for the USFS Office, BLM District, or other federal regional unit with whom the water system has been in contact.
+
+[page 18] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 18 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Regulatory Information: If any portion of the proposed project is located on USFS, BLM land, or other federally managed land, a USFS Special-Use Authorization, BLM Land Use Permit, or other form of federal land use authorization, respectively, may be required. These documents (e.g., permits, leases, easements) authorize specific uses and activities upon USFS, BLM, or other federally managed land (e.g., construction upon USFS or BLM land). For more information on the USFS Special-Use Authorization and how to obtain one, please visit:
+https://www.fs.fed.us/specialuses/special_about.shtml. For more information on the BLM Land Use Application and Permit and how to obtain one, please visit:
+https://www.blm.gov/services/electronic-forms.
+Environmental Alternative Analysis
+
+[page 18] Environmental Alternative Analysis
+Required Documentation: Briefly explain the direct and indirect environmental impacts associated with each project alternative considered and the environmental reasoning behind why the project alternative was selected. Also, indicate where more information can be found (e.g., Project Technical Report/Engineering Report or in a separate environmental alternative analysis document). The environmental alternative analysis must include the following elements:
+• Range of feasible project alternatives that each meet the applicant’s project needs and objectives, as well as a “no project/no action” alternative;
+• Comparative environmental analysis among the project alternatives that includes discussions of beneficial and adverse environmental impacts on the existing environment, future environment, and individual sensitive environmental issues identified through project management or public participation;
+• Analysis of direct, indirect, and cumulative impacts on sensitive environmental resources, if applicable, for each project alternative considered;
+
+[page 18] • Analysis of direct, indirect, and cumulative impacts on sensitive environmental resources, if applicable, for each project alternative considered;
+• Potential reasonably foreseeable future environmental impacts, if applicable, for each project alternative considered;
+• Appropriate mitigation measures not already included in the proposed action or alternatives, if appropriate, to mitigate adverse environmental impacts; and • Thorough discussions of the environmental reasoning for selection of the chosen alternative for the project.
+Regulatory Information: SRF Programs’ federal regulations and the SERP require an environmental alternative analysis for projects covered under a Negative Declaration, Mitigated Negative Declaration, or an Environmental Impact Report.
+Archaeological and Historic Preservation Act (AHPA)
+
+[page 18] Archaeological and Historic Preservation Act (AHPA)
+Required Documentation: Explain if the project will cause irreparable loss or damage to archaeological or historic resources or data through alteration of the terrain as a result of reservoir or dam construction (i.e., flooding, building of access roads, or construction of a reservoir). Please explain, or indicate where this information can be found (e.g., Historic Properties Identification Report (HPIR), CEQA document, etc.). Provide supplemental information as needed. The HPIR (see the National Historic Preservation Act below) will suffice as documentation for this requirement.
+Regulatory Information: The AHPA was established in 1960 for the preservation of significant scientific, prehistoric, historic and archaeological materials and data that might be lost or destroyed as a result of flooding, the construction of access roads, relocation of railroads and
+
+[page 19] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 19 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+highways, or any other federally funded activity that is associated with the construction of a dam or reservoir. Under this law, historical and archaeological resources do not have to be eligible, or considered eligible, in the National Register of Historic Places for an impact to occur. If a project will have an adverse effect to significant historical or archaeological resources or data, the State Water Board will coordinate with the United States Environmental Protection Agency (USEPA) to initiate consultation with the relevant federal agencies.
+Clean Air Act
+Required Documentation: Identify the air basin and local air district for the project area. Provide the estimated project construction and operational air emissions (in tons per year) in the table, and attach supporting calculations, regardless of attainment status [emissions can be estimated by using the California Emissions Estimator Model (CalEEMod):
+
+[page 19] http://caleemod.com/]. Local air quality thresholds of significance can be determined by contacting the Local Air District, or by visiting the Local Air District’s website. Submit additional supporting documents utilized to compile the data, and any air quality studies/models that have been completed for the project. Indicate where more information can be found (e.g., CEQA document, etc.).
+
+[page 19] Regulatory Information: For SRF Programs’ financed projects, we recommend the applicant include a General Conformity determination section in the CEQA document(s), so that another public review process would not be needed, should a General Conformity determination be required. The applicant should check with the local air quality management district and review the California Air Resources Board’s air emissions map for information on the State Implementation Plan (https://www.arb.ca.gov/planning/sip/sip.htm). The applicant should refer to the USEPA’s Green Book for information on attainment status (https://www.epa.gov/green-book) and to the USEPA’s General Conformity Training for information on the federal de minimis levels (https://www.epa.gov/general-conformity/de-minimis-emission-levels). For information on how to proceed evaluating General Conformity requirements, please contact the Environmental Review staff through the assigned Project Manager.
+Coastal Barriers Resources Act
+
+[page 19] Coastal Barriers Resources Act
+Required Documentation: Explain if the project will impact, or be located within or near, the Coastal Barrier Resources System or its adjacent wetlands, marshes, estuaries, inlets, and near-shore waters. If applicable, describe the project location with respect to the Coastal Barrier Resources System, or indicate where this information can be found (e.g., biological report/assessment, CEQA document, etc.). Provide the status of any consultations conducted with the appropriate Coastal Zone management agency and the United States Department of Interior, Fish and Wildlife Service (USFWS). During the planning process, the applicant should consult with the appropriate Coastal Zone management agency (e.g., City or County with an approved Local Coastal Program, the California Coastal Commission, or the San Francisco Bay Conservation and Development Commission) to determine if the project will have an impact on the Coastal Barrier Resources System.
+
+[page 19] Regulatory Information: The Coastal Barriers Resources Act is intended to discourage development in the Coastal Barrier Resources System and adjacent wetlands, marshes, estuaries, inlets, and near-shore waters. Since there is no designated Coastal Barrier Resources System in California, no impacts from California projects are expected. However, should the applicant believe there may be impacts to the Coastal Barrier Resources System due to special circumstances, please use the above information as a guide.
+
+[page 20] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 20 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+If the project will have an impact on the Coastal Barrier Resources System, the State Water Board must consult with the appropriate Coastal Zone management agency and the USFWS.
+Any recommendations from the Coastal Zone management agency and the USFWS will be incorporated into the project’s design prior to approval of SRF financing. For more information on Coastal Barrier Resources System in the project area, please visit:
+http://www.fws.gov/CBRA/.
+Coastal Zone Management Act
+Required Documentation: Explain if any portion of the project is located within the coastal zone and describe the project location with respect to coastal areas, or indicate where this information may be found (e.g., CEQA document, biological report/assessment, etc.). If applicable, provide the status or copy of the coastal zone permit or coastal exemption.
+
+[page 20] To help determine if the project is located within a coastal zone, please contact the city or county in which the project is located, or your local California Coastal Commission office (https://www.coastal.ca.gov/enforcement/cdp_pamphlet.pdf). California’s coastal zone is defined as extending seaward to the state’s outer limit of jurisdiction, including all offshore islands, and extending inland generally 1,000 yards from the mean high tide line of the sea. In significant coastal estuarine, habitat, and recreational areas it extends inland to the first major ridgeline paralleling the sea or five (5) miles from the mean high tide line of the sea, whichever is less, and in developed urban areas the zone generally extends inland less than 1,000 yards.
+The coastal zone for the San Francisco Bay Conservation and Development Commission (BCDC) includes the open water, marshes, and mudflats of the greater San Francisco Bay, and areas 100 feet inland from the line of highest tidal action. The BCDC boundary also includes:
+the Suisun marsh and buffer zone: managed wetlands diked off from the Bay; and open waters diked off from the Bay and used in salt production.
+
+[page 20] the Suisun marsh and buffer zone: managed wetlands diked off from the Bay; and open waters diked off from the Bay and used in salt production.
+Regulatory Information: Projects involving construction activities in the coastal zone will require consultation with either the California Coastal Commission (or the designated local agency with a Local Coastal Program), or the San Francisco BCDC (for projects located in the San Francisco Bay area).
+For more information on Coastal Zone Management Act requirements, please refer to the following websites:
+• United States Coastal Zone Boundaries through the United States Department of Commerce, National Oceanic and Atmospheric Administration (NOAA), and National Marine Fisheries Service (NMFS) website at
+https://coast.noaa.gov/czm/media/StateCZBoundaries.pdf;
+• California Coastal Commission website at http://www.coastal.ca.gov/ccatc.html; and/or • San Francisco Bay Conservation and Development Commission website at http://www.bcdc.ca.gov/.
+Endangered Species Act (ESA)
+
+[page 20] Endangered Species Act (ESA)
+Required Documentation: Explain if the project construction and operational activities may directly or indirectly affect any federally listed threatened or endangered species that are known or have a potential to occur on the project site, in the surrounding area, or in the service area. Please also indicate where more information can be found (e.g., biological report/assessment, CEQA document, etc.).
+
+[page 21] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 21 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+
+[page 21] P.O. Box 944212, Sacramento, CA 94244-2120
+The applicant must provide a biological assessment/report, prepared by a qualified biologist, that addresses possible direct, indirect, and cumulative impacts of the project to federally listed species under the ESA. Biological assessments/reports must include a clear description of the project, construction information, an up-to-date field survey, a species assessment table for all federally protected species, and an analysis of impacts to those species that have the potential to occur within or adjacent to the project site. Official species lists requested from the USFWS Information for Planning and Conservation database (https://ecos.fws.gov/ipac/) and the NMFS (http://www.westcoast.fisheries.noaa.gov/maps_data/california_species_list_tools.html) must accompany the biological assessment/report, as well as recently-generated species lists from the CDFW California Natural Diversity Database (https://www.wildlife.ca.gov/Data/CNDDB) and the California Native Plant Society Inventory of Rare and Endangered Plants of California (http://www.rareplants.cnps.org/).
+
+[page 21] Regulatory Information: The USFWS and NMFS must be consulted for any projects that may have the potential to impact a federally listed species. The State Water Board will reach out to the USFWS or NMFS for technical assistance prior to initiating consultation under Section 7 of the ESA. If consultation is required, the State Water Board will coordinate with the USEPA to initiate a Section 7, ESA consultation with the USFWS and/or NMFS. The USFWS and NMFS must provide written concurrence prior to execution of a SRF financing agreement. The USFWS and NMFS comments may include conservation measures, for which the applicant’s SRF financing agreement will be conditioned to ensure compliance.
+
+[page 21] For further information on the ESA requirements, visit http://www.fws.gov/endangered/laws-policies/index.html and http://www.nmfs.noaa.gov/pr/laws/esa/. Note that compliance with both the state and federal ESAs is required of projects having the potential to impact state and federal special-status species or critical habitat. Although overlap exists between the state and federal ESAs, there might be additional or more restrictive state requirements. For further information on the California ESA, refer to the California Department of Fish and Wildlife (CDFW) website at http://www.dfg.ca.gov/habcon/cesa/.
+For further guidance on the preparation of a biological report/assessment, please visit https://www.fws.gov/midwest/endangered/section7/ba_guide.html.
+Environmental Justice
+Required Documentation: Place a check () in the box(es) that describe the impact of the project and provide a brief explanation for your answer(s). Explain any disproportionately high and adverse human health or environmental effects of the project’s activities on minority and low-income populations, or indicate where this information can be found.
+
+[page 21] Regulatory Information: The USEPA has defined environmental justice as “the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies.”
+Fair Treatment means that no group of people should bear a disproportionate burden of environmental harms and risks, including those resulting from the negative consequences of industrial, governmental, and commercial operations or programs and policies.
+Meaningful Involvement means that: 1) potentially affected community members have an appropriate opportunity to participate in decisions about a proposed activity that will affect their
+
+[page 22] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 22 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+environment and/or health; 2) the public’s contribution can influence the agency’s decision; 3)
+the concerns of all participants involved will be considered in the decision-making process; and 4) the decision-makers seek out and facilitate the involvement of those potentially affected.
+Environmental justice concern indicates the actual or potential lack of fair treatment or meaningful involvement of minority, low-income, or indigenous populations, or tribes in the development, implementation, and enforcement of environmental laws, regulations, and policies.
+Your project may involve an “environmental justice concern” if the project could:
+a) Create new disproportionate impacts on minority, low-income, or indigenous populations;
+b) Exacerbate existing disproportionate impacts on minority, low-income, or indigenous populations; or
+
+[page 22] b) Exacerbate existing disproportionate impacts on minority, low-income, or indigenous populations; or
+c) Present opportunities to address existing disproportionate impacts on minority, low-income, or indigenous populations that are addressable through the project.
+Farmland Protection Policy Act
+Required Documentation: Explain if any portion of the project is located on prime, unique, or important farmland, and provide information on the acreage that would be converted to other uses. Also, explain if any portion of the project boundaries is under a Williamson Act Contract, and specify the amount of acreage affected. Include this information in the Environmental Package or indicate where it can be found (e.g., farmland conversion assessment, CEQA document, etc.). If the project area is protected farmland or farmland under the Williamson Act Contract, please consult with appropriate federal, state, and local agencies and provide necessary documents to the State Water Board.
+
+[page 22] Regulatory Information: Projects involving impacts to farmland designated as prime and unique, local and statewide importance, or under a Williamson Act Contract, will require consultation with the United States Department of Agriculture, Natural Resources Conservation Service and/or California Department of Conservation. The applicant should discuss with the State Conservationist or local representative the project’s potential impacts to important farmland. The State Conservationist can provide advice on: (a) what further actions must be taken by the applicant to further evaluate important farmlands, (b) the significance of all identified important farmlands, (c) the sizing of the project as it relates to secondary growth, (d)
+the continued viability of farming and farm support services in the project area, and (e)
+alternatives or mitigation measures for reducing potential adverse effects on important farmlands.
+For more information on the Farmland Protection Policy Act go to https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_008275, and for the Williamson Act Contract go to http://www.consrv.ca.gov/dlrp/lca.
+Fish and Wildlife Coordination Act (FWCA)
+
+[page 22] Fish and Wildlife Coordination Act (FWCA)
+Required Documentation: Explain if the project involves any direct or indirect impacts from construction or operational activities to a body of water and provide the additional supporting information, as needed, or indicate where this information can be found (e.g., biological report/assessment, CEQA document, etc.).
+
+[page 23] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 23 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Regulatory Information: Projects that may impact a stream or other water body by impounding, diverting, deepening a channel, or otherwise controlling or modifying flow for any purpose (including navigation and drainage) will require consultation with the USFWS and CDFW. The Fish and Wildlife Coordination Act is not applicable to those projects in which the maximum surface area impoundment of water is less than ten (10) acres, or to activities for or in connection with programs primarily for land management and use carried out by federal agencies with respect to federal lands under their jurisdiction.
+The State Water Board staff will coordinate with the USEPA to initiate consultation with the relevant agencies if necessary.
+
+[page 23] The State Water Board staff will coordinate with the USEPA to initiate consultation with the relevant agencies if necessary.
+Floodplain Management: Executive Orders 11988, 12148, and 13690 Required Documentation: Explain if any portion of the project is located within a 100-year floodplain as depicted on a floodplain map or otherwise designated by the United States Department of Homeland Security, Federal Emergency Management Agency (FEMA).
+Describe any proposed measures that will be implemented to minimize or avoid redirection of the flood flow by the project, or indicate where this information can be found (e.g., CEQA document, floodplains/hydrological assessment, etc.). Provide information of any consultations completed with relevant agencies, alongwith the relevant FEMA floodplain map. If applicable, attach any reports (floodplains/hydrological assessment) completed for the project.
+Regulatory Information: Each agency shall take action to reduce the risk of flood loss, to minimize the impact of floods on human safety, health and welfare, and to restore and preserve the natural and beneficial values served by floodplains in carrying out its responsibilities.
+
+[page 23] Before taking an action, each agency shall determine whether the project will occur in a designated floodplain. Through Executive Order 13690, there are three (3) methods for establishing flood elevation and hazard area:
+I. Use data and methods informed by best-available, actionable climate science;
+II. Build two (2) feet above the 100-year flood elevation for standard projects and build three (3) feet above the 100-year flood elevation for critical buildings; and III. Build to the 500-year flood elevation.
+If an agency determines or proposes to conduct, support, or allow a project to be located in a floodplain, the agency shall consider alternatives to avoid adverse effects and incompatible development in the floodplains. The project design and construction should take natural systems, ecosystem processes, and nature-based approaches into consideration when planning to construct within a floodplain whenever possible.
+
+[page 23] For technical assistance regarding the Floodplain Management requirements for construction within a 100-year floodplain, please contact your local Floodplain Administrator. For assistance identifying the Floodplain Administrator for your project area, please contact your regional Department of Water Resources Floodplain Management Specialist at https://www.water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Flood-Management/Community-Resources/National-Flood-Insurance-Program/Files/20170623-NFIP-Specialist-Map.pdf.
+For further information regarding Floodplain Management requirements, please consult the FEMA website at http://www.fema.gov, as well as the USEPA Floodplain Management Executive Order 11988 at https://www.fema.gov/executive-order-11988-floodplain-
+
+[page 24] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 24 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+management and Executive Order 13690 at https://www.gpo.gov/fdsys/pkg/FR-2015-02-04/pdf/2015-02379.pdf.
+Magnuson-Stevens Fishery Conservation and Management Act Required Documentation: Explain if the project construction activities involve direct, indirect, and/or cumulative impacts to Essential Fish Habitat (EFH), or indicate where this information can be found (e.g., biological report/assessment, EFH impact assessment/evaluation, CEQA document, etc). To determine the project’s location relative to designated EFH and to obtain an unofficial or official NMFS species list, consisting of both endangered species and EFH that could potentially occur in the project area, please visit:
+
+[page 24] http://www.westcoast.fisheries.noaa.gov/maps_data/california_species_list_tools.html. If the project may adversely impact EFH, the applicant must contact the NMFS to obtain an official species list, and can do so by following the link above and the associated website instructions.
+If the applicant is unable to obtain an official NMFS species list, please contact the Division of Financial Assistance Environmental Review staff for further assistance.
+Regulatory Information: The Magnuson-Stevens Fishery Conservation and Management Act (MSFCMA), as amended, is designed to manage and conserve national fishery resources.
+EFH consultations are only required for actions that may adversely affect EFH. The NMFS is responsible for publishing maps and other information on the locations of designated EFH, and can provide information on ways to promote conservation of EFHs. If a project may adversely affect a designated EFH, consultation with the NMFS will be required.
+
+[page 24] The State Water Board staff will reach out to the NMFS for technical assistance while reviewing the project. The State Water Board will coordinate with the USEPA to initiate consultation with the NMFS under the MSFCMA. The NMFS can respond informally or in writing. The NMFS comments may include conservation measures, for which the applicant’s SRF financing agreement will be conditioned to ensure compliance. For more information, see the brochure at http://www.nmfs.noaa.gov/sfa/reg_svcs/Council%20stuff/council%20orientation/2007/2007Trai ningCD/TabT-EFH/EFH_CH_Handout_Final_3107.pdf.
+Migratory Bird Treaty Act
+Required Documentation: Explain if the project will impact federally protected migratory birds, and provide a list of all protected migratory bird species that have the potential to occur in the project area, including their migration schedules and past sightings within the project area.
+Please indicate where this information can be found [e.g., page number(s) of the biological report/assessment, CEQA document, etc.].
+
+[page 24] Please indicate where this information can be found [e.g., page number(s) of the biological report/assessment, CEQA document, etc.].
+Regulatory Information: The Migratory Bird Treaty Act (MBTA) restricts the killing, taking, collecting and selling or purchasing of native bird species or their parts, nests, or eggs. The MBTA, along with subsequent amendments to this act, provides legal protection for almost all breeding bird species occurring in the United States and must be included in the CEQA document. Each agency must make a finding that a project will comply with the MBTA in the CEQA document. For further information, please consult the Migratory Bird Program through the USFWS website at https://www.fws.gov/birds/policies-and-regulations/laws-legislations/migratory-bird-treaty-act.php.
+
+[page 25] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 25 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+National Historic Preservation Act (NHPA)
+
+[page 25] National Historic Preservation Act (NHPA)
+Required Documentation: A Historic Properties Identification Report (HPIR), written by a cultural resources professional who meets the Secretary of the Interior’s Professional Qualification Standards in Archaeology or Architectural History (www.nps.gov/history/local-law/arch_stnds_9.htm), as appropriate, needs to be sent to the State Water Board’s on-staff archaeologists. Contact the Project Manager or Environmental Review staff for the assigned archaeologist’s contact information. For detailed information on the contents of the report, visit http://ohp.parks.ca.gov/pages/1071/files/106Checklist_Details.pdf. The HPIR must include all supporting documentation, such as the results of the California Historical Resources Information System (CHRIS) records search, the results of the Sacred Lands File Search and Native American correspondence, and site records from the records search and from new resources found during the field survey. In the Environmental Package, explain the NHPA, Setion 106 finding of effect, or indicate where this information can be found (e.g., HPIR cultural report).
+
+[page 25] Regulatory Information: Section 106 of the NHPA (Section 106) requires federal agencies to take into account the effects of project activities on historic properties. The Section 106 process seeks to accommodate historic preservation concerns with the needs of federal undertakings through consultation among the agency official and other parties with an interest in the effects of the undertaking on historic properties, commencing at the early stages of project planning.
+Historic properties are any prehistoric or historic district, site, building, structure, or object included in or eligible for inclusion in the National Register of Historic Places (NRHP). The term also includes properties of religious and cultural importance to a Native American tribe that meets the National Register criteria.
+
+[page 25] The USEPA has given authority to the State Water Board to carry out the requirements of Section 106 of NHPA and its implementing regulations, found at 36 C.F.R. Part 800, in regards to the State Revolving Fund Programs. The State Water Board consults with the State Historic Preservation Officer, the Advisory Council on Historic Preservation, and consulting parties on behalf of the USEPA and the applicant.
+http://www.waterboards.ca.gov/water_issues/programs/grants_loans/cwsrf_requirements.shtmls html
+Protection of Wetlands
+Required Documentation: Explain if there is any area within the project boundaries that should be evaluated for wetland delineation and/or that requires a permit certification from the USACE, RWQCB(s), and/or CDFW. Provide a copy of the applicable permit(s) to the State Water Board, and indicate where more information can be found (e.g., CEQA document, wetland assessment/delineation report, biological report/assessment, etc.).
+
+[page 25] Regulatory Information: In accordance with Executive Order 11990, Protection of Wetlands, any proposed project that will be in or will potentially affect wetlands must be assessed so that adverse impacts to wetlands can be avoided, to the extent possible. A wetland delineation report must be prepared for any project that will be located in or will potentically impact a wetland. The USACE Wetland Delineation Manual is available at https://www.cpe.rutgers.edu/Wetlands/1987-Army-Corps-Wetlands-Delineation-Manual.pdf. In addition, the CDFW determines whether or not an activity may adversely impact fish and wildlife resources, and a Fish and Game Code Lake or Streambed Alteration (LSA) Agreement may need to be prepared. For more information on Fish and Game codes please visit https://www.wildlife.ca.gov/Conservation/LSA.
+
+[page 26] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 26 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Rivers and Harbors Act, Section 10
+Required Documentation: Explain if the project involves any regulated activities conducted below the Ordinary High Water (OHW) elevation of navigable waters of the United States that must be approved/permitted by the USACE per Section 10 of the Rivers and Harbors Act.
+Indicate where more information on the project’s construction and regulated activities can be found (e.g., Project Technical Report/Engineering Report, CEQA document, etc.). Provide a copy of the Section 10 permit to the State Water Board, if applicable.
+
+[page 26] Regulatory Information: If a project involves the construction of structures or any other regulated activities in, under, or over navigable waters of the United States, a Section 10 Permit from the USACE is required. Regulated activities include the placement/removal of structures, work involving dredging, disposal of dredged material, filling, excavation, or any other disturbance of soils/sediments or modification of a navigable waterway. Navigable waters of the United Stated are those waters of the United States that are subject to the ebb and flow of the tide shoreward to the mean high water mark and/or are presently used, or have been used in the past, or may be susceptible to use to transport interstate or foreign commerce.
+Tributaries and backwater areas associated with navigable waters of the United States, and located below the OHW elevation of the adjacent navigable waterway, are also regulated under Section 10. The applicant must consult with the USACE to obtain a Section 10 Permit, if applicable. For more information, please visit http://www.in.gov/indot/files/24_army.pdf.
+
+[page 26] Safe Drinking Water Act, Sole Source Aquifer Protection Required Documentation: Explain if the project is located in an area designated by the USEPA, Region 9, as a sole source aquifer, and identify the sole source aquifer (e.g., Fresno County Aquifer; Campo/Cottonwood Creek Aquifer; Santa Margarita Aquifer, Scott’s Valley; or Ocotillo-Coyote Wells Aquifer) that will be affected. The applicant must comply with the Safe Drinking Water Act and document whether or not the project has the potential to contaminate a Sole Source Aquifer. The applicant shall be held responsible for providing an alternate project location and/or appropriate mitigation measures if a Sole Source Aquifer were to be significantly impacted by a project. Include this information in the Environmental Package, or indicate where this information may be found (e.g., biological report/assessment, CEQA document, etc.).
+
+[page 26] Regulatory Information: For projects impacting a listed Sole Source Aquifer, the applicant must identify an alternative project location, and/or develop adequate mitigation measures in consultation with the USEPA. For more information, please visit the Sole Source Aquifer Program website at http://epa.gov/region09/water/groundwater/ssa.html.
+Wild and Scenic Rivers Act
+Required Documentation: Explain if a segment of the project is located within a wild and scenic river, or indicate where this information can be found (e.g., biological report/assessment, CEQA document, etc.). If the project is located within a wild and scenic river watershed, please provide a map identifying the watershed where the project is located.
+Regulatory Information: There are construction restrictions or prohibitions for projects near or in a designated “wild and scenic river.” A listing of designated “wild and scenic rivers” can be obtained at http://www.rivers.gov/california.php. Watershed information can be obtained
+
+[page 27] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 27 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+through the “California Watershed Portal” at
+http://www.conservation.ca.gov/dlrp/watershedportal.
+V. Environmental Package Attachments
+Submit the applicable documents via the State Water Board’s FAAST system. Please label the documents, depending on whether the document is a CEQA Document (E1) or a Federal Cross-cutter Document (E2), in the following format: E1/2 “Document Type.” For example, if you are submitting the Comments and Responses, it would be labeled E1-Comments and Responses. If you are submitting a FEMA floodplain map, it would be labeled E2-FEMA Flood Map.
+E1 – CEQA Documents
+Please submit copies of all applicable CEQA documents for the project.
+Place a check () in the applicable box(es) that describe(s) the environmental documents prepared for the project and submit the required attachments.
+
+[page 27] Place a check () in the applicable box(es) that describe(s) the environmental documents prepared for the project and submit the required attachments.
+o Notice of Exemption (NOE): Provide a date-stamped copy of the NOE filed with the County Clerk and Governor’s Office of Planning and Research (OPR), State Clearinghouse (SCH).
+o Initial Study/Negative Declaration (ND): Provide draft and final copies of the ND.
+Initial Study/Mitigated Negative Declaration (MND): Provide draft and final copies of the MND.
+o Environmental Impact Report (EIR): Provide draft and final copies of the EIR.
+o Comments and Responses: Provide all comments and responses related to the CEQA document (ND, MND, EIR, Addendum, Supplemental, and Subsequent).
+o Statement of Overriding Considerations (SOC): Provide a copy of the SOC if the project has a potential significant unavoidable environmental impact.
+o Mitigation Monitoring and Reporting Program/Plan (MMRP): Provide a copy of the adopted MMRP if the project requires a MND or an EIR.
+
+[page 27] o Mitigation Monitoring and Reporting Program/Plan (MMRP): Provide a copy of the adopted MMRP if the project requires a MND or an EIR.
+o Resolution/Minutes Approving the CEQA Document(s): All CEQA documents (including Addendum, Supplemental, and Subsequent) must be adopted/certified in a public meeting by the governing body of the applicant seeking funds from the SRF Programs. This is not required for projects covered by an exemption.
+ If the applicant is a public agency and the proposed project has been previously evaluated in an environmental document where the applicant was not the lead CEQA lead agency, the applicant must adopt/certify, in a public meeting, the relevant CEQA document(s) to receive funds from the SRF Programs.
+ If the applicant is a private agency and the proposed project has been previously evaluated in an environmental document, provide all corresponding CEQA documents.
+o Notice of Determination (NOD): Provide a date-stamped copy of the NOD filed with the County Clerk and SCH.
+
+[page 28] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 28 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+Example: If the project is covered under a Negative Declaration, mark and submit the following attachments:
+E1- CEQA DOCUMENTS NOE ND MND EIR
+NOTICE OF EXEMPTION (NOE) FILED WITH THE STATE
+CLEARINGHOUSE AND COUNTY CLERK
+DRAFT AND FINAL INITIAL STUDY/NEGATIVE DECLARATION (ND) 
+DRAFT AND FINAL INITIAL STUDY/MITIGATED NEGATIVE
+DECLARATION (MND)
+DRAFT AND FINAL ENVIRONMENTAL IMPACT REPORT (EIR)
+COMMENTS AND RESPONSES 
+STATEMENT OF OVERRIDING CONSIDERATIONS (SOC)
+MITIGATION MONITORING AND REPORTING PLAN/PROGRAM
+(MMRP)
+RESOLUTION/MINUTES APPROVING THE CEQA DOCUMENT(S)  NOTICE OF DETERMINATION (NOD) FILED WITH THE STATE CLEARINGHOUSE AND COUNTY CLERK 
+
+[page 29] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 29 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+E2 – Federal Cross-cutter Documents
+Please submit copies of all applicable federal cross-cutter documents for the project.
+Place a check () in the applicable box(es) that describe(s) the environmental documents prepared for the project and submit the required attachments.
+Example: If the project is located within a coastal zone, requires a 404 Permit, is not exempt from CEQA, and has EFH in the project area, mark and submit the following attachments:
+E2 - FEDERAL CROSS-CUTTER DOCUMENTS ATTACHED N/A
+United States Forest Service, Bureau of Land Management, and Other Federal Land – Map of Federal Lands and the Federal Land Use Authorization/Permit, if applicable
+
+Environmental Alternative Analysis, if applicable  Clean Air Act – CalEEMod Report or Other Air Quality Models/Studies Used  Coastal Zone Management Act – Coastal Zone Permit or Coastal Exemption, if applicable 
+
+[page 29] Endangered Species Act Section 7 – Biological Report/Assessment  Farmland Protection Policy Act – Farmland Conversion Assessment, if applicable 
+Fish and Wildlife Coordination Act – Potential Impacts to Water Body Documentation, if applicable 
+Floodplain Management – Official Floodplain Map (required) and Floodplains/Hydrological Assessment (if applicable)  Magnuson-Stevens Fishery Conservation and Management Act – EFH Assessment/Evaluation, Official NMFS Species List, if applicable  Migratory Bird Treaty Act – List of Migratory Birds Potentially Affected by Project (May be Included in the Biological Report/Assessment)  National Historical Preservation Act, Section 106 – Historic Properties Identification Report 
+Protection of Wetlands – Wetland Assessment/Delineation Report, Clean Water Act Section 401 Certification and/or Clean Water Act Section 404 Permit, if applicable
+
+Rivers and Harbors Act – Section 10 Permit, if applicable  Wild and Scenic Rivers Act – Map of Wild and Scenic Rivers Watershed, if applicable 
+Other Federal Cross-Cutter Documentation (i.e. Coastal Barrier Resources Act, Environmental Justice, etc.), if applicable – _ _  Other Documentation – _ 
+
+[page 29] Other Federal Cross-Cutter Documentation (i.e. Coastal Barrier Resources Act, Environmental Justice, etc.), if applicable – _ _  Other Documentation – _ 
+Other Documentation – _ 
+Other Documentation – _ 
+
+[page 30] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 30 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+FINANCIAL SECURITY PACKAGE
+Applicant (Entity) Name – Enter the entity that will be the legal signatory to a financing agreement.
+Project Title – Enter the title of the project.
+Contact Person and Phone – Enter the name and phone number of the day-to-day contact for the project. This person should be able to answer general questions about the project and application.
+1. Financing Amount Requested
+Estimate the project costs to be funded with State Water Board CWSRF funds. This amount should match the Amount of Assistance Requested in Section 1 of the General Information Package.
+2. Term Requested
+Indicate the financing term you are requesting 20-year or 30-year.
+3. Other Project Funding Sources
+Describe how the total project will be financed.
+ Enter the name(s) and type(s) of all funding sources.
+ Enter the amount of funds you expect to receive from each source.
+
+[page 30]  Enter the amount of funds you expect to receive from each source.
+ Check the appropriate box to indicate whether the other sources of financing have been applied for, approved by the funding agency, or received by the applicant.
+ Submit copies of other funding sources commitment or debt documents.
+Example: CWSRF financing $1,000,000
+USDA grant $ 500,000
+Applicant Agency portion $ 250,000
+4. Current Year Median Household Income
+Enter the estimated Median Household Income (MHI) for the proposed project service area, using the most recent income survey. If an income survey is not available, MHI estimates may be found at the Census Bureau website at
+http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml#none. Enter “Median Household Income in the Past 12 Months” and the municipality name into the Quick Search box. If you cannot locate data for your community, you may contact the Division at cleanwatersrf@waterboards.ca.gov for additional assistance. MHI determinations are considered preliminary and will be finalized once the complete application is reviewed.
+5. Current Year Estimated Population Served
+a. Enter the estimated population of the proposed project service area.
+
+[page 30] a. Enter the estimated population of the proposed project service area.
+b. Place a check () in the box if less than 50% of residences are permanently occupied.
+
+[page 31] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 31 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+6. Active Service Connections
+If the active wastewater connection is currently and directly served by the wastewater collection system, enter the following for the applicable connection type:
+ Number of active wastewater service connections that are currently and directly served by the wastewater collection system
+ Current monthly service charge
+ Projected monthly service charge that will be in place after the proposed project is completed
+ Average monthly billing for the last 12 months
+Rate increase effective date for projected monthly service charges – Enter the estimated date that the projected monthly service charges will go into effect (if unknown, assume one year after construction completion).
+
+[page 31] 7. Projected Annual Operations and Maintenance Costs Enter the estimated annual costs to operate and fully maintain the proposed project after it is complete. Operations and maintenance costs include staff salaries, chemicals, utilities, warranties, routine repair and replacement, laboratory services, billing and collection and life-cycle costs. The consulting engineer should have included these costs in the Project Report (Attachment T1).
+8. Discussion of Material Events, Material Obligation Conditions, and Any Debt Limit Identify any current, prior, or pending material events such as bankruptcy, defaults, litigation, grand jury findings, unscheduled draws on reserve funds, substitution of insurers or their failure to perform, unscheduled draws on credit enhancements, actions taken in anticipation of filing Chapter 9, rating changes, relevant conditions in material obligations, and any local debt limit.
+ATTACHMENTS
+F1 – Audited Financial Statements: Provide COMPLETE audited financial statements for the most recent three years AND budgets or projections for the next two years. Submit via hardcopy, CD, email, or web link. Refer to the schedule below:
+
+[page 31] Application Date Required Financial Statements
+January 1st through June 30th Most recent three years, including last Fiscal Year.
+Example: Application on March 1, 2017, requires Financial Statements for Fiscal Years 2013/14; 2014/15; and 2015/16 July 1st through December 31st Most recent three years prior to current Fiscal Year.
+Example: Application on September 1, 2017, requires Financial Statements for Fiscal Years 2014/15; 2015/16 and 2016/17
+Identify any restricted funds and the reason for the restrictions as well as all sources of security to be pledged. If using real property, provide at least two appraisals of the value, how the value was determined, and whether the property is currently pledged as security on any other debt.
+
+[page 32] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 32 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+F2 – Budgets or Projections: Provide budgets or projections for two fiscal years (not applicable if 100% grant or principal forgiveness funding).
+Sample of a Budget or Projections
+Operating Revenue Adopted Budget
+2017/18
+Projections
+2018/19
+Water Sales $2,552,866 $2,680,509
+Utility Billing Charges $830,000 $871,500
+Water Discharge Fee $15,000 $15,750
+Connection Fees $475,000 $498,750
+Other Income $25,000 $26,250
+Other Non-Operating Revenue
+Interest Income $7,000 $7,350
+Property Tax $1,200,300 $1,260,315
+Other Misc. Income $2,000 $2,100
+Total Revenue $5,107,166 $5,362,524
+Operating Expenses
+Salaries $1,500,000 $1,575,000
+Water Purchases $1,200,000 $1,260,000
+Operating Supplies $500,000 $525,000
+Repair and Maintenance $78,000 $81,900
+Professional Fees $30,000 $31,500
+Legal $20,000 $21,000
+Lease/Rents $950,000 $997,500
+Utility Billing Service $300,000 $315,000
+Total Operating Expenses $4,578,000 $4,806,900
+Net Revenue $529,166 $555,624
+
+[page 32] Net Revenue $529,166 $555,624
+Existing Debt Service $93,000 $93,000
+Total Net Revenue after Debt Service $436,166 $462,624 F3 – Tax Questionnaire: The Tax Questionnaire provides basic information about project costs, accounting, and who will own and operate the project. The applicant’s response to the Tax Questionnaire and Reimbursement Resolution (see below) are reviewed by the State Water Board’s CWSRF tax attorney (CWSRF tax attorney) to determine whether the applicant is eligible to receive funds from tax-exempt revenue bond sales (not applicable if 100% grant/principal forgiveness funding).
+F4 – Reimbursement Resolution: An adopted Reimbursement Resolution is required for review by the CWSRF tax attorney. The language may not vary from the language provided in the template. The Reimbursement Resolution should be a stand-alone resolution (not applicable if 100% grant/principal forgiveness funding).
+
+[page 33] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 33 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+F5 - Authorizing Resolution/Ordinance: This resolution or ordinance designates the Authorized Representative(s) for the project, who will have the authority to sign and submit the CWSRF application materials, certify compliance with applicable state and federal laws, execute the financial assistance agreement and amendments, and certify disbursement requests.
+ To minimize the potential for problems, use the exact language in the template resolution.
+ Enter the title of the Authorized Representative, NOT a person’s name.
+ Do not modify the words financing or financial assistance to other terms such as “loan”, “grant”, or “principal forgiveness”. Use of these terms will create legal complications; the terms “financing” and “financial assistance” are broad enough to be applicable to all of the above.
+
+[page 33]  It is not necessary to specify the requested amount of financing. If you do specify an amount, to allow some flexibility, please specify the maximum anticipated amount of financing as follows: “Financial assistance shall not exceed $ .” F6 – Rate Adoption Resolution: Attach a copy of the most recent board resolution, ordinance, or similar document, which approved the water rates currently in place.
+
+[page 33] F7 – Pledged Revenues and Fund(s) Resolution: Federal law requires applicants to establish a dedicated source of revenue for repayment. The financing agreement will identify the pledge revenue(s) and fund(s) (PRF). The majority of CWSRF applications for wastewater projects are secured with “the Wastewater Enterprise fund and Net Revenues thereof”. If your CWSRF financing agreement will also be secured with other PRFs such as special assessments or a special tax, the template language will need to be modified accordingly. If you are uncertain as to the appropriate wording, a draft version may be submitted with the initial application. A reserve fund may also be required. This item is not required if the applicant is a Small DAC applying for one hundred percent grant/principal forgiveness funding.
+
+[page 33] F8 – Existing Related Debt: Submit a schedule of all material debt secured by the PRF or the system, along with a copy of each relevant debt document (e.g., loans, private placements, bond indentures, installment sale agreements, etc.). If there are any pending debts, provide draft or estimated information. This schedule will be an exhibit to the CWSRF financing agreement and will rank related debt according to priority in relation to the proposed CWSRF debt (senior, parity, or subordinate tier). If the applicant has no other debt (except other CWSRF debt), the Authorized Representative must provide a letter stating this. In most cases, the CWSRF debt will be on parity with related debt. The schedule of all material debt and copy of debt documents are not required if the applicant is applying for one hundred percent grant/principal forgiveness funding.
+F9 -- Debt Management Policy: Applicant needs to provide the website link or PDF copy of their debt management policy. Guidance on Complying with SB 1029 Release Date: December 28, 2016 – http://www.treasurer.ca.gov/cdiac/sb1029/guidance.pdf (not applicable if 100% grant/principle forgiveness funding).
+
+[page 33] F10 – New Special Tax, Assessment District, or Service Charge Projections: If applicable, provide budget projections based on proposed taxes, fees, charges or assessments (No template exists). Label the projections as Attachment F10.
+
+[page 34] Financial Assistance Application Information and Instructions State Water Resources Control Board
+Division of Financial Assistance
+(Rev. 05/2018)
+Page 34 Clean Water State Revolving Fund (Construction)
+P.O. Box 944212, Sacramento, CA 94244-2120
+F11 – Relevant Service, Management, Operating, or Joint Powers Agreements: If applicable, provide a copy of any relevant, service, management, operating or joint powers agreements and any amendments (No template exists). Label the agreement as Attachment F11.
+F12 – Future Capital Needs: The applicant should describe any capital improvement plans and the long-term indebtedness needed to fund its future capital improvements. The applicant must provide any formal CIP it has to the Division (No template exists). Label the CIP as Attachment F12.

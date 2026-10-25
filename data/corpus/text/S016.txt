@@ -1,0 +1,118 @@
+Templates for Public Notification
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/Notices.html
+Date printed: 09/18/2026
+
+## Templates for Public Notification
+The State of California's drinking water regulations require public notification under certain circumstances, including exceedance of maximum contaminant levels (MCLs) and maximum residual disinfectant levels (MRDLs). Water systems must contact the Division of Drinking Water's (DDW's) district office if public notification is required. Any notification must be approved by DDW prior to distribution or posting, unless otherwise directed by DDW.
+DDW District Office Map
+The following templates can be used by public water systems to prepare notices for their customers and consumers.
+
+## Templates for Public Notification > Specific Tier 1 Notices
+- Chlorine Dioxide Exceedance (English and Spanish)
+- Chlorite MCL Exceedance (English | Spanish)
+- E. coli MCL Exceedance (English and Spanish)
+- Ground Water Rule - Fecal Indicator - Positive Source Sample (English and Spanish)
+- Lead Action Level Exceedance (English | Spanish)
+- Nitrate MCL Exceedance (English and Spanish)
+- Perchlorate MCL Exceedance (English and Spanish)
+- Turbidity Exceedance (English and Spanish)
+- Waterborne Disease Outbreak (English and Spanish)
+
+## Templates for Public Notification > Tier 1 Problem Corrected Notice
+- Problem Corrected English | Spanish
+Specific Tier 2 Notices
+- 1,2,3-Trichloropropane (TCP) MCL Exceedance (English | Spanish)
+- Arsenic MCL Exceedance (English | Spanish)
+- Chemical or Radiological MCL Exceedance (English)
+- Chromium (Hexavalent) MCL Exceedance
+- Before Compliance Deadline (English | Spanish)
+- After Compliance Deadline (English | Spanish)
+- Disinfection Byproducts (DBP) Rule - MCL - HAA5 (English | Spanish)
+- Disinfection Byproducts (DBP) Rule - MCL - TTHM (English | Spanish)
+- Fluoride MCL Exceedance (English)
+- Ground Water Rule - Failure to Comply with Corrective Action Plan or Schedule (English)
+- Ground Water Rule - Failure to Maintain 4-log Treatment of Viruses (English)
+- Lead-Copper Rule Failure to Install Corrosion Control (English | Spanish)
+- Stage 1 Disinfectants and Disinfection Byproducts (DBP) Rule - DBP Precursor Treatment (English)
+- Surface Water Treatment Rule - Disinfection Treatment Violation (English)
+- Surface Water Treatment Rule - Failure to Filter (English)
+- Surface Water Treatment Rule - Turbidity Exceedance (English)
+
+## Templates for Public Notification > Specific Tier 3 Notice
+- Monitoring Violations - Annual Notice (English)
+Unsafe Water Notice Guidance
+- Unsafe Water Notice Guidance (English)
+- Instructions for viewing unsafe water notice data in the SAFER Clearinghouse (English)
+
+## Templates for Public Notification > Boil Water Notices
+- Boil Water Notice (English | Spanish)
+- What to Do During a Boil Water Advisory (English | Spanish)
+- Boil Water Notice Cancellation (English | Spanish)
+
+## Templates for Public Notification > Do Not Drink/Use Notices
+- Do Not Drink (English | Spanish)
+- Do Not Use (English | Spanish)
+PFAS Notification Level and Response Level Exceedance Notices
+- PFAS Notification Level Exceedance Notice (English)
+- PFAS Response Level Exceedance Notice
+- PFOS (English)
+- PFHxS (English)
+- PFHxA (English)
+- PFBS (English)
+- PFOA (English)
+
+## Templates for Public Notification > Manganese Secondary MCL, Notification Level, and Response Level Exceedance Notices
+Manganese over 0.05 mg/L:
+- Governing Body Notice Template (all public water systems)
+Manganese over 0.05 mg/L, but less than or equal to 0.20 mg/L (Aesthetics and Potential Health Advisory)
+- Community Water Systems (English | Spanish)
+Manganese over 0.20 mg/L (Health Advisory)
+- Community Water Systems (English | Spanish)
+- Non-Transient Non-Community and Transient Non-Community Water Systems (English | Spanish)
+
+## Templates for Public Notification > Links and Drinking Water Contact Information
+- Division of Drinking Water
+- Division of Drinking Water Contact Information (PDF)
+Stay informed
+Join the Mailing List
+Subscribe to the Drinking Water Program Announcements email topic to receive notifications and the latest updates.
+
+## Stay informed > Contact Us
+State Water Resources Control Board
+Division of Drinking Water
+Regulatory Development Unit
+Mailing Address:
+P.O. Box 100
+Sacramento, CA 95812-0100
+Street Address:
+1001 I Street
+Sacramento, CA 95814
+E-mail us at DDWRegUnit@waterboards.ca.gov.
+(Page last updated 09/18/2026)
+
+## Contact Us > Drinking Water Resources
+- California Laboratory Intake Portal (CLIP)
+- Contaminants in Drinking Water
+- Consolidation and Extension of Service
+- COVID-19 Drinking Water
+- Cyanobacteria/Cyanotoxins in Drinking Water
+- Consumer Confidence Reports (CCRs)
+- Drinking Water Branch Districts
+- Drinking Water Supply Service Area Lookup Tool
+- Drinking Water Watch Database
+- Electronic Annual Reports (EAR)
+- Environmental Laboratory Accreditation Program (ELAP)
+- Funding for Public Water Systems
+- Information for Public Water Systems
+- Notification and Response Levels
+- Operator Certification - Drinking Water
+- Permits
+- PFAS: Per- and Polyfluoroalkyl Substances
+- Public Notification Templates
+- Public Safety Power Shutoff and Wildfire Info
+- Public Water System Monitoring Schedules
+- Regulations and Statutes
+- Residential Water Treatment Devices
+- Safe Drinking Water Plan for California
+- SAFER Drinking Water
+- Water Quality Data

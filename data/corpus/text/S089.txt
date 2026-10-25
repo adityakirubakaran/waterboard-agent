@@ -1,0 +1,444 @@
+Once-Through Cooling Policy (2023)
+https://www.waterboards.ca.gov/water_issues/programs/ocean/cwa316/docs/otc-policy-2023/otc-policy-2023.pdf
+Date printed: August 15, 2023
+
+[page 1] Once-Through Cooling Policy As last amended on August 15, 2023 Page 1
+WATER QUALITY CONTROL POLICY ON THE
+USE OF COASTAL AND ESTUARINE WATERS FOR
+POWER PLANT COOLING
+1. Introduction
+A. Clean Water Act Section 316(b) requires that the location, design, construction, and capacity of cooling water intake structures reflect the best technology available (BTA) for minimizing adverse environmental impact.
+Section 316(b) is implemented through National Pollutant Discharge Elimination System (NPDES) permits, issued pursuant to Clean Water Act Section 402, which authorize the point source discharge of pollutants to navigable waters.
+B. The State Water Resources Control Board (State Water Board) is designated as the state water pollution control agency for all purposes stated in the Clean Water Act.
+C. The State Water Board and Regional Water Quality Control Boards (Regional Water Boards) (collectively Water Boards) are authorized to issue NPDES permits to point source dischargers in California.
+
+[page 1] C. The State Water Board and Regional Water Quality Control Boards (Regional Water Boards) (collectively Water Boards) are authorized to issue NPDES permits to point source dischargers in California.
+D. Currently, there are no applicable nationwide standards implementing Section 316(b) for existing power plants*1. Consequently, the Water Boards must implement Section 316(b) on a case-by-case basis, using best professional judgment.
+E. The State Water Board is responsible for adopting state policy for water quality control, which may consist of water quality principles, guidelines, and objectives deemed essential for water quality control.
+F. This Policy establishes requirements for the implementation of Section 316(b), using best professional judgment in determining BTA for cooling water intake structures at existing coastal and estuarine power plants that must be implemented in NPDES permits.
+
+[page 1] G. The intent of this Policy is to ensure that the beneficial uses of the State’s coastal and estuarine waters are protected while also ensuring that the electrical power needs essential for the welfare of the citizens of the State are met. The State Water Board recognizes it is necessary to develop replacement infrastructure to maintain electric reliability in order to implement this Policy and in developing this policy considered costs, including costs of compliance, consistent with state and federal law.
+H. During the development of this Policy, State Water Board staff has met regularly with representatives from the California Energy Commission (CEC), California Public Utilities Commission (CPUC), California Coastal 1 An asterisk indicates that the term is defined in Section 5 of the Policy.
+
+[page 2] Once-Through Cooling Policy As last amended on August 15, 2023 Page 2
+Commission (CCC), California State Lands Commission (SLC), California Air Resources Board (ARB), and California Independent System Operator (CAISO) to develop realistic implementation plans and schedules for this Policy that will not cause disruption in the State’s electrical power supply. The compliance dates for this Policy were developed considering a report produced by the energy agencies (CEC, CPUC, and CAISO), titled “Implementation of OTC Mitigation Through Energy Infrastructure Planning and Procurement Changes,” and the accompanying table, titled “Draft Infrastructure Replacement Milestones and Compliance Dates for Existing Power Plants in California Using Once Through Cooling (OTC),” included in the Substitute Environmental Document for this Policy. The energy agencies’ approach seeks to address the replacement, repowering, or retirement of power plants currently using OTC that (1) maintains reliability of the electric system; (2) meets California’s environmental policy goals; and (3) achieves these goals through effective long-term planning for transmission, generation and demand resources.
+
+[page 2] The energy agencies have stated that the dates specified in their report may require periodic updates.
+I. To prevent disruption in the State’s electrical power supply when the Policy is implemented, the State Water Board will convene a Statewide Advisory Committee on Cooling Water Intake Structures (SACCWIS), which will include representatives from the CEC, CPUC, CAISO, CCC, SLC, ARB, and State Water Board. SACCWIS will review implementation plans and schedules submitted by dischargers pursuant to this Policy, and advise the State Water Board on the implementation of this Policy to ensure that the implementation schedule takes into account local area and grid reliability, including permitting constraints. The State Water Board recognizes the compliance dates in this Policy may require amendment based on, among other factors, the need to maintain reliability of the electric system as determined by the energy agencies included in the SACCWIS, acting according to their individual or shared responsibilities. The State Water Board retains the final authority over changes to the adopted policy.
+
+[page 2] J. While the CEC, CPUC and CAISO each have various planning or permitting responsibilities important to this effort, the approach relies upon use of competitive procurement and forward contracting mechanisms implemented by the CPUC in order to identify low cost solutions for most OTC power plants. The CPUC has authority to order the investor-owned utilities (IOUs) to procure new or repowered fossil-fueled generation for system and/or local reliability in the Long-Term Procurement Plan (LTPP) proceeding. In response to the Policy, the CPUC anticipates modifying its LTPP proceeding and procurement processes to require the IOUs to assess replacement infrastructure needs and conduct targeted requests for offers (RFOs) to acquire replacement, repowered or otherwise compliant generation capacity.
+LTPP proceedings are conducted on a biennial cycle and plans are normally approved in odd-numbered years. The next cycle, the 2010 LTPP, is estimated to result in a decision by 2011. The subsequent cycle, the 2012
+
+[page 3] Once-Through Cooling Policy As last amended on August 15, 2023 Page 3
+LTPP, would in turn result in a decision by 2013. Once authorized to procure by a CPUC LTPP decision, the IOUs need approximately 18 months to issue an RFO, sign contracts, and submit applications to the CPUC for approval.
+Approval by the CPUC takes approximately nine months. If the contract involves a facility already licensed through the CEC generation permitting process, then financing and construction can begin. A typical generation permitting timeline is 12 months, but specific issues such as ability to obtain air permits can delay the process. IOUs often give preference to RFO bids with permits already (or nearly) in place. From contract approval, construction usually takes three years, if generation permits are approved, or approximately five years, if generation permits are pending or other barriers present delays. In total, starting from the initiation of an LTPP proceeding (2010 LTPP or 2012 LTPP), seven years are expected to elapse, before replacement infrastructure is operational. Due to the number of plants affected, efforts to replace or repower OTC power plants would need to be phased.
+
+[page 3] K. Because the Los Angeles region presents a more complex and challenging set of issues, it is anticipated that more time would be needed to study and implement replacement infrastructure solutions. Therefore, total elapsed time is expected to begin in 2010 and end in 2017 for the Greater Bay Area and San Diego regions, which would be addressed beginning in the 2010 LTPP.
+For the Los Angeles region, which would be addressed beginning in the 2012 LTPP, total elapsed time is expected to begin in 2012 and end in 2020. A transmission solution is expected to have approximately the same timeframe, but could be delayed by greater potential for significant local opposition. In order to assure that repowering or new power plant* development in the Los Angeles basin addresses unique permitting challenges, the SACCWIS will assist the State Water Board in evaluating schedules for power plants not under the jurisdiction of the CPUC or operating within the CAISO Balancing Authority Area.
+
+[page 3] L. The Global Warming Solutions Act of 2006 requires California to reduce greenhouse gas emissions to 1990 levels by 2020 and then to maintain those reductions. California presently has two nuclear-fueled power plants* that provide approximately 4,600 megawatts of baseload electricity and do not emit greenhouse gases during energy generation. Energy generation by facilities that do not emit greenhouse gases will be critical to meeting the mandates of the Global Warming Solutions Act and emerging national and international greenhouse gas reduction requirements. The nuclear-fueled power plants* are entering into United States Nuclear Regulatory Commission (Commission) license renewal proceedings unique to the nuclear power industry and relicensing may extend the plants operating lives to approximately 2045. Unlike older era fossil-fueled plants, if the nuclear-fueled power plants* undergo modernization as part of relicensing or cooling structure upgrades, that modernization will not reduce greenhouse gas emissions, and in fact, extended downtime during modernization may result
+
+[page 4] Once-Through Cooling Policy As last amended on August 15, 2023 Page 4
+in short-term increases in greenhouse gases as other greenhouse gas emitting facilities provide makeup power. In recognition of these considerations and others, this Policy requires special studies for the nuclear-fueled power plants* to address their unique issues, and to evaluate appropriate requirements for those plants.
+M. To conserve the State’s scarce water resources, the State Water Board encourages the use of recycled water for cooling water in lieu of marine, estuarine or fresh water.
+N. The Regional Water Boards are responsible for all NPDES permit actions for existing power plants* subject to this Policy, including without limitation actions to issue, modify, reissue, revoke, and terminate NPDES permits after October 1, 2010. In order to ensure a high level of statewide consistency in implementing Section 316(b), the State Water Board Division of Water Quality (DWQ) staff will provide technical support in all issues related to implementation of the OTC Policy.
+
+[page 4] O. Nothing in this Policy precludes the authority of the State Water Board and the Regional Water Board to regulate discharges from existing power plants* through NPDES permits, consistent with water quality standards.
+2. Requirements for Existing Power Plants*
+A. Compliance Alternatives. An owner or operator of an existing power plant* must comply with either Track 1 or Track 2, below.
+(1) Track 1. An owner or operator of an existing power plant* must reduce intake flow rate* at each unit, at a minimum, to a level commensurate with that which can be attained by a closed-cycle wet cooling system*.
+A minimum 93 percent reduction in intake flow rate* for each unit is required for Track 1 compliance, compared to the unit’s design intake flow rate*. The through- screen intake velocity must not exceed 0.5 foot per second. The installation of closed cycle dry cooling systems meets the intent and minimum reduction requirements of this compliance alternative.
+
+[page 4] (2) Track 2. If an owner or operator of an existing power plant* demonstrates to the State Water Board’s satisfaction that compliance with Track 1 is not feasible*, the owner or operator of an existing power plant* must reduce impingement mortality and entrainment of marine life for the facility, on a unit- by-unit basis, to a comparable level to that which would be achieved under Track 1, using operational or structural controls, or both.
+(a) Compliance for impingement mortality shall be determined either:
+(i) For plants relying solely on reductions in velocity, by monthly
+
+[page 5] Once-Through Cooling Policy As last amended on August 15, 2023 Page 5
+verification of through-screen intake velocity not to exceed 0.5 foot per second, or
+(ii) By monitoring required in Section 4.A, below. For measured reductions determined by monitoring, the owner or operator must reduce impingement mortality to a comparable level to that which would be achieved under Track 1. A “comparable level” is a level that achieves at least 90 percent of the reduction in impingement mortality required under Track 1.
+(b) Compliance for entrainment shall be determined either:
+(i) For plants relying solely on reductions in flow, by recording and reporting reductions in terms of monthly flow, in which case a minimum of 93% reduction in flow, as compared to the average actual flow for the corresponding months from 2000 – 2005, must be met, or
+
+[page 5] (ii) For plants relying in whole or in part on other control technologies (e.g., including but not limited to screens or re-location of intake structures), by measured reductions in entrainment determined by monitoring required in Section 4.B, below. The owner or operator must reduce entrainment to a comparable level to that which would be achieved under Track 1. A “comparable level” is a level that achieves at least 90 percent of the reduction in entrainment required under Track 1. If screens are employed to reduce entrainment, compliance shall be determined based on ichthyoplankton*, and on the crustacean phyllosoma and megalops larvae, and squid paralarvae fractions of meroplankton*.
+(c) Technology-based improvements that are specifically designed to reduce impingement mortality and/or entrainment and were implemented prior to October 1, 2010 may be counted towards meeting Track 2 requirements.
+(d) The owner or operator of an existing power plant* with combined-cycle power-generating units* installed prior to October 1, 2010 may achieve compliance in accordance with this paragraph.
+
+[page 5] (d) The owner or operator of an existing power plant* with combined-cycle power-generating units* installed prior to October 1, 2010 may achieve compliance in accordance with this paragraph.
+The owner or operator may count prior reductions in impingement mortality and entrainment resulting from the replacement of steam turbine power-generating units with combined-cycle power-generating units*, towards meeting Track 2 requirements.
+Reductions shall be based on reductions in intake flows, calculated as the difference between:
+(i) The maximum permitted discharge (expressed as million
+
+[page 6] Once-Through Cooling Policy As last amended on August 15, 2023 Page 6
+gallons per day (MGD)) for the entire power plant as identified in the plant’s prior NPDES permit that authorized the steam turbine power-generating units which were subsequently replaced with the combined-cycle power-generating units*, and
+(ii) The maximum permitted discharge (expressed as MGD) for the entire power plant, including the combined cycle units, as identified in the plant’s NPDES permit authorizing the combined-cycle power- generating units*.
+B. Final Compliance Dates
+(1) Existing power plants* shall comply with Section 2.A, above, as soon as possible, but no later than, the dates shown in Table 1, contained in Section 3.E, below.
+(2) Based on the need for continued operation of an existing power plant* to maintain the reliability of the electric system, a final compliance date may be suspended under the following circumstances:
+
+[page 6] (a) Suspension of Final Compliance Date for Less Than 90 Days for Existing Power Plants* Within CAISO Jurisdiction. If CAISO determines that continued operation of an existing power plant* is necessary to maintain the reliability of the electric system in the short- term, CAISO shall provide written notification to the State Water Board, the Regional Water Board with jurisdiction over the existing power plant*, and the SACCWIS. If the Executive Directors of the CEC and CPUC do not object in writing within 10 days to CAISO’s written notification, the notification provided pursuant to this paragraph will suspend the final compliance date for the shorter of 90 days or the time CAISO determines necessary to maintain reliability. In the event either CEC or CPUC objects as provided in this paragraph, then the State Water Board shall hold a hearing as expeditiously as possible to determine whether to suspend the compliance date in accordance with paragraph (d).
+
+[page 6] (b) Suspension of Final Compliance Date for Longer Than 90 Days, or consecutive less than 90 day suspensions, for Existing Power Plants* Within CAISO Jurisdiction. If CAISO determines that continued operation of an existing power plant* is necessary to maintain the reliability of the electric system, CAISO shall provide written notification to the State Water Board, the Regional Water Board with jurisdiction over the existing power plant*, and the SACCWIS. If the Executive Directors of the CEC and CPUC do not object in writing within 10 days to CAISO’s determination, the notification provided pursuant to this paragraph
+
+[page 7] Once-Through Cooling Policy As last amended on August 15, 2023 Page 7
+will suspend the final compliance date for 90 days. During the 90-day time suspension or within 90 days of receiving a written notification from CAISO, the State Water Board shall conduct a hearing in accordance with paragraph (d) to determine whether to suspend the final compliance date for more than the original 90 days pending, if necessary, full evaluation of amendments to final compliance dates contained in the policy.
+
+[page 7] (c) Suspension of Final Compliance Date for Existing Power Plants* Within Los Angeles Department of Water and Power (LADWP) Service Area. If the LADWP Commission determines, through a public process, that continued operation of an existing power plant* operated by LADWP is necessary to maintain the reliability of the electric system in the short-term, LADWP shall provide written notification to the State Water Board, the Regional Water Board with jurisdiction over the existing power plant*, and the SACCWIS. Within 45 days of receiving a written notice from LADWP, the State Water Board shall conduct a hearing in accordance with paragraph (d) to determine whether to suspend the final compliance date. In considering whether to suspend or amend the final compliance dates the State Board shall consult with the CAISO.
+(d) State Water Board Hearings on Suspension of Final Compliance Dates. In considering whether to suspend or amend the final compliance dates, the State Water Board shall afford significant weight to the recommendations of the CAISO.
+C. Immediate and Interim Requirements
+
+[page 7] C. Immediate and Interim Requirements
+(1) No later than October 1, 2011, the owner or operator of an existing power plant* with an offshore intake* shall install large organism exclusion devices having a distance between exclusion bars of no greater than nine inches, or install other exclusion devices, deemed equivalent by the State Water Board.
+(2) No later than October 1, 2011, the owner or operator of an existing power plant* unit that is not directly engaging in power-generating activities*, or critical system maintenance*, shall cease intake flows, unless the owner or operator demonstrates to the State Water Board that a reduced minimum flow is necessary for operations.
+(3) The owner or operator of an existing power plant* must implement measures to mitigate the interim impingement and entrainment impacts resulting from the cooling water intake structure(s), commencing October 1, 2015 and continuing up to and until the owner or operator achieves final compliance. The owner or operator must include in the implementation plan, described in Section 3.A below, the specific
+
+[page 8] Once-Through Cooling Policy As last amended on August 15, 2023 Page 8
+measures that will be undertaken to comply with this requirement. An owner or operator may comply with this requirement by:
+(a) Demonstrating to the State Water Board’s satisfaction that the owner or operator is compensating for the interim impingement and entrainment impacts through existing mitigation efforts, including any projects that are required by state or federal permits as of October 1, 2010; or
+(b) Demonstrating to the State Water Board’s satisfaction that the interim impacts are compensated for by the owner or operator providing funding to the California Coastal Conservancy which will work with the California Ocean Protection Council to fund an appropriate mitigation project*; or
+(c) Developing and implementing a mitigation project* for the facility, approved by the State Water Board, which will compensate for the interim impingement and entrainment impacts. Such a project must be overseen by an advisory panel of experts convened by the State Water Board.
+
+[page 8] (d) The habitat production foregone* method, or a comparable alternate method approved by the State Water Board, shall be used to determine the habitat and area, based on replacement of the annual entrainment, for funding a mitigation project*.
+(e) It is the preference of the State Water Board that funding is provided to the California Coastal Conservancy, working with the California Ocean Protection Council, for mitigation projects directed toward increases in marine life associated with the State’s Marine Protected Areas in the geographic region of the facility.
+(4) Owners or operators of fossil fueled units that have submitted implementation plans to comply with this Policy under Section 2.A(1)
+and have requested compliance dates after December 31, 2022 that are approved by the State Water Board as provided in Section 3.E shall:
+(a) Commit to eliminate OTC and seawater use for cooling water purposes for all units at the facility.
+(b) Conduct a study or studies, singularly or jointly with other facilities, to evaluate new technologies or improve existing technologies to reduce impingement and entrainment.
+
+[page 8] (b) Conduct a study or studies, singularly or jointly with other facilities, to evaluate new technologies or improve existing technologies to reduce impingement and entrainment.
+(c) Submit the results of the study and a proposal to minimize entrainment and impingement to the Chief Deputy Director no later than December 31, 2015.
+
+[page 9] Once-Through Cooling Policy As last amended on August 15, 2023 Page 9
+(d) Upon approval of the proposal by the Chief Deputy Director, complete implementation of the proposal no later than December 31, 2020.
+D. Nuclear-Fueled Power Plants*
+If the owner or operator of an existing nuclear-fueled power plant* demonstrates that compliance with the requirements for existing power plants* in Section 2.A, above, of this Policy would result in a conflict with any safety requirement established by the Commission, with appropriate documentation or other substantiation from the Commission, the State Water Board will make a site- specific determination of best technology available for minimizing adverse environmental impact that would not result in a conflict with the Commission’s safety requirements. The State Water Board may also establish alternative, site- specific requirements in accordance with Section 3.D (8).
+3. Implementation Provisions
+A. With the exception of nuclear-fueled power plants*, which are covered under 3.D, below, no later than April 1, 2011, the owner or operator of an existing power plant* shall submit an implementation plan to the State Water Board.
+
+[page 9] (1) The implementation plan shall identify the compliance alternative selected by the owner or operator, describe the general design, construction, or operational measures that will be undertaken to implement the alternative, and propose a realistic schedule for implementing these measures that is as short as possible. If the owner or operator chooses to repower the facility to reduce or eliminate reliance upon OTC, or to retrofit the facility to implement either Track 1 or Track 2 alternatives, the implementation plan shall identify the time period when generating power is infeasible and describe measures taken to coordinate this activity through the appropriate electrical system balancing authority’s maintenance scheduling process.
+(2) If the owner or operator selects closed-cycle wet cooling* as a compliance alternative, the owner or operator shall address in the implementation plan whether recycled water of suitable quality is available for use as makeup water.
+
+[page 9] B. The SACCWIS shall be impaneled no later than January 1, 2011, by the Executive Director of the State Water Board, to advise the State Water Board on the implementation of this Policy to ensure that the implementation schedule takes into account local area and grid reliability, including permitting constraints. SACCWIS shall include representatives from the CEC, CPUC, CAISO, CCC, SLC, ARB, and State Water Board.
+(1) SACCWIS meetings shall be scheduled regularly and as needed.
+
+[page 10] Once-Through Cooling Policy As last amended on August 15, 2023 Page 10
+Meetings shall be open to the public and shall be noticed at least 10 days in advance of the meeting. All SACCWIS products shall be made available to the public.
+(2) The SACCWIS shall review the owner or operator’s proposed implementation schedule and report to the State Water Board with recommendations no later than October 1, 2011. The SACCWIS may consult with other appropriate agencies, including but not limited to the Regional Water Boards, air quality districts, and the LADWP, in the process of reviewing implementation schedules and providing recommendations to the State Water Board.
+(3) The CAISO and the LADWP shall each submit to the SACCWIS by December 31 and January 31, respectively, each year a grid reliability study for their respective jurisdictions that has been developed pursuant to a public process and approved by their governing bodies. In order to assure that SACCWIS can provide annual reports to the State Water Board by March 31, the SACCWIS shall promptly meet to consider the reliability studies submitted by CAISO and the LADWP.
+
+[page 10] (4) The SACCWIS will report to the State Water Board with recommendations on modifications to the implementation schedule every year starting in 2012 and at least through 2026.2 If members of SACCWIS do not believe the full committee recommendations reflect their concerns they may issue minority recommendations that the State Water Board shall consider as part of the SACCWIS recommendations.
+(5) The State Water Board shall consider the SACCWIS’ recommendations and, if appropriate, consider modifications to this Policy. In the event that the SACCWIS energy agencies (CAISO, CPUC, and CEC) make a unanimous recommendation for implementation schedule modification based on grid reliability, the State Water Board shall afford significant weight to the recommendation.
+C. The Regional Water Board shall reissue or, as appropriate, modify NPDES permits issued to owners or operators of existing power plants*, after a hearing in the affected region, to ensure that the permits conform to the provisions of this Policy.
+
+[page 10] (1) The permits shall incorporate a final compliance schedule that requires compliance no later than the due dates contained in Table 1, contained in Section 3.E, below. If the State Water Board determines that a longer compliance schedule is necessary to maintain reliability of the electric system per SACCWIS recommendations while other OTC power plants are retrofitted, repowered, or retired or transmission upgrades take 2 The SACCWIS may convene beyond 2026 as needed to address grid reliability concerns impacting existing power plants.
+
+[page 11] Once-Through Cooling Policy As last amended on August 15, 2023 Page 11
+place, this delay shall be incorporated into the compliance schedule and stated in the permit findings.
+(2) The Regional Water Board shall reopen, if necessary, the relevant permits and modify the final compliance schedules, if appropriate, based on modifications to the policy approved by the State Water Board or the suspension of final compliance dates pursuant to this policy.
+(3) If an owner or operator selects Track 2 as the compliance alternative, the NPDES permit shall include a monitoring program that complies with Section 4 of this Policy.
+(4) NPDES permits issued by the Regional Water Board shall include appropriate permit provisions to implement suspensions of final compliance dates authorized in Section 2.B (2) and modifications to final compliance dates specified in this policy, without reopening the permits.
+
+[page 11] D. No later than January 1, 2011 the Executive Director of the State Water Board, using the authority under section 13267(f) of the Water Code, shall request that Southern California Edison (SCE) and Pacific Gas & Electric Company (PG&E) conduct special studies for submission to the State Water Board.
+(1) The special studies shall investigate alternatives for the nuclear-fueled power plants* to meet the requirements of this Policy, including the costs for these alternatives.
+(2) The special studies shall be conducted by an independent third party with engineering experience with nuclear power plants, selected by the Executive Director of the State Water Board.
+(3) The special studies shall be overseen by a Review Committee, established by the Executive Director of the State Water Board no later than January 1, 2011, which shall include, at a minimum, representatives of SCE, PG&E, SACCWIS, the environmental community, and staffs of the State Water Board, Central Coast Regional Water Board, and the San Diego Regional Water Board.
+
+[page 11] (4) No later than October 1, 2011, the Review Committee, described above, shall provide a report for public comment detailing the scope of the special studies, including the degree to which existing, completed studies can be relied upon.
+(5) No later than October 1, 2013 the Review Committee shall provide the final report and the Review Committee’s comments for public comment detailing the results of the special studies and shall present the report to the State Water Board.
+
+[page 12] Once-Through Cooling Policy As last amended on August 15, 2023 Page 12
+(6) Meetings of the Review Committee shall be open to the public and shall be noticed at least 10 days in advance of the meeting. All products of the Review Committee shall be made available to the public.
+(7) The State Water Board shall consider the results of the special studies, and shall evaluate the need to modify this Policy with respect to the nuclear-fueled power plants*. In evaluating the need to modify this Policy, the State Water Board shall base its decision to modify this Policy with respect to the nuclear- fueled power plants* on the following factors:
+(a) Costs of compliance in terms of total dollars and dollars per megawatt hour of electrical energy produced over an amortization period of 20 years;
+(b) Ability to achieve compliance with Track 1 considering factors including, but not limited to, engineering constraints, space constraints, permitting constraints, and public safety considerations;
+(c) Potential environmental impacts of compliance with Track 1, including, but not limited to, air emissions.
+
+[page 12] (c) Potential environmental impacts of compliance with Track 1, including, but not limited to, air emissions.
+(8) If the State Water Board finds that for a specific nuclear-fueled power plant* to implement Track 1, either
+(a) the costs are wholly out of proportion to the costs identified in Tetra Tech, Inc., California’s Coastal Power Plants: Alternative Cooling System Analysis, February 2008 (see pages ES-10 [summary], C-1 - C-2 and C- 23 - C-40 [Diablo Canyon Power Plant] and N-1 - N-2 and N-25 - N-42 [San Onofre Nuclear Generating Station]) and considered by the State Water Board in establishing Track 1, or
+(b) compliance is wholly unreasonable based on the factors in paragraphs 7(b) and (c), then the State Water Board shall establish alternate requirements for that nuclear-fueled power plant*. The State Water Board shall establish alternative requirements no less stringent than justified by the wholly out of proportion (i) cost and (ii) factor(s) of paragraph (7). The burden is on the person requesting the alternative requirement to demonstrate that alternative requirements should be authorized.
+
+[page 12] (9) In the event the State Water Board establishes alternate requirements for nuclear-fueled power plants*, the difference in impacts to marine life resulting from any alternative, less stringent requirements shall be fully mitigated. Mitigation required pursuant to this paragraph shall be a mitigation project* directed toward the increase in marine life associated
+
+[page 13] Once-Through Cooling Policy As last amended on August 15, 2023 Page 13
+with the State’s Marine Protected Areas in the geographic region of the facility. Funding for the mitigation project* shall be provided to the California Coastal Conservancy, working with the Ocean Protection Council to fund an appropriate mitigation project*.
+
+[page 14] Once-Through Cooling Policy As last amended on August 15, 2023 Page 14
+E. Table 1. Implementation Schedule
+Milestone Responsible Entity/Party Due Date3
+1 Request SCE and PG&E to
+conduct special studies to
+investigate compliance
+options for nuclear-fueled
+power plants* [Section 3.D]
+State Water Board
+Executive Direction
+01/01/2011
+2 Establish Review Committee
+[Section 3.D(3)]
+State Water Board
+Executive Director
+01/01/2011
+3 Establish SACCWIS
+[Section 3.B]
+State Water Board
+Executive Director
+01/01/2011
+4 Submit a proposed
+implementation plan to the
+State and Regional Water
+Boards [Section 3.A]
+Owner/operators of
+existing fossil- fueled
+power plants
+04/01/2011
+5 Provide a report for public
+comment, detailing the scope
+of the special studies on
+compliance options
+for nuclear-fueled power
+plants* [Section 3.D(4)]
+Review Committee 10/01/2011
+6 Review the owners or
+operators’ proposed
+implementation schedules
+and report to the State Water
+Board with
+recommendations [Section
+3.B(2)]
+SACCWIS 10/01/2011
+7 Humboldt Bay Power Plant in
+compliance
+Owner/operator 12/31/2010
+8 Potrero Power Plant in
+compliance
+Owner/operator 10/01/2011
+9 Install large organism
+exclusion devices with a
+
+[page 14] exclusion devices with a
+distance between exclusion
+bars of no greater than nine
+inches, or equivalent device
+[Section 2.C(1)]
+Owner/operators
+of existing
+power plants* with offshore
+intakes*
+10/01/2011
+3 These compliance dates were developed considering information provided by the CEC, CPUC, CAISO, and LADPW
+
+[page 15] Once-Through Cooling Policy As last amended on August 15, 2023 Page 15
+Milestone Responsible Entity/Party Due Date3
+10 Cease intake flows for units
+not directly engaging
+in power-generating
+activities* or critical system
+maintenance*, or
+demonstrate to the State
+Water Board that a reduced
+minimum flow is necessary
+for operations [Section
+2.C(2)]
+Owner/operators
+of existing power plants*
+10/01/2011
+11 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2012
+12 South Bay Power Plant in
+compliance
+Owner/operator 12/31/2011
+13 Report to State Water Board
+on results of special studies
+on compliance options
+for nuclear-fueled power
+plants* [Section 3.D(5)]
+Review Committee 10/01/2013
+14 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2013
+15 Haynes units 5 & 6 in
+compliance, repowered
+without OTC
+LADWP 12/31/2013
+16 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2014
+17 Commence to implement
+measures to mitigate the
+interim impingement and
+entrainment impacts due to
+the cooling water intake
+structure(s) [Section 2.C(3)]
+Owners/operators
+
+[page 15] Owners/operators
+of existing power plants*
+10/01/2015
+18 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2015
+19 El Segundo and Morro Bay
+power plants in compliance
+Owner/operator 12/31/2015
+
+[page 16] Once-Through Cooling Policy As last amended on August 15, 2023 Page 16
+Milestone Responsible Entity/Party Due Date3
+20 Scattergood unit 3
+in compliance, repowered
+without OTC
+LADWP 12/31/2015
+21 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2016
+22 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2017
+23 Power plants in CPUC 2010
+LTPP Cycle in compliance:
+Encina Unit 1, Contra Costa,
+Pittsburg [Section 1.J]
+Owner/Operator 12/31/2017
+24 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2018
+25 Encina Power Station Units 2-
+5 in compliance [Section 1.J]
+Owner/Operator 12/31/2018
+26 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2019
+27 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2020
+28 Huntington Beach Units 1, 3,
+and 4; Redondo Beach Unit
+7; Alamitos Units 1, 2, and 6;
+Mandalay; and Moss Landing
+in compliance
+Owner/operator 12/31/2020
+29 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+
+[page 16] Policy [Section 3.B(3)]
+SACCWIS 03/31/2021
+30 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2022
+
+[page 17] Once-Through Cooling Policy As last amended on August 15, 2023 Page 17
+Milestone Responsible Entity/Party Due Date3
+31 San Onofre Nuclear
+Generating Station in
+compliance with
+implementation provisions
+resulting from State Water
+Board action on special
+studies from Section 3.D
+Owner/operator 12/31/2022
+32 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2023
+33 Redondo Beach Units 5, 6,
+and 8 in compliance
+Owner/operator 12/31/2023
+34 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2024
+35 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2025
+36 Report to State Water Board
+on status of implementation of
+Policy [Section 3.B(3)]
+SACCWIS 03/31/2026
+37 Alamitos Units 3, 4, and 5;
+Huntington Beach Unit 2; and
+Ormond Beach Units 1 and 2
+in compliance4
+Owner/operator 12/31/2026
+38 Haynes Units 1 & 2 in
+compliance
+LADWP 12/31/2029
+39 Harbor Unit 5 in compliance LADWP 12/31/2029
+40 Haynes Unit 8 in compliance LADWP 12/31/2029
+41 Scattergood Units 1 and 2 in
+compliance
+LADWP 12/31/2029
+
+[page 17] LADWP 12/31/2029
+4 The extension of the compliance date for Alamitos Units 3, 4, and 5, Huntington Beach Unit 2, and Ormond Beach Units 1 and 2 from December 31, 2023, to December 31, 2026, is contingent on these generating stations participating in the Electricity Supply Strategic Reliability Reserve Program established through Assembly Bill 205, which was approved by Governor Gavin Newsom on June 30, 2022.
+
+[page 18] Once-Through Cooling Policy As last amended on August 15, 2023 Page 18
+Milestone Responsible Entity/Party Due Date3
+42 Diablo Canyon Units 1 and 2
+in compliance5
+Owner/operator 10/31/2030
+5 On September 2, 2022, Governor Gavin Newsom approved Senate Bill 846, which added Section 13193.5 to the California Water Code and extended the OTC Policy compliance date for Diablo Canyon Units 1 and 2 to October 31, 2030.
+
+[page 19] Once-Through Cooling Policy As last amended on August 15, 2023 Page 19
+4. Track 2 Monitoring Provisions
+A. Impingement Impacts: The following impingement studies are required to comply with Section 2.A.(2)(a)(ii):
+(1) A baseline impingement study shall be performed, unless the discharger demonstrates, to the Regional Water Board’s satisfaction, that prior studies accurately reflect current impacts. Baseline impingement shall be measured on-site and shall include sampling for all species impinged. The impingement study shall be designed to accurately characterize the species currently impinged and their seasonal abundance to the satisfaction of the Regional Water Board.
+(a) The study period shall be at least 36 consecutive months.
+(b) Impingement shall be measured during different seasons when the cooling system is in operation and over 24-hour sampling periods.
+(c) When applicable, impingement shall be sampled under differing representative operational conditions (e.g., differing levels of power production, heat treatments, etc.).
+(d) The study shall not result in any additional mortality above typical operating conditions.
+
+[page 19] (d) The study shall not result in any additional mortality above typical operating conditions.
+(2) After the Track 2 controls are implemented, to confirm the level of impingement controls, another impingement study, consistent with Section 4.A(1)(a) to (d), above, shall be performed and reported to the Regional Water Board.
+(3) The need for additional impingement studies shall be evaluated at the end of each permit period. Impingement studies shall be required when changing operational or environmental conditions indicate that new studies are needed, at the discretion of the Regional Water Board.
+B. Entrainment Impacts: The following entrainment studies are required to comply with Section 2.A.(2)(b)(ii):
+(1) A baseline entrainment study shall be performed, unless the discharger demonstrates, to the Regional Water Board’s satisfaction, that prior studies accurately reflect current impacts. Prior studies that may have used a mesh size of 333 or 335 microns for sampling are acceptable for compliance with the review and approval of the Regional Water Board.
+
+[page 19] If the Regional Water Board determines that a new baseline entrainment study shall be performed to determine larval composition and abundance in the source water, representative of water that is being entrained, then samples must be collected using a mesh size no
+
+[page 20] Once-Through Cooling Policy As last amended on August 15, 2023 Page 20
+larger than 335 microns. Additional samples shall also be collected using a 200 micron mesh to provide a broader characterization of other meroplankton* entrained. The source water shall be determined based on oceanographic conditions reasonably expected after Track 2 controls are implemented. Baseline entrainment sampling shall provide an unbiased estimate of larvae entrained at the intake prior to the implementation of Track 2 controls.
+(a) Entrainment impacts shall be based on sampling for all ichthyoplankton* and invertebrate meroplankton* species.
+Individuals collected shall be identified to the lowest taxonomical level practicable. When practicable, genetic identification through molecular biological techniques may be used to assist in compliance with this requirement. Samples shall be preserved and archived such that genetic identification is possible at a later date.
+
+[page 20] (b) The study period shall be at least 36 consecutive months, and shall occur during different seasons, including periods of peak use when the cooling system is in operation (such as the summer months when energy is in high demand). Sampling shall be designed to account for variation in oceanographic conditions and larval abundance and behavior such that abundance estimates are reasonably accurate.
+(2) After the Track 2 controls are implemented, to confirm the level of entrainment controls, another entrainment study (with a study design to the Regional Water Board’s satisfaction, with samples collected using a mesh size no larger than 335 microns, and with additional samples also collected using a 200 micron mesh) shall be performed and reported to the Regional Water Board.
+(3) The need for additional entrainment studies shall be evaluated at the end of each permit period. Entrainment studies shall be required when changing operational or environmental conditions indicate that new studies are needed, at the discretion of the Regional Water Board.
+5. Definition of Terms
+
+[page 20] 5. Definition of Terms
+Closed-cycle wet cooling system – Refers to a cooling system, which functions by transferring waste heat to the surrounding air through the evaporation of water, thus enabling the reuse of a smaller amount of water several times to achieve the desired cooling effect. The only discharge of wastewater is from periodic blowdown for the purpose of limiting the buildup of concentrations of materials in excess of desirable limits established by best engineering practice.
+Combined-cycle power-generating units - Refers to units within a power plant which combined generate electricity through a two-stage process involving
+
+[page 21] Once-Through Cooling Policy As last amended on August 15, 2023 Page 21
+combustion and steam. Hot exhaust gas from combustion turbines is passed through a heat recovery steam generator to produce steam for a steam turbine. The turbine exhaust steam is condensed in the cooling system and may or may not be returned to the power cycle. Combined cycle power- generating units are generally more fuel-efficient and use less cooling water than steam boiler units with the same generating capacity.
+Critical system maintenance – are activities that are critical for maintenance of a plant’s physical machinery and absolutely cannot be postponed until the unit is operating to generate electricity.
+Existing power plant(s) – Refers to any power plant that is not a new power plant*.
+Habitat production foregone – Refers to the product of the average annual proportional mortality* and the estimated area of the water body that is habitat for the species’ source population. Habitat production foregone is an estimate of habitat area production that is lost to all entrained species on an annual basis.
+
+[page 21] Ichthyoplankton – Refers to the planktonic early life stages of fish (i.e., the pelagic eggs and larval forms of fishes).
+Intake flow rate – Refers to the instantaneous rate at which water is withdrawn through the intake structure, expressed as gallons per minute.
+Meroplankton – For purposes of this Policy, refers to that component of the zooplankton* community composed of squid paralarvae and the pelagic larvae of benthic invertebrates.
+Mitigation project – Projects to restore marine life lost through impingement mortality and entrainment. Restoration of marine life may include projects to restore and/or enhance coastal marine or estuarine habitat, and may also include protection of marine life in existing marine habitat, for example through the funding of implementation and/or management of Marine Protected Areas.
+New power plant – Refers to any plant that is a “new facility”, as defined in 40 C.F.R. § 125.83 (revised as of July 1, 2007), and that is subject to Subpart I, Part 125 of the Code of Federal Regulations (revised as of July 1, 2007) (referred to as “Phase I regulations”).
+
+[page 21] Not Feasible – Cannot be accomplished because of space constraints or the inability to obtain necessary permits due to public safety considerations, unacceptable environmental impacts, local ordinances, regulations, etc. Cost is not a factor to be considered when determining feasibility under Track 1.
+Nuclear-fueled power plant(s) – Refers to Diablo Canyon Power Plant and/or San
+
+[page 22] Once-Through Cooling Policy As last amended on August 15, 2023 Page 22
+Onofre Nuclear Generating Station.
+Offshore intake –refers to any submerged intake structure that is not located at the shoreline, and includes such intakes that are located in ocean, bay and estuary environments.
+Power-generating activities – Refers to activities directly related the generation of electrical power, including start-up and shut-down procedures, contractual obligations (hot stand-by), hot bypasses, and critical system maintenance* regulated by the Nuclear Regulatory Commission. Activities that are not considered directly related to the generation of electricity include (but are not limited to) dilution for in-plant wastes, maintenance of source-and receiving water quality strictly for monitoring purposes, and running pumps strictly to prevent fouling of condensers and other power plant equipment.
+Proportional mortality – the proportion of larvae killed from entrainment to the larvae in the source population, as determined by an Empirical Transport Model.
+Zooplankton – For purposes of this Policy, refers to those planktonic invertebrates larger than 200 microns.

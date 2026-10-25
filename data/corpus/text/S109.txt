@@ -1,0 +1,206 @@
+Integrated Report Frequently Asked Questions (FAQ)
+https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/docs/integratedreport-faq.pdf
+Date printed: none found
+
+[page 1] 1 | P a g e
+Surface Water Quality Assessments
+California Integrated Report
+Clean Water Act 303(d) and 305(b)
+Development of the integrated report is a collaborative process between the State Water Resources Control Board (“State Water Board”) and the Regional Water Quality Control Boards (“Regional Water Boards”) (collectively, “Water Boards”), with input from the public and California Native American tribes.
+The purpose of this document is to answer frequently asked questions regarding the California Integrated Report program. Please refer to the current California Integrated Report on the program webpage (https://bit.ly/WQ_Assessment) for detailed information. The Water Boards are always considering improvements to the program and welcome suggestions and ideas.
+To provide suggestions and ask questions, please contact program staff via email at WQAssessment@waterboards.ca.gov.
+The Integrated Report
+What is the integrated report?
+
+[page 1] What is the integrated report?
+The integrated report is a non-regulatory and data-driven informational report. It contains water quality assessments of California’s surface waters, including rivers, streams, lakes, bays, estuaries, enclosed lagoons, and coastal waters. California submits an integrated report to the United States Environmental Protection Agency (“USEPA”) on April 1 of every even-numbered year, as required by the federal Clean Water Act (“CWA”). The California Integrated Report compiles the CWA section 303(d)
+list of impaired waters (“303(d) list”) and CWA section 305(b) condition report. Each California Integrated Report updates the previous integrated report.
+Does the California Environmental Quality Act apply to the integrated report?
+The State Water Board’s approval of the 303(d) List is not a “project” subject to the California Environmental Quality Act (“CEQA”) because the 303(d) list does not result in a “direct physical change in the environment, or a reasonably foreseeable indirect physical change in the environment.” (Pub. Res. Code, § 21065) Additionally, the 305(b)
+
+[page 1] condition report is not subject to CEQA because it is not a “project” nor is it approved by the State Water Board (Pub. Res. Code, § 21065(a)).
+
+[page 2] 2 | P a g e
+What is the 303(d) list?
+The 303(d) list consists of surface waters that are considered “impaired” because they do not meet or are not expected to meet water quality standards. Water quality standards consist of three components: the beneficial uses of water (such as recreation, aquatic life, drinking water), water quality objectives (set at levels or limits of water quality characteristics or constituents to reasonably protect beneficial uses), and antidegradation considerations. In most cases, the 303(d) list also identifies the pollutant or pollutants that are causing the impairment. For every California Integrated Report, the State Water Board adopts a resolution directing staff to submit the 303(d)
+list to the USEPA for final review and approval (or disapproval).
+A map of impaired waters on the 303(d) list is available online (https://gispublic.waterboards.ca.gov/portal/home/item.html?id=6cca2a3a18154655992 01266373cbb7b).
+What is the state policy used to inform the development of the 303(d) list?
+
+[page 2] What is the state policy used to inform the development of the 303(d) list?
+The Water Quality Control Policy for Developing California’s Clean Water Act Section 303(d) List or “Listing Policy” (https://bit.ly/2015_ListingPolicy) describes the process by which the Water Boards will comply with the listing requirements of section 303(d) of the CWA. Assessments are conducted as waterbody-pollutant combinations. If any waterbody-pollutant combinations indicate that beneficial uses are impaired consistent with the Listing Policy, the waterbody as a whole will be placed onto the 303(d) list.
+Once placed on the 303(d) list, factors described in section 4 of the Listing Policy are used to determine whether a waterbody is no longer impaired and therefore can be removed (delisted) from the 303(d) list. A waterbody can only be removed from the 303(d) list if all individual assessments indicate that beneficial uses are not impaired due to pollutants.
+What is the 305(b) condition report?
+
+[page 2] What is the 305(b) condition report?
+The 305(b) condition report is an informational report on the water quality conditions of all surface waters in the state. Waterbodies are placed into one of five “Condition Categories.” The State Water Board does not take action on the 305(b) condition report.
+The USEPA also does not take approval action of the 305(b) condition report, but rather collects the state’s 305(b) condition report and submits it to the United States Congress.
+What are the Condition Categories?
+Waterbodies are placed into one of five “Condition Categories” that are assigned at the waterbody level and are described in Table 1 below. The categorization is based on assessment of all usable readily available data and information collected to describe the waterbody’s status for supporting one or more core beneficial uses. California’s 303(d)
+list consists of waterbodies placed into Condition Categories 4a, 4b, and 5.
+
+[page 3] 3 | P a g e
+Table 1: California’s 305(b) Integrated Report Condition Categories Category Description
+1 Data/information indicate at least one core beneficial use is supported.
+Core beneficial uses include drinking water supply, water contact recreation, fish consumption, shellfish harvesting, and aquatic life support.
+2 Insufficient data/information to determine core beneficial use support.
+3 Insufficient data/information to determine beneficial use support but a beneficial use may be potentially threatened.
+4 A beneficial use is impaired and a total maximum daily load (“TMDL”)
+is not needed because:
+· 4a: A TMDL has been developed and approved by USEPA.
+· 4b: Another regulatory program, with USEPA approval, is expected to result in beneficial use attainment at a reasonable period of time.
+· 4c: The beneficial use impairment is caused by pollution and not a pollutant.
+5 A beneficial use is impaired and a TMDL is needed.
+· 5r: An Advance Restoration Plan (“ARP”) will be developed alternative to a TMDL to restore water quality.
+How is impairment characterized?
+
+[page 3] How is impairment characterized?
+Waterbodies, or waterbody segments, are considered impaired when data and information demonstrate that water quality does not meet applicable water quality standards or is not expected to meet applicable water quality standards. There is a slight difference in how the USEPA and State Water Board’s Listing Policy characterize the 303(d) list. The USEPA considers a waterbody to be impaired if data and information indicate that one or more water quality standards are not met and a TMDL or another regulatory program needs to be developed to restore water quality (i.e.
+Category 5). California considers a waterbody or segment of a waterbody to be impaired if standards are not met, regardless of whether a TMDL or another program of implementation is in place.
+What happens when a waterbody is identified on the 303(d) list?
+
+[page 3] What happens when a waterbody is identified on the 303(d) list?
+Once a waterbody is identified as impaired on the 303(d) list, a Regional Water Board may further investigate by conducting more sampling or studying the sources of the pollutant(s). A Regional Water Board may determine that the best approach to address the impairment is by a water quality restoration plan, such as a TMDL, to attain water quality standards. Please refer to the “Efforts to Restore Impaired Waters” section of this document for further details on TMDLs and certain category conditions. Regional Water Boards determine their individual priorities and mechanisms for addressing impaired waters within their regional boundaries.
+
+[page 4] 4 | P a g e
+Some water quality permits may require permittees to monitor, conduct source analyses, or undertake pollutant control actions as an indirect consequence of information within the 303(d) list. Additionally, information and data from an approved integrated report may be used to support allocations of grant funding for restoration or protection activities.
+What is the relationship between the State and Regional Water Boards?
+The State Water Board works in close coordination with the nine Regional Water Boards to review data, make water quality impairment decisions, and develop public documents. The State Water Board adopts statewide water quality standards, plans, and policies. The nine Regional Water Boards are semi-autonomous, adopt regional board-specific standards or site-specific standards unique to a waterbody, and typically develop and implement actions to restore impaired waters.
+What does it mean for Regional Water Boards to be “on-cycle” or “off-cycle”?
+
+[page 4] What does it mean for Regional Water Boards to be “on-cycle” or “off-cycle”?
+The integrated report is developed every two years in “cycles” using a rotating basin approach to assess waterbodies within the boundaries of three of the nine Regional Water Boards. These three Regional Water Boards are “on-cycle.” Additionally, any of the other six “off-cycle” Regional Water Boards may assess high priority data and information from specific waterbodies.
+The Central Valley Regional Water Board divides its region into four sub-basins (Sacramento River, San Joaquin River, Sacramento-San Joaquin River Delta, Tulare Lake) and focuses data assessments by sub-basin(s), which rotate every cycle. The waters within each Regional Water Board are fully assessed every six years (or three cycles). The program webpage provides information on the three integrated report cycles that are in progress and current, with details about which regions are on- or off-cycle.
+How long does it take to develop the integrated report?
+
+[page 4] How long does it take to develop the integrated report?
+It takes approximately four years to develop each integrated report. There are five key steps in the development process: 1) Data Solicitation, 2) Data Assembly: Review, Organization and Mapping, 3) Data Evaluation and Assessment, 4) Public Process, and 5) USEPA Submission. Steps 1 and 2 each take approximately six to seven months.
+Steps 3 and 4 each take approximately 15 months, and step 5 takes approximately two months. We intentionally start the Data Solicitation process approximately four years ahead of the final integrated report year so that we provide timely submittal to USEPA.
+Environmental Justice
+How is racial equity being addressed through the integrated report program?
+On November 16, 2021, the State Water Board adopted Resolution No. 2021-0050 titled “Condemning Racism, Xenophobia, Bigotry, and Racial Injustice, and Strengthening Commitment to Racial Equity, Diversity, Inclusion, Access, and Anti-Racism” (https://www.waterboards.ca.gov/racial_equity/). The State Water Board’s
+
+[page 5] 5 | P a g e
+Racial Equity Action Plan is responsive to Resolution No. 2021-0050 and identifies key actions to implement across the programs at the State Water Board. In response, the integrated report program is working to identify and prioritize assessment and future monitoring of waters located in disadvantaged communities and communities of Black, Indigenous, and people of color.
+The integrated report offers information to other state agencies and their resources, such as CalEnviroScreen which is maintained by the California Office of Environmental Health Hazard Assessment. CalEnviroScreen is an online mapping tool that uses environmental, health, and socioeconomic data and information to help identify communities that are most affected by and vulnerable to sources of pollution and its effects.
+Public Process
+The Water Boards welcome input and involvement from the public during the development of each integrated report.
+How can people get involved in the public process?
+
+[page 5] How can people get involved in the public process?
+The integrated report is developed and released to the public for review and comment each cycle. A staff report provides information on methods used to review and assess readily available data and information. Waterbody fact sheets provide detailed information about each waterbody and pollutant assessed, including data used and associated water quality objective, criterion or evaluation guideline. Public and tribal members may also participate in staff workshops and Water Board meetings. Program staff is available via email (WQAssessment@waterboards.ca.gov) for specific inquiries.
+How can I stay informed?
+Interested parties are encouraged to sign up for the integrated report email subscription list, which is a useful tool to stay informed of upcoming events and release of documents. Enter a valid email address to this webpage (https://bit.ly/IR-Subcribe) and select “Integrated Report – 303(d)/305(b)” under “Water Quality.” Who administers the public process for the integrated report?
+
+[page 5] Since the 2020-2022 California Integrated Report cycle, the State Water Board has administered the public process for the development of the integrated report and the review and approval of the 303(d) list. While the Regional Water Boards play a significant role in the development of the integrated report, the Regional Water Boards no longer conduct the public process for the development of the integrated report, which included individual board hearings, adoption meetings, and public comment periods for each region. This process makes more efficient use of time and resources, and ensures we can meet requirements for timely submittal of the integrated report.
+
+[page 6] 6 | P a g e
+Data and Information Sharing
+Who can submit data for the integrated report?
+Any person or entity (including but not limited to residents; local, state, and federal government agencies; non-profit organizations; businesses; and tribes) possessing data and information regarding the quality of California’s waters may submit data and information.
+Where do I submit data?
+Data should be submitted to the California Environmental Data Exchange Network (“CEDEN”) and the Integrated Report Upload Portal. All data and information submitted must be accompanied by a quality assurance project plan (“QAPP”) or QAPP-equivalent document submitted to the Integrated Report Upload Portal to ensure the highest quality data are used for assessments. Each cycle, a data solicitation notice is published that provides instructions for submitting data and information. Please access the “Submitting Data and Information for the Integrated Report” (https://bit.ly/Data-Submission) section of the program webpage for detailed instructions.
+What is readily available data and information?
+
+[page 6] What is readily available data and information?
+Data and information that provide required quality assurance documentation, conform with formatting requirements for CEDEN and/or the Integrated Report Upload Portal, and are submitted properly by the stated deadline, are considered “readily available data and information.” At the start of each cycle, a public notice for data solicitation is released with specific instructions and a submission deadline. Please refer to section 6 of the Listing Policy and the public notice for data solicitation for details on the required information and materials.
+Which other types of data sources are considered for the integrated report?
+The following sources for data and information are considered for the integrated report:
+· The previous integrated report and its supporting data.
+· Data within CEDEN.
+· California Integrated Report Upload Portal data and information.
+· California Integrated Water Quality System data from water discharge monitoring reports.
+· Water Quality Portal data from federal agencies and federally recognized tribes.
+· Existing internal Water Board data and reports.
+
+[page 6] · Existing internal Water Board data and reports.
+Other sources of data and information that become readily available to Water Board staff are also considered for the integrated report, such as fish and shellfish advisories, beach closures, reports of adverse health risks, and reports of dog or fish death.
+What type of data are considered for the integrated report?
+The types of data considered for the integrated report are data collected in the field (e.g.
+habitat surveys, bioassessment) and laboratory results such as water or sediment
+
+[page 7] 7 | P a g e
+chemistry data, aquatic toxicity data, and tissue data. Groundwater and effluent water data are not accepted for the integrated report. Please refer to the section “Data Not Considered for the Integrated Report” below for further information.
+Data Assessment
+How are data reviewed and considered for the integrated report?
+For data and information to be used in the integrated report, data must meet minimum quality assurance requirements as outlined in Listing Policy sections 6.1.2 and 6.1.4.
+Data not accompanied by a QAPP cannot be used. All data and information are screened through multiple quality assurance checks that are automated, semi-automated, and manual. Only data and information that pass all quality assurance and quality control checks are used for waterbody quality assessments and to write primary lines of evidence or LOEs.
+How are waterbodies determined to be impaired?
+
+[page 7] How are waterbodies determined to be impaired?
+Section 3 of the Listing Policy outlines the factors that must be considered to determine whether a waterbody is impaired. Once data are compared to water quality objectives, criterion or evaluation guidelines and the counts of exceedances are confirmed, a binomial test is most commonly used to determine impairment (e.g., non-attainment of water quality standards). Table 3.1 and Table 3.2 in the Listing Policy provide details for determining a listing based on sample size and counts of exceedances. A similar process is conducted to determine a delisting using factors describes in section 4 of the Listing Policy and a binomial test (Listing Policy Table 4.1 and 4.2). The Listing Policy describes all factors to determine listings and delistings.
+What is the difference between a numeric and narrative water quality objective?
+
+[page 7] What is the difference between a numeric and narrative water quality objective?
+A water quality objective is expressed in either a numeric or narrative form to ensure the protection of a beneficial use. A numeric water quality objective provides a numeric value for a pollutant that may pose risk to a beneficial use. For example, the Water Quality Control Plan for Inland Surface Waters, Enclosed Bays, and Estuaries of California includes the numeric water quality objective of 0.05 milligram per kilogram of mercury in prey fish tissue to protect the wildlife beneficial use.
+
+[page 7] A narrative water quality objective consists of protective language which is interpreted using an appropriate evaluation guideline to serve as a numeric value that represents water quality standards attainment according to Listing Policy section 6.1.3. For example, each Regional Board Water Quality Control Plan describes the narrative water quality objective for toxicity to protect aquatic life similar to the following, “all waters shall be maintained free of toxic substances in concentrations that produce adverse physiological responses in aquatic life.” When assessing aluminum as a pollutant to aquatic life, data are compared to the 2018 Final Aquatic Life Criteria for Aluminum for
+
+[page 8] 8 | P a g e
+Freshwater from the USEPA1, which provides a chronic toxicity level of 3,200 micrograms of aluminum per liter of water. Evaluation guidelines are not described in water quality control plans and are only used for the purpose of developing the 303(d)
+list and the 305(b) condition report.
+Data Not Considered in the Integrated Report
+All readily available data and information are evaluated for use in the integrated report.
+There are instances when some data and information are excluded. When possible, Water Boards staff may contact the data provider(s) to remedy errors or to consult for missing information to ensure submitted data and information can be reviewed. Please note it may take up to six years for data to be reviewed due to the rotating basin schedule.
+When are data not considered for assessment?
+
+[page 8] When are data not considered for assessment?
+Data are not considered for assessment when there are inaccurate or missing required information, such as spatial information (e.g., latitude and longitude) or QAPP (or equivalent) documentation. Data are also not considered when submitted data are not appropriate for assessment, such as quality control measurements (e.g., laboratory duplicates, blanks from control samples) or data representative of other types of waters (e.g., groundwater or effluent water). Details on required data and information to qualify for assessments are available in the data solicitation notices and the program webpage.
+What is a quantitation limit?
+The quantitation limit is the lowest value that can be detected and quantified with a specified degree of precision. When a pollutant measurement meets a quantitation limit, the pollutant is both proven present and measured reliably2.
+What are “non-detect” and “detected not quantified” data?
+
+[page 8] What are “non-detect” and “detected not quantified” data?
+Data are reported as “non-detect” or “detected not quantified” when the sampled pollutant values are below, or do not meet, the quantitation (or reporting) limit. When the sample value is below the quantitation limit, the value either 1) falls within a range, as is the case with “detected not quantified” samples; or 2) is less than a particular value, as is the case with “non-detect” samples. Although sometimes dependent on the precision of the equipment used to collect data, “non-detect” data do not always equal zero. Zero signifies the absence of the pollutant. “Non-detect” signifies that the value of the pollutant is below the quantitation limit and thus could be a non-detectable and non-zero value, or actually zero.
+1 United States Environmental Protection Agency. “Aquatic Life Criteria – Aluminum.” 2018.
+https://www.epa.gov/wqc/aquatic-life-criteria-aluminum.
+2 United States Environmental Protection Agency. “Regional Guidance on Handling Chemical Concentration Data Near the Detection Limit in Risk Assessments.” 29 August 2023.
+
+[page 8] 2 United States Environmental Protection Agency. “Regional Guidance on Handling Chemical Concentration Data Near the Detection Limit in Risk Assessments.” 29 August 2023.
+https://www.epa.gov/risk/regional-guidance-handling-chemical-concentration-data-near-detection-limit-risk-assessments
+
+[page 9] 9 | P a g e
+The following graphic demonstrates a basic relationship between the different limits and “non-detect” and “detect not qualified” data types:
+When are “non-detect” and “detect not qualified” data excluded in assessments?
+The Listing Policy section 6.1.5.5 states that data cannot be used for assessment when 1) the sample value is less than the quantitation limit, and 2) the quantitation limit is greater than the water quality standard, objective, criterion, or evaluation guideline.
+Therefore, it is critical for submitted data to include the method detection limit, the reporting limit, and the result qualifier code.
+The graphic below demonstrates a basic relationship between the different limits, a water quality objective (or criterion or evaluation guideline), and the results of data being included or excluded from assessment, as required by Listing Policy section 6.1.5.5.
+Does new data override older data?
+
+[page 9] Does new data override older data?
+Data and information regardless of age are used in 303(d) list assessments to ensure all readily available data and information are considered. The final functional equivalent document3, that supported the State Water Board’s development and adoption of the Listing Policy, highlights that older data and information can provide context for newer data and temporal representation. However, if the implementation of management 3 State Water Resources Control Board. “Final Functional Equivalent Document for the Water Quality Control Policy for Developing California’s Clean Water Act Section 303(d) List.” 30 September 2004.
+https://www.waterboards.ca.gov/water_issues/programs/tmdl/docs/ffed_093004.pdf
+
+[page 10] 10 | P a g e
+practice(s) has resulted in a change in the waterbody segment, only recently collected data (since implementation of a management practice) should be considered, according to Listing Policy section 6.1.5.3.
+Efforts to Restore Impaired Waters
+What is a total maximum daily load (“TMDL”)?
+California’s 303(d) list of impaired waters informs development of actions to restore impaired waters to ensure attainment of water quality standards. One way to restore impaired waters is by developing and implementing a TMDL. A TMDL specifies the maximum amount of a pollutant allowed to enter a waterbody so that the waterbody will meet and continue to meet water quality standards for a particular pollutant.
+Some of the elements of a TMDL include numeric targets, source analysis, allocations for pollutant reduction, an implementation plan, and a monitoring plan. Source analyses account for all the sources of a pollutant, such as discharges, runoff, “toxic hot spots,” deposits from air, and natural sources. TMDLs are primarily developed by the Regional Water Boards and implemented via permitting actions.
+What is a Category 4b Demonstration?
+
+[page 10] What is a Category 4b Demonstration?
+The Regional Water Boards may develop regulatory programs other than a TMDL to restore impaired waterbodies. A Category 4b Demonstration shows an existing regulatory program is expected to result in attainment of the water quality standard within a reasonable, specified timeframe. Once a 4b Demonstration is approved by USEPA, a TMDL is not required. A Category 4b Demonstration addresses the following six specific elements:
+1. Identification of the waterbody and statement of the problem causing the impairment.
+2. Description of pollution controls and how they will achieve water quality standards.
+3. An estimate or projection of the time when water quality standards will be met.
+4. Schedule for implementing pollution controls.
+5. Monitoring plan to track effectiveness of pollution controls.
+6. Commitment to revise pollution controls, as necessary.
+What is Category 5r?
+
+[page 10] What is Category 5r?
+A waterbody may be placed in Category 5r (a subcategory of Category 5) if the identified waterbody is being addressed by an Advance Restoration Plan. There is still a legal obligation to develop a TMDL when a waterbody is placed in Category 5r, but states may justify deprioritizing TMDL development to focus efforts on early pollutant control/restoration work. The USEPA does not have authority to approve or disapprove a state’s Advance Restoration Plan.
+
+[page 11] 11 | P a g e
+How does the integrated report demonstrate prioritization of TMDL developments?
+In accordance with the Clean Water Act and federal regulations, California assigns priority rankings by taking into account the severity of the pollution, the uses to be made of the waterbody, and other factors. Each Category 5 placement (i.e., waters requiring a TMDL) are assigned a high, medium, or low priority for TMDL development. These priorities do not apply to waterbodies that already have an USEPA-approved TMDL or 4b Demonstration. The TMDL priority levels can be found in the Waterbody Fact Sheets. The three TMDL priority levels are defined as follows:
+Priority Level High: TMDLs are planned for development within the next two years.
+Priority Level Medium: TMDLs are planned for development within two to ten years.
+
+[page 11] Priority Level Medium: TMDLs are planned for development within two to ten years.
+Priority Level Low: TMDLs are planned for development in over ten years, or the impairment is to be addressed by a USEPA-approved 4b Demonstration that is in development or a USEPA-approved Category 5r Advance Restoration Plan. Priority level low is also assigned to waterbodies where evidence suggests that the applicable water quality standard may not be appropriate and the next step is to consider revising the standard. “Low priority” does not imply that the impairments are of low importance.
+Rather, it reflects the current allocation of staff resources and the strategic need to prioritize more immediate and critical impairments.
+Additional Resources
+· Program webpage: https://bit.ly/WQ_Assessment
+· Listing Policy: https://bit.ly/2015_ListingPolicy · CalEnviroScreen: https://oehha.ca.gov/calenviroscreen (This document was last updated on March 5, 2025)

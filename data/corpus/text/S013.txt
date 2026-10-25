@@ -1,0 +1,129 @@
+Revised Total Coliform Rule
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/rtcr.html
+Date printed: 09/01/2026
+
+## Revised Total Coliform Rule > Overview
+Beginning July 1, 2021, the California Revised Total Coliform Rule (RTCR) will become effective. The revisions include the new Coliform Treatment Technique requirement replacing the Total Coliform MCL, and a new E. coli MCL regulatory limit. The Revised Total Coliform Rule establishes a “find-and-fix” approach for investigating and correcting causes of coliform problems within water distribution systems
+Under the headings below, you will find guidance and forms to help comply with the RTCR requirements.
+Final Regulation Text
+
+## Revised Total Coliform Rule > Bacteriological Sample Siting Plans
+Existing bacteriological sample siting plans may comply with the new State RTCR requirements provided the plans:
+- Include the minimum number of routine samples per month in Table 64423-A of the regulations.
+- Identify repeat sample locations for each routine sample location
+- Identify triggered source sampling needed to comply with the Groundwater Rule
+- Identify the sample schedule and rotation plan among sampling sites for collection of routine, repeat and triggered source sampling
+- Identify the raw water sources that are continuously disinfected and require quarterly monitoring.
+If your existing plan does not include the additional requirements above, please submit a new plan to your local regulating agency (DDW District Office or Local Primacy Agency , e.g. County Environmental Health Office). Guidance for creating a bacteriological sample siting plan is available from your local regulating agency. A template bacteriological sample siting plan for small water systems is available below.
+- Bacteriological Sample Siting Plan Template (Word) / (PDF)
+
+## Revised Total Coliform Rule > Routine and Repeat Sampling
+Table 64423-A lists the required number of routine samples per month based on population served or number of service connections. Within 24 hours following a total coliform-positive sample result, water systems shall continue to collect a repeat sample set of 3 samples. All routine and repeat samples must be collected according to the approved bacteriological sample siting plan above.
+
+## Routine and Repeat Sampling > Level 1 Assessment
+If a water system collects... | Level 1 Assessment is required within 30 days if...
+...Less than 40 routine and repeat samples per month | More than 1 TC-positive sample in a month
+...40 or more routine and repeat samples per month | More than 5.0% TC-positive samples in a month
+…a sample that is total coliform positive | Fails to collect all required repeat samples
+Under the RTCR, a water system which exceeds one of the trigger levels in the table above must conduct a Level 1 Assessment within 30 days. The completed assessment must be submitted to the local regulating agency (DDW District Office or County Health Office) within 30 days of exceeding the trigger level. The Level 1 Assessment will require water systems to identify a possible cause to the total coliform positive samples and corrective actions taken/needed. Failure to conduct or submit a completed assessment, or failure to complete the corrective actions is a violation of the Coliform Treatment Technique in the RTCR.
+Templates for the Level 1 Assessment for different types of water systems are available below:
+- Level 1 Assessment for simple water systems (well, pressure tank, no treatment/chlorination)
+
+## Routine and Repeat Sampling > Level 1 Assessment
+- Level 1 Assessment for simple water systems (well, pressure tank, no treatment/chlorination)
+- Level 1 Assessment for most groundwater systems (wells, storage/pressure tanks, chlorination)
+- Level 1 Assessment for water systems with a surface water treatment plant
+- Level 1 Assessment for groundwater systems with chemical removal treatment
+- Level 1 Assessment for transient, non-community water systems
+
+## E. coli MCL Exceedances / Level 2 Assessment > E. coli MCL Exceedances
+- E. coli-positive repeat sample following TC-positive routine sample
+- TC-positive repeat sample following an E. coli positive routine sample
+- Failure to collect all required repeat samples following a E. coli-positive routine sample
+- Failure to test for E. coli when any repeat sample is TC-positive
+
+## E. coli MCL Exceedances / Level 2 Assessment > E. coli MCL Exceedances
+- Failure to test for E. coli when any repeat sample is TC-positive
+Under the RTCR, a water system exceeds the E. coli MCL when any of the four trigger levels above are met. In addition, the State RTCR adds two new conditions to the E. coli MCL for failing to collect all required repeat samples following a E. coli positive routine sample and failing to test for E. coli after a total coliform positive repeat sample. The water system must notify the local regulating agency (DDW District Office or County Environmental Health Office) by the end of the business day to schedule a Level 2 assessment. Similar to the Level 1 assessment, the Level 2 Assessment will require the water system to identify a possible cause to the E. coli positive samples and corrective actions taken/needed. However, the Level 2 Assessment will be performed by the local regulating agency. Failure to return the assessment or complete the corrective actions is a violation of the Coliform Treatment Technique in the RTCR.
+Public notification (Tier 1) will be required within 24 hours of the E. coli MCL exceedance and a template is available.
+
+## Revised Total Coliform Rule > Seasonal Water Systems
+Non-community water systems which do not operate on a year-round basis (e.g. starts-up and shut down at the beginning and end of each operating season) must have an approved, written start-up procedure to comply with the State RTCR requirements. Seasonal water systems are required to follow this start-up procedure which includes:
+- an inspection of water system components,
+- disinfection and flushing,
+- coliform and chlorine residual monitoring,
+- use of certified distribution operators to perform 1-3 above,
+- notification to local regulating agency (DDW District Office or Local Primacy Agency, e.g. County Environmental Health Office) upon start-up.
+- Seasonal Water System Start-up Procedure and Certification
+- Instructions for Seasonal Water Systems
+
+## Revised Total Coliform Rule > Public Notification
+Water systems are required to issue a Tier 1 Public Notice to all customers within 24 hours of learning of an E. coli MCL exceedance.
+Water systems are required to issue a Tier 2 Public Notice to all customers within 30 days for the following violations of the Coliform Treatment Technique requirements.
+- Failure to conduct or submit a completed Level 1 or Level 2 Assessment within 30 days of exceeding a coliform treatment technique trigger.
+- Failure to complete any corrective action identified in a Level 1 or Level 2 Assessment by the deadlines given in the assessment
+- For seasonal systems only, failure to complete a State Board-approved start-up procedure prior to serving water to the public.
+Templates for these Tier 1 and Tier 2 Public Notices is available on the Templates for Public Notification webpage.
+
+## Revised Total Coliform Rule > Monthly Coliform Reporting
+All water systems are required to report results of coliform monitoring monthly by the 10th day of the following month. A revised monthly summary form and instructions are available below.
+- Monthly Coliform Reporting Form (available by request)
+- Instructions for completing Monthly Coliform Reporting Form (available by request)
+
+## Revised Total Coliform Rule > Resources
+- USEPA Revised Total Coliform Rule Information
+- Revised Total Coliform Rule Analytical Methods (ELAP webpage)
+Regulatory Agency Contact Information
+- Division of Drinking Water District Field Office Contact Information
+- Local Primacy Agency Contact Information
+
+## Regulatory Agency Contact Information > Rulemaking History
+Pre-Rulemaking Workshops
+In February 2017, the State Water Board released a draft of the planned regulation text and held six public workshops throughout California to receive input on the rule. The California version of the RTCR will follow many of the federal requirements, with some exceptions as indicated in the workshops.
+- VIDEO: Revised Total Coliform Workshop Presentation in Sacramento - March 29, 2017
+- Draft CA Revised Total Coliform Regulations - February 3, 2017
+- Revised Total Coliform Rule Workshop Presentation - (PowerPoint)
+- RTCR Workshops Public Notice
+Rulemaking Status and Complete Rulemaking Files
+
+## Stay informed > Join the Mailing List
+Subscribe to the Drinking Water Program Announcements email topic to receive notifications and the latest updates.
+Contact Us
+State Water Resources Control Board
+Division of Drinking Water
+Regulatory Development Unit
+Mailing Address:
+P.O. Box 100
+Sacramento, CA 95812-0100
+Street Address:
+1001 I Street
+Sacramento, CA 95814
+E-mail us at DDWRegUnit@waterboards.ca.gov.
+(Page last updated 09/01/2026)
+
+## Contact Us > Drinking Water Resources
+- California Laboratory Intake Portal (CLIP)
+- Contaminants in Drinking Water
+- Consolidation and Extension of Service
+- COVID-19 Drinking Water
+- Cyanobacteria/Cyanotoxins in Drinking Water
+- Consumer Confidence Reports (CCRs)
+- Drinking Water Branch Districts
+- Drinking Water Supply Service Area Lookup Tool
+- Drinking Water Watch Database
+- Electronic Annual Reports (EAR)
+- Environmental Laboratory Accreditation Program (ELAP)
+- Funding for Public Water Systems
+- Information for Public Water Systems
+- Notification and Response Levels
+- Operator Certification - Drinking Water
+- Permits
+- PFAS: Per- and Polyfluoroalkyl Substances
+- Public Notification Templates
+- Public Safety Power Shutoff and Wildfire Info
+- Public Water System Monitoring Schedules
+- Regulations and Statutes
+- Residential Water Treatment Devices
+- Safe Drinking Water Plan for California
+- SAFER Drinking Water
+- Water Quality Data

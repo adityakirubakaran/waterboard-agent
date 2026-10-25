@@ -1,0 +1,99 @@
+2024 California Integrated Report
+https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/2024-integrated-report.html
+Date printed: 09/03/2026
+
+## 2024 California Integrated Report
+For the 2024 California Integrated Report, data from waterbodies in the San Francisco Bay, Santa Ana, and Los Angeles Regional Water Boards were assessed as “on-cycle” assessments. Data from waterbodies in the Central Valley Regional Water Board were assessed as “off-cycle” assessments for waters within the Sacramento River sub-area. The Sacramento River sub-area is defined as the Sacramento River watershed. It includes the mainstem of the Sacramento River above the legal boundary of the Sacramento-San Joaquin Delta and all surface waters tributary to the mainstem. Additionally, some data from waterbodies within the Central Coast and San Diego Regional Water Boards are assessed as “off cycle” assessments.
+The 2024 California Integrated Report was partially approved and partially disapproved by USEPA on December 13, 2024. See USEPA’s partial approval and partial disapproval letter for details: Partial Approval and Partial Disapproval of California’s 2024 List of Impaired Waters.
+
+## 2024 California Integrated Report > 2024 California Integrated Report Map
+About the Map
+This map displays the assessed waterbodies included in the California 2024 Integrated Report. Assessed waterbodies are surface waterbodies, such as rivers, lakes, and beaches, that are placed in one of five Integrated Report Condition Categories based on a waterbody’s ability to support beneficial use(s). The California 303(d) list portion of the California Integrated Report consists of waterbodies in Categories 4a, 4b, and 5. These waterbodies can be referred to as “listed” or “impaired”. The waterbody assessments are included in the map as a pop-up or in the attribute table.
+- Lines
+- Polygons
+Note, the waterbodies and data in the map are for informational purposes only and can be updated periodically. Please direct questions on the map layers to the Surface Water Quality Assessment program at this address: WQAssessment@waterboards.ca.gov
+
+## 2024 California Integrated Report > Reports and Downloads
+- 303(d) List: Download a list of impaired waterbody pollutant combinations
+- Waterbody Fact Sheets: View and download waterbody fact sheets for each assessed waterbody
+- HTML Version
+- Excel Version
+- Category Reports
+- Category 1 Waterbody Segments
+- Category 2 Waterbody Segments
+- Category 3 Waterbody Segments
+- Category 4a Waterbody Segments
+- Category 4b Waterbody Segments
+- Category 4c Waterbody Segments
+- Category 5 Waterbody Segments
+
+## 2024 California Integrated Report > Adoption Meeting and Final Integrated Report, Staff Report, and Response to Comments – March 13, 2024
+- Prioritization Framework for Plans to Restore Impaired Waterbodies (Submitted April 1, 2024)
+- Recording of February 6, 2024 Board Meeting (starts 1:50:40) – Agenda Item 5 for Adoption of Clean Water Act 303(d) List for the 2024 Integrated Report
+- February 6, 2024 Item 5 Staff Presentation on the 2024 Integrated Report
+- Final Resolution No. 2024-0007 for the Clean Water Act 303(d) List for the 2024 Integrated Report
+- Resolution Item #12 - QAPP Verification Status
+- Change Sheet #1
+- Final Summary of Comments and Responses for the 2024 California Integrated Report for Clean Water Act 303(d) List and 305(b) Report
+- Response to Comments Appendix A: Tables Associated with Public Comments
+- Final Staff Report for the 2024 California Integrated Report: Surface Water Quality Assessments to comply with Clean Water Act 303(d) List and 305(b) Report
+- Final Revised Appendix A: Recommended 2024 303(d) List of Impaired Waters
+- Final Revised Appendix B: Statewide Waterbody Fact Sheets
+- Final Revised Appendix B1: Statewide Waterbody Fact Sheets - Excel Version
+- Final Revised Appendix C: Integrated Report Condition Category Reports
+- Appendix C1: Category 1 Waterbody Segments
+
+## 2024 California Integrated Report > Adoption Meeting and Final Integrated Report, Staff Report, and Response to Comments – March 13, 2024
+- Appendix C1: Category 1 Waterbody Segments
+- Appendix C2: Category 2 Waterbody Segments
+- Appendix C3: Category 3 Waterbody Segments
+- Appendix C4a: Category 4a Waterbody Segments
+- Appendix C4b: Category 4b Waterbody Segments
+- Appendix C4c: Category 4c Waterbody Segments
+- Appendix C5: Category 5 Waterbody Segments
+- Final Revised Appendix D: Map and Visualization Tool for the 2024 California Integrated Report
+- Final Appendix E: TMDLs Adopted by Regional Water Boards since January 2009
+- Final Appendix F: Generalized Flow Chart for Fish Tissue Mercury Assessments for the California Integrated Report
+- Final Appendix G: Miscellaneous Mapping Changes Report
+- Final Appendix H: Reference Reports
+- Appendix H1: Region 1 Reference Report
+- Appendix H2: Region 2 Reference Report
+- Appendix H3: Region 3 Reference Report
+- Appendix H4: Region 4 Reference Report
+- Appendix H5: Region 5 Reference Report
+- Appendix H6: Region 6 Reference Report
+- Appendix H7: Region 7 Reference Report
+- Appendix H8: Region 8 Reference Report
+- Appendix H9: Region 9 Reference Report
+- Appendix H10: Statewide Reference Report
+- Final Appendix I: 2020-2022 303(d) List of Impaired Waters
+
+## 2024 California Integrated Report > Adoption Meeting and Final Integrated Report, Staff Report, and Response to Comments – March 13, 2024
+- Final Appendix I: 2020-2022 303(d) List of Impaired Waters
+- Final Revised Appendix J: 2024 303(d) List of New Waterbody-pollutant Combination Listing and Delistings
+- Final Appendix K: List of Retired Lines of Evidence
+- Final Appendix L: List of Summing Pollutants
+- Final Appendix M: List of Decisions with Corrections Made to Pyrethroids in Sediment Organic Carbon Normalization Errors
+- Final Appendix N: List of Central Valley Water Board Decisions Corrected Due to Duplicate California Department of Pesticide Regulation Data Submission
+- Final Appendix O: List of Central Valley Water Board Decisions Corrected Due to Pyrethroids Sediment Toxicity Mislabel Error
+- Final Appendix P: List of Decisions Corrected Due to Mis-Mapped Stations
+- Final Appendix Q: List of Central Valley Water Board Decisions Revised Due to Use of Amended Chemical Constituents Objective and Secondary Maximum Contaminant Levels
+- Final Revised Appendix R: List of Calculated Aluminum Criteria for Aquatic Life Assessments
+- Final Appendix S: List Decisions Revised Due to Removal of Stations Not Representative of Ambient Surface Water Conditions
+
+## 2024 California Integrated Report > Adoption Meeting and Final Integrated Report, Staff Report, and Response to Comments – March 13, 2024
+- Final Appendix S: List Decisions Revised Due to Removal of Stations Not Representative of Ambient Surface Water Conditions
+- Final Appendix T: List of Central Valley Regional Water Board Decisions Revised Due to Removal of Data Previously Associated with Decisions for Trihalomethanes
+- Final Appendix U: List of Decisions Revised Due to Data Qualification Error
+- Final Appendix V: List of Los Angeles Regional Water Board Decisions Revised Due to Removal of Data Assessed for Incorrect Beneficial Use
+- Final Appendix W: List of Los Angeles and Santa Ana Regional Water Boards Decisions Revised Due to Ammonia Reassessments
+- Final Appendix X: List of Los Angeles Regional Water Board Decisions Revised Due to Duplicate LOEs in Coyote Creek
+- 2024 Data Solicitation Notice
+(Page last updated 09/03/2026)
+
+## Adoption Meeting and Final Integrated Report, Staff Report, and Response to Comments – March 13, 2024 > Surface Water Quality Assessment Resources
+- Home
+- Water Quality Goals
+- Subscribe to the Integrated Report emailing list
+- Contact Us/Feedback
+- WQAssessment@waterboards.ca.gov

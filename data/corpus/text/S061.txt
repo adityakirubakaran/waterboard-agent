@@ -1,0 +1,227 @@
+Amendment of Accreditation Application
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/docs/applications/elap-accreditation-amendment.pdf
+Date printed: none found
+
+[page 1] State Water Resources Control Board
+APPLICATION FOR AMENDMENT OF ACCREDITATION
+Environmental Laboratory Accreditation Program
+This application is for use by laboratories seeking amendment of an existing accreditation granted under the California Environmental Laboratory Accreditation Act (Health & Saf. Code, division 101, part 1, chapter 4, commencing with section 100825).
+Amendment includes:
+· change in name,
+· change in location,
+· addition of a satellite or mobile laboratory to the existing accreditation, · addition or reinstatement of Field(s) of Accreditation to the current certificate.
+Submit application documents by email to elapca@waterboards.ca.gov. Please note the Environmental Laboratory Accreditation Program (ELAP) is unable to download documents from external sites due to security protocols. If files are too large to submit in one message, it is acceptable to submit a .zip file or in multiple emails.
+PART A – LABORATORY INFORMATION
+Name of Laboratory:
+Certificate Number:
+Expiration Date:
+Laboratory Address (physical location):
+Street:
+City: State: Zip:
+Laboratory Mailing Address (if different from physical location):
+Street:
+City: State: Zip:
+
+[page 2] Page 2 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation Is this a Mobile Laboratory?
+☐ Yes
+☐ No
+If this is a Mobile Laboratory:
+Vehicle Make:
+Vehicle License #:
+Model:
+State of Registration:
+Vehicle ID #:
+Technical Manager:
+Technical Manager Phone Number:
+Quality Assurance Officer:
+Quality Assurance Officer Phone Number:
+Laboratory Owner:
+Laboratory Contact Person:
+Title of Contact Person:
+Contact Email:
+Contact Phone Number:
+State Regulatory Agency the Laboratory Reports to (select all that apply):
+☐ Division of Drinking Water
+☐ State Water Resources Control Board
+☐ Regional Water Quality Control Board(s):
+☐ Department of Toxic Substances Control
+☐ Department of Conservation
+☐ Other:
+Number of Full-time Technical Employees:
+Number of Part-time Technical Employees:
+
+[page 3] Page 3 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation PART B – TYPE OF AMENDMENT
+Select all the apply:
+☐ Change in Name – Complete Parts C, L, and M
+☐ Change in Location (In-State Laboratory) – Complete Parts D, F, G, H, I, J, L, and M
+☐ Change in Location (Out-of-State Laboratory) – Complete Part D, F, G, H, K, L, and M
+☐ Addition of a Satellite or Mobile Laboratory to Existing Accreditation – Complete Parts E, F, G, I, J, L, and M
+☐ Addition or Reinstatement of Field(s) of Accreditation to a current accreditation – Complete Parts G, H, I, J, L and M
+☐ Addition or Reinstatement of Field(s) of Accreditation to a current Out-of-State Laboratory certificate – Complete G, H, I, K, L and M PART C – CHANGE OF NAME
+Previous Name of Laboratory:
+New Name of Laboratory:
+PART D – CHANGE IN LOCATION
+Previous Laboratory Address (physical location):
+Street:
+City: State: Zip:
+New Laboratory Address (physical location):
+Street:
+City: State: Zip:
+New Laboratory Mailing Address (if different from physical location):
+Street:
+City: State: Zip:
+
+[page 4] Page 4 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation Is this a Mobile Laboratory?
+☐ Yes ☐ No
+If this is a Mobile Laboratory:
+Vehicle Make:
+Vehicle License #:
+Model:
+State of Registration:
+Vehicle ID #:
+PART E – ADDITION OF A SATELLITE OR MOBILE LABORATORY TO EXISTING ACCREDITATION
+A separate application form is required for each satellite or mobile laboratory.
+Name of Satellite Laboratory:
+Satellite Laboratory Address (physical location):
+Street:
+City: State: Zip:
+Satellite Laboratory Mailing Address (if different from physical location):
+Street:
+City: State: Zip:
+Is this a Mobile Laboratory?
+☐ Yes ☐ No
+If this is a Mobile Laboratory:
+Vehicle Make:
+Vehicle License #:
+Model:
+State of Registration:
+Vehicle ID #:
+Satellite Laboratory Technical Manager:
+Satellite Laboratory Quality Manager:
+Satellite Laboratory Owner:
+Satellite Laboratory Contact Person:
+
+[page 5] Page 5 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation Number of Full-time Technical Employees:
+Number of Part-time Technical Employees:
+PART F – TECHNICAL MANAGER QUALIFICATIONS
+☐ CCR 64812.00 (a) – Education + Experience
+☐ CCR 64812.00 (b) – CWEA Laboratory Analyst Certification Grade: Expiration Date:
+☐ CCR 64812.00 (b) – CA-NV AWWA Water Quality Analyst Certification Grade: Expiration Date:
+Include copies of applicable degrees and/or Laboratory Analyst/Water Quality Analyst Certificates as attachments to the application.
+PART G – FIELD OF ACCREDITATION TABLES (EXCEL FILE FORMAT)
+Populate the Field(s) of Accreditation Tables for which the laboratory is seeking accreditation by placing a (Y) in the appropriate column. If you are seeking to add or reinstate methods to an existing certificate, select only the methods you are requesting be added – do not select the FOAs currently on the laboratory’s certificate. Submit the completed Field(s) of Accreditation Tables in Excel file format to allow for direct upload of the requested Fields of Accreditation to ELAP’s database.
+PART H – QUALITY MANUAL
+
+[page 5] PART H – QUALITY MANUAL
+Submit an electronic copy of the laboratory Quality Manual. The Quality Manual must meet the requirements of the 2016 TNI Standard Volume 1 – Revision 2.1, Module 2, Section 4.2.8.3 and 4.2.8.4.
+PART I – PROFICIENCY TESTING
+Submit electronic copies of the laboratory’s Proficiency Testing study results with acceptable scores for each Field of Accreditation in the application. Proficiency Testing must comply with the requirements of California Code of Regulations, title 22, section 64802.15.
+Laboratories seeking renewal accreditation for aquatic toxicity testing must include a current reference toxicant control chart for each method, species, and endpoint.
+
+[page 6] Page 6 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation PART J – ON-SITE ASSESSMENT
+Submit electronic copies of documentation from the laboratory’s On-Site Assessment that complies with the requirements of California Code of Regulations, title 22, section 64802.20.
+Date of On-Site Assessment:
+Assessment Performed By:
+☐ ELAP
+☐ Third-Party Assessment (TPA) Agency
+Organization Name:
+☐ TNI State Accreditation Body:
+Checklist for Required Documentation for Third-Party Assessments or TNI State Accrediting Body:
+NOTE: Each assessment package should contain these required items when the final package is submitted to the laboratory by its assessment provider after the close of the assessment. Laboratories are expected to submit the full package to ELAP as part of their application without modifying the contents.
+☐ Close-Out Letter & Summary
+☐ Laboratory Third-Party Assessor (TPA) Commitment and Qualification Statement and Conflict of Interest (COI) Form
+☐ Finalized List of Methods of Fields of Accreditation ☐ On-Site Assessment Report (OSAR)
+☐ Corrective Action Plan(s) and Assessor Responses ☐ Checklists Utilized for the Assessment
+
+[page 6] ☐ Corrective Action Plan(s) and Assessor Responses ☐ Checklists Utilized for the Assessment
+☐ TNI State Accreditation Certificate and Scope
+Detailed explanations of these requirements are available online at:
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/documents/tpa-packets-requirements.pdf
+PART K – PRIMARY ACCREDITATION (FOR OUT-OF-STATE LABORATORIES ONLY)
+Submit electronic copies of documents for the laboratory’s primary accreditation.
+Primary Accrediting Body 1:
+Certificate Start Date:
+Certificate Expiration Date:
+
+[page 7] Page 7 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation Checklist of Required Documents (must be official documents from the accrediting body):
+☐ Certificate of Accreditation
+☐ Scope of Accreditation
+☐ On-Site Assessment Report
+☐ Approved Corrective Action Plan (CAP)
+☐ Completed California-specific Regulatory Requirements Addendum, available for download here.
+Primary Accrediting Body 2:
+Certificate Start Date:
+Certificate Expiration Date:
+Checklist of Required Documents (must be official documents from the accrediting body):
+☐ Certificate of Accreditation
+☐ Scope of Accreditation
+☐ On-Site Assessment Report
+☐ Approved Corrective Action Plan (CAP)
+☐ Completed California-specific Regulatory Requirements Addendum, available for download here.
+PART L – APPLICATION FEE
+The fee calculator table must be completed or the application will be returned.
+The Amendment Application includes a non-refundable application fee based on the number for Fields of Accreditation in the Amendment Application. You will receive an invoice with instructions for payment once your application has been received.
+Fee Component Price My Cost
+
+[page 7] Fee Component Price My Cost
+Applications including 49 or fewer FOAs $1,950
+Applications including 50 or more FOAs $3,250
+Total Amendment Application Fee
+
+[page 8] Page 8 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation HOW TO PAY
+Option 1: Online Payments (via Visa, MasterCard, or Discover):
+1. Visit http://www.officialpayments.com/ and select “State Payments” 2. On the “Make A Payment” page, select the following:
+a. State or Territory – Select California
+b. Payment Entity – Select State Water Resources Control Board c. Payment Type – Select Invoices
+3. Select the “Make A Payment” button
+4. In the “SWRCB Invoice Types” drop down menu on the bottom of the page, select “Environmental Laboratory Accreditation Program (ELAP) Invoice” and click “Search”
+5. Input the “SWRCB Invoice Number” and “Amount” from the laboratory’s Renewal Application and Fee Notice, then click the green “ADD” button 6. Select “View Cart”
+7. If everything is correct, select “Continue” to input payment information and submit.
+Option 2: Manual payments (via check, money order, or cashier’s check):
+1. Make your payment payable to the State Water Resources Control Board 2. Include the ELAP invoice number from the laboratory’s Renewal Application and Fee Notice on the payment
+3. Remit payment to one of the following addresses:
+
+[page 8] 3. Remit payment to one of the following addresses:
+State Water Resources Control Board Accounting Department ATTN: ELAP FEES
+PO Box 1888
+Sacramento, CA 95812-1888
+Or
+State Water Resources Control Board Accounting Department ATTN: ELAP FEES
+1001 I Street, 18th Floor
+Sacramento, CA 95814
+(physical address for courier services)
+
+[page 9] Page 9 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation PART M – CERTIFYING SIGNATURES AND CURRENT MANAGEMENT The Technical Manager and Quality Manager must certify below that the laboratory location or ownership has not changed since the prior application, and re-affirm the laboratory’s commitment to compliance with the Environmental Laboratory Accreditation Act and its regulations (Cal. Code Regs., title 22, chapter 19, articles 1 through 7):
+Name of Technical Manager:
+Signature: Date:
+Name of Quality Manager:
+Signature: Date:
+The owner, owner’s agent, or corporate officer authorized to act on behalf of the laboratory, is authorized to sign and submit this document and certifies that all information contained within is true and accurate.
+Name of Representative Submitting Application:
+Signature: Date:
+
+[page 10] Page 10 of 10
+SWRCB 242 (Rev. 01/2026) Application for Amendment of ELAP Accreditation State Water Resources Control Board Privacy Notice on Collection Civil Code section 1798.17 requires a Privacy Notice on Collection to be provided when personal information is collected. Individuals have the right to review personal information maintained by the State Water Resources Control Board unless access is exempted by law. You may review your records by contacting the official responsible for maintaining your information below. We will not disclose your personal information unless authorized by law. To learn more about our Privacy Policy, visit waterboards.ca.gov/privacy.html.
+Authority for Collection of Personal Information
+ELAP collects the information requested on this form under the authority of the Environmental Laboratory Accreditation Act, Health & Safety Code sections 100825– 100875.
+
+[page 10] ELAP collects the information requested on this form under the authority of the Environmental Laboratory Accreditation Act, Health & Safety Code sections 100825– 100875.
+Principal Purpose for Which the Information Collected is to Be Used The information will be used by the State Water Resources Control Board and its programs to administer program requirements, verify compliance with applicable statutes and regulations, and evaluate applications, permits, or submissions relevant to program responsibilities. This includes ensuring compliance with applicable laws, supporting program operations, and maintaining the integrity and reliability of services provided through ELAP.
+Consequences of Not Providing Any or All Parts of the Requested Information All requested information is mandatory unless otherwise specified. Failure to provide the required information may delay processing, result in inability to evaluate the application, or prevent the laboratory from receiving accreditation.
+Please do not include any personal information that is not requested.
+
+[page 10] Please do not include any personal information that is not requested.
+Known or Foreseeable Disclosures of Personal Information Personal information may be shared with other units or state departments for the purposes of program administration, compliance verification, or as otherwise required under California law. Information may also be shared with other state or federal agencies for accreditation, regulatory, or enforcement purposes.
+Official Responsible for Maintenance of Information Christine Sotelo, ELAP Manager
+Contact Information for Responsible Official
+1001 I St.
+Sacramento, CA 95814
+(916) 323-3431

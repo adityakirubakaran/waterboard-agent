@@ -1,0 +1,229 @@
+Site Cleanup Program (SCP)
+https://www.waterboards.ca.gov/water_issues/programs/site_cleanup_program/
+Date printed: 10/20/2026
+
+The Site Cleanup Program, or SCP, is California's statewide program that oversees the cleanup of contaminated properties not owned by the military, where chemicals have been spilled or leaked into soil, groundwater, surface water, or underground vapors, either recently or long ago. It covers a wide range of sites like dry cleaners, rail yards, ports, factories, auto shops, power plants, and oil refineries, and deals with many different pollutants including cleaning solvents, pesticides, heavy metals, fuel, hexavalent chromium, and PFAS or "forever chemicals." It does not cover leaking underground gas tanks, which are handled by a separate Underground Storage Tank Program. The program is run by the State Water Board and nine Regional Water Boards under California water quality law, where regional staff make sure the responsible parties do the cleanup and try to get the water back to normal or as clean as reasonably possible, while the State Board manages the statewide budget, laws, and coordination with other agencies. There are currently about 5,300 open sites in the program, with about 4,270 actively being cleaned up (as of April 2026).
+
+## Highlights
+- Information to come soon!
+Vapor Intrusion
+Site Cleanup Subaccount Program (SCAP)
+GeoTracker
+UST and Site Cleanup Programs
+
+## DoD Cleanup Program
+- Authorities, Resolutions, and Orders
+- Guidelines
+- Applicable Memorandums of Agreement/Understanding
+- Factsheets/Stories
+- Training
+- Resources
+- California WC Section 13001 Legislative intent
+- California WC Section 13304 Cleanup and Abatement
+- California WC Section 13365 Billing, cost recovery, requirements
+- California WC Section 13267 Investigations; inspections
+- AB-304 Contaminated sites: waste releases or surface or groundwater contamination: local oversight: remedial actions.
+- Resolution No. 92-49 – Cleanup and Abatement Policies and Procedures
+- Resolution 88-63
+- Resolution 68-16 - Antidegradation Policy
+- Regional Board Basin Plans
+- California Sea Level Rise Mitigation and Adaptation Act of 2021 (SB1)
+- Supplemental VI Guidance Final Draft; February 2023; CalEPA, DTSC, Waterboards
+- Final Guidance for the Evaluation and Mitigation of Subsurface Vapor Intrusion to Indoor Air (Vapor Intrusion Guidance); October 2011; CapEPA, DTSC – Vapor Intrusion Guidance
+- Sea Level Rise Guidance to DTSC Project Managers for Cleanup Activities; October 2024; DTSC; Revised
+
+## DoD Cleanup Program
+- Sea Level Rise Guidance to DTSC Project Managers for Cleanup Activities; October 2024; DTSC; Revised
+- Memorandum of Agreement (MOA) Brownfields (adopted March 1, 2005) – an agreement to improve coordination between DTSC, the State Water Board and the Regional Water Boards with regards to the oversight of investigation and cleanup activities at brownfield sites.
+- Incidental Discharges and Coordination During Oil Spill Response MOU (adopted December 9, 2019) - addresses discharges, other than dispersants, incidental to or directly associated with the response, containment, and cleanup of an existing or threatened Oil Spill (Incidental Discharges) [Gov. Code § 8670.7(i)].
+- Cleanup Programs Fact Sheet
+- Site Cleanup Program Story
+- Fact Sheet – Requirements for Submitting Technical Reports Under Sec 13267
+- California Water Board's Cleanup Programs Fact Sheet_January 2023
+- U.S. EPA’s Contaminated Site Cleanup Information (CLU-IN)
+- Interstate Technology and Regulatory Council (ITRC)
+- Environmental Data Management Best Practices: Overview of Guidance Documents – EDM (ITRC)
+- PFAS — Per- and Polyfluoroalkyl Substances (ITRC)
+- Vapor Intrusion
+
+## DoD Cleanup Program
+- Vapor Intrusion
+- Vapor Intrusion Toolkit - ITRC | ITRC: The ITRC Vapor Intrusion Toolkit replaces, combines, and updates three previous ITRC vapor intrusion (VI) documents: Vapor Intrusion Pathway: A Practical Guidance (VI-1, 2007), Petroleum Vapor Intrusion: Fundamentals of Screening, Investigation, and Management (PVI 1, 2014), and Technical Resources for Vapor Intrusion Mitigation (VIM-1, 2021).
+- UST and Site Cleanup Programs Home
+- Water Boards Cleanup Programs Fact Sheet
+- Per- and Polyfluoroalkyl Substances (PFAS) | California State Water Resources Control Board
+- The Groundwater Ambient Monitoring and Assessment (GAMA) Program | California State Water Resources Control Board
+- Mining | Central Valley Regional Water Quality Control Board
+- Land Disposal Program | California State Water Resources Control Board
+
+## Program Details > Types of Orders in the Site Cleanup Program
+The Site Cleanup Program uses several orders under the Water Code to require investigation and cleanup of contaminated sites, as follows:
+13267 Order / Investigative Order
+Authority is provided via Water Code Section 13267. It requires a suspected discharger to submit technical or monitoring reports, studies, or other information needed to investigate a discharge.
+Cleanup and Abatement Order (CAO)
+Authority is provided via Water Code Section 13304. It orders a discharger to “cleanup and abate waste” where they caused or permitted waste to be discharged into waters of the State. CAOs are sometimes combined with 13267 authority: “Cleanup and Abatement and 13267 Order” or “Cleanup and Abatement and Investigative Order”.
+Time Schedule Order (TSO)
+Authority is provided via Water Code Section 13300. It sets a time schedule for achieving compliance with requirements.
+Administrative Civil Liability (ACL) Complaint
+An ACL complaint issued by the Regional Board Executive Officer to impose monetary penalties for violations.
+All are guided by State Water Board Resolution No. 92-49, “Policies and Procedures for Investigation, Cleanup and Abatement of Discharges Under Water Code Section 13304”.
+
+## Program Details > Types of Orders in the Site Cleanup Program
+All are guided by State Water Board Resolution No. 92-49, “Policies and Procedures for Investigation, Cleanup and Abatement of Discharges Under Water Code Section 13304”.
+Please refer to the Site Cleanup Program Funding Mechanisms tab (next tab/dropdown) for more information.
+
+## Program Details > Site Cleanup Program Funding Mechanisms
+- Voluntary Cleanup Agreements
+The majority of SCP sites are voluntary cleanups where the responsible party voluntarily signs an agreement with the Water Boards to perform the investigation and cleanup through the State Water Board’s Cost Recovery Program. Through the authority provided in California WC Sections 13267, 13304 and 13365, reasonable expenses incurred by the State Water Board and the Regional Water Boards in overseeing water quality matters can be recovered from the responsible party (RP). For a site to be placed in the cost recovery program, a responsible party, a person or entity responsible for cleaning up a contaminated site, must first be identified. The responsible party agrees to and signs an acknowledgement form stating their intent to pay oversight bills; in return, they receive help from Regional Water Board staff in cleaning up the site to regulatory standards. An account is set up for Regional Water Board and State Water Board staff charges, cost recovery invoices are issued quarterly to the RPs, and RP payments are returned to the Cleanup and Abatement Account (CAA).
+
+## Program Details > Site Cleanup Program Funding Mechanisms
+- Obligatory Cleanup and Funding Via the Issuance of a Cleanup and Abatement Order
+California WC Section 13304 authorizes the State Water Board to issue a “cleanup and abatement order” (CAO) requiring a discharger to cleanup and abate waste, “where the discharger has caused or permitted waste to be discharged or deposited where it is or probably will be discharged into waters of the State and creates or threatens to create a condition of pollution or nuisance.” In cases where a CAO is issued, the Order provides the basis for reimbursement of State Water Board and Regional Water Board oversight costs. CAOs allow the Water Board to automatically enroll a responsible party into Cost Recovery to recover costs associated with cleanup oversight.
+
+## Program Details > Site Cleanup Program Funding Mechanisms
+- Funding of Cleanup using the Cleanup and Abatement Account (CAA)
+Funds from the Cleanup and Abatement Account (CAA) may be used for site cleanup and oversight. Generally, CAA funds are provided for the emergency cleanup or abatement of pollution where there are no viable responsible parties (RP) available to undertake the immediate work. The CAA is funded by monies: (a) appropriated by the Legislature; (b) contributed to the CAA by any person and accepted by the State Water Board; (c) collected as part of criminal penalties and all moneys collected civilly under any proceeding brought pursuant to any provision of Division 7 of the California Water Code; and (d) recovered pursuant to California Water Code Section 13304. The State Water Board, the Regional Water Boards, and any public agency with the authority to clean up waste or abate the effects of waste on Waters of the State may apply to utilize the account.
+
+## Program Details > Site Cleanup Program Funding Mechanisms
+- Site Cleanup Subaccount Program (SCAP)
+The SCAP is a funding program that was established by Health & Safety Code Section 25299.50.6 in 2014 by SB 445 (Hill, 2014). It allows the State Water Board to issue grants or contracts for reasonable and necessary costs associated with projects that investigate the source of surface or groundwater contamination and/or remediate the harm or threat of harm to human health, safety, or the environment caused by existing or threatened surface or groundwater contamination.
+- Grants and Loans for Brownfield Sites
+Brownfields are underutilized properties where reuse is hindered by the actual or suspected presence of pollution or contamination. Cleanup and redevelopment of these sites benefit the environment and communities by eliminating pollution and contamination problems, allowing economic growth, and revitalizing neighborhoods. Refer to the Brownfields website for the various grant and loan programs that are available to help assess and clean up brownfield sites in California. And for an overview of Brownfields, see the tab below called Brownfields under the title 'Other Cleanup-Related Activities That Fall Under the SCP'.
+
+## Program Details > Applicable Regulation
+California WC Section 13001 Legislative intent - it is the intent of the Legislature that the State Water Board and each Regional Water Board act as the principal state agencies with primary responsibility for the coordination and control of water quality.
+California WC Section 13304 Cleanup and Abatement - it is required that any person who has discharged or discharges waste into waters of the state in violation of any waste discharge requirement or other order or prohibition issued by a Regional Water Board or the State Water Board, or who has caused or permitted, causes or permits, or threatens to cause or permit any waste to be discharged or deposited where it is, or probably will be, discharged into the waters of the state and creates, or threatens to create, a condition of pollution or nuisance may be required to clean up the discharge and abate the effects thereof.
+
+## Program Details > Applicable Regulation
+California WC Section 13365 Billing, cost recovery, requirements - the adoption of a billing system for the cost recovery of investigation, analysis, planning, implementation, oversight, or other activity performed by State Water Board Regional Water Boards related to the removal or remedial or corrective action of a release of a hazardous substance.
+California WC Section 13267 Investigations & inspections - A Regional Water Board, in establishing or reviewing any water quality control plan or waste discharge requirements, or in connection with any action relating to any plan or requirement authorized by this division, may investigate the quality of any waters of the state within its region. The Regional Water Boards can require that responsible parties investigate the discharge and threatened discharge of toxic pollutants.
+
+## Program Details > Applicable Policies and Procedures
+Resolution 92-49 - adopted at a meeting of the State Water Board, held on June 18, 1992, and amended at meetings held on April 21, 1994, and October 2, 1996, describes the policies and procedures for investigation and cleanup and abatement of discharges explained in California WC Section 13304. The resolution also provides detailed information on when the establishment of a containment zone is appropriate and consistent with the maximum benefit to the people of the State. It also provides the requirements of establishing and maintaining a site's containment zone.
+Resolution 88-63 (also known as Sources of Drinking Water) – established the statewide policy that all surface and groundwaters of the State are considered to be suitable, or potentially suitable, for municipal or domestic water supply and should be designated for this use, with certain exceptions. The exceptions for groundwater are:
+- The groundwater’s TDS exceeds 3,000 mg/L (5,000 microSiemens per centimeter (μS/cm), electrical conductivity), and it is not reasonably expected by the Water Boards to supply a public water system; or
+
+## Program Details > Applicable Policies and Procedures
+- There is contamination, either by natural processes or by human activity (unrelated to the specific pollution incident), that cannot reasonably be treated for domestic use through implementation of BMPs or best economically achievable treatment practices; or
+- The water source does not provide sufficient water to supply a single well capable of producing an average, sustained yield of 200 gallons per day; or
+- The aquifer is regulated as a geothermal energy-producing source or has been exempted administratively pursuant to 40 Code of Federal Regulations (CFR), Section 146.4 for the purpose of underground injection of fluids associated with the production of hydrocarbon or geothermal energy, provided that these fluids do not constitute a hazardous waste under 40 CFR, Section 261.3.
+Resolution 68-16 (also known as the Antidegradation Policy) - protects water bodies where existing quality is higher than necessary for the protection of beneficial uses. Under the Antidegradation Policy, any actions that can adversely affect water quality in all surface and ground waters must
+- Be consistent with maximum benefit to the people of the State;
+
+## Program Details > Applicable Policies and Procedures
+- Be consistent with maximum benefit to the people of the State;
+- Not unreasonably affect present and anticipated beneficial use of the water; and
+- Not result in water quality less than that prescribed in water quality plans and policies.
+Regional Water Board Basin Plans - designed to preserve and enhance water quality and protect the beneficial uses of all regional waters. Specifically, Basin Plans designate beneficial uses for surface and ground waters, set narrative and numerical objectives that must be attained or maintained to protect the designated beneficial uses and conform to the state’s Antidegradation Policy, and describe implementation programs to protect all waters in the region. In addition, Basin Plans incorporate by reference all applicable state and Regional Water Board plans and policies and other pertinent water quality policies and regulations.
+
+## Program Details > GeoTracker
+The Geotracker database is the storehouse of site information for sites in California that the Regional Water Boards oversee; the database also stores information for cleanup sites that are overseen by cities, counties, and health agencies in the State.
+The California Department of Toxic Substances Control (DTSC) database, Envirostor, is similar to the Geotracker database and can also be accessed to view cleanup sites; the database contains sites that are primarily overseen by DTSC.
+
+## Program Details > Regional Water Board SCP Links
+Region 1: https://www.waterboards.ca.gov/northcoast/water_issues/programs/site_cleanup.html
+Region 2: https://www.waterboards.ca.gov/sanfranciscobay/sitecleanup.html
+Region 3: https://www.waterboards.ca.gov/centralcoast/water_issues/programs/scp/
+Region 4: https://www.waterboards.ca.gov/losangeles/water_issues/programs/remediation/
+Region 5: https://www.waterboards.ca.gov/centralvalley/water_issues/site_cleanup/
+Region 6: https://waterboards.ca.gov/lahontan/water_issues/programs/site-cleanup/
+Region 7: https://www.waterboards.ca.gov/coloradoriver/water_issues/programs/slic/
+Region 8: https://www.waterboards.ca.gov/santaana/water_issues/programs/scp/
+Region 9: https://www.waterboards.ca.gov/sandiego/water_issues/programs/ground_water_basin/
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Water Quality Petitions
+The State Water Board is at times involved with SCP petitions that are filed by an aggrieved person to review an action or failure to act by a Regional Water Board, as described in California WC Section 13320. Upon review, the State Water Board may find that the action of the Regional Water Board, or the failure of the Regional Water Board to act, was appropriate and proper or, may determine that the action or failure to act was in fact inappropriate. If inappropriate or improper, the State Water Board may direct the Regional Water Board that the appropriate action be taken, refer the matter to another state agency having jurisdiction, take the appropriate action itself, or take any combination of said actions. In taking any action, the State Water Board is vested with all the powers of the Regional Water Boards under this division.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Water Quality Petitions
+An aggrieved person desiring to submit a petition would send in the request via email to waterqualitypetitions@waterboards.ca.gov. The email is received by the Office of Chief Counsel (OCC). If OCC needs assistance in responding to the submitted petition, they will contact the SCP program lead at the State Water Board. For more information, please see the Water Quality Petitions website.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Proposition 65 - Mandatory Reporting Requirements
+Proposition (Prop) 65, also known as the Safe Drinking Water and Toxic Enforcement Act, was established in 1986. The law protects the state's drinking water sources from being contaminated with chemicals known to cause cancer, birth defects or other reproductive harm, and requires businesses to inform Californians about exposures to such chemicals.
+There are several important requirements of Prop 65:
+- It states that no business shall knowingly and intentionally expose any individual to a chemical known to cause cancer or reproductive toxicity without giving a clear and reasonable warning. Businesses are required to provide warnings about these exposures to the public. [Health & Safet Code (HSC) Division 20, Chapter 6.6, Section 25249.6]
+- It requires the state to maintain and update the list of chemicals subject to the law’s requirements. The Office of Environmental Health Hazard Assessment administers the Prop 65 program and determines whether chemicals should be placed on the Prop 65 list through an agency scientific and public review process.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Proposition 65 - Mandatory Reporting Requirements
+- It also requires government employees to report illegal discharges or threatened illegal discharges within 72 hours of finding out about a Prop 65 release. The lead agency for Prop 65 releases is the California Office of Environmental Health Hazard Assessment.
+There are five required elements that must be met by law. The elements are as follows:
+- The designated employee must obtain information in the course of his or her official duties;
+- The information must reveal an illegal discharge or threatened illegal discharge;
+- The information must show that the illegal discharge or threatened illegal discharge is of a hazardous waste;
+- The discharge is occurring within the geographical area of his or her jurisdiction; and
+- The employee must know that such discharge or threatened discharge is likely to cause substantial injury to the public health or safety.
+For more general information regarding Prop 65, see California’s main website on the topic at Proposition 65 Warnings Website - Your right to know.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > California Land Reuse and Revitalization Act (CLRRA)
+The 2004 California Land Reuse and Revitalization Act (CLRRA) provides liability protection to buyers and owners of brownfield sites who agree to investigate and clean up contaminated properties under the oversight of the Department of Toxic Substances Control (DTSC) or a Regional Water Board. When groundwater contamination is involved, the associated Regional Water Board usually acts as the lead agency. Eligible parties (bona fide purchasers, innocent landowners, or contiguous property owners) can enter into an agreement with the Regional Water Board to obtain immunity from certain state liability claims. The process involves submitting an application, entering an agreement, conducting a site assessment, and implementing a response plan approved by the lead agency. For more information see the CLRRA Fact Sheet.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Brownfields
+Brownfields are underutilized properties where reuse is hindered by the actual or suspected presence of pollution. Cleanup and redevelopment of these sites benefits communities by removing the threats to human health and the environment, stimulating economic growth, and revitalizing neighborhoods. Urban infill brownfield redevelopment in neighborhoods with existing public infrastructure eliminates neighborhood blight and improves the community's image and long-term sustainability. Infill development also increases property values, creates potential for increased jobs, adds to local tax revenues and improves public health.
+California Environmental Protection Agency (CalEPA) Oversight Agency Determination Memorandum of Understanding (MOU)
+CalEPA's regulatory boards and departments, including the State Water Board, the Regional Water Boards, and DTSC, play an essential role in cleaning up brownfields sites to protect public health and the environment.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Brownfields
+In order to improve coordination of oversight activities at brownfields sites, DTSC, the State Water Board, and the Regional Water Boards agreed to a Brownfield Memorandum of Agreement (MOA). The MOA limits oversight of a brownfields site to one agency, establishes procedures and guidelines for identifying the lead agency, calls for a single uniform site assessment procedure, requires all cleanups to address the requirements of the agencies, defines roles and responsibilities, provides for ample opportunity for public involvement, commits agencies to review timeframes, and commits agencies to coordinate and communicate on brownfields issues.
+To access the application to request agency oversight, refer to DTSC's Brownfields webpage.
+Financial Assistance - Brownfields
+Various grant and loan programs are available to help assess and/or clean up brownfield sites in California:
+- Water Board Underground Storage Tank Cleanup Fund (USTCF) (petroleum UST only)
+- Water Board Orphan Site Cleanup Fund (OSCF) Program (petroleum UST only)
+- California Pollution Control Financing Authority (CPCFA)
+- USEPA Brownfields and Land Revitalization Program
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Brownfields
+- USEPA Brownfields and Land Revitalization Program
+For more information on potential funding sources for brownfields sites, refer to the Center for Creative Land Recycling's funding list. Detailed information is provided on the various state and federal brownfields funding sources for assessment, cleanup, and redevelopment work.
+Applicable Brownfields Legislation
+- Polanco Redevelopment Act
+- Site Designation Committee
+Additional Resources
+- Brownfield Land
+- Brownfields Program Contacts
+
+## Other Cleanup-Related Activities That Fall Under the SCP > AB 304 – Local Agency Cleanup Case Oversight
+Effective January 1, 2022, Assembly Bill 304 (AB 304) amended multiple sections of the California Health and Safety Code regarding local agency oversight of contaminated site cleanups. The primary amended sections are 25299.50.6, 101480, 101483, 101485, and 101487. The regulations regarding oversight of cleanup by local health agencies at non-petroleum sites were tightened. Per AB 304, agencies must now meet stricter notification standards such as increased documentation requirements regarding staff qualifications, electronic recordkeeping requirements, and notification requirements to include the appropriate agencies/departments/boards. Furthermore, local oversight was expanded for sites funded by the Site Cleanup Subaccount Program (SCAP). SCAP assists with the cleanup of contaminated sites that are often located within vulnerable communities.
+For more information, refer to the following: AB 304 Local Agency Oversight for Site Cleanup | California State Water Resources Control Board
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Cortese List
+The Cortese List was established in the late 1980s under California Government Code §65962.5, which requires CalEPA to compile and update it annually. The Department of Public Health, Department of Toxic Substances Control, and the California Water Boards all have different requirements for adding sites to the Cortese List (see Cortese List Background and History | CalEPA). Water Boards SCP sites are included when they meet statutory criteria such as having a Cease and Desist Order for a documented release of hazardous materials (Water Code 13301) or a Cleanup and Abatement Order (Water Code 13304) issued after January 1, 1986.
+Cortese List for all agencies: Cortese List Data Resources | CalEPA
+Cortese List for Water Boards: Cortese List: Section 65962.5(c) | CalEPA
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Sea Level Rise (SLR)
+State agencies are mandated to incorporate best-available SLR science into planning, permitting, and investment decisions. Authority is provided under the California Sea Level Rise Mitigation and Adaptation Act of 2021 (SB1), which directs state agencies to incorporate best-available SLR science into planning, permitting, and investment decisions.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Sea Level Rise (SLR)
+California state agencies collaborate on sea level rise (SLR) adaptation through joint initiatives involving the Ocean Protection Council (OPC), DTSC, and the State Water Board. This collaboration ensures that SLR projections, groundwater rise, and tidal flooding risks are systematically incorporated into water board permitting, infrastructure, and watershed policies. SLR framework is included in the State Agency Sea-Level Rise Action Plan. It is coordinated by the OPC and outlines a roadmap toward coastal resiliency actions for the state of California from Fiscal Year 2021-22 to 2024-25. OPC implements the Action Plan in partnership with the state Sea Level Rise Leadership team, which consists of 17 California state agencies who regulate, develop, and implement local, regional, and state policies regarding the coastal zone, climate change, and coastal resilience.
+The specific collaborative framework includes several core components:
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Sea Level Rise (SLR)
+The specific collaborative framework includes several core components:
+- Regional Climate Resiliency: Ensures that the State Water Board implements policies aligned with the 2024 State of California Sea-Level Rise Guidance, which establishes SLR projections used by all California regulatory bodies to safeguard coastal environments and water infrastructure. The current 2024 guidance, which replaces the 2018 version, reflects major advances in ice sheet science and local land motion data. The newest update projects about 0.8 feet of rise by 2050, 1.6 to 3.1 feet by 2100, and potentially up to about 12 feet by 2150, while embedding new policy requirements and a more precautionary planning framework.
+- Contaminant and Salinity Mitigation: A primary focus of this interagency coordination is preparing for and responding to the threat of rising sea levels pushing saltwater into freshwater aquifers and potentially mobilizing subsurface contaminants in shallow groundwater.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Sea Level Rise (SLR)
+- Regulatory Alignment: The State Water Board enforces the Once-Through Cooling (OTC) Policy, and under ongoing mitigation programs, it partners with OPC to direct mitigation payments toward marine life conservation in protected areas affected by coastal shifts.
+- Statewide Leadership: Both agencies are members of the SLR Leadership Team, which enforces tracking metrics outlined in the State Agency Sea-Level Rise Action Plan Update to guarantee accountability and continuous adaptation across state jurisdictions.
+As part of this effort, the State Water Board is developing a Cleanup Climate Action Tool (CCAT) within GeoTracker. This tool will identify sites that may be vulnerable to SLR and/or groundwater rise (GWR) and will generate a vulnerability score reflecting each site's potential risk. The scoring system is intended to help Cleanup Oversight Agencies prioritize locations that require more immediate and site-specific SLR Vulnerability Assessments, especially given the large number of sites needing review and the limited resources available.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > Sea Level Rise (SLR)
+CCAT will also include a SLR Vulnerability Screening Report, which will be publicly accessible along with the interactive map. Both the report and map will feature export options for users. – Coming in 2027
+Public Dashboard with DTSC – coming in 2027
+DTSC developed SLR guidance (Sea Level Rise Guidance to DTSC Project Managers for Cleanup Activities) for their Project Managers to evaluate SLR during the hazardous substance and hazardous waste cleanup process pursuant to existing authority. This Guidance aids project managers as they oversee a variety of sites, most notably active sites, including Land Use Covenant (LUC) - only sites, and sites with ongoing operation and maintenance activities due to waste being left in place. The guidance was revised in October 2024 based on comments received by stakeholders and other regulatory bodies, including comments from the Water Boards. Please refer to DTSC's SLR webpage portal for more information on SLR and climate change.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > California Land Reuse and Revitalization Act (CLRRA) Agreements
+The California Land Reuse and Revitalization Act of 2004 (CLRRA), effective January 1, 2005, was established to promote the cleanup and redevelopment of underutilized contaminated properties. CLRRA provides liability protections to qualified developers, innocent landowners, bona fide purchasers and contiguous property owners.
+Both the Department of Toxic Substances Control (DTSC) and the Water Boards can serve as the oversight agency, but for sites with impacts to soil, groundwater, surface water and sediment, the Regional Water Boards are the lead under the Site Cleanup Program. The State Water Board sets the statewide policy framework for investigation and cleanup under Water Code Sections 13267/13304 and Resolutions 92-49, 68-16, and 88-63, while the nine Regional Boards actually negotiate and implement the CLRRA agreements.
+
+## Other Cleanup-Related Activities That Fall Under the SCP > California Land Reuse and Revitalization Act (CLRRA) Agreements
+Under CLRRA, an eligible party submits an application, enters into a CLRRA Agreement with the Regional Water Board, then assumes responsibility for site assessment and implementation of a response action necessary to make the property ready for reuse. In return, upon entry of the agreement and acquisition of title, the party is entitled to the statutory immunities from Water Board liability for the existing contamination, provided they conduct the cleanup under Water Board oversight, provide reasonable access, and do not contribute to the pollution.
+CLRRA Table – Cleanup Program Sites with CLRRA Agreements (09/04/2026)
+
+## Stay informed > Email Subscription List
+Subscribe here to topic-specific email lists to receive notifications and the latest updates.
+Contact Us
+SCP Contact List: Site Cleanup Program Contacts | California State Water Resources Control Board
+For Site Cleanup Program questions, contact DWQ-SCP@waterboards.ca.gov
+For GeoTracker questions, contact the GeoTracker Help Desk at GeoTracker@waterboards.ca.gov
+(Page last updated 10/20/2026)

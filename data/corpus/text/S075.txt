@@ -1,0 +1,157 @@
+Regulation of Composting Operations
+https://www.waterboards.ca.gov/water_issues/programs/compost/
+Date printed: 12/22/2025
+
+## Regulation of Composting Operations > Quick Links
+- Current Requirements and Guidance
+- Implementation of the Composting General Orders
+- Composting Facility Location Map
+- Subscribe to the Composting Operations Email List
+- Contacts
+- Environmental Complaints
+- Past Activities and Documents
+- State of California Resources
+- Organic Materials Management
+The State Water Resources Control Board and Regional Water Quality Control Boards (Water Boards) are required to protect the quality and beneficial uses of the waters of the state. The California Water Code requires that anyone who discharges waste that could affect waters of the state must submit a report of waste discharge. Individual waste discharge requirements (WDRs), general WDRs, or waivers of WDRs may be issued with requirements and conditions to protect water quality.
+
+## Regulation of Composting Operations > Quick Links
+The State Water Board developed General Waste Discharge Requirements for Composting Operations (Composting General Order) to efficiently support the diversion of organic material from landfills to composting operations while providing requirements to protect water quality. The State Water Board certified the associated Environmental Impact Report (EIR) and adopted the Composting General Order on August 4, 2015(Resolution No. 2015-0054, Order WQ 2015-0121-DWQ). A revision to the Composting General Order was adopted and a supplemental EIR was certified on April 7, 2020 (Resolution No. 2020-0007). Revisions were incorporated into General Waste Discharge Requirements for Commercial Composting Operations (Order WQ 2020-0012-DWQ). Order WQ 2020-0012-DWQ amends Order WQ 2015-0121-DWQ. Together they are the Composting General Order.
+
+## Regulation of Composting Operations > Quick Links
+The Composting General Order includes requirements for Tier 1 and Tier 2 facilities. The requirements of the Composting General Order are not intended to be applied to all composting activities; rather, the tiered requirements are intended to apply to most commercial composting operations. The tier and applicability of the Composting General Order will depend on the types of feedstocks used, volume of materials on site, and hydrogeologic site conditions. Some composting operations are issued individual WDRs, are implementing requirements through other orders, and/or may be exempt from the Composting General Order.
+
+## Regulation of Composting Operations > Current Requirements and Guidance
+- General Waste Discharge Requirements for Composting Operations
+- GeoTracker – Electronic Submittal of Information (ESI) Guidance Manual: This ESI manual is intended to provide generalized step-by-step guidance for preparing and uploading compliance data and reports into the GeoTracker system. Submitting compliance data and reports to GeoTracker satisfies the reporting requirement of the Composting General Order, allows the lead regulatory agency caseworker to review, approve, or deny submittals, and makes reports accessible to the public.
+
+## Implementation of the Composting General Order > Background
+Upon adoption of the Composting General Order in 2015, the State Water Board directed staff to work with stakeholders to develop performance measures and report on performance measure progress and the status of enrollment and compliance with the Composting General Order. The adoption of the 2020 revisions did not modify goals or performance measures developed for the Composting General Order. These reports present information on the performance measures and implementation of the Composting General Order.
+The goals developed in collaboration with stakeholders are:
+- Assess water quality protection;
+- Provide effective and transparent communication of permit requirements and compliance information between regulators and stakeholders;
+- Support diversion of organic materials to composting and anaerobic digestion facilities and engage in the Healthy Soils Initiative; and
+- Assess implementation costs.
+A discussion of these goals and performance measures and how they relate to the data presented is provided in the 2023 implementation report. A discussion of organic materials management is also provided in the 2023 Report.
+
+## Implementation of the Composting General Order > Background
+Annual implementation reports describe the regulatory status of composting operations throughout the state. Reports describe the locations of composting operations enrolled under the Composting General Order and the composting methods and feedstocks utilized at each. The current compliance status for enrollees is shown in relation to the compliance methods chosen upon enrollment. Some facilities choose to implement groundwater protection monitoring programs for detection of potential migration of waste constituents to the environment in lieu of making structural changes to their facilities for groundwater protection. An evaluation of water quality monitoring data from enrolled facilities is provided. Evaluating facility and monitoring information will aid in assessing the adequacy of Composting General Order requirements.
+
+## Implementation of the Composting General Order > Annual Reports
+Starting in 2024, the annual implementation report is presented as an interactive dashboard and provides descriptions of composting operations enrolled under the Composting General Order. Past reports are also available below.
+- 2025 Report
+- 2024 Report
+- 2023 Report
+- 2022 Report
+- 2021 Report
+- 2020 Report
+
+## Regulation of Composting Operations > General Order Frequently Asked Questions (FAQs)
+Click on a title to view the content.
+- Why are there limitations on additives for Tier 1 and Tier 2 facilities?
+Additives are materials mixed with feedstocks or active compost to create favorable composting conditions. Generally, additives are incorporated at rates to consume or fix/immobilize constituents during active composting. A number of factors were considered during the development of additive limitations for each tier including the character and volume of material and potential threat to water quality, design specifications required for protection of water quality, additive limitations at existing facilities currently operating in the state pursuant to waste discharge requirements issued by the Regional Water Quality Control Boards, general standards of practice, and additive limitations imposed by other states.
+- Are there requirements for agricultural composting in the Composting General Order?
+
+## Regulation of Composting Operations > General Order Frequently Asked Questions (FAQs)
+- Are there requirements for agricultural composting in the Composting General Order?
+The Composting General Order, describes composting activities that produce compost for use on site, including agricultural sites, as conditionally exempt in Finding 30. There are four criteria that describe this exemption: (1) the facility receives, processes, and stores less than 25,000 cubic yards of material on site at any given time; (2) feedstocks consist of vegetative agricultural materials, green materials, and/or manure, all of which are generated by agricultural and/or similar activities; (3) the resulting compost product is returned to the same site, or a property owned by the owner of the composting activity and applied at an agronomic rate; and (4) no more than 5,000 cubic yards of compost product is given away or sold annually. To remain exempt, best management practices must be implemented.
+- Are all farms that compost manure required to enroll under the Composting General Order?
+
+## Regulation of Composting Operations > General Order Frequently Asked Questions (FAQs)
+- Are all farms that compost manure required to enroll under the Composting General Order?
+Agricultural facilities choosing to compost materials generated on site may be exempt from the requirements of the Composting General Order if the conditions specified in Finding 30 are satisfied. If the conditions specified for exemption from coverage under the Composting General Order are met, agricultural composting operations may still be required to obtain coverage under other permits such as stormwater permits or agriculture-specific waste discharge requirements.
+- Are all operations that compost manure required to enroll under Tier 2?
+
+## Regulation of Composting Operations > General Order Frequently Asked Questions (FAQs)
+- Are all operations that compost manure required to enroll under Tier 2?
+The applicability of the Composting General Order to composting manure depends on the use of manure in the composting process, as well as the overall volume of material on site. If there is less than 25,000 cubic yards of material on site and manure is used as an additive (up to 10% of the total volume), manure is acceptable at Tier 1 facilities. If there is less than 25,000 cubic yards of material on site and manure used as a feedstock, manure is acceptable at Tier 1 facilities if a groundwater protection monitoring plan is implemented. At Tier 2 facilities, manure and other allowable feedstocks are acceptable at volumes greater than 25,000 cubic yards on site at any given time. If manure is composted in a manner that meets the criteria for conditional exemptions in Finding 30 (on-site composting or operations with less than 5,000 cubic yard annual throughput) or meets the exemptions in Finding 31 (operations within a fully enclosed vessel or operations with less than 500 cubic yards at any given time), those activities may be exempt from the requirements of the Composting General Order.
+
+## Regulation of Composting Operations > General Order Frequently Asked Questions (FAQs)
+Composting operations conducted in a manner other than those defined in the Composting General Order or as exempted may be subject to individual waste discharge requirements issued by the Regional Water Quality Control Boards.
+- Can you compare the conditional exemption in the Composting General Order to the agricultural exclusion in California Code of Regulations, Title 14?
+The conditional exemption in Finding 30(a) of the Composting General Order is similar to the agricultural exclusion in California Code of Regulations, Title 14 (Title 14), Chapter 3.1, Article 2, Section 17855(a)(1); both set limits on feedstock source and the amount of finished compost that may be sold or given away.
+
+## Regulation of Composting Operations > General Order Frequently Asked Questions (FAQs)
+Feedstocks: The agricultural exclusion in Title 14 limits feedstocks to "agricultural material" as defined in Title 14, Chapter 3.1, Article 1, Section 17852(a)(5) which results directly from the conduct of agriculture, animal husbandry, horticulture, aquaculture, silviculture, vermiculture, viticulture and similar activities and includes, but is not limited to, manures, orchard and vineyard prunings, grape pomace, and crop residues. The conditional exemption in the Composting General Order limits feedstocks to vegetative agricultural materials, green materials, and/or manure, all of which are generated by production of farm, ranch, agricultural, horticultural, aquaculture, silvicultural, floricultural, vermicultural, or viticultural products.
+
+## Regulation of Composting Operations > General Order Frequently Asked Questions (FAQs)
+Product use: Both the agricultural composting exclusion in Title 14 and the conditional exemption in the Composting General Order encourage use of the finished product on site. No more than an incidental amount of up to 1,000 cubic yards of compost product may be given away or sold annually under the exclusion in Title 14 and no more than 5,000 cubic yards of compost final product may be given away or sold annually under the conditional exemption in the Composting General Order.
+Agricultural composting operations not eligible for the conditional exemption may be required to comply with the requirements of the Composting General Order. Similarly, agricultural operations not eligible for the agricultural exclusion may be subject to the Agricultural Material Composting Operations requirements of Title 14 (Title 14), Chapter 3.1, Article 2, Section 17856.
+
+## Regulation of Composting Operations > Composting Operations Map and List
+Click here or on the picture below for a statewide map and list of composting operations enrolled under the Composting General Order (Tier I and Tier II facilities) and operations with individual waste discharge requirements (WDRs). The map is continuously updated as operations enroll.
+
+## Regulation of Composting Operations > Past Activities and Documents
+- General Waste Discharge Requirements for Composting Operations (Order WQ 2015-0121-DWQ)
+- Resolution No. 2015-0054
+State of California Resources
+
+## State of California Resources > Financial Assistance Information
+- California Department of Food and Agriculture - FREP
+- Water Board's Division of Financial Assistance Grant and Loan Programs
+- Water Board's FAAST
+- CalRecycle's Grant, Payment, and Loan Programs
+- California Department of Food and Agriculture's Office of Environmental Farming & Innovation
+
+## Financial Assistance Information > Water Boards
+- State Water Resources Control Board
+- California Water Boards' Annual Performance Report
+- Biosolids Program
+- Central Valley Salinity Alternative for Long-Term Sustainability (CV-SALTS)
+- Data and Databases
+- California Integrated Water Quality System (CIWQS) | Geotracker (Groundwater Data)
+- Land Disposal Program: Waste Discharge Requirements
+- National Pollutant Discharge Elimination System (NPDES)
+- Storm Water | Wastewater
+
+## Financial Assistance Information > Regional Water Quality Control Boards
+- North Coast Regional Water Quality Control Board
+- San Francisco Bay Regional Water Quality Control Board
+- Central Coast Regional Water Quality Control Board
+- Los Angeles Regional Water Quality Control Board
+- Central Valley Regional Water Quality Control Board
+- Lahontan Regional Water Quality Control Board
+- Colorado River Basin Regional Water Quality Control Board
+- Santa Ana Regional Water Quality Control Board
+- San Diego Regional Water Quality Control Board
+
+## Financial Assistance Information > Department of Resources Recycling and Recovery
+- Organic Materials Management
+- Compostable Materials Management
+California Department of Food and Agriculture
+- Fertilizing Inspection Materials Program
+- Healthy Soils Initiative
+
+## Regulation of Composting Operations > Organic Materials Management
+Operations such as chip and grind facilities and land application activities use similar materials as those used at composting facilities; however, these activities are regulated differently because their processes are different from the composting process.
+
+## Organic Materials Management > Chip and Grind Facilities
+The chip and grind process mechanically reduces the size of green materials including tree and yard trimmings, untreated wood wastes, and natural fiber products. Organic material from chip and grind facilities can be used as feedstock for biomass energy, composting, or anaerobic digester facilities; or may be applied directly to land as a soil amendment. CalRecycle requires that chip and grind material not be on site for more than 48 hours (or up to 7 days with LEA approval) and must not reach active composting temperatures. The material holding time and temperature restrictions reduce the potential for materials to decompose.
+
+## Organic Materials Management > Chip and Grind Facilities
+Although organic materials do not remain for long periods of time at chip and grind facilities, the materials may pose a threat to waters of the state unless managed appropriately. The material holding time and temperature restrictions at these facilities limit the biological decomposition of organic materials and the leachate generation potential which reduces the threat to groundwater quality. However, the operations may pose a threat to surface water from runoff of sediment and organic particulates. Generally, chip and grind facilities are more appropriately regulated under the Industrial General Permit or individual WDRs.
+
+## Organic Materials Management > Land Application of Uncomposted Organic Materials
+Land application is the spreading of uncomposted organic materials on land such as rangeland and cropland. These materials are often mechanically size-reduced prior to spreading and may include materials from curbside green waste collection or agricultural activities such as grass clippings, leaves, garden waste, plant trimmings, bark, agricultural plants, or food waste. Uncomposted organic materials may contain metals, pathogens, nutrients g. nitrate), salts, or other waste constituents, and may harbor damaging insects. CalRecycle has requirements for land application of compostable materials. If not conducted appropriately, the application of uncomposted organic materials to land may impact surface and groundwater. Land application of uncomposted organic materials may be considered a discharge of waste to land subject to regulation by the Water Boards. Orders for land application of organic material require implementation of best management practices and include nutrient management planning, conditions requiring water quality monitoring of receiving waters, and corrective action when impairment is found.
+
+## Organic Materials Management > Land Application of Uncomposted Organic Materials
+Please report land application activities that may be impacting water quality to the Program Manager.
+Manure Management
+California’s animal agriculture operations produce large quantities of manure that must be managed appropriately to prevent water quality impairment. Materials such as manure may pose a higher threat to water quality due to concentrations of pathogens, nitrates, and salts. To reduce impacts to water quality from manure, many of the regional water boards adopted orders prescribing requirements for discharges from confined animal facilities. At agricultural operations, a variety of methods are used to manage manure, including land spreading, anaerobic digestion, and composting. As shown in the data dashboard, more than a third of composting facilities enrolled under the Composting General Order use manure as feedstock.
+
+## Organic Materials Management > Carcass Composting
+There is increasing interest in using composting as a method of managing animal mortalities at agricultural operations. CDFA is supporting research projects developing best management practices for composting carcasses. For example, CDFA contracted a research project with the California State University at Chico to study composting whole carcasses and butcher waste offal. Composting carcasses is not authorized under the Composting General Order. Composting carcasses may be conducted under other individual or general orders.
+
+## Regulation of Composting Operations > Subscribe to the Mailing List
+Subscribe to our Composting Operations email list to receive notifications and the latest updates. After subscribing, you will need to check your email host for a confirmation email to complete the subscription.
+
+## Regulation of Composting Operations > Contacts
+Questions?
+- Composting@waterboards.ca.gov
+- Contact your Regional Water Board
+If there are questions related to disposal of debris or animal carcasses from a disaster or emergency event, contact the Program Manager.
+
+## Regulation of Composting Operations > File an Environmental Complaint
+CalEPA Environmental Complaint System
+- CalEPA Environmental Complaint System
+- About the Environmental Complaint System
+(Page last updated 12/22/2025)

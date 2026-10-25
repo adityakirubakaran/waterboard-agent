@@ -1,0 +1,93 @@
+National Pollutant Discharge Elimination System (NPDES)
+https://www.waterboards.ca.gov/water_issues/programs/npdes/general_permits.html
+Date printed: 8/20/26
+
+## National Pollutant Discharge Elimination System (NPDES) > Overview
+The Water Boards develop and issue general permits to cover multiple facilities within a specific category. The use of general permits allows the Water Boards to allocate resources in a more efficient manner and provide timely permit coverage for large numbers of facilities in the same category. In addition, the use of a general permit ensures consistency of permit conditions for similar facilities. According to 40 CFR section 122.28, general permits may be written to cover categories of point sources having common elements, such as:
+- Storm water point sources ("Storm Water" is a separate program at the State Water Board) - see Stormwater program page
+- Facilities that involve the same or substantially similar types of operations
+- Facilities that discharge the same types of wastewater
+- Facilities that require the same effluent limitations or operating conditions
+- Facilities that require the same monitoring where tiered conditions may be used for minor differences within class (e.g., size or seasonal activity)
+- Facilities that are more appropriately regulated by a general permit
+
+## National Pollutant Discharge Elimination System (NPDES) > Overview
+- Facilities that are more appropriately regulated by a general permit
+However, general permits may only be issued to dischargers within a specific geographical area such as the following:
+- City, County, or State boundary
+- Designated planning area
+- Sewer district
+- Standard metropolitan statistical area
+- State highway system
+- Urbanized area
+
+## National Pollutant Discharge Elimination System (NPDES) > Additional Information
+- Ex Parte Disclosure Requirements for Pending General Orders
+Water Board General NPDES Wastewater Permits
+Below is a table that provides a list of NPDES Wastewater General Permits throughout California. It also provides a link to the program page or permit itself.
+Each general permit typically includes the following information:
+- How to apply for coverage under a general permit - see the" Notice of Intent" (NOI) form
+- How to request rescission from coverage - see the "Notice of Termination" (NOT) form
+- How to transfer ownership - some permits are not transferable so please read the permit carefully
+State or Regional Board Code | NPDES No. | Order No. | Permit Name | Issued Date | Expiration Date
+01 | CA0024902 | R1-2015-0003 | GENERAL NPDES PERMIT FOR LOW THREAT DISCHARGES | 03/12/2015 | 09/20/2020
+01 | CAG911001 | R1-2011-0028 | TREATED GROUNDWATER PETROLEUM HYDROCARBON & VOLATILE ORGANIC COMPOUND | 05/05/2011 | 05/04/2016
+01 | CAG011001 | R1-2012-0001 | CONCENTRATED ANIMAL FEEDING | 01/19/2012 | 01/18/2017
+02 | CAG032012 | R2-2012-0050 | DRY DOCK GENERAL PERMIT | 06/13/2012 | 07/31/2017
+02 | CAG382001 | R2-2009-0033 | SURFACE WATER TREATMENT | 04/08/2009 | 02/28/2015
+
+## National Pollutant Discharge Elimination System (NPDES) > Water Board General NPDES Wastewater Permits
+State or Regional Board Code | NPDES No. | Order No. | Permit Name | Issued Date | Expiration Date
+02 | CAG912002 | R2-2012-0012 | FUELS GENERAL PERMIT | 02/08/2012 | 03/31/2017
+02 | CAG912004 | R2-2012-0060 | EXTRACTED BRACKISH GROUNDWATER & REVERSE OSMOSIS CONCENTRATE | 08/08/2012 | 09/30/2017
+02 | CAG982001 | R2-2008-0011 | AGGREGATE MINING & SAND WASHING | 02/13/2008 | 04/30/2013
+03 | CAG993001 | R3-2011-0223 | LOW THREAT DISCHARGES | 12/01/2011 | 12/01/2016
+03 | CAG993002 | R3-2011-0222 | HIGHLY TREATED GROUNDWATER | 12/01/2011 | 12/01/2016
+03 | CAG993003 | R3-2013-0041 | AQUACULTURE & AQUARIUM | 12/05/2013 | 01/31/2019
+04 | CAG994005 | R4-2003-0108 | GROUNDWATER FROM POTABLE WATER SUPPLY WELLS | 08/07/2003 | 08/07/2008
+04 | CAG834001 | R4-2013-0042 | TREATED GROUNDWATER AND PETROLEUM FUEL POLLUTION | 03/07/2013 | 03/07/2018
+04 | CAG914001 | R4-2013-0043 | VOLATILE ORGANIC COMPOUNDS | 03/07/2013 | 03/07/2018
+04 | CAG994004 | R4-2013-0095 | GROUNDWATER FROM CONSTRUCTION AND PROJECT DEWATERING | 06/06/2013 | 07/06/2018
+04 | CAG994003 | R4-2014-0060 | NON-PROCESS WASTEWATER TO SURFACE WATER | 05/08/2014 | 06/30/2019
+
+## National Pollutant Discharge Elimination System (NPDES) > Water Board General NPDES Wastewater Permits
+State or Regional Board Code | NPDES No. | Order No. | Permit Name | Issued Date | Expiration Date
+04 | CAG674001 | R4-2009-0068 | HYDROSTATIC TEST WATERS | 06/04/2009 | 06/04/2014
+05 | CAG135001 | R5-2014-0161 | COLD WATER CONCENTRATE AQUATIC ANIMAL PRODUCTION FACILIT | 12/05/2014 | 12/31/2019
+05 | CAG015001 | R5-2011-0091 | CONCENTRATED ANIMAL FEEDING | 12/01/2011 | 12/10/2015
+05 | CAG915001 | R5-2013-0075 | PETROLEUM CLEANUP | 05/31/2013 | 05/01/2018
+05 | CAG995001 | R5-2013-0074 | DEWATERING & OTHER LOW THREAT DISCHARGES | 05/31/2013 | 05/01/2018
+05 | CAG995002 | R5-2013-0073 | LIMITED THREAT FROM CLEANUP SITES | 05/31/2013 | 05/01/2018
+06 | CAG916001 | R6T-2010-0024 | TREATED GROUNDWATER | 06/09/2010 | 06/09/2015
+06 | CAG616003 | R6T-2011-0024 | GENERAL ACTIVITY STORMWATER AND MARINAS | 04/13/2011 | 04/12/2016
+06 | CAG616002 | R6T-2011-0019 | CA CONSTRUCTION STORMWATER LAKE TAHOE | 04/14/2011 | 04/13/2016
+06 | CAG996001 | R6T-2014-0049 | LIMITED THREAT DISCHARGES TO SURFACE WATER | 06/18/2014 | 06/17/2019
+07 | CAG917001 | R7-2009-0400 | TREATED GROUNDWATER FROM VOLATILE ORGANIC CONSTITUENTS | 09/17/2009 | 09/16/2014
+
+## National Pollutant Discharge Elimination System (NPDES) > Water Board General NPDES Wastewater Permits
+State or Regional Board Code | NPDES No. | Order No. | Permit Name | Issued Date | Expiration Date
+07 | CAG997001 | R7-2009-0300 | LOW THREAT GENERAL PERMIT | 11/19/2009 | 11/18/2014
+07 | CAG017001 | R7-2013-0800 | CONCENTRATED ANIMAL FEEDING | 06/20/2013 | 09/29/2019
+08 | CAG998001 | R8-2009-0003 | DE MINIMUS THREAT DISCHARGES | 03/27/2009 | 03/01/2014
+08 | CAG618001 | R8-2012-0012 | STORM WATER RUNOFF FROM SCRAP METAL RECYCLING FACILITIES | 02/10/2012 | 02/09/2017
+08 | CAG018001 | R8-2013-0001 | CONCENTRATED ANIMAL FEEDING | 06/07/2013 | 06/01/2018
+08 | CAG648001 | R8-2013-0031 | WELLHEAD TREATMENT SYSTEMS | 12/06/2013 | 12/01/2018
+08 | CAG918001 | R8-2012-0027 | TREATED GROUNDWATER PETROLEUM HYDROCARBONS | 07/20/2012 | 07/01/2017
+08 | CAG918002 | R8-2007-0041 | TREATED GROUNDWATER PETROLEUM HYDROCARBONS #2 | 11/30/2007 | 11/01/2012
+09 | CAG919003 | R9-2015-0013 | GROUNDWATER EXTRACTION DISCHARGES | 06/24/2015 | 09/30/2020
+09 | CAG999002 | R9-2022-0022 | SAN DIEGO REGION PUBLIC FIREWORKS DISPLAYS | 02/09/2022 | 05/31/2027
+09 | CAG719001 | R9-2019-0008 | BOATYARDS GENERAL PERMIT | 10/09/2019 | 01/21/2025
+
+## National Pollutant Discharge Elimination System (NPDES) > Water Board General NPDES Wastewater Permits
+State or Regional Board Code | NPDES No. | Order No. | Permit Name | Issued Date | Expiration Date
+09 | CAG990003 | R9-2021-0056 | LANTHANUM-MODIFIED CLAY | 06/09/2021 | 09/20/2026
+SB | CAG990006 | 2011-0003-DWQ | PESTICIDE-AQUATIC ANIMAL INVASIVE SPECIES (STATEWIDE) | 03/01/2011 | 02/28/2016
+SB | CAG990007 | 2011-0004-DWQ | PESTICIDE-SPRAY APPLICATION (STATEWIDE) | 03/01/2011 | 02/28/2016
+SB | CAG990004 | 2011-0002-DWQ | PESTICIDE-VECTOR CONTROL (STATEWIDE) | 03/01/2011 | 02/28/2016
+SB | CAG990005 | 2013-0002-DWQ | PESTICIDE-WEED CONTROL (STATEWIDE) | 03/05/2013 | 11/30/2018
+SB | CAG990002 | 2014-0174-DWQ | UTILITY VAULTS (STATEWIDE) | 10/21/2014 | 06/29/2020
+SB | CAG140001 | 2014-0194-DWQ | DRINKING WATER SYSTEM DISCHARGES (STATEWIDE) | 11/18/2014 | 02/25/2020
+To obtain a report showing details about a Water Board General Order and its enrollees go to:
+- List of Enrollees under Permit (search by permit number ex. 2011-0003-DWQ)
+This report returns a list of General Orders with counts of active and total enrollees. The counts are hyperlinks take the user to the details about the enrollees.
+(Page last updated 8/20/26)

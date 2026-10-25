@@ -1,0 +1,1273 @@
+Cannabis General Order (Order No. WQ 2023-0102-DWQ)
+https://www.waterboards.ca.gov/board_decisions/adopted_orders/water_quality/2023/wqo2023-0102-dwq.pdf
+Date printed: none found
+
+[page 1] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WASTE DISCHARGE REQUIREMENTS AND
+WAIVER OF WASTE DISCHARGE REQUIREMENTS
+FOR DISCHARGES OF WASTE ASSOCIATED WITH
+CANNABIS CULTIVATION ACTIVITIES
+
+[page 2] THIS PAGE INTENTIONALLY LEFT BLANK
+
+[page 3] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WASTE DISCHARGE REQUIREMENTS AND
+WAIVER OF WASTE DISCHARGE REQUIREMENTS FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ TOC-1
+TABLE OF CONTENTS
+ORDER WQ 2023-0102-DWQ
+
+[page 3] ORDER WQ 2023-0102-DWQ
+ACRONYMS AND ABBREVIATIONS.............................................................................. i FINDINGS ...................................................................................................................... 1 BACKGROUND ..................................................................................................... 1 APPLICABILITY, TIER DESIGNATION, AND THREAT TO WATER QUALITY .... 3 EXEMPTIONS FOR CERTAIN CULTIVATION ACTIVITIES ................................. 6 WATER CODE CONSIDERATIONS ..................................................................... 9 REGULATORY CONSIDERATIONS................................................................... 11 TITLE 27 EXEMPTION ........................................................................................ 11 MONITORING AND REPORTING ...................................................................... 12 BASIN PLANS AND BENEFICIAL USES ............................................................ 13 NORTH COAST REGIONAL WATER BOARD BASIN PLAN, POLICIES, AND TMDLS ................................................................................................................
+
+[page 3] 13 LAHONTAN REGIONAL WATER BOARD BASIN PLAN .................................... 15 SAN DIEGO REGIONAL WATER BOARD TMDL ............................................... 16 NON-POINT SOURCE POLICY .......................................................................... 17 APPLICATION/TERMINATION PROCESS AND FEES ...................................... 18 CEQA CONSIDERATIONS ................................................................................. 22 OTHER REGULATORY CONCERNS ................................................................. 23 IT IS HEREBY ORDERED ........................................................................................... 23 A. CANNABIS POLICY REQUIREMENTS .......................................................... 24 B. APPLICATION PROCEDURE......................................................................... 24 C. PROVISIONS.................................................................................................. 25 CERTIFICATION .......................................................................................................... 35 (A) ATTACHMENT A: CANNABIS POLICY ATTACHMENT A ................................
+
+[page 3] A-1 (B) ATTACHMENT B: MONITORING AND REPORTING PROGRAM B-1 FACILITY STATUS ............................................................................................. B-3 SITE MAINTENANCE STATUS B-4 STORM WATER RUNOFF MONITORING......................................................... B-5 REPORTING B-5 REGIONAL WATER BOARD CONTACT INFORMATION B-7 (C) ATTACHMENT C: NOTICE OF TERMINATION ............................................... C-1 SECTION I. DISCHARGER INFORMATION ..................................................... C-1 SECTION II. CANNABIS CULTIVATION SITE INFORMATION ........................ C-2 SECTION III. CERTIFICATION ......................................................................... C-3 (D) ATTACHMENT D: TECHNICAL REPORT GUIDANCE .................................... D-1
+
+[page 4] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WASTE DISCHARGE REQUIREMENTS AND
+WAIVER OF WASTE DISCHARGE REQUIREMENTS FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ TOC-2
+SITE MANAGEMENT PLAN.............................................................................. D-1 SITE EROSION AND SEDIMENT CONTROL PLAN ........................................ D-5 NITROGEN MANAGEMENT PLAN................................................................... D-8 EXAMPLE NITROGEN REPORTING WORKSHEET ....................................... D-9 EXAMPLE NITROGEN REPORTING FORM .................................................. D-10 DISTURBED AREA STABILIZATION PLAN ................................................... D-13 SITE CLOSURE REPORT .............................................................................. D-15
+
+[page 5] ORDER WQ 2023-0102-DWQ i
+ACRONYMS AND ABBREVIATIONS
+Abbreviation Expanded Form
+Antidegradation Policy State Water Board Resolution 68-16, the Statement of Policy with Respect to Maintaining High Quality of Waters in California
+Army Corps United States Army Corps of Engineers
+AUMA Adult Use of Marijuana Act of 2016
+Basin Plan Water Quality Control Plan
+BOF Board of Forestry
+BPTC Best Practicable Treatment or Control
+CAL FIRE California Department of Forestry and Fire Protection CDFA California Department of Food and Agriculture Cannabis Policy Cannabis Cultivation Policy, Principles and Guidelines for Cannabis Cultivation
+CIWQS California Integrated Water Quality System
+CUA Compassionate Use Act of 1996
+CEQA California Environmental Quality Act
+DCC Department of Cannabis Control
+DPR Department of Pesticides Regulation
+e.g. Latin exempli gratia (for example)
+FPR Forest Practice Rules
+ILRP Irrigated Lands Regulatory Program
+MCRSA Medical Cannabis Regulation and Safety Act
+MMRSA Medical Marijuana Regulation and Safety Act
+NOA Notice of Applicability
+NOT Notice of Termination
+NPDES National Pollutant Discharge Elimination System NPS Nonpoint Source Pollution Control Program
+
+[page 5] NPDES National Pollutant Discharge Elimination System NPS Nonpoint Source Pollution Control Program
+NTU Nephelometric Turbidity Units
+OWTS Onsite Wastewater Treatment System
+Regional Water Board Regional Water Quality Control Board Road Handbook Handbook for Forest, Ranch, and Rural Roads RWD Report of Waste Discharge
+State Water Board State Water Resources Control Board SB Senate Bill
+SIC Standard Industrial Code
+SW-CGP Storm Water Construction General Permit
+SW-IGP Storm Water Industrial General Permit
+THP Timber Harvest Plan
+TMDL Total Maximum Daily Load
+U.S. EPA United States Environmental Protection Agency Water Boards State Water Board and Regional Water Boards WDRs Waste Discharge Requirements
+
+[page 6] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 1
+STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WASTE DISCHARGE REQUIREMENTS AND
+WAIVER OF WASTE DISCHARGE REQUIREMENTS FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+FINDINGS
+The State Water Resources Control Board (State Water Board) finds that:
+BACKGROUND
+1. Cannabis cultivation in California has grown exponentially in recent years and is often located in sensitive environmental areas where the activities create significant impacts to water quality. Waste discharges from cultivation sites include sediment, irrigation runoff, fertilizers, pesticides/herbicides, petroleum, agricultural related chemicals, cultivation related waste, refuse, and human waste. Construction of access roads has resulted in significant erosion and sediment discharges to water bodies.
+
+[page 6] 2. Water Code section 13149 required the State Water Board to adopt principles and guidelines for diversion and use of water for cannabis cultivation in areas where cannabis cultivation may have the potential to substantially affect instream flows. The principles and guidelines may include, but are not limited to, instream flow objectives, limits on diversions, and requirements for screening of diversions and elimination of barriers to fish passage. The principles and guidelines may also include requirements that apply to groundwater extractions where the board determines those requirements are reasonably necessary. The principles and guidelines were developed as part of state policy for water quality control adopted pursuant to Article 3 (commencing with Section 13140) of Chapter 3 of Division 7 and include measures to protect springs, wetlands, and aquatic habitats from negative impacts of cannabis cultivation. The principles and guidelines are included in the Cannabis Cultivation Policy – Principles and Guidelines for Cannabis Cultivation (Cannabis Policy). The Cannabis Policy describes the overarching water diversion and waste discharge requirements (WDRs)
+
+[page 6] associated with cannabis cultivation activities. The State Water Board does not, in any way authorize, endorse, sanction, permit or approve the cultivation, use, sale or other activities associated with cannabis. Individuals engaging in cannabis cultivation and other activities risk prosecution under federal law.
+3. Section 26060.1 (b) of the Business and Professions Code directs the State Water Board, in consultation with the California Department of Fish and Wildlife (CDFW) and the Department of Cannabis Control (DCC), to ensure, pursuant to Section 13149 of the Water Code, that individual and cumulative effects of water diversions and discharges associated with cannabis cultivation do not affect the instream flows
+
+[page 7] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 2
+needed for fish spawning, migration, rearing, and the flows needed to maintain natural flow variability.
+4. This General Order implements the Cannabis Policy requirements, specifically those requirements that address waste discharges associated with cannabis cultivation activities. Dischargers covered under this General Order are subject to the requirements of the Cannabis Policy in its entirety. Administrative requirements, such as how to apply for coverage, terminate coverage, applicable fees, and monitoring and reporting requirements are contained within this General Order.
+a. The Cannabis Policy describes the water quality control policy structure, requirements for cannabis cultivation activities to protect water quality and instream flows, implementation, means of compliance, and enforcement.
+
+[page 7] b. Attachment A of the Cannabis Policy, which is attached hereto as Attachment A of the General Order and is made part of this Order by reference, contains non-flow related requirements (Section 1 and Section 2) and flow requirements (Section 3, Section 4). Section 5 contains planning and reporting requirements.
+Section 6 contains guidance documents referenced in Attachment A.
+c. The Cannabis Policy and staff report contains rationale for the requirements contained in the Cannabis Policy.
+5. Two Regional Water Quality Control Boards (Regional Water Boards) have adopted orders related to cannabis cultivation.
+a. On August 13, 2015, the North Coast Regional Water Quality Control Board adopted a Waiver of Waste Discharge Requirements and General Water Quality Certification for Discharges of Waste Resulting from Cannabis Cultivation and Associated Activities or Operations with Similar Environmental Effects in the North Coast Region (Order No. R1-2015-0023).
+
+[page 7] b. On October 2, 2015, the Central Valley Regional Water Quality Control Board adopted a General Waste Discharge Requirements Order for Discharges of Waste Associated with Medical Cannabis Cultivation Activities (Order No. R5-2015-0113).
+
+[page 8] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 3
+APPLICABILITY, TIER DESIGNATION, AND THREAT TO WATER QUALITY 6. It is the intent of the State Water Board that Regional Water Boards enroll all eligible dischargers developing land for, or engaging in, cannabis cultivation activities under this General Order consistent with the exemptions and conditional exemptions described herein. This General Order does not limit the State Water Board or Regional Water Board authority to inspect and/or evaluate the regulatory status, water quality impacts, or water right regulatory requirements of cannabis cultivation activities. If a Regional Water Board determines that due to site-specific conditions, coverage under this General Order will not be protective of water quality, the Regional Water Board may issue site-specific WDRs for discharges from a cannabis cultivation site.
+
+[page 8] a. For dredge and fill activities covered by this General Order, a Regional Water Board may issue a site-specific Clean Water Act section 401 water quality certification or enroll the Discharger in a general section 401 water quality certification if the Regional Water Board determines that the general water quality certification in this General Order is not protective of water quality due to site-specific or region-specific conditions.
+b. The Regional Water Boards may also regulate discharges from cannabis cultivation activities using individual or general Irrigated Lands Regulatory Program (ILRP) WDRs if the Regional Water Board Executive Officer determines that the ILRP WDRs or ILRP conditional waiver of WDRs adequately describe discharges from the cannabis cultivation activity, are protective of water quality, the Discharger possesses valid water rights after consulting with State Water Board Division of Water Rights, the Discharger complies with the water diversion reporting requirements contained in Water Code sections 1840 and 1841, and the ILRP WDRs or ILRP conditional waiver of WDRs require compliance with the State Water Board’s Cannabis Policy.
+
+[page 8] 7. The Cannabis Policy provides a statewide tiered approach for permitting discharges and threatened discharges of waste from cannabis cultivation and associated activities, establishes a personal use exemption standard, and provides conditional exemption criteria for low threat to water quality activities. Tiers are defined by the amount of disturbed area. The criteria consist of:
+a. Personal use exempt Dischargers are very small non-commercial cultivators that are exempt from this General Order. (Refer to the Exemptions for Certain Cultivation Activities section of this General Order for more information.)
+b. Indoor commercial cultivation activities are conditionally exempt under this General Order. (Refer to the Exemptions for Certain Cultivation Activities section of this General Order for more information.)
+
+[page 9] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 4
+c. Outdoor commercial cultivation activities that disturb less than 2,000 square feet may be conditionally exempt under this General Order. (Refer to the Exemptions for Certain Cultivation Activities section of this General Order for more information.)
+d. Tier 1 Dischargers cultivate cannabis commercially outdoors, and have a disturbed area equal to or greater than 2,000 square feet and less than 1 acre (43,560 square feet).
+e. Tier 2 Dischargers cultivate cannabis commercially outdoors, and have a disturbed area equal to or greater than 1 acre.
+8. The Cannabis Policy provides criteria to evaluate the threat to water quality based on site conditions. The threat is risk-based as described below:
+
+[page 9] 8. The Cannabis Policy provides criteria to evaluate the threat to water quality based on site conditions. The threat is risk-based as described below:
+a. Disturbed area: The disturbed area indicates the threat to water quality because level of threat is proportional to the area of disturbed soil, the amount of irrigation water used, the potential for storm water runoff, and the potential impacts to groundwater (e.g., the use of fertilizers or soil amendments, the possible number of employees on site, etc.).
+b. Slope of disturbed area: Increased slopes may be associated with decreased soil stability, especially when associated with vegetation removal. Storm water and excess irrigation water are more likely to runoff and discharge off-site from sloped surfaces.
+c. Proximity to a surface water body: The Cannabis Policy provides setbacks from surface water bodies to reduce water quality impacts. Disturbed areas within the setbacks are more likely to discharge waste constituents to surface water and/or result in removal of riparian vegetation.
+
+[page 9] 9. Dischargers must characterize their cultivation activities as described below and implement all applicable best practicable treatment or control (BPTC) measures described in Attachment A.
+a. Dischargers that cultivate in multiple areas within a parcel or contiguous parcels shall add all the disturbed areas together to calculate the total disturbed area.
+(For example, a Discharger that operates two cultivation areas that each disturbs 1,100 square feet must report a disturbance of 2,200 square feet and does not qualify for a conditional exemption under this General Order.)
+b. Risk determination based on the site conditions shall be based on the greatest threat to water quality. (For example, if one of the 1,100 square feet cultivation
+
+[page 10] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 5
+areas is located on a slope greater than 30 percent, all the cultivation areas will be classified as moderate risk).
+c. Dischargers that cultivate cannabis on non-contiguous parcels must evaluate each parcel for regulatory coverage separately.
+10. Personal use exempt dischargers meeting the criteria described in this General Order (see Exemptions for Certain Cultivation Activities) do not need to apply for coverage under the General Order. Dischargers that qualify for conditional exemption (either indoor or outdoor activities) will be covered under the Waiver of WDRs (Waiver)
+contained in this General Order. Tier 1 or Tier 2 dischargers must enroll under the General Order (refer to Finding 7 for tier designation). Outdoor conditionally exempt and Tier 1 and Tier 2 enrollees shall characterize the risk designation based on the slope of disturbed areas and the proximity to a water body. Characterization shall be based on the risk designation summarized as follows:
+a. Low risk
+
+[page 10] a. Low risk
+i. No portion of the disturbed area is located on a slope greater than 30 percent, and
+ii. All of the disturbed area complies with the setback requirements.
+b. Moderate risk
+i. Any portion of the disturbed area is located on a slope greater than 30 percent and less than 50 percent, and
+ii. All of the disturbed area complies with the setback requirements.
+c. High risk
+i. Any portion of the disturbed area is located within the setback requirements.
+11. Site development and/or access road building and maintenance activities associated with cannabis cultivation are subject to this General Order. The Handbook for Forest, Ranch & Rural Roads (Road Handbook) provides a guide for planning, designing, constructing, reconstructing, upgrading, maintaining, and closing wildland roads.
+Development of the Road Handbook was funded in part by State Water Board, United States Environmental Protection Agency (U.S. EPA), and California Department of Forestry and Fire Protection (CAL FIRE). The Road Handbook is available at:
+<http://www.pacificwatershed.com/sites/default/files/RoadsEnglishBOOKapril2015b.pd f>
+
+[page 11] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 6
+Construction of new access roads, and development of cultivation sites may be subject to the Regional Water Board’s forestry program permitting requirements, statewide construction storm water program permitting requirements the Lahontan Regional Water Board’s construction storm water program permitting requirements for the Lake Tahoe Hydrologic Unit, CAL FIRE permitting requirements, Clean Water Act section 404 permitting requirements issued by the United States Army Corps of Engineers (Army Corps), and Clean Water Act section 401 water quality certification issued by a Regional Water Board. In some cases, the Army Corps may not issue a section 404 permit because the activity is associated with cannabis cultivation; in those situations, the Regional Water Board will not issue a section 401 water quality certification but will regulate that activity under this General Order or issue individual WDRs consistent with the Water Code.
+EXEMPTIONS FOR CERTAIN CULTIVATION ACTIVITIES
+
+[page 11] EXEMPTIONS FOR CERTAIN CULTIVATION ACTIVITIES
+12. Cultivation activities that qualify for the personal use exemption disturb less than 1,000 square feet (in aggregate) and present the lowest threat to water quality;
+therefore, discharges from the operations are exempt from enrolling in the General Order if they comply with the conditions specified in this order. Personal use cultivation activities are exempt from requirements to obtain a DCC cultivation license because they are not a commercial activity. Activities that are consistent with Health and Safety Code sections 11362.77 (medical marijuana) or 11362.2 (non-medical marijuana) and subsequent revisions of the statutes, disturb an area (in aggregate) less than 1,000 square feet, and comply with the additional conditions below, are not required to submit any application information to obtain coverage under this General Order. The 1,000 square feet personal use exemption criteria provide sufficient area for outdoor cultivation of six mature plants for non-medical use, or 500 square feet of cannabis plant canopy as allowed for medical cultivation purposes.
+
+[page 11] a. The exemptions apply per parcel or contiguous parcels; no coalitions, cooperatives, or other combination of cultivation activities can claim the personal use exemption for activities on the same parcel. The personal use exemption shall not apply if the Cannabis Cultivator fails to comply with all applicable conditions, including the non-commercial activity requirement.
+b. If the personal use exemption does not apply, the Discharger shall contact the Regional Water Board to determine if the activity qualifies for coverage as conditionally exempt, or Tier 1 or Tier 2 enrollment. To qualify for the personal use exemption, a Discharger must comply with all of the following conditions:
+i. The cultivation area shall be contiguous (all located in one area).
+
+[page 12] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 7
+ii. The disturbed area complies with the setback requirements contained in this General Order (refer to Attachment A) and occupies less than 1,000 square feet.
+iii. No part of the disturbed area is located on land with a slope greater than 20 percent.
+iv. The Discharger implements all applicable BPTC measures listed in Attachment A.
+c. The personal use exemption does not alter any other legal requirement (e.g., limitations on sales, distribution, or donations of cannabis).
+Noncommercial cultivation activities require a valid basis of right for the diversion and use of water and therefore may need to apply for a water right.
+The personal use exemption does not affect the requirement to obtain authorization for water diversion.
+
+[page 12] The personal use exemption does not affect the requirement to obtain authorization for water diversion.
+13. Outdoor cannabis cultivation activities that disturb an area (in aggregate) less than 2,000 square feet on any one parcel or on contiguous parcels managed as a single operation and that comply with all of the additional cultivation area criteria listed below are conditionally exempt and are required to obtain coverage under the Waiver. The 2,000 square feet conditional exemption criterion provides sufficient area for outdoor cultivation for small commercial activities. Facilities with larger disturbed areas are inherently a higher threat to water quality and are subject to additional regulatory oversight. The conditional exemption applies per parcel or contiguous parcels; no coalitions, cooperatives, or other combination of cultivation activities can claim the conditional exemption for activities on the same parcel. To be conditionally exempt, a Discharger must comply with all of the following:
+a. The cultivation area shall be contiguous (all located in one area).
+
+[page 12] a. The cultivation area shall be contiguous (all located in one area).
+b. The disturbed area complies with the setback requirements contained in this General Order (refer to Attachment A) and occupies less than 2,000 square feet.
+c. No part of the disturbed area is located on land with a slope greater than 20 percent.
+d. The Discharger implements all applicable BPTC measures listed in Attachment A.
+14. The Conditional exemption does not alter any other legal requirement (e.g., limitations on sales, distribution, or donations of cannabis). Refer to the Application/Termination
+
+[page 13] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 8
+
+[page 13] ORDER WQ 2023-0102-DWQ 8
+Process and Fees section for information on application requirements. Cultivation activities that are conditionally exempt under this General Order still require a valid basis of right for the diversion and use of water and therefore may still need to apply for a water right. Indoor commercial cannabis cultivation may be performed using hydroponic growing systems, soil, or other growth media. To maintain suitable growing conditions, wastewater is discharged from hydroponic systems when the irrigation water contains excessive salinity or nutrients. Irrigation tail water is generated when excess water drains from the growth media. Irrigation tail water or hydroponic wastewater may contain nutrients (e.g., phosphate or nitrate), salinity constituents (e.g., sodium, chloride, potassium, calcium, sulfate, magnesium), and other constituents (e.g., iron, manganese, zinc, molybdenum, boron, and silver).1 Other sanitation based wastewaters may also be generated at indoor commercial cannabis cultivation sites. These miscellaneous industrial wastewaters may contain biocides, bleach mixtures, or other chemical waste streams.
+
+[page 13] a. Commercial cannabis cultivation activities are classified as conditionally exempt if they occur within a structure with a permanent roof, a permanent relatively impermeable floor (e.g., concrete or asphalt paved), and comply with the Cannabis Policy and all applicable Requirements in Attachment A, and either:
+1) discharge all industrial wastewaters generated to a permitted wastewater treatment collection system and facility that accepts cannabis cultivation wastewater; or 2) collect all industrial wastewater in an appropriate storage container to be stored and properly disposed of by a permitted wastewater hauler at a permitted wastewater treatment facility that accepts cannabis cultivation wastewater. To obtain documentation of the conditionally exempt status to obtain a DCC commercial cannabis cultivation license, conditionally exempt Dischargers are required to obtain coverage under the Waiver included in this General Order. Refer to the Application/Termination Process and Fees section for information on application requirements.
+
+[page 13] b. Discharges of irrigation tailwater, hydroponic wastewater, or other miscellaneous industrial wastewaters from indoor cannabis cultivation activities to an on-site wastewater treatment system (such as a septic tank and leach field), to land, or to surface water must obtain separate regulatory authorization (e.g., WDRs, conditional waiver of WDRs, or other permit mechanism) to discharge the wastewater. Such Dischargers are classified as conditionally exempt. To obtain documentation of the conditionally exempt status and obtain a DCC cultivation license, conditionally exempt Dischargers are required to obtain coverage under the Waiver included in this General Order. Refer to the Application/Termination Process and Fees section for information on application requirements.
+
+[page 14] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 9
+c. Indoor commercial cultivation activities that are conditionally exempt under this General Order still require a valid basis of right for the diversion and use of water and therefore may still need to apply for a water right. The exemption for enrolling under this General Order does not affect the Requirement to obtain authorization for water diversion.
+WATER CODE CONSIDERATIONS
+15. Water Code section 13260(a) requires that any person, citizen, or domiciliary discharging waste or proposing to discharge waste within any region, other than to a community sewer system, that could affect the quality of the waters of the state, file a report of waste discharge (RWD) to obtain coverage under WDRs or a waiver or WDRs. Waste, person, citizen, and domiciliary are defined in Water Code section 13050.
+
+[page 14] 16. Water Code section 13146 requires that WDRs must implement the Regional Water Board’s Water Quality Control Plan (Basin Plan) for the basin in which the discharge occurs. This General Order requires Dischargers to comply with all applicable Basin Plan requirements, including prohibitions and/or water quality objectives governing the discharge. In the event of a conflict between the requirements of this General Order and the Basin Plan, the more protective requirement prevails.
+17. The State Water Board’s authority to regulate discharges associated with cannabis cultivation and associated activities are subject to the following regulatory measures:
+a. Water Code section 13263(i) states the State Water Board or a Regional Water Board may prescribe general WDRs for a category of discharges if the State Water Board or a Regional Water Board finds or determines that all of the following criteria apply to the discharges in that category:
+i. The discharges are produced by the same or similar operations.
+ii. The discharges involve the same or similar type of waste.
+iii. The discharges require the same or similar treatment standards.
+
+[page 14] iii. The discharges require the same or similar treatment standards.
+iv. The discharges are more appropriately regulated under general WDRs than individual WDRs.
+b. Discharges associated with cannabis cultivation and associated activities that will be regulated under this General Order are consistent with the criteria listed above and therefore a general order is appropriate. All discharges regulated under this order will be from similar operations and/or activities related to cannabis cultivation, which pose similar types of threat to water quality. The
+
+[page 15] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 10
+discharges will use similar treatment methods (e.g., filtration, settling, setbacks, application to land, etc.). Individual WDRs are not necessary because the discharges are similar and discharge requirements would be similar if individual WDRs were issued.
+c. Water Code section 13269 states that the State Water Board or the Regional Water Board may conditionally waive the requirements to file an RWD under Water Code section 13260(a)(1) and/or the requirement to prescribe WDRs under Water Code section 13263(a) for a specific discharge or specific type of discharge where such a waiver is consistent with the applicable Regional Water Board Basin Plans, in the public interest, and the following conditions are met:
+i. The waiver is conditional.
+ii. The discharge complies with the waiver conditions.
+iii. A public hearing is held.
+
+[page 15] iii. A public hearing is held.
+d. Discharges that meet the criteria for conditional exemption under this General Order are considered to be a limited threat to water quality provided the Discharger complies with the conditions contained in this General Order;
+therefore, coverage under a conditional waiver is appropriate. On November 7, 2023, the State Water Board held a hearing and renewed the conditional waiver for another five years. A Discharger covered under the conditional waiver that no longer complies with the conditions is required to consult with the Regional Water Board to determine if a compliance schedule is appropriate, if enrollment in Tier 1 or Tier 2 is possible, or if the Discharger must cease the discharge. Violators are guilty of misdemeanor and may be liable civilly pursuant to Water Code section 13265.
+18. Pursuant to Water Code section 13263(g), no discharge of waste into waters of the state, whether or not the discharge is made pursuant to waste discharge requirements, shall create a vested right to continue the discharge. All discharges of waste into waters of the state are privileges, not rights.
+
+[page 15] 19. In compliance with Water Code section 106.3, it is the policy of the State of California that every human being has the right to safe, clean, affordable, and accessible water adequate for human consumption, cooking, and sanitary purposes. This order promotes that policy by requiring discharges to comply with requirements established to protect municipal and domestic water supplies.
+
+[page 16] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 11
+REGULATORY CONSIDERATIONS
+20. The Cannabis Policy includes instream flow objectives, limits on diversions, requirements for screening of diversions and elimination of barriers to fish passage, and requirements that apply to groundwater extraction. Cannabis cultivation activities statewide are required to comply with the requirements of the Cannabis Policy.
+21. Health and Safety Code Section 11362.2 states that local municipalities (e.g., city, county, or city and county) have land use authority related to cannabis cultivation and associated activities. Coverage under this General Order does not supersede any requirements, ordinances, or regulations of other regulatory agencies or local municipalities.
+22. Those requirements, ordinances, or regulations may change over time. Authorization to discharge waste from cannabis cultivation activities under this General Order may be revoked based on those conditions.
+
+[page 16] 23. The Regional Water Board Executive Officer may terminate permit coverage under the General Order for cause when such termination is needed to protect water quality.
+24. Industrial hemp, as defined in Health and Safety Code section 9.1, is exempt from regulation under this General Order. Industrial hemp is regulated by the California Department of Food and Agriculture, commencing with section 81000 of the Food and Agricultural Code. Cultivation of industrial hemp shall be performed consistent with the Regional Water Board’s ILRP.
+25. The California Forest Practice Rules (FPR) designate watercourse (stream) and lake protection zones, protective measures based on the beneficial use, and whether the watercourse is natural or manmade. Activities performed in areas subject to the FPR shall be implemented consistent with the permitting, licensing, and performance standards of the FPR, and the requirements of the Cannabis Policy and this General Order, whichever is more protective.
+
+[page 16] 26. Diversion of water or any other alteration of a lake or streambed (including alterations that result from construction or modification of culverts, etc.) requires CDFW notification and permitting. CDFW manages California’s fish and wildlife resources and habitats for their ecological value and enjoyment by the public. CDFW may issue Lake or Streambed Alteration Agreements (also known as “1600 Agreements”) that may limit water diversions to ensure that public resources are protected or impose additional conditions.
+TITLE 27 EXEMPTION
+
+[page 17] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 12
+27. Discharges from cannabis cultivation activities eligible for coverage under this General Order are exempt from the requirements of Consolidated Regulations for Treatment, Storage, Processing, or Disposal of Solid Waste in California Code of Regulations, title 27, division 2, subdivision 1, section 20005, et seq. The activities are exempt from the requirements of title 27 so long as the activity meets and continues to meet all preconditions listed below. (Cal. Code Regs., tit. 27, §20090).
+a. Wastewater – Discharges of wastewater to land, including but not limited to evaporation ponds, percolation ponds, or subsurface leach fields if all of the following conditions are met:
+i. The applicable Regional Water Board has issued WDRs, reclamation requirements, or waived such issuance.
+ii. The discharge complies with the applicable water quality control plan.
+
+[page 17] ii. The discharge complies with the applicable water quality control plan.
+iii. The wastewater does not need to be managed according to California code of Regulations, title 22, division 4.5, chapter 11, as a hazardous waste. (Cal. Code Regs., tit. 27, §20090(b).)
+b. Soil Amendments – Use of nonhazardous decomposable waste as a soil amendment pursuant to applicable BPTC measures, provided that Regional Water Boards may issue waste discharge or reclamation requirements for such use. (Cal. Code Regs., tit. 27, §20090(f).)
+MONITORING AND REPORTING
+28. Water Code section 13267 states, in relevant part:
+
+[page 17] 28. Water Code section 13267 states, in relevant part:
+a. (b)(1) In conducting an investigation ..., the regional board may require that any person who has discharged, discharges, or is suspected of having discharged or, discharging, or who proposes to discharge waste within its region … shall furnish, under penalty of perjury, technical or monitoring program reports which the regional board requires. The burden, including costs, of these reports shall bear a reasonable relationship to the need for the report and the benefits to be obtained from the reports. In requiring those reports, the regional board shall provide the person with a written explanation with regard to the need for the reports, and shall identify the evidence that supports requiring that person to provide the reports.
+b. Tier 1 and Tier 2 enrollees are required to submit technical and monitoring reports. The reports include certifying completion of winterization measures, certification of the facility tier status, and for higher risk tiers, nitrogen management status. The technical reports and monitoring reports are
+
+[page 18] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 13
+necessary to assure compliance with this General Order. The burden and cost of preparing the reports is reasonable and consistent with the interest of the state in maintaining water quality.
+BASIN PLANS AND BENEFICIAL USES
+29. Beneficial uses of groundwater are determined by each Regional Water Board and are listed in their respective Basin Plans.
+a. Beneficial uses of groundwater include municipal and domestic supply, industrial service supply, industrial process supply, fresh water replenishment, aquaculture, wildlife habitat, water contact recreation, agricultural supply, and groundwater recharge. Some beneficial uses only apply to certain geographical areas within regions.
+b. Beneficial uses of surface waters include agricultural supply; cold freshwater habitat; estuarine habitat; flood peak attenuation or flood water storage;
+freshwater replenishment; groundwater recharge; inland saline water habitat;
+
+[page 18] freshwater replenishment; groundwater recharge; inland saline water habitat;
+municipal and domestic supply; warm freshwater habitat; water quality enhancement; wetland habitat; wildlife habitat; aquaculture; commercial and sport fishing; industrial process supply; industrial service supply; migration of aquatic organisms; Native American culture; navigation; non-contact water recreation; rare, threatened, or endangered species; spawning, reproduction, and/or early development; subsistence fishing; and water contact recreation.
+
+[page 18] NORTH COAST REGIONAL WATER BOARD BASIN PLAN, POLICIES, AND TMDLS 30. The North Coast Regional Water Board adopted the Support of Restoration in the North Coast Region Resolution Number R1-2015-0001 (Restoration Policy) to support the implementation of restoration projects for the purpose of eliminating, reducing, or ameliorating a variety of conditions that can negatively impact aquatic ecosystems, including but not limited to: water pollution, eutrophication, desiccation, habitat simplification, species displacement, migration barriers, erosion from diverted streams, riparian zone disturbance, effects of climate change, or other impairments to the beneficial uses of waters of the state. In many watersheds, the impact of past land use activities or so-called “legacy” problems may require decades to recover to their historic, natural, or functioning conditions. Some aquatic ecosystems have been so significantly altered that it is no longer reasonable or feasible to achieve historic conditions; but rather, restoration efforts must focus on establishing best achievable structure, function, and biodiversity.
+
+[page 18] 31. The North Coast Regional Water Board Basin Plan includes the policy for the Implementation of the Water Quality Objectives for Temperature (Temperature
+
+[page 19] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 14
+
+[page 19] ORDER WQ 2023-0102-DWQ 14
+Implementation Policy), which specifies that activities resulting in water temperature increases shall be addressed on a case-by-case basis to reduce impairments and prevent further impairment. The Temperature Implementation Policy directs staff to examine and address temperature when developing permits. At a minimum, any program or permit should implement temperature shade load allocations in areas subject to existing temperature total maximum daily loads (TMDLs), including EPA-established temperature TMDLs. To attain and maintain the water quality objectives for temperature, the Regional Water Board and its staff will implement programs and collaborate with others in such a manner as to prevent, minimize, and mitigate temperature alterations associated with sediment discharges and controllable water quality factors. Controllable water quality factors affecting water temperature include any anthropogenic activity which results in the removal of riparian vegetation, sediment discharges, impoundments and other channel alterations, reduction of instream summer flows, and the reduction of cold water sources.
+
+[page 19] The Temperature Policy requires program implementation through adoption of WDRs.
+32. The North Coast Region is home to numerous threatened and endangered species that are sensitive to excessive sediment, temperature fluctuations, and reduction of suitable habitat. The migration, spawning, reproduction, and early development of cold-water fish such as salmon and trout species are impacted in the North Coast Region due to water quality impairments and other conditions. The National Marine Fisheries Service has listed southern Oregon/northern California coast Coho salmon, California coastal Chinook salmon, and northern California steelhead as threatened under the federal Endangered Species Act. The CDFW listed Coho salmon as threatened in 2005.
+
+[page 19] 33. Approximately 61-percent of the North Coast Region drains to sediment impaired rivers and streams (2006 Clean Water Act Section 303(d) list). Sediment TMDLs have been established by the U.S. EPA for the Albion River, Big River, Middle Fork Eel River, North Fork Eel River, South Fork Eel River, Garcia River, Gualala River, Mattole River, Navarro River, Noyo River, Redwood Creek, Ten Mile River, Trinity River, South Fork Trinity River, and Van Duzen River. The establishment of TMDLs by the U.S. EPA was conducted under the authority of the Clean Water Act and is equivalent to adoption of a TMDL as described in California Code of Regulations, title 14, section 916.9(a)(l).
+34. The North Coast Regional Board adopted the TMDL Implementation Policy Statement for Sediment Impaired Receiving Waters in the North Coast Region, (Sediment TMDL Implementation Policy) on November 29, 2004. The Sediment TMDL Implementation Policy directs the Executive Officer to use all available authority in pursuing sediment related compliance.
+
+[page 20] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 15
+35. This General Order is consistent with the Basin Plan for the North Coast Region, the Temperature Implementation Policy and the Sediment TMDL Implementation Policy by requiring all Dischargers that are landowners of the cultivation site in the North Coast Region to develop Site Management Plans identifying compliance with BPTC measures property-wide, including discharges from legacy activities (e.g., former timber harvest, road building, mining, etc.) at the site.
+LAHONTAN REGIONAL WATER BOARD BASIN PLAN
+36. The Lahontan Regional Water Board Basin Plan contains control measures for construction activities. To minimize the risk of erosion and storm water threatening sensitive watersheds, the Basin Plan requires the following:
+a. Disturbed areas located at elevations above 6,000 feet must be stabilized from October 15th through May 1st of each year, and all work performed during this period must be conducted so that the site can be winterized within 48 hours.
+
+[page 20] b. “Winterized” for the Lahontan region means implementing erosion and/or sediment controls that will prevent the discharge of earthen materials from the site and the controls will remain effective throughout the rainy/snow season without requiring maintenance. The winter season may be shortened in desert areas of the region.
+37. The Lahontan Regional Water Board adopted the General Waste Discharge Requirements and National Pollutant Discharge Elimination System General Permit for Storm Water Discharges Associated with Construction Activity in the Lake Tahoe Hydrologic Unit, Counties of Alpine, El Dorado, and Placer (Order No.
+R6T-2016-0010) which includes a specific anticipated precipitation event criteria. An anticipated precipitation event is defined as a 30 percent or greater chance producing 0.1 inch of precipitation as rainfall in the project area, or if the chance of thunderstorms becomes 30 percent or greater, or when visual observations indicate imminent precipitation.
+
+[page 20] 38. The Lahontan Regional Water Board adopted Resolution Number R6T-2008-0019, Approval of Amendments to the Water Quality Control Plan for the Lahontan Region to Incorporate a Total Maximum Daily Load (TMDL) and TMDL Implementation Plan for Sediment in the Middle Truckee River Watershed, Placer, Nevada, and Sierra Counties, and Certification of a Substitute Environmental Document (Middle Truckee River TMDL) on May 14, 2008. The Middle Truckee River TMDL was approved by the State Water Board on March 17, 2009; and the U.S. EPA on September 16, 2009. The implementation of the Middle Truckee River TMDL includes identification of legacy sites and restoration, or implementation of storm water best management practices to prevent erosion and sedimentation of surface waters.
+
+[page 21] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 16
+The BPTC measures included in this General Order includes requirements to control sediment discharges from construction and maintenance activities related to cannabis cultivation.
+SAN DIEGO REGIONAL WATER BOARD TMDL
+39. The San Diego Regional Water Board adopted Resolution Number R9-2005-0036, A Resolution Adopting an Amendment to the Water Quality Control Plan for the San Diego Region (9) to Incorporate Total Maximum Daily Loads (TMDLs) for Total Nitrogen and Total Phosphorus in the Rainbow Creek Watershed, San Diego County (Rainbow Creek TMDL) on February 9, 2005. The Rainbow Creek TMDL was approved by the State Water Board on November 16, 2005; the Office of Administrative Law (OAL) on February 1, 2006; and the U.S. EPA on March 22, 2006.
+The Rainbow Creek TMDL became effective on February 1, 2006.
+
+[page 21] The Rainbow Creek TMDL became effective on February 1, 2006.
+a. Nitrate and phosphorus concentrations in the Rainbow Creek Watershed exceed the water quality objective for some municipal supply beneficial uses and threaten several additional beneficial uses. Runoff from agriculture, nursery, and residential land uses contribute to increased nitrate and phosphorus in Rainbow Creek as a result of storm water runoff, irrigation return flows, and groundwater contributions to the creek.
+b. The objectives of the Rainbow Creek TMDL Implementation Plan requires the use of effective management practices and best management practices to reduce the loading of nitrogen and phosphorus to attain numeric targets for total nitrogen (1.0 mg/L) and total phosphorus of (0.1 mg/L). The BPTC measures included in this General Order represent effective management practices limiting nitrogen and phosphorus discharges.
+40. The San Diego Regional Water Board adopted Resolution Number R9-2010-0001, A Resolution Amending the Water Quality Control Plan for the San Diego Basin (9)
+
+[page 21] 40. The San Diego Regional Water Board adopted Resolution Number R9-2010-0001, A Resolution Amending the Water Quality Control Plan for the San Diego Basin (9)
+to Incorporate Revised Total Maximum Daily Loads for Indicator Bacteria, Project I – Twenty Beaches and Creeks in the San Diego Region (including Tecolote Creek) (Bacteria TMDL) on February 10, 2010. The Bacteria TMDL was approved by the State Water Board on December 14, 2010; OAL on April 4, 2011; and U.S. EPA on June 22, 2011. The Bacteria TMDL became effective on April 4, 2011.
+a. Bacteria in the waters of the beaches and creeks addressed by this TMDL have exceeded numeric water quality objective for total, fecal, and/or enterococci bacteria (collectively referred to as indicator bacteria). Beaches have been posted with health advisories and/or closed threatening and impairing beneficial uses.
+
+[page 22] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 17
+b. Watersheds with agricultural operations (Lower San Juan hydrologic sub area, San Luis Rey hydrologic unit, San Marcos hydrologic area, and San Dieguito hydrologic unit) are required to reduce their wet weather and dry weather bacteria loading. The objectives of the Bacteria TMDL Implementation Plan requires the use of effective management practices and best management practices to reduce the loading of bacteria containing discharges to achieve the load allocations and waste loads specified in the Bacteria TMDL. The BPTC measures included in this General Order represent effective management practices limiting bacteria-containing discharges.
+NON POINT SOURCE POLICY
+
+[page 22] NON POINT SOURCE POLICY
+41. In May 2004, the State Water Board adopted the Policy for Implementation and Enforcement of the Nonpoint Source Pollution Control Program (NPS Policy). The purpose of the NPS Policy is to improve the state’s ability to effectively manage nonpoint source pollution, conform to the requirements of the Clean Water Act, and comply with the Federal Coastal Zone Act Reauthorization Amendments of 1990.
+Polluted runoff from nonpoint sources accounts for more than 76 percent of the water bodies where TMDLs are required.
+a. The NPS Policy requires the Water Boards to regulate all nonpoint sources of pollution, using the administrative permitting authorities provided by the Porter-Cologne Water Quality Control Act. This General Order implements the NPS Policy by requiring BPTC measures for site development, cannabis cultivation, associated activities (e.g., site grading, road building, surface water diversion, etc.) that can contribute to nonpoint source pollution.
+
+[page 22] b. NPS pollution control implementation programs are a mechanism to achieve compliance with Basin Plan requirements. Pollution control implementation programs may be imposed upon a subbasin by the State or Regional Water Board, an individual Discharger, or a coalition of Dischargers. Alternatively, a pollution control implementation program may be developed by an individual Discharger, group of Dischargers, or landowners to address a water quality issue.
+c. Implementation of the applicable BPTC measures contained in Attachment A will be protective of water quality for most cannabis cultivation activities.
+However, adherence to the BPTC measures does not assure compliance. The ultimate compliance evaluation is comparison of the effectiveness of BPTC measure implementation to the appropriate Basin Plan requirements. In some cases, the Discharger will have to implement multiple BPTC measures, or increase the density of BPTC measures to achieve water quality protection. In
+
+[page 23] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 18
+some cases, the activity cannot be performed without unacceptable water quality degradation. In those cases, the Regional Water Board may revoke the authorization under the General Order, require authorization under a site-specific order, or prohibit the activity from occurring.
+APPLICATION/TERMINATION PROCESS AND FEES
+
+[page 23] APPLICATION/TERMINATION PROCESS AND FEES
+42. The North Coast Regional Water Board and the Central Valley Regional Water Board have authorized discharges related to cannabis cultivation under Orders R1-2015-0023 and R5-2015-0113. The State Water Board intends that regulatory coverage under an existing Regional Water Board general order will be terminated by the applicable Regional Water Board by July 1, 2019. All existing Dischargers must apply for coverage under this General Order. (Some existing Dischargers may qualify for conditional exemption from the General Order; some previously exempted activities may need to obtain coverage under the Waiver or enroll under this General ) All cannabis cultivation activity that requires discharge authorization as described herein, shall be authorized by this General Order, an appropriate ILRP WDR, a waiver of ILRP WDRs, or by a site-specific order if deemed necessary by the Regional Water Board Executive Officer.
+
+[page 23] All Dischargers enrolled under Orders R1-2015-0023 or R5-2015-0113 as of October 17, 2017 may continue to operate their facility with their existing order’s setbacks (grandfathered status) unless the Regional Water Board’s Executive Officer determines that the reduced setbacks applicable under those orders are not protective of water quality. Such Dischargers are not required to modify their facilities to comply with this General Order’s setback limits.
+New disturbed areas or expansions to the existing facilities shall comply with the setbacks provided in this General Order.
+
+[page 23] New disturbed areas or expansions to the existing facilities shall comply with the setbacks provided in this General Order.
+43. Applicants must comply with the setback and slope limits. A cultivation site is classified as moderate risk if any part of the disturbed area is located on a slope greater than 30 percent. Such Dischargers shall enroll as moderate risk and submit a Site Erosion and Sediment Control Plan. (See the plan description in the Provisions section of this General Order.) A cultivation site is classified as high risk if any part of the disturbed area exists within the setback limits. Such Dischargers shall enroll as high risk, submit a Disturbed Area Stabilization Plan, and shall address the setback compliance issue as described below. (See the plan description in the Provisions section of this General Order.) Because such Dischargers pose a higher risk to water quality and will require a higher level of Regional Water Board oversight, they are subject to a higher application and annual fee. When the site is reconfigured to comply with the setbacks, the Discharger can request the Regional Water Board to reclassify the site to a lower risk level and allow a lower annual fee to be assessed.
+
+[page 24] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 19
+44. Applicants seeking coverage under the Waiver or that are required to enroll are required to pay an application fee as described below. Water Code sections 13260(d)(1)(A) and 13269(a)(4)(A) requires persons subject to waste discharge requirements or a waiver of waste discharge requirements to pay an annual fee according to a fee schedule established by the State Water Board. The application and annual fee schedule is presented in California Code of Regulations, title 23, section 2200 et seq.
+
+[page 24] a. Commercial indoor cannabis cultivation activities that occur within a structure with a permanent roof, a permanent relatively impermeable floor (e.g., concrete or asphalt paved), and comply with the Cannabis Policy and all applicable Requirements in Attachment A, and either: 1) discharge all industrial wastewaters generated to a permitted wastewater treatment collection system and facility that accepts cannabis cultivation wastewater; or 2) collect all industrial wastewater in an appropriate storage container to be stored and properly disposed of by a permitted wastewater hauler at a permitted wastewater treatment facility that accepts cannabis cultivation wastewater are required to apply for coverage under the Waiver on-line and pay an application fee.
+
+[page 24] b. Indoor cannabis cultivation activities that occur within a structure with a permanent roof, a permanent relatively impermeable floor (e.g., concrete or asphalt paved), but discharge irrigation tailwater or hydroponic wastewater, to an on-site wastewater treatment system (such as a septic tank and leach field or to land) must obtain separate regulatory authorization for the wastewater discharge (e.g., WDRs, conditional waiver of WDRs, or other permit mechanism). Indoor cannabis cultivation with an onsite treatment system are required to apply for coverage under the Waiver on-line and pay an application fee.
+c. Outdoor cannabis cultivation activities that comply with the conditionally exempt conditions described in the Exemptions for Certain Cultivation Activities section of this General Order are required to apply for coverage under the Waiver on-line and pay an application fee. Existing Dischargers (under Orders R1-2015-0023, R5-2015-0113) are required to transition coverage (enroll)
+
+[page 24] under the General Order. Dischargers enrolled under Order R1-2015-0023 or Order R5-2015-0113 are subject to all applicable Attachment A Requirements related to water diversion and instream flow2. Transitioning Dischargers are required to apply on-line. They do not pay an application fee; they continue to pay their annual fee as appropriate from the general order fee schedule (the fee may change based on site conditions). Some Dischargers may qualify for, or be
+
+[page 25] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 20
+required to obtain coverage under an ILRP WDR, ILRP conditional waiver of WDRs, or a site-specific WDRs order. Enrollees directed to those orders shall contact the appropriate Regional Water Board for instructions on application procedures. Such Dischargers shall also comply with the applicable water rights registration process described herein as applicable.
+d. New facilities that are classified as either Tier 1 or Tier 2 are required to enroll under the General Order. New facilities are required to apply on-line and pay an application fee. The application fee serves as the first year’s annual fee;
+Dischargers will be billed on an annual basis. Some existing Dischargers (under Orders R1-2015-0023, R5-2015-0113) may be classified as a Tier 1 or Tier 2 facility.
+
+[page 25] Dischargers will be billed on an annual basis. Some existing Dischargers (under Orders R1-2015-0023, R5-2015-0113) may be classified as a Tier 1 or Tier 2 facility.
+e. Tier 1 and 2 sites shall be characterized for risk based on site conditions. Risk is defined as low, moderate, or high. Because moderate and high risk sites will require greater level of regulatory oversight, the fees for those risk levels are higher, reflecting the additional cost to achieve water quality protection. A site can be located on a slope greater than 30 percent and not comply with the setback requirement. In that case, the Discharger shall pay the highest applicable fee.
+i. Low Risk – Comply with the slope requirements and setbacks. Low risk sites are deemed to be a lower threat to water quality.
+ii. Moderate Risk – Comply with the setback requirements but exist on slopes greater than 30 percent and less than 50 percent. The higher slopes will require implementation of more BPTC measures, more monitoring of their effectiveness, and more maintenance activities to ensure the BPTC measures are effective.
+
+[page 25] iii. High Risk – Are facilities that have any portion of their disturbed area located within the setback requirements, with the exception of activities authorized under a Clean Water Act section 404 permit, a CDFW LSA Agreement, coverage under the General Order Water Quality Certification, or site-specific WDRs issued by the Regional Water Board, are classified as high risk and will be assessed the high-risk fee until the activities comply with the setback requirements. It is the Discharger’s responsibility to notify the Regional Water Board of compliance with the setback requirements to reassess the annual fee.
+
+[page 26] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 21
+45. To apply for coverage under this General Order, the Discharger shall submit an application through the Internet as described in the Application Procedure section of this General Order.
+
+[page 26] 45. To apply for coverage under this General Order, the Discharger shall submit an application through the Internet as described in the Application Procedure section of this General Order.
+a. The application requires the Discharger to self-certify that all applicable BPTC measures are being implemented, or will be implemented by the onset of the winter period, following the enrollment date. Upon submittal of the application, the Discharger will obtain a Notice of Receipt. Applicants that cannot implement all applicable BPTC measures by the onset of the winter period, following their enrollment date, shall submit to the Regional Water Board Executive Officer a Site Management Plan that includes a time schedule and scope of work for use by the Regional Water Board in developing a compliance schedule as described in Attachment A. Refer to the definition of winter period in Attachment A for specific dates. The notice of receipt will expire within 30 days of issuance if the Discharger fails to complete the application by submitting the application fee to the State Water Board. (Dischargers that are currently enrolled in the North Coast Regional Water Board or the Central Valley Regional Water Board orders do not pay an additional fee as described in the Application/Termination Process and Fees section of this General Order.)
+
+[page 26] b. Technical reports shall be submitted to the appropriate Regional Water Board via e-mail as described in the notice of receipt and Attachment B monitoring and reporting program (MRP). The MRP is attached hereto and is made part of this General Order by reference. Enrollees may be directed to upload reports via the Internet in the future. See the Provisions section of this General Order for guidance on the report(s) contents.
+c. Upon receipt of an application, fee, and required documentation (e.g., a tribal authorization letter may be required for some applicants). Dischargers will receive documentation for use in obtaining a DCC cultivation license.
+i. Conditionally exempt Dischargers will receive a Conditional Waiver of WDRs.
+ii. Tier 1 or Tier 2 Dischargers will obtain a Notice of Applicability.
+iii. Enrollees transitioning from an existing Regional Water Board order will receive either a Conditional Waiver of WDRs or a Notice of Applicability depending upon the site characteristics.
+
+[page 27] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 22
+46. Dischargers that want to terminate coverage under this General Order shall submit a Notice of Termination (NOT), provided in Attachment C, which is attached hereto and is made part of this General Order by reference. The NOT shall include a Site Closure Report (see the plan description in the Provisions section of this General Order) and a final monitoring report. The Regional Water Board reserves the right to inspect the site before approving an NOT.
+CEQA CONSIDERATIONS
+47. This General Order imposes regulatory requirements on existing cannabis cultivation sites and regulates the water related impacts associated with the development of new cannabis cultivation sites.
+a. The adoption of this General Order for existing cannabis cultivation sites is categorically exempt from CEQA pursuant to California Code of Regulations, title 14, section 15301 (ongoing or existing projects).
+
+[page 27] b. Water Code section 13149 required the State Water Board to adopt principles and guidelines addressing water diversion and water quality issues associated with cannabis cultivation. The principles and guidelines contain substantive criteria for enrollment, water quality protection, and protective measures addressing biological and cultural resources. Water Code section 13149 (b)(1)
+provides that these actions of the State Water Board are deemed to be within California Code of Regulations, title 14, section 15308 (regulatory actions for environmental protection) if stream flow standards are not relaxed. The principles and guidelines described in the Cannabis Policy and as implemented in this General Order do not relax stream flow standards and are therefore exempt from further CEQA evaluation. Adoption of this General Order is a ministerial action under CEQA because it is a requirement of the Cannabis Policy. The General Order contains no substantive requirements that are not already required by the Policy, so there is no possibility that the General Order itself will have any significant effects on the environment.
+
+[page 27] c. Activities performed in aquatic environments require Lake or Streambed Alteration Agreements from the CDFW. Potential impacts to aquatic biological resources are addressed by the CDFW permitting process.
+d. Activities related to site development in timberland require permits from CAL FIRE. Potential impacts to biological resources and cultural resources are addressed in the CAL FIRE permitting process.
+
+[page 28] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 23
+OTHER REGULATORY CONCERNS
+48. This Order does not authorize any act that results in the taking of a threatened or endangered species or any act that is now prohibited, or becomes prohibited in the future, under either the California Endangered Species Act (Fish and Game Code sections 2050 to 2097) or the Federal Endangered Species Act (16 U.S.C.A. sections 1531 to 1544). If a take will result from any action authorized under this General Order, the Discharger shall obtain authorization for an incidental take prior to construction or operation of the project. The Discharger shall be responsible for meeting all applicable requirements of the Endangered Species Act.
+49. The State Water Board has notified interested agencies and persons of its intent to adopt this General Order for discharges of waste from cannabis cultivation activities within the state and has provided them with an opportunity for a public hearing and an opportunity to submit comments.
+
+[page 28] 50. The State Water Board in a public meeting, heard and considered all comments pertaining to this General Order.
+51. Assembly Bill 2108 went into effect January 1,2023, adding Sections 189.7 and 13149.2 to the Water Code to provide equitable, culturally relevant community outreach to promote meaningful civil engagement from potentially impacted communities, and requires analysis and findings related to environmental justice, tribal communities, and disadvantaged communities. The State Water Board has found that there are no substantive revisions from the prior version of this Order (2019-0001-DWQ) and therefore there will be no additional water quality impacts in disadvantaged and tribal communities.
+
+[page 28] IT IS HEREBY ORDERED that, (1) this General Order shall not take effect unless and until the Cannabis Policy is approved by the Office of Administrative Law (Effective Date), (2) pursuant to Water Code section 13269, the State Water Board waives the requirement to submit a report of waste discharge and obtain waste discharge requirements for indoor commercial cannabis cultivators and outdoor cannabis cultivators that meet all requirements for conditional exemptions described in this General Order.
+This Waiver shall expire five years after the Effective Date of this General Order, unless terminated or renewed by the State Water Board, and (3) pursuant to Water Code sections 13263 and 13267, the Discharger, its agents, successors, and assigns, in order to meet the provisions contained in Division 7 of the Water Code and regulations adopted hereunder, shall comply with the requirements of this General Order:
+
+[page 29] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 24
+A. CANNABIS POLICY REQUIREMENTS
+The Discharger shall comply with, and implement, all requirements described in Attachment A of the Cannabis Policy, which is included as Attachment A of this General Order.
+B. APPLICATION PROCEDURE
+1. All Dischargers, except those that qualify for the personal use exemption and that do not need a water rights registration, shall provide the information requested on-line as described below.
+2. To obtain coverage under the Waiver or enroll under this General Order, the Discharger shall:
+a. Provide the information required in the on-line application process located at <https://www.waterboards.ca.gov/cannabis>.
+b. Submit the application fee within 30 days of submitting the on-line application.
+
+[page 29] b. Submit the application fee within 30 days of submitting the on-line application.
+Failure to submit the application fee within 30 days will result in the application being voided and authorization terminated. Payments shall be identified using the Fee Payment Application Number (found on the Notice of Receipt). All checks or money orders shall be made payable to: “State Water Resources Control Board,” and shall be delivered to:
+i. By U.S. Mail:
+Accounting Office
+Attn: Water Quality Fees – Cannabis General Order
+P.O. Box 1888
+Sacramento, CA 95812-1888
+ii. In person or by courier delivery:
+Accounting Office
+Attn: Water Quality Fees – Cannabis General Order
+1001 I Street
+Sacramento, CA 95814
+c. Provide the technical reports listed in Table 1 on page 34. Site Management Plan is due 90 calendar days after the application is submitted and the Notice of Receipt is issued; the Site Closure Report is due 90 days prior to ending cannabis cultivation activities. When required, the Site Erosion Sediment Control Plan,
+
+[page 30] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 25
+and the Disturbed Area Stabilization Plan must be submitted and approved by the Regional Water Board Executive Officer before the Dischargers can initiate activities at the site. See the Provisions section of this General Order for descriptions of the technical report contents.
+3. The primary authority for issuing Notices of Applicability (NOAs) is the Regional Water Board Executive Officer. However, NOAs may also be issued by the State Water Board Division of Water Quality Deputy Director or the State Water Board Chief Deputy Director.
+4. Dischargers that want to terminate coverage under this General Order shall submit a Notice of Termination (NOT), provided in Attachment C. The NOT shall include a Site Closure Report (see the plan description in the Provisions section of this General Order) and a final monitoring report. The Regional Water Board may inspect the site before approving an NOT.
+C. PROVISIONS
+
+[page 30] C. PROVISIONS
+1. Technical Report Preparation Requirements. All technical reports shall be submitted to the appropriate Regional Water Board by transmitting the report in portable document format (PDF) to the e-mail address provided in the notice of receipt. Refer to the General Order attachments for guidance on the contents of the reports.
+a. Within 90 days of the issuance of a Notice of Receipt, all Tier 1 and Tier 2 Dischargers shall submit and implement a Site Management Plan that describes how the Discharger is complying with the BPTC measures listed in Attachment A.
+The description shall describe how the BPTC measure is implemented (e.g., for petroleum fuel storage, specify the specific product or means of compliance).
+
+[page 30] The description shall describe how the BPTC measure is implemented (e.g., for petroleum fuel storage, specify the specific product or means of compliance).
+Dischargers that are landowners of the cultivation site in North Coast Regional Water Board jurisdiction are required to submit and implement Site Management Plans that describes how the BPTC measures are implemented property-wide, including BPTC measures implemented to address discharges from legacy activities. The Site Management Plan may include a schedule to achieve compliance, but all work must be completed by the onset of winter period each year. (The due date does not relieve a Discharger from implementing the interim soil stabilization BPTC measures described in Attachment A. Interim measures are those that are implemented immediately upon site development.) Attachment D, which is attached hereto and is made part of this General Order by reference, provides guidance on the contents of the Site Management Plan.
+
+[page 30] b. Tier 1 or Tier 2 Dischargers classified as moderate risk (any portion of the disturbed area is located on a slope greater than 30 percent, or conditionally exempt Dischargers that do not comply with the conditions that must enroll as Tier
+
+[page 31] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 26
+1 or 2, and have any portion of the disturbed area on a slope greater than 30 percent) shall submit a Site Erosion and Sediment Control Plan that describes how the Discharger will implement the BPTC measures listed in Attachment A.
+(Refer to Attachment A, Section 5 Planning and Reporting for a listing of professional registrations or certifications that are qualified to prepare the plan.)
+Because moderate risk sites are located on steeper slopes, additional BPTC measures, or a higher density of BPTC measures may be appropriate to achieve the goal of minimizing the discharge of sediment off-site. The report shall include an analysis of slope stability. Attachment D of the General Order provides guidance on the contents of the Site Erosion and Sediment Control Plan. The Report shall be approved by the Regional Water Board Executive Officer prior to implementation.
+
+[page 31] c. Tier 1 or Tier 2 Dischargers classified as high risk (any portion of the disturbed area exists within the setbacks specified in this General Order except as authorized by a CDFW Lake or Streambed Alteration permit, shall submit a Disturbed Area Stabilization Plan that shall describe how compliance with the setbacks will be achieved. (Refer to Attachment A, Section 5 Planning and Reporting for a listing of professional registrations or certifications that are qualified to prepare the Plan.) If the Discharger will not be able to achieve compliance by the onset of the next winter period (stabilization work will continue into the winter period or will continue the following year), the Discharger must include a time schedule and scope of work for approval by the Regional Water Board Executive Officer and use in preparing an enforcement order. Attachment D of the General Order provides guidance on the contents of the Disturbed Area Stabilization Plan. The Report shall be approved by the Regional Water Board Executive Officer prior to implementation.
+
+[page 31] d. Within 90 days of the issuance of a notice of receipt, all Tier 2 Dischargers with a cannabis cultivation area, or aggregate of cultivation areas, greater than one acre shall submit a Nitrogen Management Plan (NMP) for the facility. The NMP shall calculate all the nitrogen applied to the cannabis cultivation area (dissolved in irrigation water, originating in soil amendments, and applied fertilizers) and describe procedures to limit excessive fertilizer application. Attachment D of the General Order provides guidance on the contents of a Nitrogen Management Plan.
+e. At least 90 days prior to ending cannabis cultivation at a site, a conditionally exempt, Tier 1, or Tier 2 Discharger shall submit a Site Closure Report that describes how the site will be decommissioned to prevent waste constituents, sediment, and/or turbidity discharges that degrade water quality. If construction
+
+[page 32] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 27
+activities are proposed in the Site Closure Report, a project implementation schedule shall be included in the report. The Site Closure Report shall also include a final MRP report. Attachment D of the General Order provides guidance on the contents of the Site Closure Report.
+2. Standard Provisions for All Dischargers
+a. The requirements prescribed herein do not authorize the commission of any act causing damage to the property of another, or protect the Discharger from liabilities under federal, state, or local laws. This General Order does not convey any property rights or exclusive privileges and does not create a vested right to continue cannabis cultivation or discharge of wastewater.
+b. This General Order does not relieve the Discharger from responsibility to obtain other necessary local, state, or federal permits, nor does the General Order prevent imposition of additional standards, requirements, or conditions by any other agency.
+
+[page 32] c. The requirements of this General Order are severable. If any provision of this General Order is held invalid, the remainder of this General Order shall not be affected.
+d. The Discharger shall ensure that all site operating personnel are familiar with the contents of the General Order. A copy of this General Order and technical reports required by this General Order shall be kept at the cultivation site. Maintenance of electronic copies of the documents, that can immediately be viewed, is acceptable.
+
+[page 32] e. Consistent with the Business and Professions Code, the Forest Practice Act, and other state laws, certain technical report preparation, design calculations, and report preparation must be prepared under the supervision of a California licensed civil engineer, professional forester, or professional geologist. This General Order also contains requirements related to storm water documents. (Refer to the Planning and Reporting section of Attachment A for a listing of professional registrations or certifications that are qualified to prepare the plan.) In addition, contractors employed to implement the BPTC measures must comply with the specific requirements contained in the Forest Practice Act and the general requirements requiring licensing by the California Contractors’ State License Board.
+f. The Discharger shall comply with all of the terms and conditions of this General Order. Any noncompliance with this General Order constitutes a violation of the
+
+[page 33] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 28
+Porter-Cologne Water Quality Control Act and/or applicable Regional Water Board’s Basin Plan and may be grounds for an enforcement action.
+g. The State Water Board will review this General Order periodically and will revise requirements when necessary.
+h. The Regional Water Board Executive Officer or State Water Board Division of Water Quality Deputy Director or the State Water Board Chief Deputy Director may terminate a Discharger’s coverage under this General Order for cause including, but not limited to, any of the following:
+i. Violation of any of the terms or conditions contained in this General Order.
+ii. Obtaining this General Order by misrepresentation, or failure to disclose fully all relevant facts.
+iii. A change in any condition that results in either a temporary or permanent need to reduce or eliminate the authorized discharge activities.
+iv. A material change in the activity, character, location, or volume of discharge.
+v. Adoption of a TMDL amendment, new TMDL, or TMDL alternative.
+
+[page 33] v. Adoption of a TMDL amendment, new TMDL, or TMDL alternative.
+i. Before making a material change in the activity, character, location, or volume of discharge, the Discharger shall notify the Regional Water Board Executive Officer.
+The Regional Water Board Executive Officer may require resubmittal of application information, technical reports, or certifications. If the authorization was issued by the State Water Board Division of Water Quality Deputy Director or the State Water Board Chief Deputy Director, those individuals may also require that actions described in this standard provision. A material change includes, but is not limited to, any of the following:
+i. An increase in cultivation area (indoor or outdoor) beyond that specified in the application.
+ii. A significant change in the operational activities that have the potential to increase or create a discharge to waters of the state (e.g., new greenhouses, change in wastewater disposal method, or new activity such as cannabis manufacturing).
+j. Except for material determined to be confidential in accordance with California law, all reports prepared in accordance with terms of this General Order shall be
+
+[page 34] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 29
+available for public inspection at the offices of the Regional Water Board. Data on waste discharges, water quality, geology, and hydrogeology are not confidential.
+k. The Discharger shall take all reasonable steps to minimize any adverse impact to waters of the state resulting from noncompliance with this General Order. Such steps may include accelerated or additional monitoring as necessary to determine the nature and impact of the noncompliance.
+l. The Discharger shall maintain in good working order and operate as efficiently as possible any facility, control system, water storage, or monitoring device installed to achieve compliance with this General Order.
+m. The Discharger shall permit representatives of the Regional Water Board and/or the State Water Board, upon presentation of credentials, to:
+i. Enter premises where cannabis is cultivated or processed, wastes are treated, or disposed of, and facilities in which any records are kept.
+
+[page 34] i. Enter premises where cannabis is cultivated or processed, wastes are treated, or disposed of, and facilities in which any records are kept.
+ii. Copy any records required under terms and conditions of this General Order.
+iii. Inspect at reasonable hours, monitoring equipment required by this General Order.
+iv. Sample, photograph, and/or video record any cultivation activity, discharge, waste material, waste treatment system, or monitoring device.
+n. For any electrically operated equipment at the site, the failure of which would cause loss of control or containment of waste materials or violation of this General Order, the Discharger shall employ safeguards to prevent loss of control over wastes. Such safeguards may include alternate power sources, standby generators, retention capacity, operating procedures, or other means.
+o. The fact that it would have been necessary to halt or reduce the permitted discharge activity to maintain compliance with this General Order shall not be a defense for the Discharger’s violations of the General Order.
+p. Any of the following changes must immediately be reported to the Regional Water Board Executive Officer:
+
+[page 34] p. Any of the following changes must immediately be reported to the Regional Water Board Executive Officer:
+i. A change in ownership of the parcel where the cultivation activities take place. The Discharger or owner must notify the succeeding owner of the existence of this General Order by letter, a copy of which shall immediately be forwarded to the Regional Water Board’s Executive Officer.
+
+[page 35] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 30
+ii. A change of the permitted facility operator. The Discharger must notify the succeeding operator of the existence of this General Order by letter, a copy of which shall immediately be forwarded to the Regional Water Board’s Executive Officer.
+iii. A change in a third-party representative. The Discharger shall notify the owner of the change by letter, a copy of which shall immediately be forwarded to the Regional Water Board’s Executive Officer.
+q. Dischargers that are covered by the Waiver or enrolled under this General Order shall pay an application fee and an annual fee to the State Water Board in accordance with the fee schedule for each fiscal year. (Cal. Code Regs. tit. 23, §2200.) Fees are based on tier and risk designations and are subject to revision by the State Water Board. Annual invoices are issued by the State Water Board for the state fiscal year (July 1 to June 30).
+3. General Reporting Requirements
+
+[page 35] 3. General Reporting Requirements
+a. If the Discharger cannot comply with the General Order, or will be unable to implement an applicable BPTC measure contained in Attachment A by the onset of winter period each year, the Discharger shall notify the Regional Water Board staff by telephone so that a site-specific compliance schedule can be developed.
+Notification shall occur as soon as the Discharger or its agents have knowledge of such noncompliance or potential for noncompliance. The written notification shall state the date, time, nature, cause of noncompliance, immediate response action, and a schedule for corrective actions. Current phone numbers for Regional Water Board Offices may be found on the Internet at:
+<http://www.waterboards.ca.gov/about_us/contact_us/rwqcbs_directory.shtml> b. All reports submitted in response to this General Order, including monitoring reports, shall be signed by a person identified below:
+i. For individuals at a private residence: by the property owner of the residence.
+ii. For a corporation: by a principal executive officer of at least the level of senior vice-president.
+
+[page 35] ii. For a corporation: by a principal executive officer of at least the level of senior vice-president.
+iii. For a partnership or sole proprietorship: by a general partner or the proprietor.
+iv. For a municipality, state, federal, or other public agency: by either a principal executive officer or ranking elected or appointed official.
+
+[page 36] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 31
+v. A duly authorized representative of a person described above if all of the following are completed:
+1. The authorization is made in writing by a person describe above.
+2. The authorization specifies either an individual or a position having responsibility for the overall operation of the regulated facility or activity, such as the position of site manager, superintendent, or position of equivalent responsibility. (A duly authorized representative may thus be either a named individual or any individual occupying a named position).
+3. The written authorization is submitted to the Regional Water Board.
+c. Any person signing a document under this section shall make the following certification:
+
+[page 36] c. Any person signing a document under this section shall make the following certification:
+i. “I certify under penalty of law that I have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment.” d. The Discharger shall mail a copy of each monitoring report and any other reports required by this General Order to the appropriate Regional Water Board or provide electronic submittals of reports or data as specified by the Regional Water Board. Contact and mail address information is available at:
+<http://www.waterboards.ca.gov/about_us/contact_us/rwqcbs_directory.shtml> e. When the Discharger becomes aware that it failed to submit any relevant facts in an application or technical report to the Regional Water Board, it shall promptly submit such facts or information.
+4. Monitoring Requirements
+
+[page 36] 4. Monitoring Requirements
+a. Dischargers enrolled under Tier 1 or Tier 2 classifications shall comply with the attached MRP and any future revisions as specified by the appropriate Regional Water Board Executive Officer or State Water Board’s Executive Director. An Executive Officer, State Water Board Division of Water Quality Deputy Director, or the State Water Board Chief Deputy Director may modify or replace the MRP for site specific conditions when deemed necessary.
+
+[page 37] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 32
+b. Unless otherwise approved by the Regional Water Board Executive Officer, all analyses shall be conducted at a laboratory certified for the analyses by the State Water Board’s Division of Drinking Water Environmental Laboratory Accreditation Program. Field tests, such as tests for color, odor, turbidity, pH, temperature, dissolved oxygen, conductivity, and disinfectant residual are not subject to this requirement and will be accepted provided an acceptable Quality Assurance/ Quality Control Program is instituted by the laboratory. A manual containing the steps followed in the program must be available in the laboratory and shall be available for inspection by Regional Water Board or State Water Board staff. The Quality Assurance/ Quality Control Program must conform to U.S. EPA guidelines or to procedures approved by the Regional Water Board or State Water Board.
+
+[page 37] c. The results of any monitoring done more frequently than required in the MRP shall be reported in the next regularly scheduled monitoring report. Values obtained through additional monitoring shall be used in calculations as appropriate.
+d. The Discharger shall furnish within a reasonable time any information the Regional Water Board or State Water Board staff may request to determine whether cause exists for modifying, revoking, reissuing, or terminating the Discharger's coverage under this General Order. The Discharger shall also furnish copies of records required to be kept by this General Order upon request.
+Providing electronic copies of the documents is acceptable.
+
+[page 37] Providing electronic copies of the documents is acceptable.
+e. The Discharger shall retain records of all monitoring information, including copies of all reports required by this General Order and records of all data used to complete the application for this General Order. Records shall be maintained for a minimum of three years from the date of the report or application. Records may be maintained electronically. This period may be extended during the course of any unresolved litigation regarding this discharge or when requested by the Regional Water Board Executive Officer.
+f. All monitoring and analysis instruments and devices used by the Discharger to fulfill the prescribed MRP shall be properly maintained and calibrated as recommended by the manufacturer to ensure their continued accuracy.
+g. Monitoring and measurements taken for the purpose of monitoring shall be representative of the monitored activity.
+5. Notice of Termination (NOT)
+a. If a Discharger wishes to terminate coverage, the Discharger shall submit a Notice of Termination (NOT) form (Attachment C) to the appropriate Regional Water
+
+[page 38] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 33
+Board. A new landowner and/or Discharger must obtain authorization under this General Order or the activity is subject to enforcement activity.
+b. The General Order coverage is not terminated until the NOT is approved by the Regional Water Board. Until the NOT is approved, the Discharger is responsible for any permit fees associated with General Order enrollment. Regional Water Boards may elect to conduct an inspection of the facilities prior to terminating coverage.
+c. Dischargers and/or landowners remain responsible for any water quality degradation that results from cultivation related activities whether coverage under this General Order has been terminated or not.
+Note the following information relating to Table 1 on page 34:
+1. Refer to the Provisions section of this General Order for the technical report content requirements.
+
+[page 38] 1. Refer to the Provisions section of this General Order for the technical report content requirements.
+2. Some conditionally exempt facilities (including personal use exemption) may have to enroll as a Tier 1 or Tier 2 site if it no longer meets the exemption criteria. If so, the (formerly) conditionally exempt facilities shall submit the technical reports and monitoring reports associated with their tier status.
+3. A Site Closure Report is required prior to ending cannabis cultivation at a site. Also refer to the Notice of Termination (Attachment C.)
+4. A Site Erosion Sediment Control Plan is required when any portion of the disturbed area is located on a slope greater than 30 percent.
+5. A Disturbed Area Stabilization Plan is required when any portion of the disturbed area, including areas disturbed upon initial site development, are located within the Disturbed Area Setbacks presented in Attachment A. Access roads and water crossings designed, constructed, and maintained consistent with the Road Handbook and Attachment A, are not considered disturbed areas.
+6. A Nitrogen Management Plan is required when the cultivation area, or aggregate of cultivation areas, exceeds one acre.
+
+[page 39] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 34
+Table 1: Technical Report Requirements by Tier
+Tier Risk Level Technical Reports
+Conditionally Exempt N/A Site Closure Report
+Tier 1 All Site Management Plan
+Tier 1 Moderate Site Erosion Sediment Control Plan Tier 1 High Disturbed Area Stabilization Plan
+Tier 1 All Site Closure Report
+Tier 2 All Site Management Plan
+Tier 2 Moderate Site Erosion Sediment Control Plan Tier 2 High Disturbed Area Stabilization Plan
+Tier 2 All Nitrogen Management Plan
+Tier 2 All Site Closure Report
+
+[page 40] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 35
+CERTIFICATION
+I, Courtney Tyler, Clerk to the Board, do hereby certify that this General Order with all attachments is a full, true, and correct copy of a General Order adopted by the State Water Board, on November 7, 2023.
+AYE: Chair E. Joaquin Esquivel
+Vice Chair Dorene D’Adamo
+Board Member Sean Maguire
+NAY: None
+ABSENT: Board Member Laurel Firestone
+Board Member Nichole Morgan
+ABSTAIN: None
+Attachments:
+Attachment A. Cannabis Policy Attachment A: Requirements for Cannabis Cultivation Attachment B. Monitoring and Reporting Program
+Attachment C. Notice of Termination
+Attachment D. Technical Report Guidance
+Courtney Tyler
+Clerk to the Board
+
+[page 41] STATE WATER RESOURCES CONTROL BOARD
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ 36
+1 City of Littleton – City of Englewood Pretreatment Pipeline. Third Quarter 2011.
+“Medical Marijuana – an Exploding New Industry.”
+<http://www.lewwtp.org/home/showdocument?id=5674>. Accessed 17 January 2017.
+2 At a minimum, applicable Attachment A Requirements include: Section 1 – General Requirements and Prohibitions (Numbers 4, 15, 17, 24, 26, and 36); Section 2 – Requirements Related to Water Diversions and Waste Discharge for Cannabis Cultivation (Numbers 23, 63, 64, 66, 69 through 92, 94, and 96 through 101); Section 3 – Numeric and Narrative Instream Flow Requirements (Including Gaging) (Narrative Instream Flow Requirements 1 – 7 and Gage Installation, Maintenance, and Operation Requirements); and Section 4 – Watershed Compliance Gage Assignments (All).
+
+[page 42] ORDER WQ 2023-0102-DWQ A-1
+(A) ATTACHMENT A: CANNABIS POLICY ATTACHMENT A
+REQUIREMENTS FOR CANNABIS CULTIVATION
+ORDER WQ 2023-0102-DWQ
+GENERAL WASTE DISCHARGE REQUIREMENTS FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+The Cannabis Policy Attachment A Requirements for Cannabis Cultivation contains surface water diversion and waste discharge requirements for cannabis cultivation related activities. The Discharger shall comply with all requirements in the Cannabis Policy and applicable federal, state, and local laws, regulations, and permitting requirements. If requirements conflict, the most protective requirements shall apply. There are five main categories of cannabis cultivation requirements to protect water quality and instream flows, which are located in the following sections:
+· Section 1. General Requirements and Prohibitions · Section 2. Requirements Related to Diversion of Water and Discharge of Waste for Cannabis Cultivation
+· Section 3. Numeric and Narrative Flow Requirements (including Gaging)
+· Section 4. Watershed Compliance Gage Assignments · Section 5. Planning and Reporting
+
+[page 42] · Section 4. Watershed Compliance Gage Assignments · Section 5. Planning and Reporting
+As referenced in this General Order, best practicable treatment or control (BPTC)
+measures associated with diversion of water and discharge of waste are contained within Attachment A.
+
+[page 43] ORDER WQ 2023-0102-DWQ B-1
+(B) ATTACHMENT B: MONITORING AND REPORTING PROGRAM ORDER WQ 2023-0102-DWQ
+GENERAL WASTE DISCHARGE REQUIREMENTS AND
+WAIVER OF WASTE DISCHARGE REQUIREMENTS FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+This monitoring and reporting program (MRP) describes requirements for monitoring a cannabis cultivation site and its associated facilities. This MRP is issued pursuant to Water Code section 13267. The Discharger shall not implement any changes to this MRP unless and until a revised MRP is issued by the Regional Water Quality Control Board (Regional Water Board) Executive Officer, State Water Resources Control Board (State Water Board) Division of Water Quality Deputy Director, or the State Water Board Chief Deputy Director.
+
+[page 43] The State Water Resources Control Board and Regional Water Boards are transitioning to the paperless office system. In some regions, Dischargers will be directed to submit reports (both technical and monitoring reports) to the State Water Board’s GeoTracker database over the Internet in portable document format (pdf). If so directed, analytical data shall be uploaded to the GeoTracker database under a site-specific global identification number. Information on the GeoTracker database is provided on the Internet at:
+<http://www.waterboards.ca.gov/ust/electronic_submittal/index.shtml>.
+Water Code section 13267 states, in part:
+
+[page 43] Water Code section 13267 states, in part:
+“In conducting an investigation specified in subdivision (a), the regional board may require that any person who has discharged, discharges, or is suspected of having discharged or discharging, or who proposes to discharge waste within its region, or any citizen or domiciliary, or political agency or entity of this state who has discharged, discharges, or is suspected of having discharged or discharging, or who proposes to discharge, waste outside of its region that could affect the quality of waters within its region shall furnish under penalty of perjury, technical or monitoring program reports which the regional board requires. The burden, including costs, of these reports shall bear a reasonable relationship to the need for the report and the benefits to be obtained from the reports. In requiring those reports, the regional board shall provide the person with a written explanation with regard to the need for the reports, and shall identify the evidence that supports requiring that person to provide the reports.”
+Water Code section 13268 states, in part:
+
+[page 43] Water Code section 13268 states, in part:
+“(a) Any person failing or refusing to furnish technical or monitoring program reports as required by subdivision (b) of section 13267, or failing or refusing to furnish a
+
+[page 44] ATTACHMENT B: MONITORING AND REPORTING PROGRAM
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ B-2
+statement of compliance as required by subdivision (b) of section 13399.2, or falsifying any information provided therein, is guilty of a misdemeanor and may be liable civilly in accordance with subdivision (b).
+(b)(1) Civil liability may be administratively imposed by a regional board in accordance with article 2.5 (commencing with section 13323) of chapter 5 for a violation of subdivision (a) in an amount which shall not exceed one thousand dollars ($1,000) for each day in which the violation occurs.” The Discharger owns or engages in cannabis cultivation activities that are subject to the Notice of Applicability (NOA) of Water Quality Order 2023-00XY DWQ. The reports are necessary to ensure that the discharger complies with the NOA and General Order.
+Pursuant to California Water Code section 13267, the discharger shall implement this MRP and shall submit the monitoring reports described herein.
+
+[page 44] Pursuant to California Water Code section 13267, the discharger shall implement this MRP and shall submit the monitoring reports described herein.
+All samples shall be representative of the volume and nature of the discharge or matrix of material sampled. The name of the sampler, sample type (grab or composite), time, date, location, bottle type, and any preservative used for each sample shall be recorded on the sample chain of custody form. The chain of custody form must contain all custody information including date, time, and to whom samples were relinquished. If composite samples are collected, the basis for sampling (time or flow weighted) shall be approved by Regional Water Board staff.
+Field test instruments (such as those used to test pH, dissolved oxygen, and electrical conductivity) may be used provided that they are used by a California Environmental Laboratory Program certified laboratory or:
+1. The user is trained in proper use and maintenance of the instruments;
+2. The instruments are field calibrated prior to monitoring events at the frequency recommended by the manufacturer;
+
+[page 44] 2. The instruments are field calibrated prior to monitoring events at the frequency recommended by the manufacturer;
+3. Instruments are serviced by the manufacturer or authorized representative at the recommended frequency; and
+4. Field calibration reports are maintained and available for at least three years.
+
+[page 45] ATTACHMENT B: MONITORING AND REPORTING PROGRAM
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ B-3
+FACILITY STATUS
+Dischargers that are classified as Tier 1 or Tier 2 facilities shall report the following as shown in Table B1:
+Table B1: Monitoring Requirements
+Monitoring Requirement Description
+Winterization Measures
+Implemented
+Report winterization procedures implemented,
+any outstanding measures, and the schedule for
+completion.
+Tier Status Confirmation Report any change in the tier status.
+(Stabilization of disturbed areas may change the
+tier status of a facility. Contact the Regional
+Water Board if a change in status is
+appropriate.)
+Third Party Identification Report any change in third party status as appropriate.
+Nitrogen Application (if cultivation
+area or aggregate of cultivation
+areas exceeds one acre)
+Report monthly and annual total nitrogen use for
+bulk, solid, and liquid forms of nitrogen. Provide the data as pounds per canopy acre per time
+(month or year) as described in Attachment D,
+Nitrogen Management Plan.
+
+[page 45] Nitrogen Management Plan.
+If plant tissue was collected to determine limited nitrogen availability, the results shall be
+submitted.
+
+[page 46] ATTACHMENT B: MONITORING AND REPORTING PROGRAM
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ B-4
+SITE MAINTENANCE STATUS
+Dischargers that are classified as Tier 1 or Tier 2, and are characterized as a moderate or high risk, shall perform the following additional monitoring as shown in Table B2.
+Table B2: Moderate or High-Risk Monitoring Requirements Observations Description Monitoring
+Frequency
+Surface Water
+Runoff
+Report any conditions of surface water runoff,
+including location, duration, source of runoff
+(irrigation water, storm water, etc.).
+Monthly
+Soil Erosion Control Report any indications of soil erosion (e.g., gullying, turbid water discharge, landslide, etc.).
+Monthly
+Sediment Capture Report the status of sediment capture measures (e.g., silt fence, fiber rolls, settling basin, etc.).
+Monthly
+Erosion/Sediment
+Capture
+Maintenance
+Report maintenance activities to maintain the
+effectiveness of erosion control and sediment
+capture measures (e.g., reinstallation of straw
+mulch, hydroseeding, tarp placement, removal or
+stabilization of sediment captured, removal of
+
+[page 46] stabilization of sediment captured, removal of
+settled sediment in a basin, etc.).
+Monthly
+Stabilization of
+Disturbed Areas
+Dischargers characterized as high risk (with any
+portion of the disturbed area within the
+setbacks), shall provide a status report
+describing activities performed to stabilize the
+disturbed area within the setback.
+Monthly
+Material(s) Storage
+Erosion/Spills
+Prevention
+Report materials delivered or stored at the site
+that could degrade water quality if discharged
+off-site (e.g., potting soil, manure, chemical
+fertilizer, gasoline, herbicides, pesticides, etc.).
+Monthly
+Holding Tank,
+Septic Tank, or
+Chemical Toilet
+Servicing
+Report the dates, activity, and name of the
+servicing company for servicing holding tanks or
+chemical toilets.
+Monthly
+
+[page 47] ATTACHMENT B: MONITORING AND REPORTING PROGRAM
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ B-5
+STORM WATER RUNOFF MONITORING
+Dischargers that are classified as Tier 1 or Tier 2, and are characterized as a moderate or high risk, shall perform the following monitoring as described in Table B3. Note the following information relating to Table B3:
+1. Constituents shall be monitored with a calibrated instrument.
+2. Samples shall be representative of storm water discharging from the disturbed area.
+Additional samples may be required to adequately characterize the discharge from all areas.
+3. Monitoring shall be performed during all months in which activity is occurring at the site until winterization is complete. Monitoring is not required after winterization is complete for unoccupied sites during winter months.
+Table B3: Stormwater Runoff Monitoring Requirements Constituent Frequency Monitoring Frequency
+Turbidity Once per calendar month when
+precipitation exceeds 0.25 inch
+per day or when storm water
+runoff from the site is generated.
+All months until
+winterization procedures
+
+[page 47] winterization procedures
+are completed.
+pH Once per calendar month when
+precipitation amount is forecast to
+exceed 0.25 inch per day.
+All months until
+winterization procedures
+are completed.
+REPORTING
+In reporting monitoring data, the Discharger shall arrange the data in tabular form so that the date, monitoring parameter, and reported results are readily discernible. The data shall be summarized to clearly illustrate compliance status as applicable. The results of any monitoring done more frequently than required at the locations specified in the MRP shall be reported in the next regularly scheduled monitoring report and shall be included in calculations as appropriate.
+The State Water Board or Regional Water Board may require the Discharger to electronically submit monitoring reports using the State Water Board’s California Integrated Water Quality System (CIWQS) program Internet web site or alternative database. Electronic submittal procedures will be provided when directed to begin
+
+[page 48] ATTACHMENT B: MONITORING AND REPORTING PROGRAM
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ B-6
+electronic submittals. Until directed to electronically submit monitoring reports, the Discharger shall submit hard copy monitoring reports.
+Annual Report
+Annual Reports shall be submitted to the Regional Water Board by March 1 following the year being monitored. For example, the monitoring report for activities conducted in the year 2018 is due on March 1, 2019. The Annual Report shall include the following:
+1. Facility Status, Site Maintenance Status, and Storm Water Runoff Monitoring.
+2. The name and contact information for the person responsible for operation, maintenance, and monitoring.
+
+[page 48] 2. The name and contact information for the person responsible for operation, maintenance, and monitoring.
+A letter transmitting the annual report shall accompany each report. The letter shall summarize the numbers and severity of violations found during the reporting period, and actions taken or planned to correct the violations and prevent future violations. The transmittal letter shall contain the following penalty of perjury statement and shall be signed by the Discharger or the Discharger’s authorized agent:
+“I certify under penalty of law that I have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment.”
+The Discharger shall implement the above monitoring program.
+
+[page 49] ATTACHMENT B: MONITORING AND REPORTING PROGRAM
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ B-7
+REGIONAL WATER BOARD CONTACT INFORMATION
+The Discharger shall submit notices, technical reports, and annual reports to appropriate Regional Water Board where the permitted activity is taking place. The appropriate Regional Water Board office and e-mail information is provided on the application receipt (e.g., notice of exemption, Notice of Receipt, Notice of Applicability, etc.). The information in Table B4 is also available by entering the location address in the web tool located at:
+<http://www.waterboards.ca.gov/waterboards_map.shtml>.
+Table B4: Regional Water Board Cannabis Office Contact Information Regional
+Water
+Board
+Mailing Address Cannabis Program Mailbox Email Address North Coast 5550 Skylane Blvd.,
+Suite A
+Santa Rosa, CA
+95403
+Northcoast.cannabis@waterboards.ca.gov
+San
+Francisco
+Bay
+1515 Clay Street,
+Suite 1400
+Oakland, CA 94612
+Sanfranciscobay.cannabis@waterboards.ca.gov
+Central
+Coast
+895 Aerovista Place,
+Suite 101
+San Luis Obispo, CA
+93401
+
+[page 49] 93401
+Centralcoast.cannabis@waterboards.ca.gov
+Los
+Angeles
+320 W. 4th Street,
+Suite 200
+Los Angeles, CA
+90013
+Losangeles.cannabis@waterboards.ca.gov
+Central
+Valley
+Redding
+Office
+364 Knollcrest Dr.,
+Suite 205
+Redding, CA 96002
+Centralvalleyredding@waterboards.ca.gov
+Central
+Valley
+11020 Sun Center
+Dr., Suite 200
+Centralvalleysacramento@waterboards.ca.gov
+
+[page 50] ATTACHMENT B: MONITORING AND REPORTING PROGRAM
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ B-8
+Regional
+Water
+Board
+Mailing Address Cannabis Program Mailbox Email Address Sacramento
+Office
+Rancho Cordova, CA
+95670
+Central
+Valley
+Fresno
+Office
+1685 E Street
+Fresno, CA 93706
+Centralvalleysacramento@waterboards.ca.gov
+Lahontan
+South Lake
+Tahoe
+Office
+2501 Lake Tahoe
+Blvd.
+South Lake Tahoe,
+CA 96150
+Lahontan.cannabis@waterboards.ca.gov
+Lahontan
+Victorville
+Office
+15095 Amargosa
+Road
+Bldg 2, Suite 210
+Victorville, CA 92394
+Lahontan.cannabis@waterboards.ca.gov
+Colorado
+River Basin
+73-720 Fred Waring
+Dr., Suite 100
+Palm Desert, CA
+92260
+Lahontan.cannabis@waterboards.ca.gov
+Santa Ana 3737 Main Street,
+Suite 500
+Riverside, CA 92501
+Santaana.cannabis@waterboards.ca.gov
+San Diego 2375 Northside Dr.,
+Suite 100
+San Diego, CA
+92108
+Sandiego.cannabis@waterboards.ca.gov
+
+[page 51] ORDER WQ 2023-0102-DWQ C-1
+(C) ATTACHMENT C: NOTICE OF TERMINATION
+ORDER WQ 2023-0102-DWQ
+GENERAL WASTE DISCHARGE REQUIREMENTS AND
+WAIVER OF WASTE DISCHARGE REQUIREMENTS FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+Submittal of this Notice of Termination (NOT) to the Regional Water Quality Control Board (Regional Water Board) constitutes notice that a Discharger, identified in Section I of this form, requests termination of coverage under General Waste Discharge Requirements and Waiver of Waste Discharge Requirements for Discharges of Waste Associated with Cannabis Cultivation Activities (Order WQ 2019-0001-DWQ). Completed forms must be signed and post mailed or emailed to the Regional Water Board, attention: Cannabis Regulatory Program, 2019-0001-DWQ Notice of Termination. Refer to the monitoring and reporting program attached to the General Order for the email/mailing address or contact the Regional Water Board. The Discharger shall attach a Site Closure Report and a final monitoring and reporting program report with the NOT.
+
+[page 51] Submittal of this NOT does not relieve the Discharger and/or the property owner of responsibility to control waste discharges related to the cultivation or related activities. The Regional Water Board may inspect the condition of the site or determine that the final monitoring report is incomplete prior to terminating coverage under the General Order.
+SECTION I. DISCHARGER INFORMATION
+Role (check all applicable) Cultivator
+Land/Property Owner Third Party Representative
+Name Contact person (leave blank if same as
+above)
+Address where legal notice may be served
+(cannot be a P.O. Box)
+City
+State ZIP Code
+Email Phone
+
+[page 52] ATTACHMENT C: NOTICE OF TERMINATION
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ C-2
+Note the following regarding SECTION II. CANNABIS CULTIVATION SITE INFORMATION 1. Waste Discharge Identification (WDID) number is a number assigned to each Discharger enrolled under Tier 1 or Tier 2. Dischargers covered under the “Conditionally Exempt” tier should leave this field blank. WDID number can also be obtained from an annual invoice mailed by the State Water Board. If a Discharger does not know his/her WDID number, please contact the Regional Water Board and request the information prior to submittal of the Notice of Termination.
+2. Dischargers covered under “Conditionally Exempt” tier should leave the risk fields blank.
+SECTION II. CANNABIS CULTIVATION SITE INFORMATION
+Assessor Parcel Number(s) WDID (if applicable)
+Address County
+City State
+ZIP Code Contact Person (Leave blank if same as
+Section I)
+Latitude (if address is not available) Longitude (if address is not available)
+Cultivation Site Enrollment Classification (Check all Tier and Risk boxes applicable)
+
+[page 52] Cultivation Site Enrollment Classification (Check all Tier and Risk boxes applicable)
+Conditionally Exempt Tier 1
+Tier 2 Low risk
+Moderate Risk High Risk
+Email (Leave blank if same as Section I) Phone (Leave blank if same as Section I)
+
+[page 53] ATTACHMENT C: NOTICE OF TERMINATION
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ C-3
+SECTION III. CERTIFICATION
+I certify that:
+1) I am a Discharger listed under Section I or a duly authorized representative of the Discharger listed in Section I of this form, 2) cultivation activities are ceased,
+3) the cultivation site is stabilized,
+4) there is no potential for waste discharges from the disturbed area in violation of Regional Water Board’s Basin Plan or the General Order, 5) the Site Closure Report is attached to this NOT, and 6) earthen material and waste have been consolidated at the site and stabilized or disposed of properly.
+“I certify under penalty of law that I have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment.”
+
+[page 53] Printed Name of Discharger/Duly Authorized Representative Signature
+Date
+
+[page 54] ORDER WQ 2023-0102-DWQ D-1
+(D) ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WASTE DISCHARGE REQUIREMENTS AND
+WAIVER OF WASTE DISCHARGE REQUIREMENTS FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+This Technical Report Guidance provides guidance for preparation of the technical reports described in the Provisions section under this General Order. All technical reports shall be submitted to the appropriate Regional Water Quality Control Board (Regional Water Board)
+by transmitting the report in portable document format (PDF) to the e-mail address provided in the notice of receipt. Refer to Provisions section for technical report requirements.
+SITE MANAGEMENT PLAN
+Tier 1 and Tier 2 Dischargers shall submit and implement a Site Management Plan (Plan)
+that describes how the Discharger is implementing the best practical treatment or control (BPTC) measures listed in Attachment A. The Plan may include a schedule to achieve compliance, but all work must be completed by the onsets of winter period each year. (The due date does not relieve a Discharger from implementing the interim soil stabilization BPTC measures described in Attachment A.)
+
+[page 54] The Plan outline presented below is intended to provide general guidance for the Discharger and consultants. This sample format will help the Discharger include information needed to demonstrate that all applicable BPTC measures are implemented and properly maintained. In addition, Dischargers in the North Coast Regional Water Board’s jurisdiction (Region 1) are required to address legacy waste discharge issues, including those that are not related to cannabis cultivation.
+1. Sediment Discharge BPTC Measures
+1.1. Site Characteristics
+1.1.1. Provide a map showing access roads, vehicle parking areas, streams, stream crossings, cultivation site(s), disturbed areas, buildings, and other relevant site features.
+1.1.2. Describe the access road conditions including estimating vehicle traffic, road surface (e.g., paved, rocked, or bare ground), and maintenance activities.
+Describe how storm water is drained from the access road (e.g., crowned, out slope, armored ditch, culverts, rolling dips, etc.).
+1.1.3. Describe any vehicle stream crossing including the type of crossing (e.g., bridge, culvert, low water, etc.).
+
+[page 54] 1.1.3. Describe any vehicle stream crossing including the type of crossing (e.g., bridge, culvert, low water, etc.).
+1.1.3.1. For Region 1 Dischargers, identify, discuss, and locate on the site map any legacy waste discharge issues that exist on the property.
+
+[page 55] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-2
+1.2. Sediment Erosion Prevention and Sediment Capture (Moderate risk Tier 1 or Tier 2 Dischargers are required to submit a Site Erosion and Sediment Control Plan.
+Those Dischargers may refer to that plan rather than repeat it here).
+1.2.1. Erosion Prevention BPTC Measures
+1.2.1.1. Describe the BPTC measures that have been, or will be implemented to prevent or limit erosion. Provide an implementation schedule for BPTC measures that have not yet been implemented. Identify the erosion prevention BPTC measures on a site map.
+1.2.1.1.1. The description shall address physical BPTC measures, (e.g., placement of straw mulch, plastic covers, slope stabilization, soil binders, culvert outfall armoring, etc.) and biological BPTC measures (vegetation preservation/replacement, hydro seeding, etc.).
+1.2.2. Sediment Control BPTC Measures
+
+[page 55] 1.2.2. Sediment Control BPTC Measures
+1.2.2.1. Describe the BPTC measures that have been, or will be implemented to capture sediment that has been eroded. Provide an implementation schedule for BPTC measures that have not yet been implemented. Identify the sediment control BPTC measures on a site map.
+1.2.2.1.1. The description shall address physical BPTC measures, (e.g., placement of silt fences, fiber rolls, or settling ponds/areas, etc.) and biological BPTC measures (vegetated outfalls, hydro seeding, etc.).
+1.2.3. Maintenance Activities - Erosion Prevention and Sediment Control 1.2.3.1. Describe how the erosion prevention and sediment control BPTC measures will be monitored and maintained to protect water quality.
+1.2.3.2. Describe how any captured sediment will be either stabilized in place, excavated and stabilized on-site, or removed from the site.
+1.2.4. Erosion control BPTC measures: Describe the interim soil stabilization, if applicable and long-term BPTC measures implemented to prevent sediment transport at each identified disturbed area(s) and improperly constructed features.
+2. Fertilizer, Pesticide, Herbicide, and Rodenticide BPTC Measures
+
+[page 56] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-3
+2.1. Provide a summary table that identifies the products used at the site, when they are delivered to the site, how they are stored, and used at the site. If products are not consumed during the growing season, describe how they are removed from the site or stored to prevent discharge over the winter season.
+2.2. Provide a site map that locates storage locations.
+2.3. Describe how bulk fertilizers and chemical concentrates are stored, mixed, applied, and how empty containers are disposed.
+2.4. Describe procedures for spill prevention and cleanup.
+3. Petroleum Product BPTC Measures
+3.1. Provide a summary table that identifies the products used at the site, when they are delivered to the site, how they are stored, and used at the site. If products are not consumed during the growing season, describe how they are removed from the site or stored to prevent discharge over the winter season.
+3.2. Provide a site map that locates storage locations.
+
+[page 56] 3.2. Provide a site map that locates storage locations.
+3.3. Describe how fuels, lubricants, and other petroleum products are stored, mixed, applied, and empty containers are disposed.
+3.4. Describe procedures for spill prevention and cleanup.
+4. Trash/Refuse, and Domestic Wastewater BPTC Measures 4.1. Describe the types of trash/refuse that will be generated at the site. Describe how the material is contained and properly disposed of.
+4.1.1. Provide a site map that locates the trash/refuse storage locations.
+4.2. Describe the number of employees, visitors, or residents at the site.
+4.2.1. Describe the types of domestic wastewater generated at the site (e.g., household generated wastewater or chemical toilet).
+4.2.2. Describe how the domestic wastewater is disposed.
+4.2.2.1. Permitted onsite wastewater treatment system (e.g., septic tank and leach lines).
+
+[page 57] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-4
+4.2.2.2. Chemical toilets or holding tank. If so, provide the name of the servicing company and the frequency of service.
+4.2.2.3. Outhouse, pit privy, or similar. Use of this alternative requires approval from the Regional Water Board Executive Officer; include the approval from the Executive Officer and any conditions imposed for use of this alternative.
+4.2.2.3.1. Provide a site map that locates any domestic wastewater treatment, storage, or disposal area.
+5. Winterization BPTC Measures
+5.1. Describe activities that will be performed to winterize the site and prevent discharges of waste. The description should address all the issues listed above.
+5.2. Describe maintenance of all drainage or sediment capture features (e.g., drainage culverts, drainage trenches, settling ponds, etc.) to remove debris, soil blockages, and ensure adequate capacity exists.
+5.3. Describe any revegetation activities that will occur either at the beginning or end of the precipitation season.
+
+[page 57] 5.3. Describe any revegetation activities that will occur either at the beginning or end of the precipitation season.
+5.4. If any BPTC measure cannot be completed before the onset of winter period, contact the Regional Water Board to establish a compliance schedule.
+5.5. For Region 1 Dischargers, describe any activities that will be performed to address legacy waste discharge issues. Region 6 Dischargers should consult with Regional Water Board staff to confirm if any other activities in addition to BPTCs are necessary to address legacy waste discharge issues.
+
+[page 58] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-5
+SITE EROSION AND SEDIMENT CONTROL PLAN
+Tier 1 or Tier 2 Dischargers classified as moderate risk shall submit and implement a Site Erosion and Sediment Control Plan (Plan). The Plan shall be prepared under the supervision of a qualified professional as described in the Provisions section of the General Order. The report shall be approved by the Regional Water Board Executive Officer prior to implementation.
+
+[page 58] The Plan shall describe how best practical treatment or control (BPTC) measures listed in Attachment A will be implemented to achieve the goal of minimizing the discharge of sediment off-site. Site specific factors (e.g., percent slope, precipitation amounts, soil type, vegetation status, etc.) shall be considered in determining the appropriate level of water quality protection. The Plan shall include an analysis of slope stability and an implementation schedule; if the work cannot be completed by the onset of winter period each year, the Discharger shall contact the Regional Water Board to establish a compliance schedule. Indications of instability include the occurrence of slope failures at nearby similar sites, weak soil layers, geologic bedding parallel to slope surface, hillside creep (trees, fence posts, etc. leaning downslope), tension cracks in the slope surface, bulging soil at the base of the slope, and groundwater discharge from the slope. Interim soil stabilization BPTC measures shall be performed as soon as practicable. Interim measures are those that can be implemented immediately following site development.
+At a minimum, the Plan shall address the following:
+
+[page 58] At a minimum, the Plan shall address the following:
+1. Site Description
+1.1. Describe the site (e.g., topography, vegetation, elevation, historic precipitation patterns, soil types, surface waterbodies, etc.).
+1.2. Site Disturbances – Provide a site map that shows the location of all of the applicable following items. For each mapped item, provide a description of the item.
+1.2.1. Historic (Existing) Disturbances (e.g., access/site roads, buildings, stream crossings, disturbed areas, graded areas, cultivation areas, vehicle parking areas, disturbed vegetation areas, etc.).
+1.2.2. Recent or Planned Disturbances (e.g., access/site roads, buildings, disturbed areas, graded areas, cultivation areas, vehicle parking areas, vegetation removal areas, etc.).
+1.2.3. Areas of Special Concern (e.g., describe any existing or planned stream or wetland crossing, any culverts, any slope that shows evidence of past failure, or
+
+[page 59] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-6
+evidence of instability (e.g., cracks in retaining walls, surface cracks in soil, bulging soil, groundwater discharge areas, sunken road beds, downslope leaning trees or utility poles, etc.).
+1.2.4. Describe and show on the site map, the storm water runoff sampling locations.
+1.3. Erosion Prevention BPTC Measures
+1.3.1. Describe the BPTC measures that have been, or will be implemented to prevent or limit erosion. Provide an implementation schedule for BPTC measures that have not yet been implemented. Identify the erosion prevention BPTC measures on a site map.
+1.3.1.1. The description shall address physical BPTC measures, (e.g., placement of straw mulch, plastic covers, slope stabilization, soil binders, culvert outfall armoring, etc.) and biological BPTC measures (vegetation preservation/replacement, hydro seeding, etc.).
+1.4. Sediment Control BPTC Measures
+
+[page 59] 1.4. Sediment Control BPTC Measures
+1.4.1. Describe the BPTC measures that have been, or will be implemented to capture sediment that has been eroded. Provide an implementation schedule for BPTC measures that have not yet been implemented. Identify the sediment control BPTC measures on a site map.
+1.4.1.1. The description shall address physical BPTC measures, (e.g., placement of silt fences, fiber rolls, or settling ponds/areas, etc.) and biological BPTC measures (vegetated outfalls, hydro seeding, etc.).
+1.5. Maintenance Activities - Erosion Prevention and Sediment Control 1.5.1. Describe how the erosion prevention and sediment control BPTC measures will be monitored and maintained to protect water quality.
+1.5.2. Describe how any captured sediment will be either stabilized in place, excavated and stabilized on-site, or removed from the site.
+2. Winterization
+2.1. Prevention
+
+[page 60] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-7
+2.1.1. Describe the BPTC measures that will be implemented before winter precipitation occurs to prevent erosion of disturbed areas, including the cultivation area.
+2.1.2. Describe maintenance of all drainage or sediment capture features (e.g., drainage culverts, drainage trenches, settling ponds, etc.) to remove debris, soil blockages, and ensure adequate capacity exists.
+2.1.3. Describe any revegetation activities that will occur either at the beginning or end of the precipitation season.
+
+[page 61] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-8
+NITROGEN MANAGEMENT PLAN
+Tier 2 Dischargers with a cannabis cultivation area, or aggregate of cultivation areas, greater than one acre are required to submit a Nitrogen Management Plan (NMP). The NMP shall describe how nitrogen is stored, used, and applied to crops in a way that is protective of water quality. At a minimum, an NMP shall address the following:
+1. Facility Description
+1.1. Location and Configuration
+1.1.1. Provide a description of the site, the method of growing cannabis (e.g., in ground, raised beds, grow bags, etc.).
+1.1.2. Describe the canopy area acreage (at plant maturity).
+1.1.3. Site Location Map (Provide a United States Geological Survey topographic map or similar map that shows the location, nearby water bodies, public and access roads, etc.).
+1.1.4. Facility Plan (Provide a scaled drawing that shows the facility, disturbed areas, cultivation areas, buildings, access roads, greenhouses, material storage areas, source of irrigation water, water storage, etc.).
+
+[page 61] 2. Sources of Nitrogen
+2.1. Bulk Materials (Materials either used as growing medium or as amendments to the growing medium (e.g., potting soil, manure, biosolids, etc.)).
+2.2. Dry Fertilizers (Materials added to a growing medium or mixed with irrigation water that provide nitrogen to the crop (e.g., bone meal, feather meal, pelletized manure or biosolids, pelletized chemical fertilizer, etc.)).
+2.3. Liquid Fertilizers (Materials added to irrigation water, or that are applied directly to the crop (e.g., fish emulsion, chemical fertilizers, etc.)).
+3. Nitrogen Storage, Use, and Disposal Practices
+3.1. Describe when nitrogen containing materials will be delivered to the site (e.g., as needed or at the beginning of growing season).
+3.2. Describe how bulk, dry, and liquid fertilizers will be stored.
+3.3. Describe any mixing or processing area(s) of nitrogen containing materials.
+
+[page 62] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-9
+3.4. If applicable, describe how “spent” growing medium is either removed from the site or incorporated into site soils.
+3.5. If “spent” growing medium is not removed from the site, describe how amendments are added to the existing medium to improve the nitrogen content. Describe when that process occurs.
+4. Nitrogen Application Rate
+4.1. Monthly Applied Nitrogen – Provide a nitrogen management worksheet that calculates the nitrogen applied per canopy acre (see attached). Note that monthly nitrogen uptake rates generally are consistent with the evapotranspiration rate.
+
+[page 62] 4.2. Limited Nitrogen Availability – Due to natural processes, some crops may be nitrogen limited despite applying 1.4 times the crop uptake rate. (See the Fertilizers, Pesticides, Petroleum Products and Other Chemicals section of the Cannabis Policy Staff Report.) Additional nitrogen may be applied if the need is demonstrated based on a plant tissue sample analysis as described in the General Order. Provide the name of the analytical or agricultural laboratory that will provide plant tissue analysis.
+EXAMPLE NITROGEN REPORTING WORKSHEET
+The General Order monitoring and reporting program (MRP) requires annual submittal of nitrogen data when a Discharger is required to submit an NMP. The application rate shall be reported as pounds of nitrogen applied per canopy acre. (Typically the cultivation area acreage will be larger than the canopy acreage. Use the anticipated canopy acreage at plant maturity for calculation purposes.) Methods to calculate the pounds of nitrogen applied from bulk, dry, or liquid fertilizer are presented below.
+
+[page 62] Note that the nitrogen applied shall only be calculated for the month in which it is applied, and all the nitrogen applied shall be calculated. For example, use of slow release fertilizers or materials in chemical forms that are not immediately available for plant uptake shall be included in the calculation for the month applied rather than spreading the value over two or more months. Use of potting soil is likely to show an over application of nitrogen compared to crop uptake in early months, the application rate will approximate the crop uptake over the growing season.
+Fertilizer Labeling
+Fertilizer labels always list three nutrients: nitrogen (N), phosphorus (P), and potassium (K).
+The three numbers represent the percentage of each nutrient in the fertilizer source. For
+
+[page 63] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-10
+bulk materials such as potting soil, the seller can provide a list of the nutrient content. To calculate the nitrogen contained in liquid fertilizers, the density is needed. Liquid fertilizers list the volume and weight of the product, which can be used to calculate the density of the liquid fertilizer (if density is not listed on the product information label).
+EXAMPLE NITROGEN REPORTING FORM
+Bulk Materials
+Dry Fertilizers
+Liquid Fertilizers
+
+[page 64] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-11
+Or,
+Report monthly bulk, dry, liquid fertilizers individually The nitrogen reporting form below shows the monthly and annual nitrogen application rates in pounds of nitrogen per canopy acre.
+In April two bags of bulk fertilizer weight 100 pounds each were used at a 0.50 acre cultivation site. The quantity of nitrogen from the bulk soil applied in April is 30 pounds.
+The amount of nitrogen applied per canopy acre is then calculated as:
+
+[page 65] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-12
+Table D1: Nitrogen Reporting Example, Pounds per Canopy Acre Month Bulk Dry Liquid Rate Applied
+January 0 0 0 0
+February 0 0 0 0
+March 0 0 0 0
+April 60 20 8 88
+May 0 0 24 24
+June 0 0 24 24
+July 0 8 24 32
+August 0 10 30 40
+September 0 20 40 60
+October 0 0 0 0
+November 0 0 0 0
+December 0 0 0 0
+Total nitrogen applied
+(pounds per canopy acre)
+60 58 150 268
+
+[page 66] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-13
+DISTURBED AREA STABILIZATION PLAN
+Tier 1 or Tier 2 Dischargers classified as high risk shall submit and implement a Disturbed Area Stabilization Plan (Plan). (Note that high risk site classification is a temporary condition that exists until the Discharger stabilizes the disturbed area located within the setbacks. Once the area is stabilized and the Regional Water Board approves the work, the Discharger can petition the Regional Water Board to reclassify the site as either low or moderate risk, depending upon the site conditions.) The Plan shall be prepared under the supervision of a qualified professional as described in the Provisions section of the General Order. The report shall be approved by the Regional Water Board Executive Officer prior to implementation.
+
+[page 66] The Plan shall describe how best practical treatment and control (BPTC) measures listed in Attachment A will be implemented to achieve the goal of stabilizing the disturbed area to minimize the discharge of sediment off-site and complying with the setback requirements.
+Site specific factors (e.g., percent slope, precipitation amounts, soil type, vegetation status, etc.) shall be considered in determining the appropriate level of water quality protection.
+The Plan shall include an implementation schedule; if the work cannot be completed by the onset of winter period (refer to Attachment A for definition of “winter period”), the Discharger shall contact the Regional Water Board to establish a compliance schedule.
+Interim soil stabilization BPTC measures shall be performed as soon as practicable. Interim measures are those that can be implemented immediately following site development.
+
+[page 66] Interim soil stabilization BPTC measures shall be performed as soon as practicable. Interim measures are those that can be implemented immediately following site development.
+Certain activities within the setbacks that are authorized by a California Department of Fish and Wildlife Lake or Streambed Alteration Agreement, a United States Army Corps section 404 permit, a Regional Water Board section 401 water quality certification, or waste discharge requirements issued by a Regional Water Board or the State Water Board may be performed within the setbacks contained in the General Order and do not trigger a high risk Discharger classification.
+At a minimum, the Plan shall address the following:
+1. Site Description
+1.1. Describe the site (e.g., topography, vegetation, elevation, historic precipitation patterns, soil types, surface waterbodies, etc.).
+1.2. Provide a site map that shows the location of all water bodies, the applicable setback(s), all disturbed areas within the setback(s), and the storm water runoff sampling locations.
+
+[page 67] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-14
+1.3. Describe how the area was disturbed (e.g., previously existing condition, timber harvest, grading activities, etc.) and the level of disturbance.
+1.4. Describe the native vegetation that typically exists in the disturbed area.
+2. Erosion Prevention BPTC Measures
+2.1. Describe the BPTC measures that have been, or will be implemented to prevent or limit erosion. Provide an implementation schedule for BPTC measures that have not yet been implemented. Identify the erosion prevention BPTC measures on a site map.
+2.1.1. The description shall address physical BPTC measures, (e.g., placement of straw mulch, plastic covers, slope stabilization, soil binders, culvert outfall armoring, etc.) and biological BPTC measures (vegetation preservation/replacement, hydro seeding, etc.).
+3. Sediment Control BPTC Measures
+
+[page 67] 3. Sediment Control BPTC Measures
+3.1. Describe the BPTC measures that have been, or will be, implemented to capture sediment that has been eroded. Provide an implementation schedule for BPTC measures that have not yet been implemented. Identify the sediment control BPTC measures on a site map.
+3.1.1. The description shall address physical BPTC measures, (e.g., placement of silt fences, fiber rolls, or settling ponds/areas, etc.) and biological BPTC measures (vegetated outfalls, hydro seeding, etc.).
+4. Maintenance Activities - Erosion Prevention and Sediment Control 4.1. Describe how the erosion prevention and sediment control BPTC measures will be monitored and maintained to protect water quality.
+4.2. Describe how any captured sediment will be either stabilized in place, excavated and stabilized on-site, or removed from the site.
+5. Long Term Stabilization Measures
+5.1. Describe any revegetation activities designed to provide long term stabilization, that will occur either at the beginning or end of the precipitation season 6. Compliance with General Order Schedule Limits
+
+[page 68] ATTACHMENT D: TECHNICAL REPORT GUIDANCE
+ORDER WQ 2023-0102-DWQ
+GENERAL WDRs AND WAIVER OF WDRs FOR DISCHARGES OF WASTE ASSOCIATED WITH CANNABIS CULTIVATION ACTIVITIES
+ORDER WQ 2023-0102-DWQ D-15
+6.1. If the Discharger will not be able to achieve compliance by the onset of the next winter period (e.g., stabilization work will continue into the winter period or will continue the following year), the Discharger shall include a compliance schedule and scope of work for approval by the Regional Water Quality Control Board Executive Officer and for use in preparing an enforcement order.
+SITE CLOSURE REPORT
+A Site Closure Report (SCR) is required when cultivation activities at the site cease. The SCR shall be submitted in accordance with Provision C.1.e and is required for Dischargers that are covered by the Waiver (conditionally exempt) or enrolled as Tier 1 or Tier 2 Dischargers. The SCR shall be submitted with a completed Notice of Termination form (Attachment C) and shall, at a minimum, include the following components:
+1. The date cultivation activities at the site will cease.
+
+[page 68] 1. The date cultivation activities at the site will cease.
+2. A description of measures that will be implemented at the cannabis cultivation site, including all areas associated with cannabis cultivation activities, to prevent sediment discharges to surface water bodies that will result in water quality degradation.
+3. If construction activities are proposed as part of the closure activities, the SCR shall include a project implementation schedule.
+3.1. Construction and grading activities shall comply with Attachment A: Best Practices and Treatment Control Manual of the General Order.
+4. For Dischargers that are classified as Tier 1 or Tier 2, a final Monitoring and Reporting Program report that includes monitoring conducted year-to-date.
+5. Certification of the following items: (1) the cultivation activities will cease by the date noted in the SCR; (2) disturbed areas have or will be stabilized and the potential for waste discharges from the disturbed areas are minimized and (2) earthen material and waste have been consolidated at the site and stabilized or disposed of properly.

@@ -1,0 +1,296 @@
+DWSRF General Information Package
+https://www.waterboards.ca.gov/drinking_water/services/funding/documents/srf/2026/dwsrf-application-general.pdf
+Date printed: none found
+
+[page 1] Financial Assistance Application
+(Rev. 7/2026)
+Page 1 of 12 General Information Package
+Drinking Water State Revolving Fund
+STATE WATER RESOURCES CONTROL BOARD
+Division of Financial Assistance
+P. O. Box 944212, Sacramento, CA 94244-2120
+GENERAL INFORMATION PACKAGE
+The General Information Package, including its attachments, may be submitted in one of two ways.
+Applicants are encouraged to utilize the Financial Assistance Application Submittal Tool (FAAST) to streamline the application submittal and review process, but if that creates a hardship, the package may instead be submitted by email.
+
+[page 1] 1. Apply online via the FAAST: https://faast.waterboards.ca.gov To submit a DWSRF Application in FAAST, you must complete all the tabs in FAAST and attach (at a minimum) the General Information Package. (Note: Once the DWSRF Application has been uploaded, you must still complete the application by clicking on the “Submit” button.) Once the DWSRF Application is submitted in FAAST, a project manager will be assigned to help the applicant complete the application process. If a project is identified as eligible for the Expedited Drinking Water Grant (EDWG) Funding Program, which is an alternative funding pathway from the DWSRF Program, the assigned project manager will send a separate invitation to submit the application documents associated with the EDWG Funding Program in lieu of certain parts of the DWSRF Application.
+
+[page 1] To submit additional documents for the same project, do not start a new application. Instead, click on the Submitted Applications link on the Main Menu and choose the project from the list of previously submitted applications. Open the Attachments tab, and then the Post-Submission sub-tab. Choose a document from the Attachment Category dropdown list and then select the file to upload. The project manager will receive an email notification letting them know you have submitted additional information for review.
+If you need assistance, you can also contact the FAAST Help Desk, which is staffed Monday through Friday, 8:00 a.m. to 5:00 p.m., at 1-866-434-1083 or FAAST_ADMIN@waterboards.ca.gov.
+2. To submit a DWSRF Application via email, please use the following email address:
+DrinkingWaterSRF@waterboards.ca.gov
+
+[page 2] Financial Assistance Application
+(Rev. 7/2026)
+Page 2 of 12 General Information Package
+Drinking Water State Revolving Fund
+General Information Package Instructions
+Check the box to indicate the type of project (planning or construction) needing financial assistance.
+Section I – Applicant Information
+Applicant Name – Enter the entity that will be the legal signatory to a financing agreement.
+Street Address, City, State, Zip – Enter the applicant’s physical street address.
+Mailing Address, City, State, Zip – Enter the applicant’s mailing address.
+Name and Water System ID Number of Benefiting Water System(s) – Enter the name and water system ID number(s) of the water system(s) owned by the applicant and of any additional water system(s) that will benefit from the project.
+Name of Receiving Water System (if applicable) – For consolidation projects, enter the name and water system ID number(s) of the Receiving Water System, which is the Community Water System that will provide service to a Subsumed Water System, state small water system, or domestic well through physical or managerial consolidation.
+
+[page 2] Name of Subsumed Water System(s) (if applicable) – For consolidation projects, enter the name and water system ID number(s) of the Community Water System(s) that will be consolidated into or will be receiving service from the Receiving Water System.
+Additional Benefiting Population Outside Water System Service Area – Provide the population outside the Water System Service Area that will directly benefit from the project (e.g., that will receive drinking water from the Water System).
+Additional Benefiting Connections Outside Water System Service Area – Provide the number of connections outside of the Water System Service Area that will directly benefit from the project (e.g., that will receive drinking water from the Water System).
+Description of Additional Benefiting Population and Connections Outside Water System Service Area – Provide a short description (including geographic name or area) of the population and connections outside of the Water System Service Area that will benefit from the project (e.g., wholesale water system, consolidating state small water system, homes on domestic wells, etc.).
+
+[page 2] Congressional District(s) – Enter the Congressional district(s) where the project will be physically located. If the project spans multiple Congressional Districts (i.e., a pipeline project crossing district boundaries), list all affected districts. A map of California Congressional Districts can be found at https://www.house.gov/representatives/find-your-representative.
+State Senate District(s) & State Assembly District(s) – Enter the State Senate district(s) and State Assembly district(s) where the project will be physically located. Refer to https://findyourrep.legislature.ca.gov/.
+Unique Entity Identifier (UEI) – This number is required to receive a financial assistance agreement. If the applicant does not have a UEI, more information is available at https://sam.gov/entity-registration.
+
+[page 3] Financial Assistance Application
+(Rev. 7/2026)
+Page 3 of 12 General Information Package
+Drinking Water State Revolving Fund
+Authorized Representative Name, Title – Identify the person who has the authority to represent the applicant and sign documents pertaining to the funding application. If the applicant is a public agency or has a governing board, the application must include a copy of a resolution adopted by the governing body designating its authorized representative and authorizing the submission of an application. If the applicant does not have a governing board, then it must provide documentation supporting the authorization of the authorized representative. It is advisable to designate the title of the position authorized to sign and submit an application rather than naming a specific person. The funding application must be signed by the authorized representative.
+Authorized Representative Phone & Email – Enter the authorized representative’s telephone number and email address.
+Contact Person Name – Enter the name of the person who is the day-to-day contact for the project. This person should be able to answer general questions about the project and application.
+
+[page 3] Contact Person Name – Enter the name of the person who is the day-to-day contact for the project. This person should be able to answer general questions about the project and application.
+Contact Person Phone & Email – Enter the contact person’s telephone number and email.
+Legal Counsel Name – Enter the name of the applicant’s general counsel.
+Legal Counsel Phone & Email – Enter the general counsel’s telephone number and email.
+Bond Counsel Name – Enter the name of the applicant’s bond counsel (for borrowers with existing bond debt applying for a repayable loan).
+Bond Counsel Phone & Email – Enter the bond counsel’s telephone number and email (if applicable).
+Section II – Project Information
+Project Title – Enter the title or name of the project. This name should match that on the CEQA documents, resolution, and any other existing documents.
+Project Description and Objectives – Provide a brief description of the project and its objectives.
+Current Status of Plans and Specifications – Provide the current status in percent complete.
+Amount of Financial Assistance Requested – Provide the amount of financial assistance requested.
+
+[page 3] Amount of Financial Assistance Requested – Provide the amount of financial assistance requested.
+Total Project Cost (if greater than the Amount of Financial Assistance Requested) – Provide the total project cost.
+Consultation with Other Agencies – Provide the following:
+• Name of other federal, state, or local agencies involved in this project (e.g. planning, CEQA/NEPA consultation, funding, consolidation, etc.) or whose approval is required for any phase of the project (e.g., LAFCo, CPUC, etc.).
+• Contact information for the named agencies
+• Brief descriptions of the status of these consultations Partnering Agencies – Provide the name of each agency or entity with a financial, ownership, operational, or other role in the project; its contact information, if known; and a brief description of its role.
+Other Funding Sources – Provide a list of other funding sources for this project. Include the amount and an estimated date on which the funding will be available.
+
+[page 4] Financial Assistance Application
+(Rev. 7/2026)
+Page 4 of 12 General Information Package
+Drinking Water State Revolving Fund
+Section III – Managerial Information
+Ownership and Organization of the Water System – Check all boxes that correspond to the ownership of your water system.
+Municipalities – Indicate if the Applicant is a Charter City.
+Privately owned entities – Privately owned non-community water systems are only eligible for DWSRF funding if they qualify as a non-profit entity. Non-profit owners of non-community water systems must include the appropriate IRS non-profit ID number and Tax-Exempt Status form IRS 501(c).
+Ownership Documentation (Private Entities) – Privately owned systems must include a copy of the fictitious name statement, if they are operated under a name that is different than their owner’s legal name, and must provide a copy of their owner’s organizational documents, and federal tax returns as listed below (label as Attachment G1).
+
+[page 4] All documents should be fully executed and adopted, and certified by the appropriate official, e.g., Corporate Secretary for corporations. The following is a list of organizational and tax documents for different types of for-profit or non-profit private water systems:
+Limited Liability Company
+• Applicable federal tax return for the last 3 years [e.g., Form 1040 (sole proprietor), Form 1065 (partnership), or Form 1120 (corporation)]
+• Articles of Organization, with all amendments, certified by California Secretary of State • Executed Operating Agreement
+• Fictitious Business Name/Doing Business As (FBN/DBA) Statement certified by the County Clerk-Recorder (if using any name other than the exact name that is on record with the Secretary of State’s Office)
+• Secretary of State Entity/File Number
+• Most recent Statement of Information filed with the Secretary of State Partnership
+• Partnership Agreement(s)
+• Statement of Partnership Authority (Form GP-1), filed with Secretary of State • Federal tax return for the last 3 years (e.g., Form 1065)
+
+[page 4] • Statement of Partnership Authority (Form GP-1), filed with Secretary of State • Federal tax return for the last 3 years (e.g., Form 1065)
+• Majority owner’s last 3 years of personal tax returns • FBN/DBA Statement certified by the County Clerk-Recorder (if using a name that does not include the surname of each general partner or a name that suggests the existence of additional owners such as “Company,” “& Company,” “& Son,” “& Sons,” “& Associates,” “Brothers,” and the like)
+Corporations (for-profit and non-profit, including mutual water companies)
+• Articles of Incorporation, with all amendments, certified by California Secretary of State • Bylaws
+• FBN/DBA Statement certified by County Clerk-Recorder (if for-profit and using any name other than the exact name that is on record with the Secretary of State’s Office)
+• Federal tax return for the last 3 years (e.g., Form 1120 (C-Corp) or Form 1120S (S-Corp))
+• IRS determination letter recognizing tax-exempt status under section 501(c) (non-profit corporations only)
+• Latest Annual Report filed with the California Registry of Charitable Trusts (if applicable)
+
+[page 4] • Latest Annual Report filed with the California Registry of Charitable Trusts (if applicable)
+• Federal tax return of organization exempt from income tax Form 990 – most recent 3 years (non-profit corporations only)
+
+[page 5] Financial Assistance Application
+(Rev. 7/2026)
+Page 5 of 12 General Information Package
+Drinking Water State Revolving Fund
+Sole Proprietorship
+• FBN/DBA Statement (if using any name that does not include the last name (surname) of the owner, or which implies additional owners), certified by County Clerk-Recorder Trusts
+• Trust or Certification of Trust, signed by all currently acting trustees – discuss with DFA prior to submitting
+• For revocable trust, federal tax return of grantor Form 1040, including schedules – most recent 3 years
+• For irrevocable trust, Form 1041 – most recent 3 years Corporations, LLCs, and Partnerships – If the applicant is a Corporation (e.g. mutual water company;
+
+[page 5] • For irrevocable trust, Form 1041 – most recent 3 years Corporations, LLCs, and Partnerships – If the applicant is a Corporation (e.g. mutual water company;
+incorporated homeowners association), Limited Liability Company, or Partnership, list the applicant entity’s California Secretary of State Entity Number as well as the applicant’s filing status with the California Secretary of State, and indicate whether it is an out-of-state entity. Information relating to a Corporation’s, Limited Liability Company’s, or Partnership’s filings with the Secretary of State can be found at the following website: https://www.sos.ca.gov/business-programs/business-entities/ Does the California Public Utilities Commission (CPUC) regulate any water systems participating in the project? – Indicate what water system is regulated by the CPUC and include the CPUC resolution that authorized acquisition/construction/extension of this system in connection with the project. Water systems regulated by the CPUC must notify CPUC of grant/PF funding. (label as Attachment G2)
+
+[page 5] Is there any pending litigation, sale of system property, audit/investigation, or settlements? – Indicate if there is any litigation, sale of system property, or audit/investigation pending with respect to the water system’s assets or water rights or relative to the operation of the water system or the proposed project. Litigation or audits/investigations involving operators, officers, and decision-making personnel should be included. Has the applicant received any funds, including settlement funds, for contamination of the applicant’s water supply? If yes to any of these, submit a description of the matter, potential costs or liabilities, or settlement funds. (label as Attachment G3)
+
+[page 5] Is the applicant leasing land or major water system facilities, operating under a Special Use Permit, or needing to obtain property rights? – Indicate if the applicant is leasing land or any major water system facilities for the project or operating under a Special Use Permit. If yes, describe the terms of the lease and submit a copy of the lease agreement or Special Use Permit (label as Attachment G4). If the lease or Special Use Permit is critical to the location or operation of the proposed project facilities, the term of the lease or Special Use Permit is expected to extend through the useful life of the project and cannot be shorter than the loan repayment period of the DWSRF financing.
+Additionally, provide a list of all existing property rights relevant to the project, including the remaining term, in years, for each. If additional property rights are needed, identify each and provide its acquisition status (if applicable) (also label as Attachment G4).
+Authorized Representative Documentation - Documentation must be provided designating the Project’s Authorized Representative. The type of document required depends on the applicant entity type (label as Attachment G5).
+
+[page 5] Public Agencies: Authorized Representative Resolution/Ordinance – This resolution or ordinance designates the Authorized Representative(s) for the project, who will have the authority to sign and submit the DWSRF application materials, certify compliance with applicable state and federal laws, execute the financial assistance agreement and amendments, and certify disbursement requests.
+
+[page 6] Financial Assistance Application
+(Rev. 7/2026)
+Page 6 of 12 General Information Package
+Drinking Water State Revolving Fund
+▪ To minimize the potential for problems, use of the exact language in the template resolution is recommended. The template resolution can be found here:
+https://www.waterboards.ca.gov/water_issues/programs/grants_loans/water_recycling/docs/financial_s ecurity/f4_authorizing_resolution_ordinance.pdf
+▪ Enter the title of the Authorized Representative, NOT a person’s name.
+▪ Do not modify the words financing or financial assistance to other terms such as “loan”, “grant”, or “principal forgiveness”. Use of these terms may create legal complications; the terms “financing” and “financial assistance” are broad enough to be applicable to all of the above.
+
+[page 6] Private Entities, including corporations and LLCs: Corporate Resolution - This resolution designates the Authorized Representative(s) for the project, who will have the authority to sign and submit the DWSRF application materials, certify compliance with applicable state and federal laws, execute the financial assistance agreement and amendments, certify disbursement requests, grant a security interest, and authorize the State Water Resources Control Board to perform any acts necessary to perfect security.
+▪ To minimize the potential for problems, use of the exact language in the template resolution is recommended. The template resolution can be found here:
+https://www.waterboards.ca.gov/drinking_water/services/funding/documents/srf/2026/corporate-resolution.pdf
+▪ Enter the title of the Authorized Representative, NOT a person’s name.
+Other Entity Types – If the applicant is a limited partnership, general partnership, trust, or sole proprietor:
+identify the Authorized Representative’s title and include relevant documents that authorize that individual to act, manage, and sign on behalf of the applicant. If the applicant is a trust, include the Trust or Certification of Trust.
+
+[page 6] Payee Data Record, STD 204 (for use by private applicants) – Complete and submit this attachment located at:
+https://www.documents.dgs.ca.gov/dgs/fmc/pdf/std204.pdf (label as Attachment G6)
+Government Agency Taxpayer ID Form (for use by public applicants) – Complete and submit this attachment located at: https://business.ca.gov/wp-content/uploads/2021/09/Government-Agency-Taxpayer-ID-Form-1.pdf.
+(label as Attachment G7)
+Letter(s) of Intent – Attach a copy of the Letter(s) of Intent to consolidate from all participating systems or consolidation agreement(s) for non-mandatory consolidations. If the Letter(s) of Intent, or consolidation agreement(s), are not available, please provide the estimated date by which each document will be submitted.
+
+[page 6] The Letter of Intent should be from the legal owner of the water system participating in the project, be on the entity’s letterhead and signed by an authorized representative of the entity, or be a formal email from the entity’s authorized representative. It must be current (dated within the last 6 months) and include a description of the entity’s intent to consolidate, the parties involved in consolidation, the water system(s) being consolidated, expected outcomes, and anticipated timeframe for completing the consolidation of the water system(s) as part of the project. (label as Attachment G8)
+Self-Certification Form – For projects that are neither requesting repayable financing nor addressing emerging contaminants (EC), the applicant must complete this form:
+https://www.waterboards.ca.gov/drinking_water/services/funding/documents/srf/2026/self-certification-form.pdf (label as Attachment G9).
+
+[page 7] Financial Assistance Application
+(Rev. 7/2026)
+Page 7 of 12 General Information Package
+Drinking Water State Revolving Fund
+The remainder of the application is only applicable to projects that are applying for repayable financing or addressing EC.
+Prior to the State Water Board’s approval of the project, specific water conservation and urban water management requirements must be achieved.
+1. Urban Water Suppliers – Urban Water Suppliers (defined as a water supplier, either publicly or privately owned, that directly or indirectly provides potable municipal water to more than 3,000 customers or that supplies more than 3,000 acre-feet of potable water annually at retail for municipal purposes) must submit proof of Urban Water Management Plan (UWMP) submittals to the Department of Water Resources (label as Attachment G10).
+
+[page 7] 2. Certification for Compliance with Water Metering Form – Water Code section 529.5 requires urban water purveyors to meet metering requirements. If you are an urban water supplier (i.e., supply to more than 3,000 customers or supplying more than 3,000 acre-feet annually), you must comply with this requirement. Please consult with your legal counsel and review section 529.5 of the Water Code before completing this certification:
+https://www.waterboards.ca.gov/drinking_water/services/funding/documents/srf/2026/certification-for-compliance-with-water-metering-form.pdf (label as Attachment G11)
+Potential Flags – To avoid delays during the application process, the applicant must complete and submit this worksheet to alert Division staff of any issues that may potentially affect the application review. (label as Attachment G12)
+Priority Score Estimation Worksheet – It is recommended that the applicant complete and submit this worksheet, which is for repayable loan financing, with the General Information Package: Priority Scoring (label as Attachment G13)
+Section IV – Attachments
+G1 – Ownership Documentation (private entities)
+G2 – CPUC Documentation (if applicable)
+
+[page 7] G2 – CPUC Documentation (if applicable)
+G3 – Pending Litigation, Sale, Audit/Investigation, or Settlements (if applicable)
+G4 – Lease Agreements, Special Use Permits, and Property Rights Information G5 – Authorized Representative Documentation
+G6 – Payee Data Record, STD 204 (private entities)
+G7 – Government Agency Taxpayer ID Form (publicly owned entities)
+G8 – Letter(s) of Intent (if applicable)
+G9 – Self-Certification Form (if applicable)
+For Repayable Financing and EC Projects
+G10 – Urban Water Supplier Conservation Document (if applicable)
+G11 – Certification for Compliance with Water Metering Form G12 – Potential DWSRF Flags Worksheet
+G13 – Priority Score Estimation Worksheet (repayable loans only)
+Certification and Signature of Authorized Representative ✓ Print the name and title of the authorized representative.
+✓ Sign and date the application.
+
+[page 8] Financial Assistance Application
+(Rev. 7/2026)
+Page 8 of 12 General Information Package
+Drinking Water State Revolving Fund
+General Information Package
+☐ PLANNING ☐ CONSTRUCTION
+I. APPLICANT INFORMATION
+Applicant Name:
+Street Address: City: State: Zip Code:
+Mailing Address: City: State: Zip Code:
+Name and Water System ID of Benefiting Water System(s):
+Name and Water System ID of Receiving Water System (if applicable):
+Name and Water System ID of Subsumed Water System(s) (if applicable):
+Additional Benefiting Population Outside Water System Service Area:
+Additional Benefiting Connections Outside Water System Service Area:
+Description of Additional Benefiting Population and Connections Outside Water System Service Area:
+Congressional District(s):
+State Senate District(s):
+State Assembly District(s):
+Applicant’s Unique Entity Identifier (UEI):
+Authorized Representative Name: Title:
+Phone No.: Email Address:
+Contact Person Name:
+Phone No.: Email Address:
+Legal Counsel Name:
+Phone No.: Email Address:
+Bond Counsel Name (if applicable):
+Phone No.: Email Address:
+II. PROJECT INFORMATION
+Project Title:
+
+[page 9] Financial Assistance Application
+(Rev. 7/2026)
+Page 9 of 12 General Information Package
+Drinking Water State Revolving Fund
+Project Description and Objectives:
+Current Status of Plans & Specifications, Percent (%):
+Estimated Amount of Financial Assistance Requested:
+Total Project Cost:
+Consultation with Other Agencies
+List each federal, state, or local agency involved in the project (e.g. planning, CEQA/NEPA consultation, funding, consolidation, etc.) or whose approval is required for any phase of the project (e.g. LAFCo, CPUC, etc.). Include contact information, if known, the agency’s role, the status of the consultation or approval, and the estimated resolution date for any outstanding issue.
+Partnering Agencies
+List each agency or entity with a financial, ownership, operational, or other role in the project. Include contact information, if known, and a brief description of its role (e.g., this project is being financed through a Joint Powers Authority (JPA), the applicant is relying on payments from other agencies to repay financing for this project, another entity will own or operate the facilities, etc.).
+Other Funding Sources
+
+[page 9] Other Funding Sources
+List any other funding sources for this project, along with the amount of additional funding and date of availability:
+
+[page 10] Financial Assistance Application
+(Rev. 7/2026)
+Page 10 of 12 General Information Package
+Drinking Water State Revolving Fund
+III. MANAGERIAL INFORMATION
+Indicate the Ownership of the Applicant’s Water System (check all that apply):
+Public Ownership
+☐ Municipality ☐ County Agency ☐ Special District ☐ State Agency ☐ Public School ☐ Other:
+Private Ownership
+☐ Corporation ☐ Limited Liability Company ☐ Partnership ☐ Sole Proprietorship ☐ Non-profit Organization ☐ Other:
+▪ Private entities must include the ownership documentation specified in the instructions (label as Attachment G1).
+▪ Is the Applicant a Charter City? ☐Yes ☐No
+▪ If the Applicant is a Corporation, Limited Liability Company, or Partnership, complete the following:
+A. California Secretary of State Entity Number:
+B. Status with California Secretary of State:
+☐Active ☐Suspended ☐Forfeited ☐Dissolved
+C. Is the applicant an out-of-state entity? ☐Yes ☐No Are any of the Water Systems involved in the Project regulated by the CPUC? ☐ Yes ☐ No If yes, the Water System may need to obtain CPUC approval. Attach the documentation identified in the Application instructions (label as Attachment G2).
+
+[page 10] Is the Applicant aware of any litigation, sale, or audit/investigation pending relative to the operation of any of the water systems involved in the project or the proposed project or key personnel or officers?
+☐ Yes ☐ No
+For non-repayable projects, has the applicant received any funds, including settlement funds, for contamination of the applicant’s water supply?
+☐ Yes ☐ No ☐ N/A
+If yes to either question above, attach a description of the litigation and the potential costs and/or a description of the settlement and the associated settlement funds (label as Attachment G3).
+Does the applicant own all drinking water system facilities that are part of each system participating in the project, and will the applicant own all facilities to be constructed as part of the project?
+☐ Yes ☐ No
+If no, describe which facilities are not currently owned or will not be owned by the applicant, and indicate who owns or will own the facilities:
+
+[page 11] Financial Assistance Application
+(Rev. 7/2026)
+Page 11 of 12 General Information Package
+Drinking Water State Revolving Fund
+Are there any liens on water system property?
+☐ Yes ☐ No
+Are any water systems involved in the Project operating under a Special Use Permit or leasing land or major water system facilities that are part of the project?
+☐ Yes ☐ No
+Will the applicant acquire land, easements, or other property or access rights for the project?
+☐ Yes ☐ No
+Does the applicant expect to use eminent domain to implement the project?
+☐ Yes ☐ No
+Will the applicant’s property rights for any property needed for the project extend for less than 33 years from the date of the application or are they subject to revocation?
+☐ Yes ☐ No
+
+[page 11] ☐ Yes ☐ No
+If yes to any of the five questions above, please explain. Describe the lien, the terms of the lease or Special Use Permit, and/or attach a copy of the lease agreement or Special Use Permit (label as Attachment G4). Additionally, provide a list of the existing property rights relevant to the project and the term of years for each, and a list of property rights that are still needed and the status of obtaining the property rights (if applicable) (also label as Attachment G4).
+(NOTE: If the lease, Special Use Permit, or property rights are critical to the location or operation of the proposed project facilities, the term should not be shorter than the useful life of the proposed project facilities.)
+Does the project involve easements or property owned by private, federal, or tribal entities, and/or will easements or property need to be obtained from private, federal, or tribal entities for the project?
+☐ Yes ☐ No
+
+[page 11] ☐ Yes ☐ No
+If yes, provide the entity name, ownership type, property description, ownership status, and explain how the property is necessary for the project’s completion and useful life. Additionally, discuss any potential issues or delays anticipated in acquiring any necessary easements or property and describe plans to address these challenges.
+
+[page 12] Financial Assistance Application
+(Rev. 7/2026)
+Page 12 of 12 General Information Package
+Drinking Water State Revolving Fund
+IV. ATTACHMENTS
+☐ G1 – Ownership Documentation (private entities) ☐ N/A ☐ G2 – CPUC Documentation (if applicable) ☐ N/A
+☐ G3 – Pending Litigation, Sale, Audit/Investigation, or Settlements (if applicable) ☐ N/A ☐ G4 – Lease Agreements, Special Use Permits, and Property Rights Information ☐ G5 – Authorized Representative Documentation
+☐ G6 – Payee Data Record, STD 204 (private entities) ☐ N/A ☐ G7 – Government Agency Taxpayer ID Form (publicly owned entities) ☐ N/A ☐ G8 – Letter(s) of Intent (if applicable) ☐ N/A
+☐ G9 – Self-Certification Form (if applicable) ☐ N/A ☐ G10 – Urban Water Supplier Conservation Document (if applicable) (repayable or EC only) ☐ N/A ☐ G11 – Certification for Compliance with Water Metering Form (repayable or EC only)
+☐ G12 – Potential DWSRF Flags Worksheet (repayable or EC only)
+☐ G13 – Priority Scoring Estimation Worksheet (repayable loans only)
+
+[page 12] ☐ G13 – Priority Scoring Estimation Worksheet (repayable loans only)
+CERTIFICATION AND SIGNATURE OF AUTHORIZED REPRESENTATIVE To the best of my knowledge and belief, I certify that I am authorized to submit this application; the information provided in this application is true and correct; the documentation has been duly authorized by the governing body of the applicant; and the entity possesses the legal authority to apply for the financing and enter into a financing agreement with the State Water Resources Control Board and to finance and construct the proposed facilities.
+Name of Authorized Representative: Title:
+Signature of Authorized Representative: Date:

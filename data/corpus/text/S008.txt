@@ -1,0 +1,205 @@
+Drinking Water Notification Levels
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/NotificationLevels.html
+Date printed: 08/31/2026
+
+## Drinking Water Notification Levels > Announcements
+- On June 2, 2026, the Division of Drinking Water issued revised notification and response levels for manganese.
+- On October 29, 2025, the Division of Drinking Water issued new and revised notification and response levels for perfluorooctanoic acid (PFOA), perfluorooctane sulfonate (PFOS), and perfluorohexane sulfonic acid (PFHxS) and perfluorohexanoic acid (PFHxA).
+- The Division of Drinking Water (DDW) has initiated the process of developing notification and response levels for four cyanotoxins: microcystins, cylindrospermopsin, anatoxin-a, and saxitoxin. DDW made a formal request for recommendations to the Office of Environmental Health Hazard Assessment (OEHHA) on February 4, 2021.
+- On May 3, 2021, OEHHA submitted to the State Water Resources Control Board (SWRCB) notification level (NL) recommendations for microcystins, cylindrospermopsin, anatoxin-a, and saxitoxin.
+- Anatoxin-a Notification Level Recommendation
+- Recommendation for Interim Notification Levels for Saxitoxins, Microcystins, and Cylindrospermopsin
+
+## Drinking Water Notification Levels > Background
+Notification levels are health-based advisory levels established by the Division of Drinking Water (DDW) for chemicals in drinking water that lack maximum contaminant levels (MCLs). When chemicals are found at concentrations greater than their notification levels, certain requirements and recommendations apply. The level at which DDW recommends removal of a drinking water source from service is called the "response level."
+Since the early 1980s, notification levels (known as "action levels" through 2004) for 93 contaminants have been established. Of those, 40 have gone through the formal regulatory process and now have MCLs.
+Currently there are 32 chemicals with notification levels. In addition, another 24 chemicals have archived advisory levels.
+- Archived Action Levels
+- Complete overview (Last Updated June 2026)
+Effective January 1, 2021, Health and Safety Code 116456 requires public notice, including specific information about the studies relied upon, and an informational item at a State Water Board meeting when establishing or revising notification and response levels. New and proposed notification levels subject to this new process are listed in the table below.
+
+## Drinking Water Notification Levels > Background
+Contaminant | Initiation | Public Notice of Proposal /
+Public Availability of Supporting Documents | Supporting Documents | State Water Board
+Informational Item | Issuance
+Perfluorohexanoic Acid (PFHxA) | February 6, 2020 | July 3, 2025
+- OEHHA’s technical support document
+- NTP (2019)
+- Loveless et al. (2009)
+| August 6, 2025
+Video | October 29, 2025
+Perfluorohexane Sulfonic Acid (PFHxS) | February 6, 2020 | July 7, 2022
+- OEHHA's technical support document
+- NTP (2019)
+- Chang et al. (2018)
+- Butenhoff et al. (2009)
+| August 17, 2022
+Video | October 31, 2022
+Revision initiated:
+June 27, 2025 | Revision proposed:
+July 3, 2025 | | August 6, 2025
+Video | October 29, 2025
+Perfluorobutane sulfonic acid (PFBS) | February 6, 2020 | January 29, 2021
+- OEHHA’s technical support document
+- NTP, 2019
+- Lieder et al., 2009a
+- Lieder et al., 2009b
+- Feng et al., 2017)
+| March 2, 2021
+Video | March 5, 2021
+Perfluorooctanoic acid (PFOA) | |
+- OEHHA's technical support document
+- Biegel et al. (2001)
+- Butenhoff et al. (2012)
+- Filgo et al. (2015)
+- NTP (2018)
+| | July 13, 2018
+August 23, 2019 (revised)
+February 6, 2020 (revised)
+
+## Drinking Water Notification Levels > Background
+Contaminant | Initiation | Public Notice of Proposal /
+Public Availability of Supporting Documents | Supporting Documents | State Water Board
+Informational Item | Issuance
+Revision initiated:
+June 27, 2025 | Revision proposed:
+July 3, 2025 | | August 6, 2025
+Video | October 29, 2025
+Perfluorooctane sulfonic acid (PFOS) | |
+- OEHHA's technical support document
+- Butenhoff et al. (2012)
+- NTP (2018)
+| | July 13, 2018
+August 23, 2019 (revised)
+February 6, 2020 (revised)
+Revision initiated:
+June 27, 2025 | Revision proposed:
+July 3, 2025 | | August 6, 2025
+Video | October 29, 2025
+Microcystins | February 4, 2021 |
+- OEHHA’s technical support document
+- Chen et al., 2011
+- OEHHA’s technical support document update (June 2022)
+| |
+Cylindrospermopsin | February 4, 2021 |
+- OEHHA’s technical support document
+- Chernoff et al., 2018
+- OEHHA’s technical support document update (June 2022)
+| |
+Anatoxin-a | February 4, 2021 |
+- OEHHA’s technical support document
+- Fawell et al., 1999
+- OEHHA’s technical support document update (June 2022)
+| |
+Saxitoxin | February 4, 2021 |
+- OEHHA’s technical support document
+- EFSA, 2009
+- OEHHA’s technical support document update (June 2022)
+| |
+
+## Drinking Water Notification Levels > Background
+| |
+Manganese | March 29, 2022 | February 16, 2023
+- DDW technical document (April 2022)
+- OEHHA review document (May 2022, signature on file)
+- Kern et al., (May 2010)
+Contaminant | Initiation | Public Notice of Proposal /
+Public Availability of Supporting Documents | Supporting Documents | State Water Board
+Informational Item | Issuance
+| March 21, 2023
+Video |
+Revision Proposed:
+September 4, 2025 | | October 7, 2025
+Video | June 2, 2026
+
+## Drinking Water Notification Levels > Statutory Requirements
+State law (Health and Safety §116455) requires timely notification by drinking water systems whenever a notification level is exceeded in drinking water that is provided to consumers.
+The law’s notification requirements apply to:
+- wholesale water systems, who must notify their governing bodies and the water systems that are directly supplied with that drinking water.
+- retail water systems, who must notify their governing bodies and the governing bodies of any local agencies (i.e., city or county, or a city and county) whose jurisdictions include areas supplied with their drinking water.
+- wholesale and retail water systems regulated by the California Public Utilities Commission, who must also notify the commission
+Perfluoroalkyl substances and polyfluoroalkyl substances with notification levels have additional requirements per state law. When a confirmed detection exceeds the response level, a community water system or a nontransient noncommunity public water system is required to:
+- report that detection in the water system’s annual consumer confidence report.
+
+## Drinking Water Notification Levels > Statutory Requirements
+- report that detection in the water system’s annual consumer confidence report.
+- take a water source where detected levels exceed the response level out of use or provide public notification (as specified in Health and Safety §116378) within 30 days of the confirmed detection.
+
+## Drinking Water Notification Levels > Recommendations from DDW
+If a chemical concentration is greater than its notification level in drinking water that is provided to consumers, DDW recommends that the utility inform its customers and consumers about the presence of the chemical, and about health concerns associated with exposure to it. To provide consumer notice, the utility may want to consider using its annual Consumer Confidence Report, a separate mailing, or other method.
+For perfluoroalkyl substances and polyfluoroalkyl substances with notification levels (i.e. PFOA and PFOS), Health and Safety Code 116378 requires the public water system issued an Order to report the detection if the level exceeds the notification level. Additionally, if any monitoring undertaken pursuant to an order issued under section 116378 results in a confirmed detection of PFAS for any analyte tested for per order, the water system shall report the detection in the water system’s annual Consumer Confidence Report.
+
+## Drinking Water Notification Levels > Recommendations from DDW
+A PFAS detection is a positive finding of a quantifiable amount above an established detection level requirement for any PFAS analyte tested for pursuant to an order issued under Health and Safety Code section 116378. The detection level requirement for each PFAS constituent for which monitoring is required in an order will be identified by the State Water Board at the time the monitoring orders are issued. For the purposes of meeting the requirements in Health and Safety Code section 116378, this will be identified as the Consumer Confidence Report Detection Level (CCRDL).
+
+## Recommendations from DDW > SOURCE REMOVAL (RESPONSE LEVEL):
+If a chemical is present in drinking water that is provided to consumers at concentrations considerably greater than the notification level, DDW recommends that the drinking water system take the source out of service. The level prompting a recommendation for source removal is the "response level" of Health and Safety Code §116455, and depends upon the toxicological endpoint that is the basis for the notification level.
+For chemicals with a non-cancer toxicological endpoint, this recommendation occurs at 10 times the notification level (or health protective concentration).
+For chemicals considered to pose a cancer risk, this response level recommendation occurs at 100 times the de minimis risk level (a theoretical lifetime risk level of 1 X 10-6, or up to one excess case of cancer per million people exposed daily for 70 years). Thus, the response level for these chemicals corresponds to a lifetime cancer risk of 1 X 10-4. The 10-4 value is at the upper end of the 10-6 to 10-4 cancer risk range. Exposures to environmental chemicals resulting in risks within the 10-6 to 10-4 range are generally considered by public health and environmental regulatory agencies to be "acceptable."
+
+## Recommendations from DDW > SOURCE REMOVAL (RESPONSE LEVEL):
+When the notification level for chemicals considered to pose a cancer risk is set at higher than the 1 X 10-6 risk, the response level—still at the 1 X 10-4 risk—occurs at a lower multiple of the notification level: For 1,4-dioxane, this recommendation occurs at 35 times the notification level, and for the nitrosamines NDEA, NDMA, and NDPA this recommendation occurs at 10, 30, and 50 times the notification level, respectively.
+For perfluoroalkyl substances and polyfluoroalkyl substances with response levels where detected levels of a substance exceed the response level (i.e. PFOA and PFOS), Health and Safety Code 116378 requires the public water system issued the Order, the water system shall either (1) take the source out of service immediately; (2) utilize treatment or blending (see question below for details); or (3) provide public notification of the response level exceedance within 30 days of being notified by the laboratory of the exceedance to take the water source out of use or provide public notification within 30 days of the confirmed detection. Additionally, the exceedance of the response level must be reported in the annual consumer confidence report.
+
+## Recommendations from DDW > SOURCE REMOVAL (RESPONSE LEVEL):
+Note: A response level is established by the State Water Board’s Division of Drinking Water (DDW) and is an advisory level at which DDW recommends the source be taken out of service. The response level established for any PFAS analyte will be posted on the Division of Drinking Water’s webpage. To determine whether monitoring shows an exceedance of a response level, the water system must calculate a quarterly running annual average (QRAA).
+
+## Recommendations from DDW > ADDITIONAL NOTIFICATION WHEN WATER IS SERVED ABOVE THE RESPONSE LEVEL:
+When a drinking water system does not take a source out of service despite the presence of a contaminant in drinking water at a level confirmed to be greater than the response level, DDW recommends the following:
+Notification of the local governing body (i.e., city council or board of supervisors, or both) that indicates water is being provided that exceeds the chemical's response level, and the reason for the continued use of the source.
+Notification of the water system's customers and other water consumers that the contaminant is present in their drinking water at a concentration greater than its response level, the level at which source removal is recommended by DDW, and the reason for the continued use of the source.
+Whenever such a public "right-to-know" notice occurs, it should be provided to customers and to the water-consuming population in the affected area that would not directly receive such information, including renters, workers and students.
+Notification should be provided directly to consumers, for example by posted notices, hand-delivered notices, and water bill inserts.
+A press release from the water system should also be issued to the local media.
+
+## Recommendations from DDW > ADDITIONAL NOTIFICATION WHEN WATER IS SERVED ABOVE THE RESPONSE LEVEL:
+A press release from the water system should also be issued to the local media.
+Thereafter, DDW recommends the following: (1) Monthly sampling and analysis of the drinking water supply for as long as the contaminant exceeds its response level, and quarterly sampling for 12 months, should the concentration drop below the response level. (2) Quarterly notification of the water system's customers and other water consumers for as long as the contaminant is present at a concentration greater than its response level, using the methods described above.
+NOTE: Should the water system refuse to provide additional consumer notification, DDW may provide that notification.
+
+## Drinking Water Notification Levels > Additional Information
+Information for Drinking Water Systems
+More on Chemical Contaminants in Drinking Water
+Stay informed
+Join the Mailing List
+Subscribe to the Drinking Water Program Announcements email topic to receive notifications and the latest updates.
+
+## Stay informed > Contact Us
+State Water Resources Control Board
+Division of Drinking Water
+Regulatory Development Unit
+Mailing Address:
+P.O. Box 100
+Sacramento, CA 95812-0100
+Street Address:
+1001 I Street
+Sacramento, CA 95814
+E-mail us at DDWRegUnit@waterboards.ca.gov.
+(Page last updated 08/31/2026)
+
+## Contact Us > Drinking Water Resources
+- California Laboratory Intake Portal (CLIP)
+- Contaminants in Drinking Water
+- Consolidation and Extension of Service
+- COVID-19 Drinking Water
+- Cyanobacteria/Cyanotoxins in Drinking Water
+- Consumer Confidence Reports (CCRs)
+- Drinking Water Branch Districts
+- Drinking Water Supply Service Area Lookup Tool
+- Drinking Water Watch Database
+- Electronic Annual Reports (EAR)
+- Environmental Laboratory Accreditation Program (ELAP)
+- Funding for Public Water Systems
+- Information for Public Water Systems
+- Notification and Response Levels
+- Operator Certification - Drinking Water
+- Permits
+- PFAS: Per- and Polyfluoroalkyl Substances
+- Public Notification Templates
+- Public Safety Power Shutoff and Wildfire Info
+- Public Water System Monitoring Schedules
+- Regulations and Statutes
+- Residential Water Treatment Devices
+- Safe Drinking Water Plan for California
+- SAFER Drinking Water
+- Water Quality Data

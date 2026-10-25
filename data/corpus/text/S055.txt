@@ -1,0 +1,118 @@
+Online Payments FAQs
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/dwocp_eft_faqs.pdf
+Date printed: none found
+
+[page 1] DWOCP EFT Payment FAQs
+1. What is the California Electronic Funds Transfer (EFT) web-based payment system?
+2. What are the benefits of using this system?
+3. Will my payments be submitted securely?
+4. What are some of the security features?
+5. What are the minimum software and browser requirements to make payments online?
+6. Does the system place cookies on my computer?
+7. Can I use my Debit Card or Credit card?
+8. When is the system available?
+9. Can a payment be scheduled for any day?
+10. At what times during the day can I submit a payment?
+11. What information do I need to make a payment?
+12. What is my DWOCP Application Number?
+13. How do I make a payment?
+14. What happens if my payment is received and the application isn’t?
+15. How do I cancel a payment?
+16. Can I get a refund?
+17. Can I pay for multiple applications with one payment?
+18. Can someone else pay for my application (a third party)?
+19. Can I make an online payment to replace payment for a notice of non-sufficient funds check?
+20. If I have problems using this system, how can I get help?
+01/2024
+
+[page 2] 1. What is the California Electronic Funds Transfer (EFT) web-based payment system?
+The California EFT payment system is an integrated network that allows payers to submit their tax/ fee payments online for various California state agencies.
+2. What are the benefits of using this system?
+The California Online payment system offers many benefits:
+a. Ease of Use - California Online offers 4 easy "step by step" instructions to make a payment.
+ Select Payment Option
+ Enter Payment Information
+ Confirm Payment Information
+ Receive Payment Acknowledgement
+b. Fast - Payments can be scheduled in minutes.
+c. Secure - This system implements a high degree of security to protect your payments.
+All payments are sent to your financial institution through secured connections.
+d. Paperless - This system eliminates the need for writing checks to make payments.
+3. Will my payments be submitted securely?
+
+[page 2] 3. Will my payments be submitted securely?
+This system utilizes the most advanced security available to ensure the privacy of your payment information. All transactions are conducted over a Secure Sockets Layer (SSL) connection secured with 256-bit encryption. SSL is a communications protocol for transmitting private information over the Internet.
+4. What are some of the security features?
+ All transmitted information is sent using an encrypted connection.
+ Your session will timeout after 20 minutes if left idle.
+ Your browser will not cache the information entered and it will not be stored locally on your computer.
+5. What are the minimum software and browser requirements to make payments online?
+You will need a computer with Internet access and one of following browser.
+a. Internet Explorer Version 9
+b. Internet Explorer Version 10
+c. Internet Explorer Version 11
+d. Firefox 42
+e. Firefox 43
+f. Firefox 44
+g. Safari 7
+h. Safari 8
+i. Safari 9
+6. Does the system place cookies on my computer?
+Our system does not store cookies on your computer.
+7. Can I use my Debit Card or Credit Card?
+
+[page 2] 7. Can I use my Debit Card or Credit Card?
+Yes. Please visit this website and scroll to "Credit Cards" section: https://www.waterboards.ca.gov/ make_a_payment/
+8. When is the system available?
+The system is available 24 hours a day/7 days a week. Payments can be submitted at any time through this interface.
+01/2024
+
+[page 3] 9. Can a payment be scheduled for any day?
+Payments can be scheduled for any banking day; but, they cannot be scheduled for weekends or any of the Federal Reserve holidays listed below:
+a. New Year’s Day January 1*
+b. Martin Luther King Jr. Day Third Monday in January c. Presidents' Day Third Monday in February
+d. Memorial Day Last Monday in May
+e. Independence Day July 4*
+f. Labor Day First Monday in September
+g. Columbus Day Second Monday in October
+h. Veteran's Day November 11*
+i. Thanksgiving Day Fourth Thursday in November
+j. Christmas Day December 25*
+NOTE: *If the recognized holiday falls on a Sunday, the banks are closed the following Monday.
+10. At what times during the day can I submit a payment?
+Payments can be submitted any time the system is available. If you are scheduling a payment for the next banking day, it must be completed before 3:00 pm Pacific Standard Time.
+11. What information do I need to make a payment?
+In addition to your Application Number (the ZA number), you will need the following basic information:
+a. Payment type
+b. Amount of the payment
+
+[page 3] b. Amount of the payment
+c. The debit date or the date you want the funds withdrawn from your account and deposited in the state agency account.
+d. Other information required by the agency
+12. What Is my DWOCP Application Number?
+You create the DWOCP Application Number. It consists of the letters ZA followed by the first 4 letters of the operator’s last name, followed by the last 4 digits of the operator’s Social Security Number (SSN). If the operator’s last name is less than 4 letters, place a 0 (zero) after the name for any remaining spaces. The Application Number must have a total of 10 characters.
+13. How do I make a payment?
+Please refer to the document “Online Payment Instructions Steps for Drinking Water Operator Certification Program (DWOCP) for complete instructions on a. Creating an Application Number
+b. Completing the Online Payment Form
+c. Steps for accessing the payment webpage and completing all required fields 14. What happens if payment is received, but the application isn’t ?
+
+[page 3] c. Steps for accessing the payment webpage and completing all required fields 14. What happens if payment is received, but the application isn’t ?
+A complete application consists of the emailed Online Payment Form, receipt of payment and the physical exam application, certification application or renewal form. If the applications are not received after two weeks, the operator will be mailed a deficiency letter which will specify how long the payee has to address the deficiency.
+15. How do I cancel a payment?
+Call the bank that is issuing the payment and request a cancellation of payment.
+Disclaimer: The Bank may charge additional fees.
+01/2024
+
+[page 4] 16. Can I get a refund?
+Yes, the Drinking Water Operator Certification Program does issue refunds for over payments on a case-by-case basis. If you are unsure of the amount you should be paying please refer to the online payment form or call the program at (916) 449-5611.
+17. Can I pay multiple applications with one Online payment?
+Yes.
+18. Can someone else pay for my application (a third party)?
+Yes, an operator can have the application fees paid by a different person. For example, an employer can pay for an operator’s renewal, or examination fee; however, every payment must be accompanied with an Online Payment Form with information specific to the operator.
+Additionally, the State Water Board Application Number starts with “ZA” number must use the first four letters of the applicant’s last name followed by the last four digits of the applicant’s Social Security Number (SSN).
+19. Can I make Online Payments to replace payment for a notice of Non-Sufficient Funds check?Yes.
+
+[page 4] 19. Can I make Online Payments to replace payment for a notice of Non-Sufficient Funds check?Yes.
+W henever a check or Online payment does not have sufficient funds, the applicant or payee may make another online payment in the amount of the original check and an additional $25.00 non-sufficient payment funds fee.
+20. If I have problems using this system, how can I get help?
+Call the DWOCP at (916) 449-5611 or email us at: dwopcertprogram@waterboards.ca.gov 07/2017

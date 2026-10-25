@@ -1,0 +1,109 @@
+Perchlorate in Drinking Water
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/Perchlorate.html
+Date printed: 01/05/2026
+
+## Perchlorate in Drinking Water > Announcements
+- U.S. EPA proposes federal perchlorate maximum contaminant level
+- D.C. Circuit Court vacates and remands U.S. EPA’s July 2020 withdrawal of determination to establish drinking water standards for perchlorate; U.S. EPA signs consent decree agreeing to issue proposed national primary drinking water standard by November 21, 2025.
+- The Perchlorate Detection Limit for Purposes of Reporting (DLR) rulemaking has been approved, with the DLR decreasing from 4 μg/L to 2 μg/L as of July 1, 2021 and from 2 μg/L to 1 μg/L as of January 1, 2024. Information on the regulation can be found on the perchlorate regulation webpage.
+
+## Announcements > Public Health Impacts
+Perchlorate's interference with iodide uptake by the thyroid gland can decrease production of thyroid hormone, which is needed for prenatal and postnatal growth and development, as well as for normal metabolism and mental function in the adult.
+Its effects on the thyroid gland are the basis of the 1-μg/L (PHG) established in 2015 by OEHHA. The 2015 PHG supersedes the 6-μg/L value established in 2004.
+Perchlorate is regulated as an acutely toxic substance to reflect concerns about its potential for effects on the developing young. As a result, when a drinking water sample analyzed for perchlorate is found to exceed the MCL, regulations require the laboratory to quickly notify the water system of the findings, and public water systems must perform timely confirmation resampling and analysis. Also expedited is notification to DDW and to the public to help protect public health.
+Customers interested in the quality of their drinking water should contact their water system or use the public drinking water watch portal at https://sdwis.waterboards.ca.gov/PDWW/
+
+## Announcements > Background
+Perchlorate and its salts are used in solid propellant for rockets, missiles, and fireworks, and elsewhere (e.g., production of matches, flares, pyrotechnics, ordnance, and explosives). Their use can lead to releases of perchlorate into the environment.
+Sampling for perchlorate by the Drinking Water Program of CDHS (the California Department of Health Services, which became the Department of Public Health (CDPH)) began in February 1997, when perchlorate was first found in drinking water wells in eastern Sacramento County, near Aerojet General Corporation's facility, reflecting the use of ammonium perchlorate as a solid rocket propellant.
+
+## Announcements > Background
+These findings prompted the CDPH Sanitation and Radiation Laboratory (SRL) to develop an analytical method (PDF) that was substantially more sensitive than other methods, and able to detect perchlorate at levels as low as 4 μg/L. Shortly thereafter, SRL established a process by which commercial laboratories could be approved for the more sensitive analysis. That process remained in use until US EPA's Method 314.0 — Determination of Perchlorate in Drinking Water by Ion Chromatography — became effective, and its list of approved laboratories became available.
+In April 1997, wells were sampled in southern California and perchlorate was found in drinking water wells in Los Angeles County, where several sites had been identified as potential sources of contamination, including an Aerojet facility (Azusa), the Whittaker-Bermite site (Santa Clarita), and the Jet Propulsion Laboratory (Pasadena).
+
+## Announcements > Background
+As sampling continued, perchlorate was found in drinking water wells in Riverside County and in San Bernardino County drinking water wells. Examples of perchlorate contamination in this area included a trichloroethylene plume associated with past operations of the Lockheed Propulsion Company, a defunct fireworks site near Rialto with a perchlorate detection of 270 μg/L in an inactive well, and 24 agricultural wells in San Bernardino County with perchlorate concentrations of 11 to 221 μg/L.
+Sampling also showed perchlorate at low levels (5 - 9 μg/L) in Colorado River water, an important source of drinking water and water for agriculture (irrigation) in southern California with the source of contamination coming from ammonium perchlorate manufacturing facilities in Nevada.
+
+## Announcements > Background
+In 1997, an "action level" (now called a "notification level") of 18 μg/L, based on the upper value of the 4- to 18-μg/L range calculated from US EPA's 1992-1995 "provisional" reference dose (RfD) was established for perchlorate. Later, in January 2002, following release of a revised US EPA external review draft perchlorate RfD that corresponded to 1 μg/L in drinking water, the action level needed was revised downward and reduced to 4 μg/L, the lower end of US EPA's 1992/1995 range of values, and the same as the analytical detection limit for purposes of reporting.
+Several Regional Water Quality Control Boards (RWQCBs) continued to identify several other locations of perchlorate contamination in groundwater not associated with public drinking water supplies. RWQCB sites included: (1) an explosives facility in Placer County near Lincoln (1,200 and 67,000 μg/L), (2) In Santa Clara County, United Technologies in Santa Clara County ( up to 180,000 μg/L), and (3) the Whittaker Ordnance Facility in San Benito County near Hollister (up to 88 μg/L with an agricultural well in the vicinity at 34 μg/L, and a private well, 810 μg/L).
+
+## Announcements > Background
+CDPH (via the Drinking Water Program, now the State Water Board, DDW) was mandated by §116293(b) of the Health and Safety Code to adopt a drinking water standard for perchlorate [maximum contaminant level (MCL)]. Health and Safety Code §116365 mandates that the MCL be set as close as possible to the public health goal (PHG), while considering cost and technical feasibility. The PHG is the concentration of a drinking water contaminant that does not pose a significant risk to human health if ingested in drinking water, established by Cal/EPA's Office of Environmental Health Hazard Assessment (OEHHA).
+In 2004, OEHHA adopted a PHG of 0.006 mg/L (6 ppb) for perchlorate and DDW revised their notification level to the 6 μg/L to correspond.
+
+## Announcements > Background
+In 2004, OEHHA adopted a PHG of 0.006 mg/L (6 ppb) for perchlorate and DDW revised their notification level to the 6 μg/L to correspond.
+Pursuant to the statutory mandates, the perchlorate MCL was established at 6 ppb with a detection level for purposes of reporting (DLR) of 4 ppb. Use of a notification level ended when we the MCL for perchlorate became effective on October 2007. The regulation established monitoring requirements for determining public water system compliance with the MCL, and identified the appropriate analytical method for detecting perchlorate in drinking water, and "best available technologies" (BATs) for remediating perchlorate.
+
+## Announcements > Background
+Health and Safety Code §116365(g) requires the State Water Board, at least once every five years, to review its MCLs. In the review, the State Water Board's MCLs are to be consistent with criteria of §116365(a) and (b). Those criteria state that the MCLs cannot be less stringent than federal MCLs, and must be as close as is technically and economically feasible to the PHGs established by the OEHHA. Consistent with those criteria, the State Water Board is to amend any standard if any of the following occur: (1) Changes in technology or treatment techniques that permit a materially greater protection of public health or attainment of the PHG, or (2) New scientific evidence indicates that the substance may present a materially different risk to public health than was previously determined. Each year by March 1, the State Water Board is to identify each MCL it intends to review that year.
+In 2015, OEHHA revised the PHG for perchlorate from 6 ppb to 1 ppb. The revised PHG prompted the review of the perchlorate MCL.
+
+## Announcements > Background
+In 2015, OEHHA revised the PHG for perchlorate from 6 ppb to 1 ppb. The revised PHG prompted the review of the perchlorate MCL.
+The perchlorate MCL review process was based on water quality monitoring results collected from January 2013 to December 2016 from DDW's database (available here). The review was based on perchlorate findings from active and standby drinking water sources that had two or more reported detections at or greater than the DLR.
+The Division of Drinking Water (DDW), at a July 5, 2017 public hearing, presented to the State Water Board its findings and recommendations related to DDW's review of the perchlorate maximum contaminant level (MCL). DDW's recommendations (see the Perchlorate Review Public Document) were to first establish a lower detection limit for purposes of reporting (DLR) to gather additional occurrence data, and then revise the MCL, if the new data support development of a new standard.
+The State Water Board approved DDW's proposal to investigate, develop, and propose revisions to the perchlorate DLR (see Resolution 2017-0041).
+
+## Announcements > Laboratory Information: Alternative Analytical Methods
+In May 2012, the CDPH Drinking Water and Radiation Laboratory (DWRL) made an alternative perchlorate preservation recommendation. Due to a concern that perchlorate may be subject to biodegradation, US EPA Methods 331, 332, 314.1, and 314.2 all require field filtration into a sterile bottle and shipping samples refrigerated. USEPA Method 314 does not require these steps. When precautions are taken, there is no need to filter samples in the field. Perchlorate microbiological reduction requires anaerobic conditions, a carbon source and an active perchlorate-degrading microbial population. Therefore, field filtration is not necessary when samples are placed in an aerobic condition. This can be readily accomplished in the field by half filling the sample containers, agitating them, and chilling them on ice. For example, a half-filled 100 mL container has 15 mg oxygen in the headspace while the water sample can dissolve only 0.35 mg oxygen (35ºC) or 0.45 mg oxygen (25ºC) or 0.75 mg oxygen (0ºC). Agitating the sample dissolves air and the headspace is a large reservoir for additional oxygen.
+
+## Announcements > Laboratory Information: Alternative Analytical Methods
+Samples should be chilled after collection and during transport to the receiving laboratory at temperatures preferably below 6ºC. Once in the laboratory, they should be stored refrigerated until analysis. If samples contain particulates, it is advisable to filter them prior to analysis to protect the analytical instrumentation. Data produced from samples collected under these conditions and analyzed by US EPA Methods 331, 332, 314.1, and 314.2 would be considered acceptable for drinking water compliance in California.
+
+## Laboratory Information: Alternative Analytical Methods > Correspondence with Water Systems about the Perchlorate MCL
+- Memorandum to Water Systems - Information about Adoption of the MCL (PDF)
+- Implementation Schedule - Minimum Requirements for Initial Monitoring (PDF)
+
+## Laboratory Information: Alternative Analytical Methods > Information and Contacts for Public Water Systems
+- More Information for Public Water Systems
+- Division of Drinking Water
+Other State and Federal Agencies' Perchlorate Information
+- OEHHA's Public Health Goals for Perchlorate and Other Contaminants
+- Department of Toxic Substances Control's Perchlorate Information
+- State Water Resources Control Board's Perchlorate Information
+- US Environmental Protection Agency's Perchlorate Information
+
+## Stay informed > Join the Mailing List
+Subscribe to the Drinking Water Program Announcements email topic to receive notifications and the latest updates.
+Contact Us
+State Water Resources Control Board
+Division of Drinking Water
+Regulatory Development Unit
+Mailing Address:
+P.O. Box 100
+Sacramento, CA 95812-0100
+Street Address:
+1001 I Street
+Sacramento, CA 95814
+E-mail us at DDWRegUnit@waterboards.ca.gov.
+(Page last updated 01/05/2026)
+
+## Contact Us > Drinking Water Resources
+- California Laboratory Intake Portal (CLIP)
+- Contaminants in Drinking Water
+- Consolidation and Extension of Service
+- COVID-19 Drinking Water
+- Cyanobacteria/Cyanotoxins in Drinking Water
+- Consumer Confidence Reports (CCRs)
+- Drinking Water Branch Districts
+- Drinking Water Supply Service Area Lookup Tool
+- Drinking Water Watch Database
+- Electronic Annual Reports (EAR)
+- Environmental Laboratory Accreditation Program (ELAP)
+- Funding for Public Water Systems
+- Information for Public Water Systems
+- Notification and Response Levels
+- Operator Certification - Drinking Water
+- Permits
+- PFAS: Per- and Polyfluoroalkyl Substances
+- Public Notification Templates
+- Public Safety Power Shutoff and Wildfire Info
+- Public Water System Monitoring Schedules
+- Regulations and Statutes
+- Residential Water Treatment Devices
+- Safe Drinking Water Plan for California
+- SAFER Drinking Water
+- Water Quality Data

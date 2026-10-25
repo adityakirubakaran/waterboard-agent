@@ -1,0 +1,290 @@
+Unsafe Water Notice Guidance
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/docs/2023/guidance-unsafe-water-notices.pdf
+Date printed: none found
+
+[page 1] State Water Resources Control Board
+Division of Drinking Water
+Unsafe Water Notification Guidance
+February 2023
+
+[page 2] This guidance document is intended to be used only as a source of general reference.
+All information in this document should be confirmed by reference to the underlying law, regulations, and authority.
+Reference to specific sections of California or federal law are not intended to be and are not complete or comprehensive statements of the applicable law. Therefore, this document is not an authoritative statement of the applicable law and regulations, and may not be relied upon, cited, or otherwise used as a document with substantive legal authority.
+
+[page 3] Unsafe Water Notification Guidance
+SWRCB-Division of Drinking Water
+February 2023
+Section 1: Introduction
+This document provides guidance to the State Water Resources Control Board’s (SWRCB or State Board) Division of Drinking Water (DDW), Local Primacy Agencies1 (LPA), Local Health Officers (LHO), and public water systems in managing situations involving unsafe water notifications. These notifications are used in circumstances where there is a known or potential risk of contamination to a water supply that poses an immediate threat to public health. This guidance document will address situations where a “Boil Water Notice,” “Do Not Drink,” or a “Do Not Use” notification may be required.
+Because of the nomenclature maintained in the California Health and Safety Code, for the purpose of this document, the term “State Board” refers collectively to the DDW and LPAs. This document cannot identify all possible emergency scenarios and relies on the experience and expertise of DDW District Engineers, management, staff, LPAs, LHOs and water utility partners to determine the appropriate response(s).
+
+[page 3] California Health and Safety Code sections 116450 and 116451, and sections 64430, 64463, 64463.1, 64463.4, and 64465 of title 22 of the California Code of Regulations, provide authority for requiring an unsafe water notice. The State Board has regulatory jurisdiction over all public water systems in their areas of responsibility in California and will require the public water system to implement emergency notification using a Tier 1 notice when there is a potential for immediate adverse effects on human health. There will be circumstances not addressed in regulations that present a potential threat to public health and warrant the issuance of an unsafe water notice (e.g., intentional, or unintentional contamination of a water supply with an unknown substance).
+The DDW’s Templates for Public Notification provide further guidance on the issuance and cancellation of unsafe water notices. The templates consist of: Boil Water Notice, Do Not Drink Notice, Do Not Use Notice and cancellation (Problem Corrected Notice), and are posted in English and Spanish on the DDW web site at:
+
+[page 3] http://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/Notices.shtml 1 A Local Primacy Agency (LPA) refers to a County program which has been delegated primacy to oversee small public water system regulatory oversite within that County. The LPA is granted the authority to enforce state laws and regulations under the Safe Drinking Water Act to those small public water systems under their jurisdiction.
+
+[page 4] Unsafe Water Notice Guidance-February 2023
+Page 2
+Section 2: General Procedure
+Unsafe water notices can be issued by the water supplier, the State Board (DDW and the LPA), or the LHO. Under most circumstances, the State Board, who has direct regulatory jurisdiction over public water systems, will prescribe an unsafe water notice to the affected water supplier who is responsible for providing the notification to its consumers. The LHO has authority to take preventive measures during an emergency by issuing an unsafe water notice after coordination with DDW.2 (Health & Saf. Code, § 101040.) The LHO can also issue an unsafe water notice after coordination with DDW to prevent and control the spread of acute communicable diseases.3 (Health & Saf. Code, § 120175.)
+
+[page 4] To ensure that a consistent message is conveyed, it is important that DDW coordinates with the LHO, especially when DDW takes the lead. When the LHO or the LPA issues an unsafe water notice, the lead DDW District Office should be notified and included in evaluating the situation and in making the decisions to address the problem. DDW District Engineers are the main points of contact with the LHO and will set up the lines of communication and educate the LHO to assure coordination when unsafe water notices are issued.
+There may be critical situations when the local public water supplier may not be able to contact the State Board or LHO and will issue an unsafe water notice quickly to protect its customers. In such circumstances, the public water system should refer to its Water Quality Emergency Notification Plan for after-hours contact information for the State Board, County Environmental Health and State Emergency Operations Center. All of these parties should be notified as soon as possible of the issuance of the unsafe water notice to coordinate messaging and response actions.
+
+[page 4] When an area-wide, multi-jurisdictional unsafe water situation arises, such as during a natural disaster, care must be taken to assure that all responsible agencies are contacted and have developed a coordinated message prior to issuing any type of 2 California Health & Safety Code section 101040:
+a) The local health officer may take any preventive measure that may be necessary to protect and preserve the public health from any public health hazard during any “state of war emergency,” “state of emergency,” or “local emergency,” as defined by Section 8558 of the Government Code, within his or her jurisdiction.
+b) “Preventive measure” means abatement, correction, removal or any other protective step that may be taken against any public health hazard that is caused by a disaster and affects the public health. Funds for these measures may be allowed pursuant to Sections 29127 to 29131, inclusive, and 53021 to 53023, inclusive, of the Government Code and from any other money appropriated by a county board of supervisors or a city governing body to carry out the purposes of this section.
+
+[page 4] c) The local health officer, upon consent of the county board of supervisors or a city governing body, may certify any public health hazard resulting from any disaster condition if certification is required for any federal or state disaster relief program.
+3 California Health & Safety Code section 120175:
+Each health officer knowing or having reason to believe that any case of the diseases made reportable by regulation of the department, or any other contagious, infectious or communicable disease exists, or has recently existed, within the territory under his or her jurisdiction, shall take measures as may be necessary to prevent the spread of the disease or occurrence of additional cases.
+
+[page 5] Unsafe Water Notice Guidance-February 2023
+Page 3
+unsafe water notice. If interagency coordination cannot be achieved due to the urgency of the situation, notification of all agencies should be done as soon as possible. Without proper coordination there is significant potential of issuing different notices for the same incident causing confusion to the public and undermining the credibility of the involved agencies.
+When a public water system does not, or is incapable of, issuing an unsafe water notice when directed by the State Board, the State Board can and will issue the unsafe water notice to the affected public through the press, media, and other forms of public notification. This should be done in coordination with the SWRCB's Office of Public Affairs. When the State Board must issue the unsafe water notice due the failure of the public water system to take the necessary action, the district office should determine why the public water system could or would not issue the notice. Enforcement for failure to comply with statute and regulations pertaining to issuance of Tier 1 public notifications may be taken against the public water system by the State Board.
+
+[page 5] Section 3: Types of Unsafe Water Notices and Regulatory Criteria The four unsafe water notices typically issued are: "Boil Water," “Do Not Drink,” "Do Not Use," and “Do Not Drink / Do Not Boil.” These are considered ‘Tier 1’ public notices under the California and Federal Public Notification Rules. The basis for the use of each of these notices are:
+· Boil Water Notice: The water supply has a microbiological contaminant that can be rendered safe by boiling the water or by using bottled water. The notice may provide detailed instructions for manual disinfection by the consumer, where appropriate. This is the most commonly used notice. Note that Boil Water Notices should not be issued where nitrate concentrations are elevated.
+· Do Not Drink Notice: The water supply has an acute contaminant that cannot be rendered safe by boiling the water or by disinfection, or is an unapproved source with no water quality data.
+· Do Not Use Notice: The water supply has an unknown contaminant or exposure to the water may adversely impact public health.
+
+[page 5] · Do Not Use Notice: The water supply has an unknown contaminant or exposure to the water may adversely impact public health.
+· Do Not Drink / Do Not Boil: The water supply has a contaminant and exposure to the water or vapors produced by boiling the water may adversely impact public health.
+Section 64463.1, subdivision (b) of title 22 of the California Code of Regulations requires that the water system provide notification to persons served as soon as possible but within 24 hours after learning of a violation specified in section 64463.1, subdivision(a), or after being notified by the State Board that it has determined there is a potential for adverse effects on human health.
+
+[page 6] Unsafe Water Notice Guidance-February 2023
+Page 4
+Section 64463.1, subdivision (c) of title 22 of the California Code of Regulations describes the method(s) that must be used by public water systems to deliver the notice to consumers. For all public water systems, notification by radio and television, posting in conspicuous locations throughout the water system service area, direct hand delivery, or any other method approved by the State Board may all be necessary in an effort to notify all water system users. The water supplier should follow its Water Quality Emergency Notification Plan (WQENP) to provide the best methods for immediate notification. The State Board will notify a water system to implement the WQENP when there is an immediate danger to health. (Health & Saf. Code, § 116450.)
+
+[page 6] Section 64465, subdivision(a) of title 22 of the California Code of Regulations describes what the notice must contain, along with the mandatory language. Among other things, the notice must address whether alternative sources of drinking water should be used, health risks, what actions consumers should take, what corrective action is being taken, and when the notice is expected to be cancelled. The notice should include a brief description of what happened or what was suspected to have happened. If the cause of the problem is unknown, the notice should indicate that the water system is investigating and will report to the public when the information is available, or set a specific time for an update on the situation.
+Section 64465, subdivision (c) describes the multilingual requirement. Each Tier 1 public notice must be provided in English, Spanish, and in any language for each non-English speaking group that exceeds 10 percent of the residents in the community served. The following information is required if the notice must be sent to a group that does not speak English and exceeds 1,000 persons but does not constitute 10% of the population served:
+
+[page 6] (1) Information regarding the importance of the notice and (2) A telephone number or address where non-English speaking groups may contact the water system to obtain a translated copy of the notice in the appropriate language.
+Note that Spanish translations of the templates for all three types of unsafe water notices are provided on the DDW website at the web link provided in Section 1. The water supplier may consider, when practicable, posting notices at locations in public facilities where there are drinking fountains and restrooms as applicable. Modifications to the notice must be approved by the State Board prior to distribution.
+Section 64469, subdivision (d) of title 22 of the California Code of Regulations requires that a copy of the notice, along with a certification that the public notice requirements have been met, be sent to the State Board within ten days after issuance of the notice.
+
+[page 6] Sections 4 through 7 below list typical scenarios for the four types of Tier 1 public notices listed above. A water system is required to issue a Tier 1 public notice upon the occurrence of any of the events listed in section 64463.1, subdivisions (a)(1) through (a)(8) of title 22 of the California Code of Regulations. (Cal. Code Regs., tit. 22, § 64463.1, subd. (a).) The content of the notices shall be approved by DDW or the LPA
+
+[page 7] Unsafe Water Notice Guidance-February 2023
+Page 5
+and shall contain language that fulfills the requirements of Health and Safety Code section 116450 and section 64465 of title 22 of the California Code of Regulations.
+(Health & Saf. Code, § 116450; Cal. Code Regs., tit. 22, § 64465, subd. (a).)
+Section 4: Typical Scenarios of Tier 1 Public Notice: BOIL WATER A Tier 1 Boil Water notification has typically been required for the occurrences listed below, which are further detailed in subsections (a) and (b):
+· Fecal Coliform or E. coli
+· Turbidity Exceedance under the Surface Water Treatment Rule · Waterborne Microbial Disease Outbreak
+· Ground Water Rule – Fecal Indicator – Positive Source Sample A. Specific Tier 1 Public Notice triggers where the issuance of a Boil Water notification has typically been required pursuant to section 64463.1, subdivision (a) of title 22 of the California Code of Regulations are:
+a. Violation of the total coliform MCL when:
+i. Fecal coliform or E. coli are present in the distribution system; or ii. When any repeat sample tests positive for coliform and the water system fails to test for fecal coliforms or E. coli in the repeat sample;
+
+[page 7] b. Violation of a Chapter 17 treatment technique requirement resulting from a single exceedance of a maximum allowable turbidity level and/or a disinfection treatment failure if:
+i. The State Board determines, after consultation with the water system and a review of the data, that a Tier 1 public notice is required; or ii. The consultation between the State Board and the water system does not take place within 24 hours after the water system learns of the violation;
+c. Occurrence of a waterborne microbial disease outbreak, as defined in section 64651.91 of title 22 of the California Code of Regulations, or other waterborne emergency, a failure or significant interruption in water treatment processes, a natural disaster that disrupts the water supply or distribution system, or a chemical spill or unexpected loading of possible pathogens into the source water that has the potential for adverse effects on human health as a result of short-term exposure;
+
+[page 7] d. Other violation or occurrence that has the potential for adverse effects on human health as a result of short-term exposure, as determined by the State Board based on a review of all available toxicological and analytical data; and B. Other situations where DDW could require a Tier 1 Boil Water public notice include, for example:
+a. Determination of a significant rise in bacterial count following a State Board review of information submitted by a system on the current status of the physical works and operating procedures that may have caused the elevated bacteriological findings, or any community illness suspected of being
+
+[page 8] Unsafe Water Notice Guidance-February 2023
+Page 6
+waterborne. (Health & Saf. Code, § 116450; Cal. Code Regs., tit. 22, § 64426, subd. (c).);
+b. Detection of E. coli, enterococci or coliphage in source water samples;
+c. System pressure loss to less than 5 psi as a result of events such as water treatment plant or pump station shut downs due to equipment failure, power outages, main breaks, emptying of storage facilities, pressure fluctuations and uncontrolled occurrences such as dewatering of the system during major fire events and natural disasters;
+d. Dead animals (mice, rats, birds, etc.) observed in a distribution reservoir or groundwater source;
+e. Repeated non-acute coliform violations;
+f. Inability to implement emergency chlorination when directed to assure bacteriological water quality standards are met;
+g. Flooding of wells;
+h. Failure of a disinfection process where inactivation is required under permit;
+and
+i. Use of an unapproved water source.
+
+[page 8] i. Use of an unapproved water source.
+Section 5: Typical Scenarios of Tier 1 Public Notices: DO NOT DRINK A Tier 1 Do Not Drink (DND) notification has typically been required for the occurrences listed below. In certain cases, failure to conduct repeat sampling is also defined as a trigger for Tier 1 notification. While some Tier 1 DND notifications specify certain demographics that should not drink the water, it is still mandatory to distribute the notice to all customers receiving the contaminated water.
+Below are Tier 1 Do Not Drink notifications that have typically been required, and are further detailed in subsection (a) and (b):
+· Nitrate or Nitrite MCL Exceedance
+· Perchlorate MCL Exceedance
+· Chlorite MCL Exceedance
+· Chlorine Dioxide Maximum Residual Disinfectant Level Exceedance A. Specific Tier 1 Public Notice triggers that would typically result in a Do Not Drink notification, pursuant to section 64463.1, subdivision (a) of title 22 of the California Code of Regulations are:
+
+[page 8] a. Violation of the MCL for nitrate, nitrite, or total nitrate and nitrite, or when the water system fails to take a confirmation sample within 24 hours of the system’s receipt of the first sample showing an exceedance of the nitrate or nitrite MCL;
+b. Violation of the MCL for perchlorate or when a system is unable to resample within 48 hours of the system’s receipt of the first sample showing an exceedance of the perchlorate MCL as specified in section 64432.3, subdivision (d)(3) of title 22 of the California Code of Regulations;
+c. For chlorite:
+
+[page 9] Unsafe Water Notice Guidance-February 2023
+Page 7
+i. Violation of the MCL for chlorite;
+ii. When a system fails to take the required sample(s) within the distribution system, on the day following an exceedance of the MCL at the entrance to the distribution system; or
+iii. When a system fails to take a confirmation sample pursuant to section 64534.2, subdivision (b)(4) of title 22 of the California Code of Regulations; or
+d. Violation of the MRDL for chlorine dioxide; or when a system fails to take the required sample(s) within the distribution system, on the day following an exceedance of the MRDL at the entrance to the distribution system.
+e. Other violation or occurrence that has the potential for adverse effects on human health as a result of short-term exposure, as determined by the State Board based on a review of all available toxicological and analytical data;
+B. Other incidents for which DDW may require issuance of Tier 1 Do Not Drink public notice include:
+a. Use of an unapproved water source which is located in an area with known nitrate, nitrite, or perchlorate groundwater contamination.
+b. Identification of a potential cross-connection within the distribution system.
+
+[page 9] b. Identification of a potential cross-connection within the distribution system.
+Section 6: Typical Scenarios of Tier 1 Public Notices: DO NOT USE Scenarios that may result in the issuance of a Do Not Use notification that may cause acute risk to human health through exposures other than drinking:
+A. Deliberate contamination of an unknown chemical, radiological, or microbiological constituent;
+B. Reliability of treatment processes is questionable due to operator incompetence, negligence, absence, or lack of attention risk to human health through exposures other than drinking;
+C. A cross-connection incident involving any contaminant risk to human health through exposures other than drinking;
+D. Overfeed of any treatment chemical that may cause acute risk to human health through exposures other than drinking.
+E. Other violation or occurrence that has the potential for adverse effects on human health as a result of short-term exposure, as determined by the State Board based on a review of all available toxicological and analytical data;
+Section 7: Typical Scenarios of Tier 1 Public Notices: DO NOT DRINK / DO NOT BOIL
+
+[page 9] Section 7: Typical Scenarios of Tier 1 Public Notices: DO NOT DRINK / DO NOT BOIL
+If contamination with volatile organic compounds (VOCs) is suspected, customers should be advised not to boil their tap water since this could increase the risk of inhaling dangerous levels of VOCs. As one example, VOC contamination has been associated with wildfire-impacted water systems and may be especially acute or persistent where the system has suffered extensive depressurization in addition to fire damage. For more
+
+[page 10] Unsafe Water Notice Guidance-February 2023
+Page 8
+information about this scenario, please refer to the United States Environmental Protection Agency’s document Addressing Contamination of Drinking Water Distribution Systems from Volatile Organic Compounds (VOCs) After Wildfires.
+Section 8: Recommended Sampling Prior to Cancellation of an Unsafe Water Notice
+Generally, an unsafe water notice issued due to the presence of fecal indicator organisms or E. coli should not be cancelled until the following is completed:
+· At least two rounds of coliform samples, collected one day apart, have been analyzed by a state-accredited laboratory and the results are negative (a shorter 18-hour timeline may be available through the Colilert® methodology on approval – consult with the State Board).
+· One round of samples may be sufficient for systems where a treatment deficiency is the cause for the notification and the problem has been corrected and adequate treatment has been re-established, or where the unsafe water notice was precautionary due to a main break or other incidents that may have resulted in contamination of the water supply.
+
+[page 10] · Samples should be representative of the water service area representing the potential zone of the contaminating event, and at separate locations when possible.
+· The number of samples taken to cancel an unsafe water notice should be consistent and reflect the population requirement of the Revised Total Coliform Rule (RTCR) for the population in the area for which the notice was issued, but specific conditions may warrant specific requirements (consult the State Board).
+· For chemical contamination with nitrate, nitrite, perchlorate, chlorite, or chlorine dioxide above MCLs, cancellation of the Do Not Drink or Do Not Use notification should be done only after consultation with the DDW District Engineer.
+When an unsafe water notice is issued, the required sampling needed to cancel the notice will be based on the evaluation of the situation by the State Board, using the considerations above. For an unsafe water notice issued by the public water system or an LHO, the notice should not be cancelled without consultation and concurrence with the State Board.
+
+[page 10] When the State Board has determined that appropriate corrective action has been taken and that the sampling results show that the water meets water quality standards, a cancellation or "Problem Corrected" notice should be issued by the water supplier. The same delivery methods and notified agencies that were used for the original notice should be used again.
+Section 9: Cancellation of an Unsafe Water Notice (Problem Corrected Notice)
+The State Board is responsible for making the determination as to when the unsafe water notice can be cancelled. An unsafe water notice may be cancelled when a public water system has corrected the deficiency and satisfactory sampling results are
+
+[page 11] Unsafe Water Notice Guidance-February 2023
+Page 9
+received. The required corrective measures and sampling will be dependent on the particular reason for the unsafe water notice and will be determined on a case-by-case basis. The water supplier should coordinate with the State Board to determine the appropriate corrective action and monitoring. It may also be necessary for the State Board to perform onsite verification that the corrections have been made.
+Examples of corrective actions that may be required are provided in the table below:
+Deficiency Corrective Action
+1. Acute bacterial violation Establish or re-establish disinfection and maintain residuals; sample as directed by the
+State Board
+2. Turbidity Treatment Technique
+Violation
+The treatment process failure has been
+corrected and turbidity in the finished water
+complies with the SWTR or permit
+requirements; adequate disinfection levels
+have been confirmed throughout the
+distribution system.
+3. Unfiltered or unchlorinated surface
+water entering the system
+Re-establish filtration and/or disinfection;
+sample as directed by the State Board
+4. System without water or negative
+pressure
+Re-establish service and maintain positive
+
+[page 11] Re-establish service and maintain positive
+pressure; sample as directed by the State
+Board.
+5. No chlorination for a system required
+to chlorinate and submit monthly
+chlorine residual reports
+Re-establish chlorination; sample as directed
+by the State Board.
+6. Dead animals in contact with the
+drinking water supply
+Removal of remains; drain, clean and disinfect
+the reservoir; sample as directed by the State
+Board.
+7. Equipment failure Repair or replacement of equipment.
+8. Suspected cross connection Sample to identify any contaminants that may be present; locate and elimination of the cross
+connection; flushing of the distribution system
+to remove contaminated water as directed by
+the State Board
+9. Nitrate, nitrite or perchlorate MCL
+exceedance
+Use an alternate compliant source; flushing of
+the distribution system to remove
+contaminated water; sample as directed by
+the State Board.
+
+[page 11] the State Board.
+NOTE: Flushing of the affected areas in the distribution system to remove all unsafe water from the water system should be conducted only as directed by the State Board. In some cases, the contamination can be worsened by flushing, drawing in more contaminant to an affected area. In some cases, flushing should only be done once the contaminant is identified, or after consideration as to other factors, but not immediately in all instances.
+
+[page 12] Unsafe Water Notice Guidance-February 2023
+Page 10
+Section 10: Contacts for Reporting the Issuance of and Unsafe Water Notice When an unsafe water notice is issued or cancelled, the agencies and programs listed in the table below need to be informed. Detailed information regarding the reason for the issuance of the unsafe water notice, the extent of the impacted community, and actions already being taken to address the situation should be included in the report. If the public water system is issuing the unsafe water notice on their own, under a scenario as described in Section 2, the water system should refer to the Water Quality Emergency Notification Plan for contact information for after-hours contact information for DDW and County Environmental Health, and for the State Emergency Operations Center.
+Agency Purpose Contact Information
+SWRCB DDW
+(applicable
+District office)
+Communication and
+coordination; public
+inquiries; assistance
+and guidance
+http://www.waterboards.ca.gov/drinking_water/p
+rograms/documents/ddwem/DDWdistrictoffices
+map.pdf
+Local Primacy
+Agencies
+Communication and
+coordination; public
+inquiries; assistance
+and guidance
+
+[page 12] and guidance
+https://www.waterboards.ca.gov/drinking_water/
+programs/documents/web_contact_info_district_
+lpa.pdf
+SWRCB Office of
+Public Affairs
+(for DDW
+Internal Use
+Only)
+Media inquiries
+(for DDW Internal Use
+Only)
+Phone:
+(916) 341-
+7365
+Email:
+info@waterboards.
+ca.gov
+Fax:
+(916) 341-
+5252
+Local Health
+Officer
+Public inquires https://www.cdph.ca.gov/Programs/CCLHO/Pag es/CCLHO-Health-Officer-Directory.aspx
+County
+Environmental
+Health Dept.
+Restaurant
+notifications
+https://www.cdph.ca.gov/Programs/CEH/DRSE
+M/CDPH%20Document%20Library/EMB/Local%
+20Environmental%20Health%20Departments.pd
+f
+SWRCB DDW
+Duty Officer
+Communication and
+coordination for the
+DDW
+Email:
+DWP-Duty-Officer@waterboards.ca.gov
+CA Department
+of Housing &
+Community
+Development
+Notify HCD of any
+UWNs affecting
+mobile home parks,
+special occupancy
+parks, and employee
+housing facilities.
+Email:
+bwn@hcd.ca.gov
+
+[page 13] Unsafe Water Notice Guidance-February 2023
+Page 11
+CDPH Duty
+Officer
+Communication and
+coordination for the
+rest of public health
+as needed, Licensing
+& Certification
+Phone:
+(916) 650-
+6460
+Email:
+DutyOfficer@cdph.ca.gov

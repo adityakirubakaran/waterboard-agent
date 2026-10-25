@@ -1,0 +1,237 @@
+New Format: Exam Formula Conversion Sheet
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/new-conversionsheet.pdf
+Date printed: none found
+
+[page 1] Exam Conversion Sheet Revised 4/30/2026
+Unit Definition
+% Percent 1 % = mg/L
+A Area 1 % = ppm
+Acre Acre 1 Acre = Ft2
+AF Acre Foot 1 AF = Gal
+C Concentration 1 CCF = Ft3
+CCF Hundred Cubic Feet 1 CCF = Gal
+CFS Cubic Feet Per Second 1 CFS = GPM
+D Diameter 1 day = hrs
+DT Detention Time 1 day = min
+Eff Efficiency 1 day = sec
+Ft Feet 1 Ft = Meter
+Ft/Sec Feet Per Second 1 Ft (H2O) = PSI
+Ft2 Square Feet 1 Ft3 = Gal
+Ft3 Cubic Feet 1 Ft3 (H2O) = lbs
+Gal Gallon(s) 1 Gal = L
+gm Gram(s) 1 Gal (H2O) = lbs
+GPD Gallons per Day 1 gm = mg/L
+gpg Grains Per Gallon 1 gpg = mg/L
+gpm Gallons per Minute 1 HP = Ft Lbs/Min
+gr Grain(s) 1 HP = kW
+HP Horse Power 1 HP = Watts
+hrs Hour(s) 1 L = mL
+HTH High Test Hypochlorite 1 L (H2O) = gm
+in2 Square Inches 1 lb = gm
+kWh Kilowatt-Hour(s) 1 lb = gr
+L Liter(s) 1 lb = kg
+lbs Pound(s) 1 mg/L = ppm
+mA Milliamps 1 MGD = CFS
+MG Million Gallons 1 MGD = GPM
+mg/L Milligrams Per Liter 1 Mile = Ft
+MGD Million Gallons Per Day 1 PSI = Ft
+min Minute(s) 1 ton = lbs
+mL Milliliter(s) 1 yd = Ft
+oC Degrees Celsius 1 yd3 = Ft3 Q1 Q2
+oF Degrees Fahrenheight V1 V2
+ppm Parts Per Million
+PSI lbs/in2
+Q Flow
+sec Second(s)
+SG Specific Gravity
+SLR Surface Loading Rate
+
+[page 1] SLR Surface Loading Rate
+UFRV Unit Filter Run Volume
+V Velocity oC = oF - 32
+WWE Wire To Water Efficiency 1.8
+yd Yard(s)
+yd3 Cubic Yard(s) oF = (oC x 1.8)+32
+43,560
+325,851
+1000
+17.1
+33000
+0.746
+Electrical/SCADA
+Cylinder Volume (Gal) = .785 x D2 x Height or Length (Ft) x 7.48 Rectangular Basin (Gal) = Length (Ft) x Width (Ft) x Height (Ft) x 7.48 Circumference of a Circle = 3.14 x D
+3.79
+8.34
+7000
+0.454
+1
+1.55
+694.4
+(lbs) Chemical = SG x 8.34 x Solution (Gal) x Solution (%/100)
+SLR (GPD/Ft2) = Flow = Volume
+Time
+C1 x V1 = C2 x V2
+(C1 x V1) + (C2 x V2) = C3 x V3
+Weir Overflow Rate (GPD/Ft) = Flow (GPD)
+Weir Length (Ft)
+GPM =
+27
+Cost/Day ($) = Lbs/Day x Cost/lb ($)
+=
+16 mA
+Other
+Volume (Gal)
+100
+748
+448.8
+Solution (%)
+100
+(lbs/Gal) =
+GPM x Head (Ft)
+DT (Min) = DT (hrs) =
+Dilution/ Blending
+Ft3 x 7.48 x 24
+Gal/Day
+Volume (Gal)
+Flow (GPM)
+Chlorination
+Gas (lbs) = MG x mg/L x 8.34
+(Q) Flow (Ft3/Sec) = (A)Area (Ft2) x (V)Velocity (Ft/Sec)
+mg/L = lbs
+MG x 8.34
+WWE (%) = (Pump % Eff/100) x (Motor % Eff/100)
+Drawdown (Ft)
+Sedimentation
+GPM x Head (Ft)
+x 8.34 x Specific Gravity (SG)
+GPD =
+GPD =
+Units and Conversion Factors
+HTH Solid (lbs) = MG x mg/L x 8.34
+Strength (%)/100
+
+[page 1] Strength (%)/100
+Liquid (Gal) = MG x mg/L x 8.34
+Strength (%)/100 x Chemical Weight (lbs/gal)
+Area and Volume
+Rise
+Distance x 100
+Slope (%) =
+10,000
+10,000
+746
+7.48
+Area of Circle = .785 X D2
+Area of Rectangle = Length x Width
+Area of Right Triangle = (Base x Height)/2
+62.3832
+24
+1440
+86400
+V (Ft/Sec) =
+Time (Min)
+0.305
+0.433
+1000
+1000
+454
+Q (Ft3/Sec)
+V (Ft/Sec)
+A (Ft2) =
+Dosage (mg/L) = Demand (mg/L) + Residual (mg/L)
+Flow & Velocity
+Q (Ft3/Sec)
+A (Ft2)
+Removal (%) =
+Process Units =
+(In-Out)
+Solutions
+Gal/Capita/Day = GPD
+Population
+Pounds Force
+lbs Force = PSI x Area (in2)
+(% purity/100) x Chemical Wt.(lbs/gal)
+Specific Gravity (SG) = Chemical Weight (Lbs/Gal)
+8.34
+Chemical in Solution (%) = Dry Chemical (Lbs) x 100 Solution Total Weight (lbs)
+3960 x (Pump % Eff/100) x (Motor % Eff/100)
+Pumping
+GPM x Head (Ft)
+3960 x (Pump % Eff/100)
+MGD x mg/L x 8.34
+(Feed, ml/min. x 1,440 min/day)
+(1,000 ml/L x 3.785 L/gal)
+3960
+Water HP =
+Brake HP =
+Motor HP =
+Cost ($) = HP x .746 x Operating Hours (hrs) x $/kWh Specific Capacity (GPM/Ft) = Well Yield (GPM)
+(Live Signal (mA) - 4 mA) x Process Range
+5280
+2.31
+2000
+3
+In x 100
+Surface Area (Ft2)
+Total Flow (GPD)
+1 of 2
+
+[page 2] Exam Conversion Sheet Revised 4/30/2026
+C x T Calculated =
+lbs ppm or mg/L =
+MG x 8.34
+GPM
+Ft2
+GPM
+Ft2
+GPM
+Ft2
+Flow Rate (GPM)
+Filter Area (Ft2)
+Backwash Rate =
+MG x mg/L x 8.34
+gallons x % purity x lbs/gal
+MG x 8.34
+Liquid (Gal) = MG x mg/L x 8.34
+Strength (%)/100 x Chemical Weight (Lbs/gal)
+Commercial Purity (%)/100 x Ion Purity (%)/100 x Chemical Weight (Lbs/gal)
+Filtration Rate
+Loading Rate
+=
+=
+MG x mg/L x 8.34
+Strength (%)/100
+Chemical Dosage Calculations
+Filtration
+ppm or mg/L =
+T10 Value, min x Chlorine Residual (mg/L)
+Liquid (Gal) =
+C x T = Chlorine Residual (mg/L) x Time (min)
+Rate of Rise
+Backwash Volume (Gal) = Filter Area (Ft2) x Backwash Rate (GPM/Ft2) x Time (min)
+Filter Production (GPD)
+Filter Area (Ft2) x 1440
+Flow Rate (GPM)
+Filter Area (Ft2)
+1.0 - % Removal
+100 x Log Key x (-1)Log Removal =
+C x T Calculations
+Time (min) = C x T
+Chlorine Residual (mg/L)
+C x T
+Inactivation Ratio =
+Solid (Lbs) =
+Inches
+min = Backwash Rate (GPM/Ft2) x 12 (in/Ft)
+7.48 (gal/Ft3)
+Time (min)
+Daily Filter Production (GPD) = Filter Area (Ft2) x (GPM/Ft2) x 1440 Unit Filter Run Volume (UFRV) = Volume Produced in a Filter Run (Gal)
+Filter Area (Ft2)
+
+[page 2] Filter Area (Ft2)
+Backwash Pumping Rate (GPM) = Filter Area (Ft2) x Backwash Rate (GPM/Ft2)
+Gas Feed Dry (Lbs) = MG x mg/L x 8.34
+Chlorine Residual (mg/L) =
+Actual C x T
+Table "E" C x T
+2 of 2

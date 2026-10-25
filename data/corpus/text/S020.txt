@@ -1,0 +1,278 @@
+Electronic Annual Report
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/ear.html
+Date printed: 08/27/2026
+
+## Electronic Annual Report
+The electronic Annual Report (eAR) is a survey of public water systems, currently required annually, to collect critical water system information intended to assess the status of compliance with specific regulatory requirements such as source water capacity, provides updated contact and inventory information (such as population and number of service connections), and provides information that is used to assess the financial capacity of water systems, among other information reported. The areas for which information is required to be reported is listed in the Log-in & Reporting Information section.
+The State Water Board has issued the following technical orders to all public water systems:
+- Technical Reporting Order - Original (January 2024)
+- Technical Reporting Order - Amendment (January 2025)
+
+## Log-In & Reporting Information > WBKey – NEW
+WBKey is a Multi-factor Authentication (MFA) security method that requires users to provide multiple pieces of evidence to verify their identity. By adding extra layers of authentication, MFA enhances account security and reduces the risk of unauthorized access.
+WBKey Help Center
+- WBKey Registration Training Webinar Recording
+- Training Webinar Q&A Transcript
+
+## Log-In & Reporting Information > Water System Reporters - Where to Access the Report
+Our electronic Annual Reporting (eAR) System is the method used to collect the critical water system information that must be reported to the State Water Resources Control Board, Division of Drinking Water annually. Approved users must go to the eAR Portal to complete and submit the water system's eAR.
+eAR Portal Login
+
+## Log-In & Reporting Information > Information Collected
+Section Number/Name | Section Description
+Section 1. Introduction | Provides water system information (e.g., System Number, Name, Classification, Ownership, assigned Regulating Agency) and physical location; Reporter starting EAR contact information; Disadvantaged (DAC) status request or recertification for reduced annual fees
+Section 2. Contacts | Maintain name, title, address, phone and email for various point of contact types
+Section 3. Population | Update population and annual operating period
+Section 4. Connections | Update service connection counts by types and metering status; Urban Water Supplier (UWS) outdoor irrigation connections or indoor submeters
+Section 5. Sources | Large Water System (LWS) source counts or Small Water System (SWS) source list by type (SWS and NC); Standby Source activity; Interties; Source Metering and Levels Monitoring
+Section 6. Water Supplied and Delivered | This section has been removed from the eAR and was relocated into the SAFER Clearinghouse. Water Supplied and Delivered data is still required under the Technical Reporting Order. For questions about this section, please email: Clearinghouse-Reporting@waterboards.ca.gov
+
+## Log-In & Reporting Information > Information Collected
+Note: If you do not have a SAFER Clearinghouse account, you will need to create one.
+Section Number/Name | Section Description
+Section 7. Recycled Water | Recycled Water (RW) number of use sites, RW Coordinator name; Pressure tests, and on-site supervision status
+Section 8a. Customer Charges | Residential and non-residential customer charges, rate structures, and other service fees borne by customers to support the water system.
+Section 8b. Income | Annual revenues and incurred expenses. This information is used to assess the financial resiliency of water systems.
+Section 8c. Water Affordability | Information, if any, on customer assistance programs designed to address customer affordability challenges.
+Section 9. Water Quality | Bacteriological Sample Siting Plan (BSSP) status; Emergency Notification Plan (ENP) status; Emergency Disinfection Plan (EDP) status; Watershed Sanitary Survey Report status; and Consumer Confidence Report status
+Section 10. Backflow | Status of testing and surveying backflow prevention assemblies; Cross Connection Control Program Coordinator name
+
+## Log-In & Reporting Information > Information Collected
+Section Number/Name | Section Description
+Section 11. Operator Certification | Distribution System (DS) Operator compliance; Treatment Plant (TP) Operator compliance; subsections including grid of operators with their certification number and expiration date.
+Section 12. Improvements | Improvements and modifications to treatment or distribution system completed in reporting year or future.
+Section 13. Complaints | Summary of complaints reported by customers, investigated by Water System, and reported to DDW or LPAs; Complaint Descriptions by Type
+Section 14. Treatment | Lists of groundwater and surface water treatment plants, excluding chlorination only, treatment process, date of operations plan, and contaminant removed; grouped chlorinating only treatment plant operations plan compliance; Emergency Disinfection Plan and Watershed Sanitary Survey status.
+Section 15. Distribution | Summaries of system problems; infrastructure and pipeline materials; dead-end flushing; flushing volumes; valve exercise program; storage tanks or reservoir inspection and cleaning program status.
+
+## Log-In & Reporting Information > Information Collected
+Section Number/Name | Section Description
+Section 16. Emergency | Auxiliary Power Supply; Ability to meet continuous power supply and funding gaps or schedule; Emergency Response Plans (ERP); interest in water partnerships or consolidation.
+Section 17. Conservation (Updated) | Drought Preparedness or Water Shortage Contingency Plan; Water Shortage Reporting; Urban Water Supplier (UWS) Conservation Program information; Potable reuse incentive.
+Section 18. Climate Change | Climate Threats, Sensitivity, and Magnitude of Impacts; Adaptation Measures
+Acknowledge and Finalize | Reporter(s) eAR error report; Report Disclosure; Number of Hours; Reporter submittingeAR contact information.
+
+## Learn More > Requesting Technical Assistance
+The State Water Board offers assistance for public water systems to assist them with completion of the eAR. This assistance is provided by the Water Board's Division of Financial Assistance Technical Assistance Program.
+Applications will open on Now accepting applications.
+- eAR Technical Assistance Application
+*If you are unable to complete the application online, contact the Technical Assistance Program at DFA-TArequest@wateboards.ca.gov.
+Deadline to apply for Technical Assistance is March 1, 2026.
+Eligible Water Systems:
+- Community Water Systems
+- Nontransient Noncommunity Water Systems (Non-Profit Only)
+Prioritized Water Systems:
+- Community Water Systems Serving less than 10,000 people
+- Disadvantaged Community Water Systems (Has a median household income less than 80% of the statewide median household income)
+
+## Background & Frequently Asked Questions > History of the Annual Report
+The "Annual Report to the Drinking Water Program" was started in the mid-1980's as a hard copy report submitted to the Division of Drinking Water (DDW) district offices. The DDW field staff and local primacy agencies (LPAs) require the annual report per Section 116530 Health & Safety Code and have used this information in the conduct of sanitary surveys of public water systems. In 2009, the Annual Report moved online where it was dubbed the electronic Annual Report (eAR). There was a Large Water System and Small Water System survey, based on system size at the cutoff of 1,000 service connections or 3,300 population. The next 11 years, eARs were developed for release to public water systems and field office staff tasked for review. In 2020, the Water Board redeveloped the eAR onto a new reporting platform offering advancements in customization and performance.
+
+## Background & Frequently Asked Questions > eAR Stakeholders
+In addition to the Division of Drinking Water field staff and County LPA representatives, the eAR serves as a platform for information gathering from public water systems to the Water Board.
+Drivers of eAR data collection:
+- Recommendations for Implementation of a Statewide Low-Income Water Rate Assistance Program (Assembly Bill 401): Report submitted to the Legislature on February 25, 2020
+- Safe Drinking Water (SAFER) utilize the data for drinking water risk indicators and more
+- Needs Assessment (Safe and Affordable Funding for Equity and Resilience (SAFER) program)
+- Open Data Portal publication of specific eAR data sets related to drinking water
+- Water shutoff reporting under SB 998
+- Urban Water Supplier Water Conservation: Production Reporting
+- Water Loss Control
+- Climate Resiliency visualizations
+- Safe Drinking Water Plan
+- Drought Planning for small water suppliers and rural communities under SB 552
+- Division of Administrative Services (DAS) utilizes eAR information for fee billing
+- Division of Financial Assistance (DFA) uses the information in the Operator Certification Unit
+
+## Background & Frequently Asked Questions > eAR Stakeholders
+- Division of Financial Assistance (DFA) uses the information in the Operator Certification Unit
+- Office of Research, Performance, and Planning (ORPP) use the eAR information for implementation of Water Efficiency Legislation AB 1668 and SB 606 (2018)
+Users of eAR data:
+- Development of the California Water Plan
+- Urban Water Management Plan
+- The Truckee River Operating Agreement (TROA)
+- SGMA Groundwater Management
+- Drought Risk Index - County Drought Advisory Group or CDAG Project
+Appendix 2. Drought and Water Shortage Risk Scoring
+- DWR Public Water Systems Statistics Surveys
+
+## Background & Frequently Asked Questions > Frequently Asked Questions (FAQs)
+- FAQs
+Legal Authorities to Require electronic Annual Reporting Include but Are Not Limited To:
+California Health and Safety Code, Section 116530:
+(a) A public water system shall submit a technical report to the state board as part of the permit application or when otherwise required by the state board. This report may include, but not be limited to, detailed plans and specifications, water quality information, physical descriptions of the existing or proposed system, information related to technical, managerial, and financial capacity and sustainability, and information related to achieving the goals of Section 106.3 of the Water Code, including affordability and accessibility.
+(b) A public water system shall submit the report in the form and format and at intervals specified by the State Board.
+California Health and Safety Code, Section 116355:
+(b)(9) An analysis of the current cost of drinking water paid by residential, business, and industrial consumers based on a statewide survey of large, medium, and small public water systems.
+
+## Background & Frequently Asked Questions > Frequently Asked Questions (FAQs)
+California Health and Safety Code, Section 116885:
+(a) By July 1, 2018, a community water system shall compile an inventory of known lead user service lines in use in its distribution system and identify areas that may have lead user service lines in use in its distribution system.
+(b) By July 1, 2020, a community water system that has identified known lead user service lines in use in its distribution system as provided in subdivision (a) shall provide a timeline for replacement of known lead user service lines in use in its distribution system to the state board.
+California Health and Safety Code, Section 116918:
+An urban and community water system shall report the number of annual discontinuations of residential service for inability to pay on the urban and community water system's Internet Web site, if an Internet Web site exists, and to the board. The board shall post on its Internet Web site the information reported.
+
+## Background & Frequently Asked Questions > Frequently Asked Questions (FAQs)
+Water Code, Section 10609.61:
+A small water supplier and a nontransient noncommunity water system that is a school shall each report annually water supply condition information to the state board through the state board's Electronic Annual Reporting (eAR) System or other reporting tool, as directed by the state board.
+
+## Resources > Self-Guided Resources
+- eAR User Guidance Document
+- eAR Reporter Worksheet [Excel]
+- Refer to your Help Tips in the eAR report denoted by a icon or list of Help Tips
+- Reporter Training Brown Bag Recording and Power Point slides
+- eAR Brown Bag Training #1 Webinar Recording
+- eAR Brown Bag Training #2 Webinar Recording
+- eAR Brown Bag Training #3 Webinar Recording
+- PowerPoint Slides:
+- Available upon request - email eAR Customer Service
+- Procedure Documents
+- Section 1 - Finding your Median Household Income using the American Community Survey
+- Section 8 - Residential Rate Structure Table
+- Tutorial Videos
+- Finding Resources on the eAR Website
+- Update Account Profile & Water System Association(s)
+- Starting your eAR
+- Section 1 - Introduction & DAC Fee Reductions
+- Section 2 - Reviewing and Editing Contacts
+- Section 3 - Population
+- Section 4 - Service Connections
+- Section 5 - Sources
+- Section 7 - Recycled Water
+- Section 8A - Customer Charges
+- Section 8B - Income
+- Section 8C - Affordability
+- Section 9 - Reports/Plans
+- Section 10 - Backflow
+- Section 11 - Operator Certification
+- Section 12 - Improvements
+- Section 13 - Complaints
+- Section 14 - Treatment
+
+## Resources > Self-Guided Resources
+- Section 14 - Treatment
+- Section 15 - Distribution & Storage
+- Section 16 - Emergency Management
+- Section 17 - Conservation
+- Section 18 - Climate Change
+- Finalize an eAR
+- Reportable Grid Data Upload Process includes:
+- 11.A Distribution Operator Certification
+- 11.B Treatment Operator Certification
+- 14.C Treatment - Chemical Additives
+- 15.E Storage Tanks
+- Viewing Submitted eAR & Print to PDF
+- Uploading your CCR or CCR Certification
+
+## Resources > Regulator Assistance
+To assist water systems in completing the eAR, water systems are encouraged to reach out to your DDW District or County Local Primacy Agency (LPA). Contact information for the DDW Districts and LPAs are provided below:
+- DDW District Office Contact Information
+- County Local Primacy Agency Contact Information
+
+## Learn More > Data Downloads
+The Division of Drinking Water (DDW) publishes eAR data annually from reporting year (RY) 2013 through the current reporting year. EAR data is collected from public water systems that have a survey status marked as complete.
+The eAR data is available to download below. The text files are organized by reporting year and section. Note that some sections (e.g., section 8) are too large to be directly loaded into an Excel file. Other programming languages such as R and Python can be used to import the file.
+
+## Data Downloads > RY 2025 eAR Sections
+- Section 1 - PWS Information
+- Section 3 - Populations
+- Section 4 - Service Connections
+- Section 5 - Sources
+- Section 6 - Supply & Demand Dataset
+Contact the Public Act Records Request inbox at DDW-PRARequest@Waterboards.ca.gov
+- Section 7 - Recycled Water
+- Section 8 - Customer Charges, Income, and Affordability
+- Section 9 - Reports/Plans
+- Section 10 - Backflow
+- Section 11 - Operator Certification
+- Section 12 - Improvements
+- Section 13 - Complaints
+- Section 14 - Treatment
+- Section 15 - Distribution and Storage
+- Section 16 - Emergency Contact
+- Section 17 - Conservations
+- Section 18 - Climate Change
+- Section 19 - Finalize
+
+## Data Downloads > RY 2024 eAR Sections
+- Section 1 - PWS Information
+- Section 3 - Populations
+- Section 4 - Service Connections
+- Section 5 - Sources
+- Section 6 - Supply & Demand Dataset
+Contact the Public Act Records Request inbox at DDW-PRARequest@Waterboards.ca.gov
+- Section 7 - Recycled Water
+- Section 8 - Customer Charges, Income, and Affordability
+- Section 9 - Reports/Plans
+- Section 10 - Backflow
+- Section 11 - Operator Certification
+- Section 12 - Improvements
+- Section 13 - Complaints
+- Section 14 - Treatment
+- Section 15 - Distribution and Storage
+- Section 16 - Emergency Contact
+- Section 17 - Conservations
+- Section 18 - Climate Change
+- Section 19 - Finalize
+
+## Data Downloads > RY 2023 eAR Sections
+- Section 1 - PWS Information
+- Section 3 - Populations
+- Section 4 - Service Connections
+- Section 5 - Sources
+- Section 6 - Supply & Demand Dataset
+Contact the Public Act Records Request inbox at DDW-PRARequest@Waterboards.ca.gov
+- Section 7 - Recycled Water
+- Section 8 - Customer Charges, Income, and Affordability
+- Section 9 - Reports/Plans
+- Section 10 - Backflow
+- Section 11 - Operator Certification
+- Section 12 - Improvements
+- Section 13 - Complaints
+- Section 14 - Treatment
+- Section 15 - Distribution and Storage
+- Section 16 - Emergency Contact
+- Section 17 - Conservations
+- Section 18 - Climate Change
+- Section 19 - Finalize
+- RY 2013-2022
+- Coming Soon
+Supplemental reference material:
+- Water System Inventory
+- This open data webpage provides list of all active public drinking water systems in California as of last update date listed.
+- The data source is from the Safe Drinking Water Information System (SDWIS)
+- Data Dictionary (Excel)
+
+## Data Downloads > RY 2023 eAR Sections
+- Data Dictionary (Excel)
+NOTICE TO USERS OF THE DATABASE: Users of this database should use care in interpreting these data. Data that does not meet DDW data quality objectives is included and the provided data may not be representative of current inventory and operating status of the public water system. Data that DDW considers Personally Identifiable Information (PII) per California Consumer Privacy Act is not included. User inquiries about survey question answers are often best addressed by the specific public water system, or by the associated DDW district or County LPA field offices.
+For eAR related questions, please contact us directly at DDW-EAR@waterboards.ca.gov
+
+## Electronic Annual Report > eAR Email Distribution List
+- Subscribe to our email lists to receive eAR related email notifications. See the "Drinking Water" section.
+eAR Customer Service Forms
+For public water systems only
+- eAR Customer Service Request Form
+To request assistance from the eAR customer service team, please fill-out and submit the eAR Customer Service Request form.
+- eAR Data Change Request Form
+To request a change to submitted eAR data after the reporting deadline, please fill-out and submit the eAR Data Change Request Form.
+
+## Electronic Annual Report > Important Dates & Events
+- eAR Release Date:
+February 1, 2026
+- eAR Reporting Deadline:
+April 1, 2026
+- Technical Assistance Deadline:
+March 1, 2026
+
+## Electronic Annual Report > Quick Links
+- Electronic Annual Reporting Portal
+- Public Drinking Water Watch
+- Information for Public Drinking Water Systems
+- California Drinking Water System Area Boundaries
+- Drought & Conservation Reporting
+- CA Drinking Water Needs Assessment
+- Lead Service Line Inventory
+- Urban Water Supplier Reporting
+- Drinking Water Operator Certification
+(Page last updated 08/27/2026)

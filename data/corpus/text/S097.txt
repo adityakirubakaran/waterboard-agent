@@ -1,0 +1,260 @@
+Low-Threat UST Case Closure Policy FAQs
+https://www.waterboards.ca.gov/water_issues/programs/ust/policy/ltcp_faqs.pdf
+Date printed: none found
+
+[page 1] Page 1 of 16
+Low-Threat Underground Storage Tank (UST) Case
+Closure Policy (Policy)
+(Revised August 2024)
+General Criteria
+a) Unauthorized release is located within the service area of a public water system.
+Q Public water is available, but there are domestic wells nearby. Does this meet General Criterion (a)?
+A This meets the criterion because new parcels being developed would have access to a public water supply. The groundwater contaminant plume would still need to meet the distance from the plume boundary to existing wells required by the appropriate class to meet the groundwater media-specific criteria.
+Q How do I find a public water system for a site?
+A A public water system overlay, provided in the “map coverages” on the GeoTracker Map, should provide the name of the public water system for most petroleum UST cleanup cases. In addition, public water system information may be obtained by asking responsible parties which entity sends them a water bill, contacting local water districts to determine service areas, and performing appropriate internet searches.
+Q What is the definition of a “public water system”?
+
+[page 1] Q What is the definition of a “public water system”?
+A The Policy defines a public water system as, “a system for the provision of water for human consumption through pipes or other constructed conveyances that has 15 or more service connections or regularly serves at least 25 individuals daily at least 60 days out of the year.” b) Unauthorized release consists only of petroleum.
+Q Is waste oil considered petroleum?
+A A “waste-oil” UST may contain used oil, waste oil, or non-petroleum wastes.
+The terms “used oil” and “waste oil” are generally synonymous. Waste-oil USTs are petroleum USTs if they contain petroleum, even if mixed with non-petroleum hazardous substances. A release from a typical waste-oil UST at a service station will be remediated by the same cleanup processes as applied
+
+[page 2] Page 2 of 16
+to releases from other petroleum USTs; therefore, it is appropriate to consider waste oil from a waste-oil UST a petroleum product and apply the Policy in such a case.
+For many waste-oil UST releases, non-petroleum hazardous substances are detected along with the petroleum substances at de minimis amounts. An amount is de minimis if it does not significantly alter the detectability, effectiveness of corrective action, or toxicity of the petroleum. Sites that have UST releases containing more than de minimis amounts of non-petroleum contaminants are not petroleum UST release cases and should be directed to a Site Cleanup Program (SCP) for remediation oversight. This determination is fact-specific and must be made on a case-by-case basis. Note that Health and Safety Code division 20, chapter 6.7, applies to oversight and corrective action requirements for all hazardous substance UST releases.
+Q Can a petroleum UST case be closed if chlorinated solvents (i.e., non-petroleum contaminants) are present in soil and/or groundwater, but the release of petroleum constituents meets the Policy?
+
+[page 2] Q Can a petroleum UST case be closed if chlorinated solvents (i.e., non-petroleum contaminants) are present in soil and/or groundwater, but the release of petroleum constituents meets the Policy?
+A Sites with chlorinated solvents, or other non-petroleum contaminants, in soil and/or groundwater must be evaluated to determine the source and magnitude of the non-petroleum contaminants to make a preliminary determination of whether the non-petroleum release is from a petroleum UST or another source.
+• If the non-petroleum contaminants were not released from a UST, the cleanup of non-petroleum contaminants should be overseen as a separate SCP case, to which the Policy would not apply. If there also is a petroleum UST release at the same site, the Policy would apply to the petroleum UST release case which can be closed under the Policy when the residual petroleum constituents from the petroleum UST release meet the Policy criteria.
+
+[page 2] • If the non-petroleum contaminants were released from the UST and are more than de minimis, i.e., high enough to warrant additional cleanup activities, the UST is not a petroleum UST, and the cleanup should be overseen as a separate SCP case to which the Policy would not apply. If there is also a petroleum UST release at the same site, the Policy would apply to the petroleum UST release case which can be closed under the Policy when the residual petroleum constituents from the petroleum UST release meet the Policy criteria.
+• If the non-petroleum contaminants were released from the UST but are de minimis, the UST is a petroleum UST, and the cleanup should be overseen as a petroleum UST case to which the Policy would apply, and which can be closed under the Policy when the residual petroleum constituents from the petroleum UST release meet the Policy criteria.
+
+[page 3] Page 3 of 16
+It is permissible to have both a petroleum UST case and a SCP case open at the same time, until such time as the constituents specific to each case have been mitigated to whatever cleanup requirement is relevant. The Policy would be the specific cleanup requirement relevant to the petroleum UST impacts.
+c) Unauthorized (“primary”) release from the UST has been stopped.
+Q How is primary source defined?
+A The primary source consists of the USTs, pipes, dispensers, or other appurtenant structures that released petroleum into the environment. The Policy does not apply to UST systems that have ongoing releases.
+Ongoing releases should be stopped, and repairs made in compliance with UST operating permits before a release can be evaluated under the Policy.
+Primary source does not include the media (soil, soil gas, and groundwater) that is affected by the primary release. Those media would be considered either secondary source (see below) or residual contamination.
+d) Free product has been removed to the maximum extent practicable Q What is the definition of free product?
+
+[page 3] d) Free product has been removed to the maximum extent practicable Q What is the definition of free product?
+A Petroleum is a light non-aqueous phase liquid (LNAPL) that can exist in three conditions in the subsurface: 1) residual or immobile (LNAPL is immobilized by capillary forces and cannot move from pore to pore); 2)
+mobile (there is enough LNAPL to overcome capillary forces to move from pore to pore and low pressure zones such as a monitoring well); and 3)
+migrating (there is sufficient LNAPL to create a head causing the LNAPL body to expand laterally). For practical purposes, the term “free product” is primarily equivalent to migrating LNAPL. Ref: Technical Justification for Groundwater Media-Specific Criteria, page 2.
+It is important to emphasize that not all LNAPL is free product. The distinction between free product and other LNAPL is addressed more fully in the questions below.
+Q How is the “removal of free product to the maximum extent practicable” defined?
+
+[page 3] Q How is the “removal of free product to the maximum extent practicable” defined?
+A Free product must be removed to point that its migration is stopped and the LNAPL extent is stable (or decreasing). The Policy does not require that free product be removed until it is no longer measurable. At a minimum, free product should be removed so that the LNAPL is stabilized and that the spread of the unauthorized release into previously uncontaminated zones is stopped. If free product is not measurable, and there are no other Policy criteria that need to be assessed or for which remediation would be
+
+[page 4] Page 4 of 16
+required, it is not reasonable to perform more assessment or remediation to achieve General Criterion (d).
+Removal of LNAPL from the subsurface is technically complicated, and removal of LNAPL to the maximum extent practicable is based on site‐ specific factors (such as soil properties, varying groundwater elevations, and varying lateral groundwater flow velocities among others) and includes a combination of objectives for the LNAPL removal (such as whether the LNAPL is a significant source of dissolved constituents to groundwater or volatile constituents to soil vapor, or whether there is a high likelihood that hydrogeologic conditions would change significantly in the future which may allow the mobile LNAPL to migrate) and technical limitations. Ref: Technical Justification for Groundwater Media-Specific Criteria, page 2.
+Q Can elevated sorbed or dissolved petroleum constituent concentrations be used to infer the presence of free product?
+
+[page 4] Q Can elevated sorbed or dissolved petroleum constituent concentrations be used to infer the presence of free product?
+A No. Free product, as described above, is the result of migrating LNAPL. Its presence is detected if there is a measurable thickness of LNAPL floating on groundwater, typically when water levels are being gauged in a groundwater monitoring well. High soil and/or groundwater concentrations could be indicative of the presence of LNAPL at or near the location of the sample from which that concentration was measured. However, high concentrations in soil or groundwater do not, in and of themselves, indicate that free product is present.
+Q Is sheen considered free product?
+A No. Sheen is not measurable; thus, it is not considered free product in the context of the Policy. Observed sheen could be the result of mobile, but not migrating, LNAPL moving into a relatively low-pressure zone of the monitoring well borehole. In addition, sheen can also be created by biological processes or other conditions not at all related to the presence of LNAPL.
+e) Conceptual site model that assesses the nature, extent, and mobility of the release has been developed.
+
+[page 4] e) Conceptual site model that assesses the nature, extent, and mobility of the release has been developed.
+Q What is an adequate conceptual site model (CSM)?
+A The technical justification documents created to support the Policy state that the CSM should contain sufficient detail to make decisions at the site and be comprehensive enough to show compliance with all the Policy media-specific criteria, as well as all State and federal laws/regulations. The primary goal of a CSM is to provide sufficient site-specific information to evaluate the threat to human health, safety, and the environment, and if necessary, use the information to evaluate and select a feasible and cost-effective remedial technology to mitigate that threat. If there is not adequate
+
+[page 5] Page 5 of 16
+data to select a remediation technology or approach, General Criterion (e)
+has not been met.
+Q Is it necessary to fully define the extent of all contaminants to meet General Criterion (e)?
+
+[page 5] Q Is it necessary to fully define the extent of all contaminants to meet General Criterion (e)?
+A One of the objectives of the CSM is to convey an understanding of the origin, nature, and lateral and vertical extent of contamination. Typically, defining a contamination plume would require defining the extent of contaminants to their respective water quality objectives (WQOs). However, professional judgment should be used to determine whether current plume definition is sufficient to evaluate the threat from the contaminants and to demonstrate that the Groundwater Media-Specific Criteria have been met. For instance, in appropriate circumstances plume length could be inferred from existing data to determine whether it meets one of the 5 classes of groundwater plumes described in the Groundwater media-specific requirements. Furthermore, fully defining a plume in the upgradient or crossgradient directions would not likely alter the CSM unless there is a close receptor in those directions. It should be noted that professional judgment is not limited to staff of the regulating agency. The judgment of the responsible party, or their representative, should also be considered.
+
+[page 5] Q Should vertical definition of a contaminant plume be required?
+A An objective of the CSM is to convey an understanding of the lateral and vertical extent of contamination. Typical petroleum hydrocarbon constituents are lighter than water and relatively immiscible in water; thus, the hydrocarbons would tend to stay near the groundwater table and vertical definition would not be necessary. However, hydrogeologic conditions at a given site such as vertical gradient or sub surface structure might be more conducive to vertical migration of the contaminants. Also, fuel oxygenates, such as MTBE and TBA, are much more miscible in groundwater allowing them to distribute more widely throughout the water-bearing interval.
+Therefore, professional judgment can be used for a site-specific evaluation of the case to determine whether vertical definition is appropriate.
+Q The CSM is not located in one document, and it is hard to capture all the information. Can the agency require a summary CSM?
+
+[page 5] Q The CSM is not located in one document, and it is hard to capture all the information. Can the agency require a summary CSM?
+A As stated in the Policy, the supporting data and analysis used to develop the CSM are not required to be contained in a single report. The information may be contained in multiple reports submitted to the regulatory agency over a period of time. The goals of a CSM are to provide sufficient site-specific information to evaluate the threat to human health, safety, and the environment, and as necessary, to make a remediation decision. These goals can be accomplished without having all the information in a single document.
+Also, any document recommending a remediation decision should include an assessment of site impacts including a summary of site data sufficient to
+
+[page 6] Page 6 of 16
+support the decision, eliminating the need for a standalone CSM, if one has not already been prepared.
+f) Secondary source has been removed to the extent practicable Q What is the definition of secondary source?
+A “Secondary source” is defined as petroleum-impacted soil or groundwater located at or immediately beneath the point of release from the primary source. Residual contamination could remain that is not considered part of the secondary source. Residual contamination not considered “secondary source” should only be addressed in the context of meeting all of the media-specific criteria.
+Q How is removal of the secondary source, “to the extent practicable” defined?
+
+[page 6] Q How is removal of the secondary source, “to the extent practicable” defined?
+A “To the extent practicable” means implementing a cost-effective corrective action that removes or destroys-in-place the most readily recoverable fraction of source-area mass immediately beneath the point of release from the primary source. Unless site attributes prevent secondary source removal (e.g. lithological, physical, or infrastructural constraints exist where removal or relocation would be technically or economically infeasible), petroleum UST release sites are required to undergo secondary source removal to the extent practicable. It is expected that most secondary mass removal efforts will be completed in one year or less. Following removal or destruction of the secondary source, additional removal or active remedial actions shall not be required by regulatory agencies unless:
+(1) necessary to abate a demonstrated threat to human health, or (2) the site does not otherwise meet the definition of low-threat as described in the Policy.
+Q How does the Policy define “the most readily recoverable fraction of source area mass” specific to the secondary source removal criteria?
+
+[page 6] Q How does the Policy define “the most readily recoverable fraction of source area mass” specific to the secondary source removal criteria?
+A The most readily recoverable fraction of source‐area mass is determined by the regulating agency. In some cases, site attributes prevent the removal of groundwater contamination (e.g. lithological, physical or infrastructural constraints exist where removal or relocation would be technically or economically infeasible). This may allow residual petroleum constituents to remain resulting in dissolved concentrations in groundwater above the WQOs.
+Q Do passive source removal strategies count towards secondary source removal criteria? For example, monitored natural attenuation, sulfate injection, oxygen release compound socks.
+A The most feasible corrective action should be implemented to mitigate source‐area contaminant mass, as well as secondary source. This
+
+[page 7] Page 7 of 16
+determination should be based on a thorough site-specific evaluation/comparison of the technical and economic feasibility of the most likely remediation strategies as proposed by the responsible party, subject to the concurrence of the regulating agency. The Policy does not prescribe the specific remediation strategies that may be used, nor does it mandate that secondary source be physically removed. To the extent passive technologies are determined most feasible, they would count toward meeting General Criterion (f).
+g) Nuisance as defined by Water Code section 13050 does not exist at the site.
+Q How is “nuisance” defined?
+A Water Code section 13050 defines "nuisance" as anything that meets all of the following requirements:
+1) Is injurious to health, or is indecent or offensive to the senses, or an obstruction to the free use of property, so as to interfere with the comfortable enjoyment of life or property.
+2) Affects at the same time an entire community or neighborhood, or any considerable number of persons, although the extent of the annoyance or damage inflicted upon individuals may be unequal.
+
+[page 7] 2) Affects at the same time an entire community or neighborhood, or any considerable number of persons, although the extent of the annoyance or damage inflicted upon individuals may be unequal.
+3) Occurs during, or as a result of, the treatment or disposal of wastes.
+Q Does the presence of contamination in an aquifer that supplies drinking water constitute a nuisance?
+A The presence of contamination does not by itself constitute a nuisance. It would only be considered a nuisance if it meets all the requirements listed above.
+Media-Specific Criteria
+1. Groundwater
+Q What is considered a reasonable time frame to reach WQOs under the Policy?
+A There is no specific amount of time stated in the Policy. The criteria of the Policy were specifically developed to identify sites where WQOs will be reached within a reasonable time frame. Unless there are unique site-specific conditions, compliance with the General and Media-Specific criteria are sufficient to determine that WQOs will be reached within a reasonable time frame, although an evaluation of the time required to reach WQOs could be an element of the analysis to determine if a case meets Groundwater Class 5.
+
+[page 8] Page 8 of 16
+Q What is the definition of a stable or decreasing plume?
+A A plume that is “stable or decreasing” is a contaminant mass that has expanded to its maximum extent (i.e., the distance from the point of release where attenuation exceeds migration). Therefore, it must only be demonstrated that the areal extent, primarily plume length, is not increasing over time. Localized fluctuations and increases in concentrations may occur;
+but to the extent they do not cause an increase to the areal extent of the plume, the plume would meet this definition.
+Q How is plume length measured?
+A The plume length is the distance between the source of the release (i.e., location of former USTs, piping, or dispenser island where a known release has occurred) to the calculated or extrapolated line where concentrations in groundwater are at WQOs. Typically, that measurement is made in the downgradient direction from the point of release.
+
+[page 8] For sites at which the gradient is variable or where the plume length is greater in a direction other than the predominant groundwater flow direction, it would be appropriate to use the furthest distance from the release point where the WQOs have been exceeded. However, the distance must still be measured only from the established point of release.
+It should be noted that professional judgment can be used to infer plume length once sufficient data have been collected.
+Q How are WQOs determined?
+A WQOs are defined in Regional Water Board Basin Plans and are specific to each region. WQOs are presented as specific numeric goals or narrative objectives.
+Q How do we address those constituents of concern that are not listed in the Policy?
+A The regulatory agency determines which petroleum constituents should be analyzed at a particular site to determine the extent of the release. However, the constituents listed in the Policy are adequate to assess risk at most petroleum UST sites. Unless there are unique site-specific conditions, a site is eligible for closure if all the criteria in the Policy are met.
+
+[page 8] Q The Policy refers only to the distance to existing water supply wells or surface water bodies to define the characteristics of the five classes of sites used to determine whether a site meets the Groundwater Media-Specific Criteria. Are there other sensitive receptors that can be considered?
+A The exposure scenarios for impacted groundwater generally include inhalation (breathing), ingestion (drinking), and dermal contact (touching).
+Inhalation and dermal contact of soil are addressed by the other media-specific criteria. Typically, the exposure pathway for drinking or contacting
+
+[page 9] Page 9 of 16
+impacted groundwater is from a well or surface water body. Therefore, barring any unique site characteristics, there is no need to consider other sensitive receptors for the five plume classes.
+Q What is the definition of a “surface water body”?
+A There is no specific definition in the Policy for surface water body. Common surface water bodies can include, but are not limited to rivers, streams, lakes, enclosed bays, recharge ponds, estuaries, and tributaries to these types of water bodies. These common surface water bodies are usually in connection with shallow groundwater and might become impacted by an adjacent UST release. Concrete or clay-lined structures such as canals, reservoirs, waste ponds, etc., should be more closely evaluated to determine if they are in connection with shallow groundwater. Lined surface impoundments might appear to be surface water bodies but may not be receptors if the liners effectively exclude shallow groundwater.
+Q Can a land use restriction be required as a condition of closure?
+
+[page 9] Q Can a land use restriction be required as a condition of closure?
+A The willingness of a property owner to accept a land use restriction is one characteristic of Groundwater Class 3. Land use restriction is not mandatory in this scenario, but rather is at the discretion of the regulatory agency and must be acceptable to the owner of the property (whether the owner is the sole responsible party or not). That is the only instance where a land use restriction is mentioned specifically in the Policy. However, there is language in the Policy making clear that “institutional controls” could be used as an alternative to allow closure of a case that doesn’t otherwise meet certain Policy criteria. A land use restriction is an example of an institutional control considered by the Policy.
+Q How can Class 5 be used to demonstrate that a site meets the Groundwater Media-Specific Criteria?
+
+[page 9] Q How can Class 5 be used to demonstrate that a site meets the Groundwater Media-Specific Criteria?
+A When a site does not meet all criteria in one of the first four groundwater classes described in the Policy, an analysis of site-specific conditions should be used to determine if the contaminant plume poses a low‐threat and WQOs will be achieved within a reasonable time frame. A formal risk assessment could be used to demonstrate that the contaminant plume poses a low threat under the Policy and WQOs will be achieved within a reasonable time frame.
+Alternatively, an informal risk analysis by the regulatory agency would be sufficient if site-specific data demonstrate that the contaminant plume poses a low threat in accordance with the Policy and WQOs will be achieved within a reasonable time frame. When the regulatory agency determines that site-specific data demonstrate that the contaminant plume poses a low threat under the Policy and WQOs will be achieved within a reasonable time frame, then Groundwater Class 5 has been met.
+
+[page 10] Page 10 of 16
+2. Petroleum Vapor Intrusion to Indoor Air
+Q Does the exception to the Vapor Intrusion to Indoor Air Media-Specific Criteria for an active commercial petroleum fueling facility apply if there is potential off-site migration that could result in indoor air exposure?
+A Exposures to petroleum vapors associated with historical fuel system releases are comparatively insignificant relative to exposures from small surface spills and fugitive vapor releases that typically occur at active fueling facilities. However, this exception is inappropriate in cases where release characteristics can be reasonably believed to pose an unacceptable health risk off-site. The exception may also be inappropriate if there are on-site receptors not related to the on-site fueling facility.
+Q What constitutes a bioattenuation zone?
+A A bioattenuation zone is an area of soil with conditions that support biodegradation of petroleum hydrocarbon vapors that might be present beneath a site. Appendices 1 through 4 of Criteria 2(a) illustrate four potential exposure scenarios and describe characteristics that would define a bioattenuation zone for each scenario.
+Q What is unweathered LNAPL?
+
+[page 10] Q What is unweathered LNAPL?
+A Unweathered LNAPL is generally understood to mean petroleum that has not been subjected to significant volatilization, solubilization, or metabolic degradation, and therefore has not lost a significant portion of its volatile or soluble constituents. Unweathered LNAPL is comparable to recently dispensed fuel.
+Q Do the scenarios that include the presence of unweathered LNAPL mean free product for the purposes of evaluating the Vapor Intrusion to Indoor Air Media-Specific Criteria?
+A The setback scenarios (Criteria 2(a), Scenarios 1 and 2) are valid for both the presence of free product (i.e., mobile/migrating LNAPL), as well as residual LNAPL.
+Q What is the appropriate number of soil gas samples and sample probe locations to demonstrate the site meets the Vapor Intrusion to Indoor Air Scenario 4?
+
+[page 10] Q What is the appropriate number of soil gas samples and sample probe locations to demonstrate the site meets the Vapor Intrusion to Indoor Air Scenario 4?
+A The Policy does not specify the number of samples or sample probe locations. Professional judgment should be used to determine the adequate number of samples and locations to verify the vapor intrusion threat to each occupied building on-site or off-site. It may be appropriate to collect one round of samples, or it may be appropriate to collect multiple rounds of verification samples, one during the wet season and one during the dry season in any given year.
+
+[page 11] Page 11 of 16
+Q How should soil gas probes be installed and used to collect soil gas samples?
+A For Criteria 2(a), Scenario 4, the Policy does not address the manner in which probes should be installed or how samples should be collected, other than to specify samples shall be collected from at least 5 feet below ground surface or 5 feet below the bottom of an existing building foundation, whichever is applicable. The methods used are at the discretion of the regulatory agency.
+This includes verifying the quality of laboratory data for the analysis of the soil gas samples. The regulatory agency should also ensure that soil gas samples collected are analyzed for the constituents mentioned in the Policy (benzene, ethylbenzene, naphthalene, and oxygen content).
+Q Can the vapor intrusion threat be evaluated based on potential future site conditions?
+A The low-threat vapor intrusion criteria described in the Policy apply to sites where the release originated and impacted, or potentially impacted, adjacent parcels when:
+1) existing buildings are occupied or may be reasonably expected to be occupied in the future, or
+
+[page 11] 1) existing buildings are occupied or may be reasonably expected to be occupied in the future, or
+2) buildings for human occupancy are reasonably expected to be constructed in the future.
+For example, if redevelopment plans have been submitted for permits and a redevelopment schedule proposed, then future land use can be considered. Therefore, information provided by the property owner/ developer, along with professional judgment, should be employed to determine the likelihood and timeframe for changes to site use, as well as the relative threat due to the potential changes.
+Q If soil, groundwater, or soil gas data cannot be used to demonstrate the site meets one of the four possible vapor intrusion scenarios, can a regulator develop a site-specific risk assessment and satisfy the Policy criteria?
+
+[page 11] A Yes. If there is sufficient site-specific information to evaluate existing and potential sources, pathways, and receptors related to the petroleum release and it can be determined that human health is protected to the satisfaction of the regulatory agency, then the site-specific risk assessment developed by a regulator can be used to demonstrate the Criteria 2(b) have been met. The site-specific risk assessment should not add additional screening criteria or requirements.
+
+[page 12] Page 12 of 16
+Q How is it determined whether mitigation measures or institutional or engineering controls are adequate to control exposure such that petroleum vapors will have no significant risk or adversely affect human health?
+A Mitigation measures or the use of institutional or engineering controls is at the discretion of the regulatory agency and local building permit department.
+The regulatory agency should expect the responsible party to demonstrate the adequacy of a control to the regulatory agency and local building permit department. Institutional controls, such as a land use restriction, generally should not be used if the site conditions satisfy the characteristics and criteria of the various scenarios, as applicable, presented in the Policy, or if a site-specific risk assessment for the vapor intrusion pathway is conducted demonstrating that human health is protected to the satisfaction of the regulatory agency. This principle also applies to the application of mitigation measures or other controls with respect to the Direct Contact and Outdoor Air Exposure Media-Specific Criteria.
+3. Direct Contact and Outdoor Air Exposure
+
+[page 12] 3. Direct Contact and Outdoor Air Exposure
+Q What if the area of impacted soil where a particular exposure occurs is greater than 25 meters by 25 meters?
+A For a typical gas station release, we would not generally expect the impacted soil in the upper 10 feet to exceed the 25 m by 25 m area. If the impacted soil does exceed this area, a site-specific evaluation would need to be conducted.
+Q What are the appropriate depths at which soil samples should be collected to demonstrate the site meets the Direct Contact and Outdoor Air Exposure Media-Specific Criteria?
+A The Policy includes screening levels for samples collected in the 0 to 5 feet below ground surface (bgs) depth interval and the 5 to 10 feet bgs depth interval. It is up to the discretion of the regulatory agency to determine the specific depth(s) within those ranges that are representative of site conditions. The depths should be chosen based on knowledge of the operation and location of the unauthorized release from the UST system at the site.
+Q If one soil sample out of several samples collected contains constituents that exceed the values in Table 1, does the site fail the criteria?
+
+[page 12] Q If one soil sample out of several samples collected contains constituents that exceed the values in Table 1, does the site fail the criteria?
+A Soil samples exceeding the screening values in Policy Table 1 do not meet direct contact and outdoor air exposure Criteria 3(a). However, under Criteria 3(b), the agency can perform a risk evaluation to demonstrate that the residual soil impacts do not pose a risk to human health from a direct contact and outdoor exposure scenario. It also may be appropriate to direct additional remediation to mitigate the elevated concentrations.
+
+[page 13] Page 13 of 16
+Q Can you clarify how to apply Note 1 of Table 1 of the Policy related to the analysis of polycyclic aromatic hydrocarbons (PAHs)?
+
+[page 13] Q Can you clarify how to apply Note 1 of Table 1 of the Policy related to the analysis of polycyclic aromatic hydrocarbons (PAHs)?
+A Analysis of shallow soil samples (0 to 10 feet below ground surface) for PAHs is only required in areas where the soil is suspected of being contaminated by waste oil or Bunker C fuel, which typically only occurs beneath a waste oil UST. As detailed on Page 4 of the Technical Justification for Soil Screening Levels for Direct Contact and Outdoor Air Exposure Pathways, the PAH soil screening values in Table 1 are appropriate for comparison with the total concentration of seven (7) carcinogenic PAHs as benzo(a)pyrene toxicity equivalents (BaPe). California’s Office of Environmental Health Hazard Assessment (OEHHA) has developed potency equivalency factors (PEFs) for the carcinogenic PAHs based on their potential toxicity when compared to benzo(a)pyrene. The seven carcinogenic PAHs and their respective PEFs are listed in Footnote 4 on Page 4 of the Technical Justification for Soil Screening Levels for Direct Contact and Outdoor Air Exposure Pathways. To estimate BaPe, the concentration of each carcinogenic PAH detected in soil is multiplied by its respective PEF, added together, and the resultant BaPe is compared to the PAH soil screening values shown in Table 1.
+
+[page 13] If any of the seven carcinogenic PAHs is not detected above its method detection limit (MDL), the MDL should be used to calculate BaPe. For that reason, the calculated value will never be zero. If all seven of the carcinogenic PAHs are undetected above the MDLs, but the summation exceeds the screening value in Table 1, the lead agency should consider indicating the case meets Criteria 3(b) (maximum concentrations of petroleum constituents in soil are less than levels that a site-specific risk assessment demonstrates will have no significant risk of adversely affecting human health), assuming all other constituents in Table 1 are below the screening values in Table 1 or also satisfy Criteria 3(b).
+Q The California LUFT Manual recommends collecting soil samples to analyze for metals, volatile organic compounds, and semi-volatile organic compounds, in addition to PAHs. Is it acceptable to direct the collection of samples to analyze for these compounds?
+A It is at the discretion of the regulatory agency to determine the potential contaminants of concern based on relevant site history and land use.
+
+[page 13] A It is at the discretion of the regulatory agency to determine the potential contaminants of concern based on relevant site history and land use.
+Analysis for the full suite of chemicals listed in the LUFT Manual would be valuable to determine whether the site meets General Criteria (b)
+(unauthorized release consisting only of petroleum). Additionally, the collection of samples to analyze for all potential or known constituents of concern would also be crucial to meeting General Criteria (e) (CSM).
+However, PAHs were determined to be the primary risk driver amongst potential waste oil constituents; therefore, achieving Criteria 3(a) is based only on the magnitude of PAHs in shallow soil amongst the waste oil constituents mentioned above, in addition to the other petroleum constituents identified in Table 1.
+
+[page 14] Page 14 of 16
+Q Concentrations in soil do not meet Table 1 of the Policy and the case file does not include a report that assesses the direct contact and outdoor air exposure risk for the site. Can a regulator develop a site-specific risk assessment and satisfy the Policy criteria?
+A Yes, if there is sufficient site-specific information to evaluate existing and potential sources, pathways, and receptors related to the petroleum release and it can be determined that there is no significant risk of adversely affecting human health, then a site-specific risk assessment can be used to demonstrate Criteria 3(b) have been met.
+Low-Threat Case Closure
+Q The Policy requires regulatory agencies to notify responsible parties that they are eligible for case closure. Who else is required to be notified of a proposed case closure and provided a 60-day period to comment?
+
+[page 14] A It would be appropriate to notify any known or suspected interested parties not covered by the Policy noticing requirements. At a minimum, the regulatory agencies shall notify municipal and county water districts; water replenishment districts; special act districts with groundwater management authority; and agencies with authority to issue building permits for land affected by the petroleum release. Regulatory agencies shall also notify owners and occupants of the property impacted by the petroleum release, and owners and occupants of all parcels adjacent to the impacted property.
+In addition, meaningful engagement with California Native American Tribes is fundamental to the mission of the State Water Board. In accordance with Governor’s Executive Order B-10-11, as a best practice, the State Water Board recommends notification of California Native American Tribes that are traditionally and culturally affiliated with the geographic location of the respective case to provide Tribe(s) a consultation opportunity regarding the proposed case closure.
+
+[page 14] Engagement of local Tribe(s) should occur during any site action that requires significant land disturbance. To the extent a proposed closure of a UST release case involves the destruction of wells used for monitoring, relevant Tribes should be notified of that intrusive work Q How do I find the addresses for those required by the Policy to be notified of the proposed case closure?
+A There are several methods to obtain the addresses for those required to be notified. Some examples may include:
+ Asking the responsible party and/or consultant.
+ Contacting the county assessor’s office.
+
+[page 15] Page 15 of 16
+ Using parcel services companies. There are several commercial services from which the public can find information about properties adjacent to or near a petroleum UST release site, including the names and contact information for the owners of those properties. Note: The Water Board cannot endorse any particular service by identifying the service in this document.
+Q How do occupants get notified?
+A Send the notification letter addressed to “Occupant” to the appropriate parcel addresses.
+Q For those cases that do not meet the required criteria of the Policy, but merit closure under Resolution No. 92-49 can we use a different notification process than what is required in the Policy?
+A For consistency, noticing requirements established in the Policy should be followed when noticing case closures using Resolution No. 92-49.
+Q The Policy seems to say that the regulatory agency must close a case within 30 days from the end of the comment period. What does the Policy require?
+
+[page 15] Q The Policy seems to say that the regulatory agency must close a case within 30 days from the end of the comment period. What does the Policy require?
+A The Policy requires all the following: the regulatory agency issue a uniform closure letter no more than 30 days after the end of the public comment period, the completion of well destruction, and the completion of waste removal. Completion of well destruction and waste removal must be verified by the regulatory agency.
+General Questions
+Q When did the Policy take effect?
+A The Policy was adopted by State Water Board Resolution No. 2012-0016 on May 1, 2012, and became effective on August 17, 2012. Resolution No. 2012-0016 and Resolution No. 2012-0062 direct certain actions, including that Regional Water Boards and local agencies review all cases in the petroleum UST Cleanup Program using the framework provided in the Policy Q Where can I obtain additional information and documents related to Policy?
+A Information and documents related to and including the Policy may be accessed using the following link:
+
+[page 15] A Information and documents related to and including the Policy may be accessed using the following link:
+http://www.waterboards.ca.gov/water_issues/programs/ust/lt_cls_plcy.shtml Links to the three Technical Justification documents (Direct Contact and Outdoor Air Exposure, Groundwater, and Vapor Intrusion) that detail the decisions and methodologies used to determine the criteria included in the
+
+[page 16] Page 16 of 16
+Policy can be found in the “Adoption Hearing” section found when accessing the link shown above.
+Q What process should be used to close a low-threat case that does not meet the Policy criteria?
+A Use Resolution No. 92-49 and relevant State Water Board Orders.
+Q Is it appropriate to re-open a petroleum UST release case that was closed pursuant to Policy criteria?
+A Yes, if site conditions have changed such that one or more of the Policy criteria is no longer satisfied, it is appropriate to re-open the case. This could occur when site use changes, additional data has been collected that changes the site conceptual model, or there is a new understanding of previously collected data.
+Q Does the Policy apply to military facilities?
+A Yes. The Policy applies to all petroleum UST cleanup sites subject to chapter 6.7 of division 20 of the Health and Safety Code and chapter 16 of division 3 of title 23 of the California Code of Regulations.
+Q What about other petroleum release scenarios?
+
+[page 16] Q What about other petroleum release scenarios?
+A While the Policy does not specifically address other petroleum release scenarios (i.e., pipelines or aboveground storage tanks), if a particular site with a different petroleum release scenario exhibits attributes similar to those that the Policy addresses, the criteria for closure evaluation of these non-UST petroleum release sites should be similar to those in the Policy.
+Q It seems that similar words are used interchangeably throughout the Policy. Do the terms “land,” “property,” and “parcels” mean the same thing? Do the terms “impacted” and “affected” mean the same as well?
+A The terms “land,” “property,” and “parcels” have differing meanings where written in the Policy, thus they are not interchangeable. The reader should pay close attention to the context in which those terms are used. However, “impacted” and “affected” do have very similar, if not the same, meanings.
+The reader can treat them as interchangeable but should carefully read the text of the Policy where these terms are used to ensure they are interpreted correctly.

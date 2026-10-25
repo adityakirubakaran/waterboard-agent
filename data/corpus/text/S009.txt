@@ -1,0 +1,226 @@
+PFAS: Per- and Polyfluoroalkyl Substances
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas.html
+Date printed: 08/17/2026
+
+## PFAS: Per- and Polyfluoroalkyl Substances > News and Announcements
+- Draft order to conduct initial monitoring for PFAS, available for public comment; comments due 12:00 p.m. (noon) on December 4, 2025 - November 19, 2025
+- Division of Drinking Water issues new and revised notification and response levels for perfluorooctanoic acid (PFOA), perfluorooctane sulfonate (PFOS), and perfluorohexane sulfonic acid (PFHxS) and perfluorohexanoic acid (PFHxA). – October 29, 2025
+- Claim Submittal Deadline for Phase One Special Needs Claims Forms for Tyco and BASF Settlements: August 21, 2025
+Any public water system considering submitting a Phase One Special Needs claims form for payment from the Tyco or BASF settlements regarding PFAS contamination must do so by August 21, 2025.
+Additional information is available at https://www.pfaswatersettlement.com
+Eligible public water systems may wish to consult with legal counsel to discuss this new deadline and ensure that any claims are timely submitted
+
+## PFAS: Per- and Polyfluoroalkyl Substances > News and Announcements
+- Division of Drinking Water initiated the process of revising notification and/or response levels for perfluorooctanoic acid (PFOA), perfluorooctane sulfonate (PFOS), and perfluorohexane sulfonic acid (PFHxS) and establishing a notification level and response level for perfluorohexanoic acid (PFHxA). – June 27, 2025
+- Notification Level and Response Level revisions have been initiated for PFOA, PFOS, and PFHxS – June 26, 2025
+- Division of Drinking Water requests OEHHA establish PHG for PFHxS – May 27, 2025
+- U.S. EPA Finalizes PFAS Primary Drinking Water Standards – April 10, 2024
+- Public Health Goals Adopted for PFOA and PFOS – April 5, 2024
+- General Order No. DW 2024-0002-DDW Requiring Monitoring for PFAS at Disadvantaged Communities – March 4, 2024
+- 2024 General Order for Per- and Polyfluoroalkyl Substances (PFAS) Monitoring in Public Water Systems – Frequently Asked Questions (FAQ)
+- Per- and Polyfluoroalkyl Substances (PFAS) Fact Sheet
+- Arabic
+- English
+- Farsi
+- French
+- Korean
+- Russian
+- Simplified Chinese
+- Spanish
+- Traditional Chinese
+- Vietnamese
+
+## PFAS: Per- and Polyfluoroalkyl Substances > News and Announcements
+- Vietnamese
+- General Order DW-2022-0001-DDW for Public Water System PFAS Monitoring issued by the Division of Drinking Water – October 31, 2022
+- Notification Level (3 ppt) and Response Level (20 ppt) for PFHxS issued by the Division of Drinking Water – October 31, 2022
+Per- and polyfluoroalkyl substances (PFAS) are a group of more than 14,000 human-made substances (U.S. EPA CompTox) that are not naturally occurring and are resistant to heat, water, and oil. Due to their unique chemistry, PFAS have been widely used as surface coatings and protectant formulations in consumer, commercial, and industrial products such as carpet, home textiles, clothing, food packaging, and non-stick cookware. PFAS have also been used for industrial applications, such as a surfactant in chrome plating and for emergency response applications, such as in firefighting foam. In typical conditions, PFAS are resistant to degradation and do not break down in the environment.
+
+## PFAS: Per- and Polyfluoroalkyl Substances > News and Announcements
+Exposure to PFAS may result in adverse health effects including developmental effects to fetuses during pregnancy, cancer, liver effects, immune effects, thyroid effects, and other effects (such as cholesterol changes). In several national studies, PFAS have been found in the blood serum of nearly all people tested.
+
+## PFAS: Per- and Polyfluoroalkyl Substances > Exposure and Occurrence
+PFAS has been detected in air, water, wastewater, fish, and soil worldwide. PFAS are especially present in and around manufacturing facilities that use or produce PFAS. Some PFAS are volatile and can be carried long distances through the air. PFAS have been detected in many parts of the world, including oceans and the Arctic, indicating that long-range transport is possible.
+People can be exposed to PFAS through food, food packaging, consumer products, house dust, and drinking water. Four major sources of PFAS in drinking water are fire training and response sites; industrial sites; landfills; and wastewater treatment plants and biosolids. Once in groundwater, PFAS can be easily transported large distances, tend to accumulate in groundwater, and can contaminate sources of drinking water. Contaminated drinking water has led to high levels of exposure to PFAS for some populations residing near manufacturing facilities that use or have used PFAS in their manufacturing process.
+More information about PFAS in non-drinking water, monitoring/occurrence maps, and other actions in California addressing PFAS can be found at the State Water Board's PFAS web portal.
+
+## PFAS Regulations for California Drinking Water > Public Health Goals and Maximum Contaminant Levels
+On April 10, 2024, the United States Environmental Protection Agency (U.S. EPA) announced final National Primary Drinking Water Regulation (NPDWR) for six PFAS, establishing legally enforceable Maximum Contaminant Levels (MCLs). The PFAS compounds PFOA, PFOS, PFHxS, PFNA, HFPO-DA (commonly known as GenX) are regulated as contaminants with individual MCLs. The PFAS compounds PFHxS, PFNA, PFBS, and HFPO-DA (GenX) are regulated as a PFAS mixture with a Hazard Index (HI) MCL. The regulation proposed by U.S. EPA will require public water systems to monitor for these PFAS, notify the public of the levels of these PFAS, and reduce the levels of these PFAS in drinking water if they exceed the standards.
+The Hazard Index is made up of a sum of fractions. Each fraction compares the level of each PFAS measured in the water to the highest level below which there is no risk of health effects. The Hazard Index MCL is set at 1 and applies to any mixture containing two or more of PFHxS, PFNA, PFBS, and HFPO-DA (GenX) is set at 1. For more information on the Hazard Index MCL, see U.S. EPA's Hazard Index MCL fact sheet.
+The timeline for rule implementation provided by U.S. EPA is as follows:
+
+## PFAS Regulations for California Drinking Water > Public Health Goals and Maximum Contaminant Levels
+The timeline for rule implementation provided by U.S. EPA is as follows:
+- Within three years of rule promulgation (2024 - 2027):
+- Initial monitoring must be complete
+- Starting three years following rule promulgation (2027 - 2029):
+- Results of initial monitoring must be included in Consumer Confidence Reports (i.e., Annual Water Quality Report)
+- Regular monitoring for compliance must begin, and results of compliance monitoring must be included in Consumer Confidence Reports
+- Public notification for monitoring and testing violations
+- Starting five years following rule promulgation (starting 2029):
+- Comply with all MCLs
+- Public notification for MCL violations
+For further information about this regulation and resources for both the general public and public water systems (including fact sheets, frequently asked questions, and communications toolkits), please see U.S. EPA's webpage for the Final PFAS National Primary Drinking Water Regulation.
+
+## PFAS Regulations for California Drinking Water > Public Health Goals and Maximum Contaminant Levels
+For California, the development of standards for PFOA, PFOS, PFHxS, PFNA, HFPO-DA (GenX), PFBS, and other PFAS are among the priorities of the Division of Drinking Water. Updates to the rulemaking process for PFAS in California will be posted at the PFAS MCL rulemaking record webpage.
+
+## PFAS Regulations for California Drinking Water > Public Health Goals and Maximum Contaminant Levels
+On April 5, 2024, the Office of Environmental Health and Hazard Assessment (OEHHA) adopted Public Health Goals (PHGs) for two PFAS: PFOA and PFOS. The PHG for PFOA is 007 nanograms per liter (ng/L) or parts per trillion (ppt). The PHG for PFOS is 1 ng/L or ppt. PHGs are established by OEHHA and are concentration of drinking water contaminants that pose no significant health risk, based on current risk assessment principles, practices, and methods. OEHHA establishes PHGs pursuant to HSC §116365(c) for contaminants with MCLs, and for those for which MCLs will be adopted. HSC §116365(a) requires a contaminant's MCL to be established at a level as close to its' PHG as is technologically and economically feasible, placing primary emphasis on the protection of public health. In this way, PHGs serve as the basis for the development of MCLs. In addition to the PHGs for PFOA and PFOS, the Division of Drinking Water has also requested that OEHHA include evaluations as to evaluate whether PFAS can be grouped together for regulatory purposes or based on specific characteristics or features of the chemicals.
+
+## PFAS Regulations for California Drinking Water > Public Health Goals and Maximum Contaminant Levels
+In May 2025, the Division of Drinking Water requested for OEHHA to establish a PHG for PFHxS.
+Abbreviation / Trade Name | Chemical name | Public Health Goal | Federal MCL | Federal MCLG
+ng/L (ppt) | Date Issued | ng/L (ppt) | Date Issued | ng/L (ppt) | Date Issued
+PFOA | Perfluorooctanoic acid | 0.007 | April 5, 2024 | 4.0 | April 2024 | Zero | April 2024
+PFOS | Perfluorooctane sulfonic acid | 1 | April 5, 2024 | 4.0 | April 2024 | Zero | April 2024
+PFHxS | Perfluorohexane sulfonic acid | -- | Requested | 10 | April 2024 | 10 | April 2024
+PFNA | Perfluorononanoic acid | -- | -- | 10 | April 2024 | 10 | April 2024
+HFPO-DA (GenX) | Hexafluoropropylene oxide dimer acid | -- | -- | 10 | April 2024 | 10 | April 2024
+PFBS | Perfluorobutane sulfonic acid | -- | -- | -- | -- | 2000 | April 2024
+Mixtures containing two or more of PFHxS, PFNA, HFPO-DA, and PFBS | -- | -- | 1 (unitless)
+Hazard Index | April 2024 | 1 (unitless)
+Hazard Index | April 2024
+
+## PFAS Regulations for California Drinking Water > Notification and Response Levels
+Notification levels (NLs) are nonregulatory, health-based advisory levels established for contaminants in drinking water for which MCLs have not been established. A response level (RL) is set higher than an NL and represents a recommended chemical concentration level at which water systems consider taking a water source out of service or provide treatment if that option is available to them. Starting in January 2020, water systems that receive a monitoring order and detect levels of PFAS substances that exceed the RL shall take a water source out of use, treat the water delivered, or provide public notification.
+When chemicals are found at concentrations greater than their NL and/or RL, certain requirements and recommendations apply. Statutory requirements for public notification are contained in HSC §116455. PFAS with NLs and RLs have additional requirements per HSC §116378. Further information can be found at the Notification and Response Levels webpage. Below is a summary of PFAS NLs and RLs issued, requested, or proposed.
+Abbreviation | Chemical name | Notification Level | Response Level | Date Issued / Status
+
+## PFAS Regulations for California Drinking Water > Notification and Response Levels
+Abbreviation | Chemical name | Notification Level | Response Level | Date Issued / Status
+PFOA | Perfluorooctanoic acid | 4.0 ng/L | 10 ng/L | October 29, 2025
+PFOS | Perfluorooctane sulfonic acid | 4.0 ng/L | 40 ng/L | October 29, 2025
+PFBS | Perfluorobutane sulfonic acid | 500 ng/L | 5,000 ng/L | March 5, 2021
+PFHxS | Perfluorohexane sulfonic acid | 3.0 ng/L | 10 ng/L | October 29, 2025
+PFHxA | Perfluorohexanoic acid | 1.0 µg/L | 10 µg/L | October 29, 2025
+PFHpA | Perfluoroheptanoic acid | -- | -- | Requested
+
+## PFAS Monitoring and Results for Drinking Water > PFAS General Order for Initial Monitoring
+The Division of Drinking Water has published a draft monitoring order pursuant to Health and Safety Code section 116530 and Health and Safety Code 116378. This monitoring order requires community water systems and non-transient non-community water systems to conduct monitoring and reporting for per and polyfluoroalkyl substances (PFAS). Systems that complete the monitoring required by the order will also fulfill the requirements for initial monitoring found in the PFAS National Primary Drinking Water Regulation, promulgated by U.S. EPA on April 26, 2024. More information can be found at the PFAS DDW General Order webpage.
+The Division Deputy Director will consider comments received prior to issuing the final Order later this year. Persons interested in providing written comments on the proposed order are encouraged to submit comments electronically. To be considered prior to issuance of the final Order, comments must be received by 12:00 p.m. (noon) on December 3, 2025. Comments may be submitted electronically via email to commentletters@waterboards.ca.gov. Please indicate in the subject line: “Comment – 2025 Order for Initial PFAS Monitoring.”
+
+## PFAS Monitoring and Results for Drinking Water > Accredited Laboratory Survey
+In October 2024, the Division of Drinking Water (DDW) surveyed 34 laboratories accredited by DDW's Environmental Laboratory Accreditation Program (ELAP) for EPA Method 533 and/or EPA Method 537.1. Each laboratory was asked to identify the following:
+- Capability: Minimum reporting level (MRL) for 7 different PFAS, including ability to detect at U.S. EPA's Practical Quantitation Levels (PQLs)
+- Capacity: Number of analyses able to be performed per month;
+- Cost: Cost per analysis;
+- And more.
+20 laboratories responded to the survey: 14 commercial laboratories and 6 municipal laboratories. Of the responding laboratories: 17 laboratories were accredited for both EPA Method 533 and EPA Method 537.1, 2 laboratories were accredited for EPA Method 533, and 1 laboratory was accredited for EPA Method 537.1. Survey responses are summarized below:
+
+## Accredited Laboratory Survey > Lab-reported MRLs for 7 PFAS using EPA Method 533 (ng/L)
+19 Responses | PFOA | PFOS | PFHxS | PFNA | HFPO-DA | PFBS | PFHxA
+U.S. EPA's PQL | 4.0 | 4.0 | 3.0 | 4.0 | 5.0 | 3.0 | 3.0
+U.S. EPA's Trigger Levels | 2.0 | 2.0 | 5 | 5 | 5 | -- | --
+Lowest MRL | 1.0 | 0.80 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+25th Percentile MRL | 2.0 | 1.9 | 1.8 | 2.0 | 2.0 | 1.8 | 2.0
+50th Percentile MRL | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0
+75th Percentile MRL | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0
+Highest MRL | 2.0 | 2.0 | 2.0 | 2.0 | 4.0 | 2.0 | 2.0
+
+## Accredited Laboratory Survey > Lab-reported MRLs for 7 PFAS using EPA Method 537.1 (ng/L)
+18 Responses | PFOA | PFOS | PFHxS | PFNA | HFPO-DA | PFBS | PFHxA
+U.S. EPA's PQL | 4.0 | 4.0 | 3.0 | 4.0 | 5.0 | 3.0 | 3.0
+U.S. EPA's Trigger Levels | 2.0 | 2.0 | 5 | 5 | 5 | -- | --
+Lowest MRL | 0.50 | 0.63 | 0.61 | 0.50 | 0.77 | 0.63 | 0.50
+25th Percentile MRL | 1.0 | 1.4 | 1.4 | 1.1 | 2.0 | 1.3 | 1.2
+50th Percentile MRL | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0
+75th Percentile MRL | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0
+Highest MRL | 2.0 | 2.0 | 2.0 | 2.0 | 4.0 | 2.0 | 2.0
+
+## Accredited Laboratory Survey > Lab-reported capacity and costs ($2024)
+20 Responses | EPA Method 533 | EPA Method 537.1
+Capacity
+Total Number of Analyses per Month* | 11,195 | 13,045
+Average Number of Analyses per Month per Laboratory | 589 | 725
+Median Number of Analyses per Month per Laboratory | 400 | 450
+Cost
+Average Cost per Analysis | $334 | $274
+Median Cost per Analysis | $300 | $268
+Frequency-Weighted Average Cost per Analysis | $334 | $274
+* Lab-reported capacities are not inclusive. Reported capacities assume that a lab will run Method 533 or Method 537.1, but not both.
+
+## PFAS Monitoring and Results for Drinking Water > Fifth Unregulated Contaminant Monitoring Rule (UCMR5)
+On December 27, 2021, U.S. EPA published UCMR5 to Title 40 of the Federal Register (40 CFR, Part 141). UCMR5 requires public water systems to perform sample collection and analysis for 30 chemical contaminants (29 PFAS and lithium) between January 2023 and December 2025. The goal of UCMR5 is to provide scientifically valid data on the national occurrence of these contaminants in drinking water. All public water systems serving more than 10,000 people (i.e., large systems) will monitor; all public water systems serving 3,300 to 10,000 people; and a representative sample of 800 randomly selected public water systems serving fewer than 3,300 people will monitor pursuant to UCMR5. U.S. EPA is responsible for all analytical costs associated with UCMR5 compliance at systems serving fewer than 10,000 people.
+Sample analysis is required to be performed by laboratories approved by U.S. EPA for UCMR5. A list of laboratories approved for UCMR5 can be found on U.S. EPA's website. The analytical methods to be used for UCMR5 PFAS analysis are EPA Method 533 and EPA Method 537.1. UCMR5 contains all 29 PFAS that are within the scope of EPA Method 533 and EPA Method 537.1.
+
+## PFAS Monitoring and Results for Drinking Water > Fifth Unregulated Contaminant Monitoring Rule (UCMR5)
+Sample collection and analysis began January 2023. When available, data collected for UCMR5 will be hosted at the UCMR Occurrence Data Webpage on U.S. EPA's website. All systems that monitor under UCMR5 are required to notify their customers of the availability of UCMR5 results no later than 12 months after results are known. Community water systems are also required to report UCMR5 results at or above the minimum reporting level in their annual Consumer Confidence Report (CCR). For more information regarding UCMR5 including an overview fact sheet, the list of contaminants, minimum reporting levels, rule text, reporting requirements: US EPA's UCMR5 Webpage.
+
+## PFAS Monitoring and Results for Drinking Water > Division of Drinking Water General Monitoring Orders
+Assembly Bill 756 (2019-Garcia), approved by the Governor on July 31, 2019, and codified as HSC §116378, authorizes the State Water Board to issue orders requiring public water systems to monitor for PFAS. Since 2020, the Division of Drinking Water has issued several general monitoring orders to public water systems in California. It is required by HSC §116378 that if monitoring results in a confirmed detection, then a water system must report that detection in the annual Consumer Confidence Report (CCR). Additional requirements and information regarding PFAS general orders issued by the Division of Drinking water can be found at the PFAS DDW General Order webpage.
+On March 4, 2024, The Division of Drinking Water issued General Order DW-2024-0002-DDW pursuant to HSC §116378. More information including order text, list of systems/sources for monitoring, and analyte list can be found at the PFAS DDW General Order webpage.
+
+## PFAS Monitoring and Results for Drinking Water > Division of Drinking Water General Monitoring Orders
+On October 31, 2022, The Division of Drinking Water issued General Order DW-2022-0001-DDW pursuant to HSC §116378 for the monitoring of 25 PFAS at drinking water system sources that are at risk for potential contamination by PFAS due to proximity with other water sources known to have confirmed PFAS detections. The order was issued for 1,296 sources belonging to 384 public water systems. Sample collection and analysis is to be conducted quarterly, beginning with the first calendar quarter of 2023, and continuing until further notice. Sample analysis is to be performed using EPA Method 533. Public water systems ordered to monitor under DW-2022-0001-DDW received or will receive direct communication regarding their compliance. No action is required of public water systems that did not receive direct communication regarding the order or were not named in the order. More information including order text, list of systems/sources for monitoring, and analyte list can be found at the PFAS DDW General Order webpage.
+
+## PFAS Monitoring and Results for Drinking Water > Division of Drinking Water General Monitoring Orders
+The Division of Drinking Water has issued PFAS General Monitoring Orders on two previous occasions: General Order DW-2021-0001-DDW and General Order DW-2020-0003-DDW. The monitoring for those orders is complete, and the orders have since been rescinded. For more information, see the PFAS DDW General Order webpage.
+On March 2019, the Division of Drinking Water issued HSC §116400 Orders to 600 water system sites. Nearly 250 locations in the vicinity of airports with fire training and response areas, and municipal solid waste landfills are being reported to the State Water Boards for four consecutive quarters. Resulting dataset of this monitoring can be found at this file: pfas_monitoring_Q1Q2Q3Q4.xlsx.
+
+## PFAS Monitoring and Results for Drinking Water > Third Unregulated Contaminant Monitoring Rule (UCMR3)
+On May 2, 2012, U.S. EPA published UCMR3 to the Federal Register (40 CFR, Parts 141 and 142). UCMR3 required the sample collection and analysis of 30 drinking water contaminants, six of which were PFAS, between January 2013 and December 2015. All public water systems serving more than 10,000 people and a representative sample of 800 public water systems serving 10,000 or fewer people were subject to monitoring for 21 List 1 contaminants, including the 6 PFAS contaminates, pursuant to UCMR3. Sample analysis was conducted using EPA Method 537, Rev. 1.1 by EPA approved laboratories. At that time, the lowest concentration minimum reporting levels established by U.S. EPA for PFOS and PFOA were 6.5 ng/L and 5.1 ng/L, respectively.
+Monitoring under UCMR3 is complete and all results have been published. No action regarding UCMR3 is required of public water systems at this time. The resulting data is hosted at the UCMR Occurrence Data Webpage on U.S. EPA's website. A summary of UCMR3 results for PFOA PFOS and PFOA in California can be found at this file: UCMR3_CA_Summary_Data_for_PFOS_and_PFOA.xlsx
+
+## PFAS Monitoring and Results for Drinking Water > Third Unregulated Contaminant Monitoring Rule (UCMR3)
+For more information regarding UCMR3 including an overview fact sheet, the list of contaminants, minimum reporting levels, rule text, reporting requirements: US EPA's UCMR3 Webpage.
+Resources for Water Systems
+- U.S. EPA's webpage for the Final PFAS National Primary Drinking Water Regulation
+- Notification and Response Levels
+- Templates for Public Notification
+- Consumer Confidence Reports (Instructions)
+- UCMR5 (Fifth Unregulated Contaminant Monitoring Rule) - EPA webpage
+- UCMR5 Overview Fact Sheet
+- EPA Approved Laboratories for UCMR5
+- DDW PFAS General Monitoring Orders
+- HSC §116378 (AB 756)
+- Frequently Asked Questions: AB 756
+- Monitoring and Results
+- Frequently Asked Questions: Per- and Poly-fluoroalkyl Substances (PFAS) Water Monitoring
+- Drinking Water Sample Collection for PFAS - Sampling Guidance, Revised November 2022
+- Laboratories Accredited to Analyze for PFAS in Drinking Water
+- PFAS Funding Assistance for Water Systems
+- Per- and Polyfluoroalkyl Substances (PFAS) Funding - Grants and Loans | State Water Board Division of Financial Assistance
+- Emerging Contaminants (EC) in Small or Disadvantaged Communities Grant (SDC) | US EPA
+
+## Stay informed > Join the Mailing List
+Subscribe to the Drinking Water Program Announcements email topic to receive notifications and the latest updates.
+Contact Us
+State Water Resources Control Board
+Division of Drinking Water
+Regulatory Development Unit
+Mailing Address:
+P.O. Box 100
+Sacramento, CA 95812-0100
+Street Address:
+1001 I Street
+Sacramento, CA 95814
+E-mail us at DDWRegUnit@waterboards.ca.gov.
+(Page last updated 08/17/2026)
+
+## Contact Us > Drinking Water Resources
+- California Laboratory Intake Portal (CLIP)
+- Contaminants in Drinking Water
+- Consolidation and Extension of Service
+- COVID-19 Drinking Water
+- Cyanobacteria/Cyanotoxins in Drinking Water
+- Consumer Confidence Reports (CCRs)
+- Drinking Water Branch Districts
+- Drinking Water Supply Service Area Lookup Tool
+- Drinking Water Watch Database
+- Electronic Annual Reports (EAR)
+- Environmental Laboratory Accreditation Program (ELAP)
+- Funding for Public Water Systems
+- Information for Public Water Systems
+- Notification and Response Levels
+- Operator Certification - Drinking Water
+- Permits
+- PFAS: Per- and Polyfluoroalkyl Substances
+- Public Notification Templates
+- Public Safety Power Shutoff and Wildfire Info
+- Public Water System Monitoring Schedules
+- Regulations and Statutes
+- Residential Water Treatment Devices
+- Safe Drinking Water Plan for California
+- SAFER Drinking Water
+- Water Quality Data

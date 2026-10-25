@@ -1,0 +1,262 @@
+Acceptable Technical Topics
+https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/acceptable-technical-topics.pdf
+Date printed: none found
+
+[page 1] Rev. 2/2026
+Acceptable Continuing Education Topics
+A “Continuing Education Course” is a presentation that transmits information related to the operation of a water treatment facility and/or distribution system. All classes, presentations and meetings must be a minimum of 50 minutes long. Multiple short classes over different days cannot be added together to equal one contact hour. Classes must be drinking water related;
+general education classes are not acceptable. Wastewater classes are not acceptable.
+Below is a list of Acceptable Technical Topics. This list is not complete but is representative of topics that have been reviewed and approved.
+A
+AC Pipe Cutting and Installation
+Accident Investigation
+Activated Charcoal
+Advanced Metering Infrastructure (AMI)
+Advanced Oxidation
+Air Valves
+Algae Bloom
+Alkalinity
+Appurtenances
+Aquifers
+ArcGIS (Drinking Water Related)
+Arsenic
+Asbestos Cement Pipe
+Aquifer Storage/Recovery (ASR)
+Asset Management
+Automated Meter Reading (AMR
+B
+Backflow Tester or Refresher Class
+Bacteriological Diseases
+Bloodborne Pathogens
+Blue Book
+Board Member and Owner Responsibilities
+Budget and Rate Settings
+Building Evacuation and Response
+C
+
+[page 1] C
+California Environmental Quality Act (CEQA)
+Canals
+Capital Improvement Plans
+Cathodic Protection
+CGP/QSP Storm Water
+Chemical Contaminants
+Chemical Feeders
+Chemical Inventories – Drinking Water
+Chloramination
+Chlorine Chemistry
+Chlorine Usage, Dosing, and Analysis
+Chromium 6 (CrVI)
+Cla-Val
+Clamps
+Clarifiers – Drinking Water
+Clear Wells
+Coagulation
+Code of Federal Regulations (CFR)
+Colorimeter
+Competent Person Training
+Consumer Confidence Reports (CCR)
+Corrective Preventive Maintenance for Water (CPM)
+Corrosion Control
+Couplings
+
+[page 2] Acceptable CE Topics (cont’d)
+Rev. 2/2026
+Cross Connection Control
+Cryptosporidium Contaminants
+CT Calculations
+Cured in Place Pipe (CIPP)
+Customer Service for water customers
+Cyber Security (Drinking Water related)
+D
+Desalination
+Disaster Preparedness and Response
+Disease Control
+Disinfection
+Disinfection Byproduct Rule (DBP)
+Distribution Control Systems (DCS)
+Distribution Materials
+Distribution System Design
+Direct Potable Reuse (Direct Potable Reuse)
+Double Containment
+Drawdown
+Drought
+E
+Electric Motors
+Electrical Troubleshooting and Maintenance
+Electricity (basic course only)
+Electrodialysis
+Emergency Operations/Response
+Emerging Contaminants
+EPA Regulations
+Ethics for the Water Industry
+Exam Review
+Excavation – Competent Person
+F
+FEMA Incident Command System
+Field Book Basics
+Filters and Filtration
+Fittings
+Flanges
+Flash Mixing
+Flocculation
+Fluoridation Techniques
+Flushing
+Freshwater Sludge
+Funding Sources – Financial Management
+G
+Giardia Parasitic Disease Global Positioning System (GPS)
+Groundwater Rule (GWR)
+H
+Hach Colorimeter
+Headworks Screening Handling System
+Heterotrophic Plate Count
+High Rate Clarifiers
+Hydrants
+Hydraulic Grade Line (HGL)
+Hydrologic Cycle
+Hydrologist
+
+[page 2] Hydrologist
+Hydrolysis
+Hypochlorination
+Hypochlorinators
+I
+Ice Pigging
+Incident Command System (ICS) Crisis Mgmt
+Incident Response
+Indirect Potable Reuse (IPR)
+Infectious Disease Control
+Ion Exchange
+Iron and Manganese Control
+J
+Jar Tests
+
+[page 3] Acceptable CE Topics (cont’d)
+Rev. 2/2026
+L
+Lead and Copper Rule (LCR)
+Leak Detection
+Lead Service Line Inventory Requirements
+Lubrication for Pumps and Motors
+M
+Management (presented by water utility; not generic)
+Maps
+Maximum Contaminant Level Goal (MCLG)
+Maximum Contaminant Levels (MCL)
+Membrane Filtration
+Meter Reading
+Microbial Contaminants – Giardia, Cryptosporidium
+Microfiltration (MF)
+Motors/Pumps
+N
+National Incident Management System (NIMS)
+Nitrates/Nitrites
+Nitrification
+NPDES Water Regulations
+O
+Operation Maintenance
+Osmosis
+Ozone Disinfection
+P
+Polychlorinated Biphenyl (PCB)
+PFAS Treatment Technologies, Monitoring
+and Compliance
+Pipe Repair/Joining/Tapping
+Potable Water Treatment Plant (PWTP)
+Preventive Maintenance (PM)
+Pressure Pipes
+Programmable Logic Controller (PLC)
+Project Management for Water Operators
+Public Relations for the Water Industry
+Pump Curves
+Pumps/Motors
+Q
+Quagga Mussel
+R
+Rate Settings
+Recycled Water Regulations
+Recycled Water Shutdown Test
+Regulation Review
+Remote Automation
+Reservoir Stratification
+Reservoirs and Storage Facilities
+Reverse Osmosis (RO)
+Rules and Regulations
+S
+Safe Drinking Water Act (SDWA)
+Sanitary Survey
+Scaffold – Competent Person
+
+[page 3] Scaffold – Competent Person
+Security - Cyber
+Sedimentation
+Service Tapping
+Shoring – Competent Person
+Site Visits
+SOOM Mechanical Valving
+Standardized Emergency Management System
+(SEMS)
+Storm Water (SW) Compliance
+Storm Water Pollution Prevention
+Supervisory Control and Data Acquisition – Remote
+Automation (SCADA)
+
+[page 4] Acceptable CE Topics (cont’d)
+Rev. 2/2026
+T
+Tanks and Tank Coatings
+Tapping
+Taste and Odor Controls
+Terrorism Response
+Thermal Imaging
+Title 22
+Technical, Managerial, Financial (TMF) Capacity of a Water System
+Tool Maintenance
+Total Coliform Rule (TCR)
+Tours of Water Facilities
+Trenching – Competent Person
+Trenching & Excavating (1 class)
+Trenching & Shoring (1 class)
+Trihalomethane (THM) Removal
+Turbidity
+Turbidity Meters
+U
+Ultraviolet (UV) Disinfection
+Ultraviolet (UV) Light Basics
+Ultraviolet (UV) Oxidation
+Unaccounted For Water (UFW)
+Underground Utility Location
+Unregulated Contaminant Monitoring Rule (UCMR)
+Utility Billing
+V
+Valves
+Variable Frequency Drives (VFD)
+Vibration Monitoring
+Vulnerability Self Assessment Tool (VSAT)
+W
+Water Audits
+Water Biology
+Water Chemistry
+Water Conservation
+Water Health and Economic Analysis Tool (WHEAT)
+Water Loss Management
+Water Main Flushing
+Water Main Installation
+Water Math (Treatment/Distribution specific)
+Water Quality and Monitoring
+Water Sampling
+Water Softening
+Water Storage Tanks
+Water Survey
+Water Use Efficiency
+Watershed
+WD/WT Exam Reviews
+WD/WT Refresher
+WD/WT College Courses
+Wells and Well Design
+Wildfire Impact on Water Systems
+
+[page 4] Wildfire Impact on Water Systems
+Z
+Zinc Orthophosphate (ZOP)

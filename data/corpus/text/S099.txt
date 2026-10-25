@@ -1,0 +1,64 @@
+National Pollutant Discharge Elimination System (NPDES)
+https://www.waterboards.ca.gov/water_issues/programs/npdes/individual_permits.html
+Date printed: 1/17/24
+
+## National Pollutant Discharge Elimination System (NPDES) > Overview
+An individual permit is a permit specifically tailored to an individual facility. After receipt of a complete application, the permitting authority develops a permit for a particular facility based on the information contained in the application (e.g., type of activity, nature of discharge, receiving water quality). The permitting authority issues the permit to the facility for an effective period not to exceed five years. The discharger must reapply at least 180 days prior to the expiration date. The Regional Water Boards issue most of the individual permits in California. The State Water Board issues general permits that apply statewide and individual permits on a few occasions.
+Quick Links: Permitting Process | Applying for a New NPDES Permit | Renewing an NPDES Permit | Permit Modifications | Permit Rescission
+
+Note: See the Stormwater Program page for Stormwater programs, permits, fees, database, and report information.
+
+## National Pollutant Discharge Elimination System (NPDES) > Permitting Process
+The process begins when a discharger submits an application to the appropriate Water Board. Among other things, the application must describe the wastes to be discharged, the setting for the discharge, and the method of treatment or containment. Once the application is deemed complete, the Water Board staff will draft a permit, which must be adopted by the Water Board before any discharge can occur.
+The specific steps to obtain an NPDES permit are as follows:
+- File the appropriate NPDES application forms with the Water Board.
+- Water Board staff reviews the application for completeness and may request additional information.
+- Staff determines if the discharge is to be permitted or prohibited. If a permit is needed and the application is deemed complete, staff prepares a draft and sends out a notice for a 30-day public comment period.
+- The discharger must publish the public notice for one day in the largest circulated paper in the municipality or county where the discharge will occur, and submit proof of posting or publication to the Water Board within 15 days after posting or publication.
+
+## National Pollutant Discharge Elimination System (NPDES) > Permitting Process
+- The Water Board holds a public hearing after the 30-day public notification. The Water Board may adopt the permit as proposed or with modification, or not adopt it at all. A majority vote of the Water Board members is required to adopt the permit. U.S. EPA has 30 days to object to the adopted permit. The Water Board must address the objection before the permit becomes effective on the specified effective date.
+The permit issuance process takes approximately six months, but may take longer depending upon the nature of the discharge.
+
+## National Pollutant Discharge Elimination System (NPDES) > Applying for a New Individual NPDES Permits
+An NPDES permit is issued under both state and federal laws. Therefore, dischargers are required to complete several permit applications forms. They are also required to submit a fee with the application forms..
+
+## State Application Form > Report of Waste Discharge
+A Report of Waste Discharge (ROWD) pursuant to Section 13260 of the California Water Code is required for all new discharges. Section 13260 states that any person discharging or proposing to discharge waste that could affect the quality of the waters of the state, other than into a community sewer system, shall file an ROWD containing information that may be required by the specific Water Boards.
+
+The ROWD is to be used to start the application process for NPDES permits issued by the Water Boards except:
+- General NPDES permits that use a Notice of Intent to comply or that specify the use of an alternative application form (see NPDES General Permits list)
+
+## State Application Form > The ROWD contains:
+- Application/General Information Form for WDRs and NPDES Permits - Form 200 (PDF)
+- Questions & Answers (MS Word)
+Additional Information Requirements
+In addition to Form 200, the discharger must submit a technical report that thoroughly characterizes the discharge and is signed and certified by a registered civil engineer. Please contact Water Board staff for a list of information to include in the technical report.
+
+## Applying for a New Individual NPDES Permits > Permit Fees
+All discharges regulated under NPDES permits must pay a fee that includes a surcharge. Dischargers applying for reissuance (renewal) of an existing NPDES permit will be billed through the fee billing system and SHOULD NOT submit the fee with their ROWD. New dischargers must pay the first permit fee along with their application. However, they SHOULD NOT pay their first fee until requested to do so by Water Board staff who will notify them of the fee amount based on an evaluation of their proposed discharge.
+- California Code of Regulations (Fee Schedule) - NPDES Permits
+- Surcharges
+
+## Applying for a New Individual NPDES Permits > Federal NPDES Application Forms
+Persons seeking to obtain NPDES permits will need to apply using one or more of the following federal NPDES permit application forms:
+- Form 1 General information completed in conjunction with Forms 2B, 2C, 2D, 2E, 2F, 2S Standard Form 2A
+- Form 2A Publicly-Owned Treatment Works
+- Form 2B Concentrated animal feeding operations and aquatic animal production facilities. New applications or renewals
+- Form 2C Existing manufacturing, commercial, mining, and silvicultural operations (including federal facilities)
+- Form 2D New manufacturing, mining, commercial and silvicultural operations.
+- Form 2E New applications or renewals of non-manufacturing facilities, trailer parks, service stations, laundromats, commercial facilities, etc.
+- Form 2F Storm water discharges associated with industrial activity.
+- Form 2S
+
+## National Pollutant Discharge Elimination System (NPDES) > Renewing an NPDES Permit
+As stated above, NPDES permits have a effective term of five years and expire thereafter. They are typically reissued every five years or less. During the reissuance process the discharger must comply with all conditions of the existing permit until a new final permit is reissued.
+
+## National Pollutant Discharge Elimination System (NPDES) > Permit Modification, Revocation, and Reissuance
+In a permit modification, only the conditions subject to change are reconsidered while all other permit conditions remain in effect. However, the entire permit may be reconsidered when it is revoked or reissued.
+There are two classifications of modifications: major and minor. From a procedural standpoint, they differ primarily with respect to the public notice requirement. Major modifications require a public notice; minor modifications do not.
+Section 122.62(a) of 40 C.F.R. provides the causes for major modifications of a permit. Section 122.62(b) of 40 C.F.R. provides the causes for revocation and reissuance of a permit. Section 122.63 of 40 C.F.R. specifies the modifications to a permit that are considered minor.
+
+## National Pollutant Discharge Elimination System (NPDES) > Permit Rescission
+A discharger no longer needing a permit should submit a request to the Water Board that issued the permit to have the permit rescinded. The request should include the permit number, name and address of the facility, facility owner/operator, and reason for the rescission.
+(Page last updated 1/17/24)

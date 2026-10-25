@@ -1,0 +1,129 @@
+Reciprocity Addendum – CA-Specific Requirements (Part C)
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/docs/applications/elap-reciprocity-application-c.pdf
+Date printed: none found
+
+[page 1] State Water Resources Control Board
+CALIFORNIA-SPECIFIC REGULATORY REQUIREMENTS
+APPLICATION ADDENDUM (PART C)
+Environmental Laboratory Accreditation Program
+This application addendum is for use by laboratories geographically located outside of California seeking accreditation by reciprocity under the California Environmental Laboratory Accreditation Act (Health & Saf. Code, division 101, part 1, chapter 4, commencing with section 100825). This addendum must be completed for PART C of the Application for Reciprocity Accreditation.
+Directions: Fill in the column “SOP or QM §” with the location in the laboratory’s quality system documents that each requirement can be found. Sections may not be left blank and must be filled in with either a reference to the SOP or quality manual section or N/A for requirements that do not apply to the application.
+Subpart 1: All laboratories MUST complete the following table.
+§ 64814.00 Notification and Reporting SOP or QM §
+§ 64814.00
+(a)
+Does the laboratory document any additional State
+Regulatory Agencies or federal agencies reporting
+requirements?
+§ 64814.00
+(b)
+Does the Quality Manual, or referenced document,
+
+[page 1] Does the Quality Manual, or referenced document,
+identify that if an analytical result warrants a client notification, then the notification shall occur after the Technical Manager, or designee, has approved of the result?
+§ 64814.00
+(h)(1)
+Does the laboratory report to its clients in accordance with 2016 TNI V1M2 § 5.10?
+§ 64814.00
+(n)(1)
+Does the laboratory’s record system comply with 2016 TNI V1M2 § 4.13?
+§ 64808.10
+(g)
+If the laboratory is notified of Suspension or
+Revocation of its Primary Accreditation Body’s
+certificate, the laboratory shall:
+(1) Cease all reporting of results for Regulatory
+Purposes; and (2) Notify ELAP within ten (10) days of the notification of Suspension or Revocation.
+
+[page 2] Page 2 of 4
+SWRCB 244 (Rev. 10/2025) California Specific Regulatory Requirements Application Addendum (Part C)
+Subpart 2: Laboratories Applying for Drinking Water Fields of Accreditation (Requesting Any FOA in Tables 101, 102, 103, 104, 105, 106, and/or 129), must fill in the following table.
+Reference California Drinking Water Specific Requirement SOP or QM § § 64814.00
+(j)
+For laboratories testing for bacteria in drinking water, does the laboratory report the results consistent with DDW requirements?
+[ref. 22 CCR § 64423.1(c)(2) & (c)(3)]
+§ 64814.00
+(k)
+For laboratories performing chemical, radiological and microbiological analyses on drinking water samples, does the laboratory report the results consistent with the DDW requirements? [ref. 22 CCR § 64814.00(k)(1) & (2)] § 64814.00
+(l)
+Are drinking water results provided to the DDW before the 10th of the month after completion of analysis?
+§ 64814.00
+(c)
+Does the Quality Manual, or referenced document, detail procedures when client notification is required?
+§ 64814.00
+(c)(1)(A)
+Are clients notified in 24 hours when the presence of total or fecal coliforms, or E. coli is confirmed?
+§ 64814.00
+(c)(1)(B)
+
+[page 2] (c)(1)(B)
+Are clients notified in 24 hours when a bacterial sample cannot be reported and must be invalidated due to
+interference? [ref. 22 CCR § 64425(b)]
+§ 64814.00
+(c)(1)(C)
+Are clients notified in 24 hours when a nitrate sample exceeds the MCL?
+§ 64814.00
+(c)(1)(D)
+Are clients notified in 24 hours when a chlorite sample result collected at the entry point of a water distribution system exceeds the MCL?
+§ 64814.00
+(c)(2)(A)
+Are clients notified in 48 hours when a perchlorate sample result exceeds the MCL?
+§ 64814.00
+(c)(2)(B)
+Are clients notified in 48 hours when a chlorine dioxide sample result exceeds the MRDL?
+§ 64814.00
+(c)(2)(C)
+Are clients notified in 48 hours when a chlorite sample result exceeds the MCL?
+§ 64814.00
+(d)
+Does the Quality Manual, or referenced document, detail procedures to contact the DDW when clients cannot be contacted directly within the required timeframes?
+§ 64814.00
+(f)(2)(E)
+When drinking water samples are subcontracted, does the laboratory provide the required notification for drinking water testing, unless there is an arrangement in writing that the subcontractor will provide the required notification?
+
+[page 3] Page 3 of 4
+SWRCB 244 (Rev. 10/2025) California Specific Regulatory Requirements Application Addendum (Part C)
+Reference California Drinking Water Specific Requirement SOP or QM § § 64814.00
+(e)
+Does the Quality Manual, or referenced document, detail procedures when a water supplier requests invalidation of samples, after reporting the results to the DDW, due to laboratory accident or error, including: [(1) – (6)] § 64814.00
+(e)(1)
+A letter from the Technical Manager to the water supplier confirming the laboratory accident or error and agreeing to the invalidation request
+§ 64814.00
+(e)(2)
+Complete sample identification, laboratory sample log number (if used), date and time of collection, date and time of receipt by the laboratory, date and time of analysis for the sample(s) in question
+§ 64814.00
+(e)(3)
+Complete description of the error alleged to have
+invalidated the result(s)
+§ 64814.00
+(e)(4)
+Copies of all analytical, operating, and quality assurance records pertaining to the incident in question
+§ 64814.00
+(e)(5)
+Any observations noted by laboratory personnel when receiving and analyzing the sample(s) in question
+§ 64814.00
+(e)(6)
+
+[page 3] (e)(6)
+A corrective action plan that contains a root cause analysis of the laboratory accident or error, the corrective actions that will take place, and the date the finding(s)
+will be corrected.
+Disclaimer: This application required checklist does not change, substitute, or address every legal requirement. The obligations of the regulated community are determined by the relevant statutes and regulations.
+
+[page 4] Page 4 of 4
+SWRCB 244 (Rev. 10/2025) California Specific Regulatory Requirements Application Addendum (Part C)
+State Water Resources Control Board Privacy Notice on Collection Civil Code section 1798.17 requires a Privacy Notice on Collection to be provided when personal information is collected. Individuals have the right to review personal information maintained by the State Water Resources Control Board unless access is exempted by law. You may review your records by contacting the official responsible for maintaining your information below. We will not disclose your personal information unless authorized by law. To learn more about our Privacy Policy, visit waterboards.ca.gov/privacy.html.
+Authority for Collection of Personal Information
+ELAP collects the information requested on this form under the authority of the Environmental Laboratory Accreditation Act, Health & Safety Code sections 100825– 100875.
+
+[page 4] ELAP collects the information requested on this form under the authority of the Environmental Laboratory Accreditation Act, Health & Safety Code sections 100825– 100875.
+Principal Purpose for Which the Information Collected is to Be Used The information will be used by the State Water Resources Control Board and its programs to administer program requirements, verify compliance with applicable statutes and regulations, and evaluate applications, permits, or submissions relevant to program responsibilities. This includes ensuring compliance with applicable laws, supporting program operations, and maintaining the integrity and reliability of services provided through ELAP.
+Consequences of Not Providing Any or All Parts of the Requested Information All requested information is mandatory unless otherwise specified. Failure to provide the required information may delay processing, result in inability to evaluate the application, or prevent the laboratory from receiving accreditation.
+Please do not include any personal information that is not requested.
+
+[page 4] Please do not include any personal information that is not requested.
+Known or Foreseeable Disclosures of Personal Information Personal information may be shared with other units or state departments for the purposes of program administration, compliance verification, or as otherwise required under California law. Information may also be shared with other state or federal agencies for accreditation, regulatory, or enforcement purposes.
+Official Responsible for Maintenance of Information Christine Sotelo, ELAP Manager
+Contact Information for Responsible Official
+1001 I St.
+Sacramento, CA 95814
+(916) 323-3431

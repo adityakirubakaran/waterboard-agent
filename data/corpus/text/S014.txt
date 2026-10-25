@@ -1,0 +1,61 @@
+Cross-Connection Control Policy Handbook
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/cccph.html
+Date printed: 08/28/2026
+
+## Cross-Connection Control Policy Handbook > Policy Handbook Updates
+The Cross-Connection Control Policy Handbook (CCCPH) took effect July 1, 2024. A FAQ dated June 27, 2025 is posted on the Guidance Documents.
+The State Water Board adopted a revised version of the CCCPH on, April 21,2026, which corrected references to accrediting entities and permits the use of some existing protections for auxiliary water supplies. The following are an updated CCCPH and log of all changes made:
+- April 2026 Cross-Connection Control Policy Handbook (Word)(pdf)
+- April 2026 Change Log (Word)(pdf)
+The Cross-Connection Control Committee has released the following guidance document on the fire sprinkler requirements in the CCCPH.
+- Guidance Memorandum on Fire Protection Systems, dated September 5, 2025 (pdf)
+The Committee has released four Cross-Connection Control Plan (CCC Plan) templates, one for transient noncommunity water systems, one for nontransient noncommunity water systems, and two for small community water systems with less than 1,000 connections. The Committee has also prepared a training video on the CCCPH for water systems and stakeholders, linked below under Other Guidance Documents.
+
+## Cross-Connection Control Policy Handbook > Policy Handbook Updates
+All Cross-Connection Control Plans, requests for extensions, or questions on Plans from public water systems must be submitted to their assigned DDW District Office or LPA. Comments and inquiries regarding the Cross-Connection Control Policy Handbook may be directed to: backflow@waterboards.ca.gov
+
+## Cross-Connection Control Policy Handbook > Guidance Documents
+Cross-connection Control Plan (CCCP) Templates
+- Community Water Systems (CWS) serving ≤200 connections (pdf) (Word)
+- Community Water Systems (CWS) serving 201–999 connections (pdf) (Word)
+- Nontransient Noncommunity (NTNC) Water Systems (pdf) (Word)
+- Transient Noncommunity (TNC) Water Systems (pdf) (Word)
+Other Guidance Documents
+- Backflow Incident Reporting Form template
+- CCCPH Training Video for Public Water Systems
+- December 19, 2023 Adopted Cross-Connection Control Policy Handbook (Previous Version)
+- December 19, 2023 Adopted Cross-Connection Control Policy Handbook Staff Report
+- FAQ on CCCPH - June 27, 2025
+- Approved backflow prevention assembly standards
+- Information for certifying bodies on SWRCB Recognition and ISO accreditation
+- Backflow Assembly Tester Certifications – Recognized and Accredited
+- Cross-Connection Control Specialist Certifications – Recognized and Accredited
+View Rulemaking History.
+(Page last updated 08/28/2026)
+
+## Guidance Documents > Drinking Water Resources
+- California Laboratory Intake Portal (CLIP)
+- Contaminants in Drinking Water
+- Consolidation and Extension of Service
+- COVID-19 Drinking Water
+- Cyanobacteria/Cyanotoxins in Drinking Water
+- Consumer Confidence Reports (CCRs)
+- Drinking Water Branch Districts
+- Drinking Water Supply Service Area Lookup Tool
+- Drinking Water Watch Database
+- Electronic Annual Reports (EAR)
+- Environmental Laboratory Accreditation Program (ELAP)
+- Funding for Public Water Systems
+- Information for Public Water Systems
+- Notification and Response Levels
+- Operator Certification - Drinking Water
+- Permits
+- PFAS: Per- and Polyfluoroalkyl Substances
+- Public Notification Templates
+- Public Safety Power Shutoff and Wildfire Info
+- Public Water System Monitoring Schedules
+- Regulations and Statutes
+- Residential Water Treatment Devices
+- Safe Drinking Water Plan for California
+- SAFER Drinking Water
+- Water Quality Data

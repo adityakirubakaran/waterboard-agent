@@ -1,0 +1,92 @@
+ELAP Forms and Checklists
+https://www.waterboards.ca.gov/drinking_water/certlic/labs/elap_forms.html
+Date printed: 10/20/2026
+
+## ELAP Forms and Checklists
+This page has all ELAP’s forms and checklists in one place for your convenience. Please be sure to visit our other webpages for more information on how and when to use these forms.
+
+## ELAP Forms and Checklists > Guidance Documents
+The interactive timeline guidance tool captures the common questions regarding when certain items should be completed to maintain a laboratory’s accreditation. Based on a laboratory’s inputted expiration date, ELAP provides recommended dates or timeframes for when best to perform PTs, schedule and complete the on-site assessment, and submit the renewal application. This tool also includes the calculated regulatory deadlines for each item, however, the tool does have some limitations, as it cannot adequately address or provide recommendations for laboratories who have an interim certificate or are located outside of California.
+ELAP Timeline Guidance Tool
+The Technical Notice below identifies allowances granted for drinking water methods. Both methods EPA 524.3 and 524.4 can eliminate the refrigerated autosampler requirement if the laboratory follows guidance and requirements in the Notice.
+Aug. 10, 2022: Allowance Granted for Drinking Water Methods
+
+## ELAP Forms and Checklists > Guidance Documents
+Aug. 10, 2022: Allowance Granted for Drinking Water Methods
+This document identifies the naming convention used by ELAP and future Water Board databases. While ELAP makes efforts to update all FOAs to match this convention, some may be dictated by state agency requirements:
+ELAP Method Naming Convention Guidance Document
+This document provides clarification and information regarding laboratory testing of hexavalent chromium following the Division of Drinking Water’s new 2024 rule.
+Laboratory Fact Sheet for Hexavalent Chromium [Cr (VI)]
+This document answers a common laboratory question regarding alternatives to the 6-watt UV bulb required by Standard Methods. The document provides background on the requirements, guidance to laboratories if they are already using an unapproved alternative, and where the US EPA specifies the requirements.
+UV Lamp Requirements for Microbiology Testing
+
+## ELAP Forms and Checklists > Application Forms
+Forms updated December 2025
+- Initial Accreditation
+- Renewal of Accreditation
+- Amendment of Accreditation
+- Reciprocity Accreditation
+- Addendum – CA-Specific Regulatory Requirements (Part C)
+
+## ELAP Forms and Checklists > Field of Accreditation Tables
+Drinking Water
+Table 101: Microbiology – updated Oct. 1, 2025
+Table 102: Inorganic Chemistry – updated Oct. 1, 2025
+Table 103: Toxic Chemical Elements – updated Oct. 1, 2025
+Table 104: Volatile Organic Chemistry – updated Oct. 1, 2025
+Table 105: Semi-volatile Organic Chemistry – updated Jan. 13, 2026
+Table 106: Radionuclides – updated Oct. 7, 2025
+Table 129: Parasites – updated Oct. 1, 2025
+Non-potable Water
+Table 107: Microbiological Methods for Non-Potable Water and Sewage Sludge – updated Oct. 1, 2025
+Table 108: Inorganic Constituents– updated Oct. 1, 2025
+Table 109: Metals and Trace Elements– updated Oct. 1, 2025
+Table 110: Volatile Organic Constituents– updated Oct. 1, 2025
+Table 111: Semi-Volatile Organic Constituents– updated Jan. 5, 2026
+Table 112: Radionuclides– updated Oct. 1, 2025
+Environmental Toxicity
+Table 113: Methods – updated Oct. 1, 2025
+
+## ELAP Forms and Checklists > Field of Accreditation Tables
+Environmental Toxicity
+Table 113: Methods – updated Oct. 1, 2025
+Hazardous Waste (Solids and Chemical)
+Table 114: Inorganic Constituents – updated Oct. 1, 2025
+Table 115: Leaching/Extraction Tests and Physical Characteristics – updated Oct. 1, 2025
+Table 116: Volatile Organic Compounds – updated Jan. 5, 2026
+Table 117: Semi-Volatile Organic Chemistry – updated Jan. 5, 2026
+Table 118: Radionucleotides – updated Oct. 1, 2025
+Table 121: Bulk Asbestos – updated Oct. 1, 2025
+Hazardous Waste (Aqueous)
+Table 130: Inorganic Constituents – updated Oct. 1, 2025
+Table 131: Leaching/Extraction Tests, Physical Characteristics – updated Oct. 1, 2025
+Table 132: Volatile Organic Compounds – updated Jan. 5, 2026
+Table 133: Semi-Volatile Organic Chemistry – updated Jan. 5, 2026
+Table 134: Radionucleotides – updated Oct. 1, 2025
+Pesticide Residues in Food
+Table 124: Organic Chemistry – updated Oct. 1, 2025
+Table 125: Organic Chemistry – updated Oct. 1, 2025
+Ambient Water
+Table 126: Microbiological Methods– updated Oct. 1, 2025
+Air and Soil Vapor
+Table 135: Organic Compounds in Air or Soil Vapor – updated Feb. 26, 2026
+
+## ELAP Forms and Checklists > Notification Forms
+*NEW* Change in Technical Manager Form
+- Use this fillable form to submit a request for a change in technical manager (TM)
+- ELAP does not differentiate between temporary/ interim TMs and permanent changes, so please submit this form with each change
+- You must submit a copy of the technical manager’s diploma or college transcripts for ELAP to verify their credentials. *
+- The form must be electronically signed before being submitted to ELAP
+*Pursuant to CCR section 64812.00(b), technical managers at drinking water or wastewater treatment facilities may submit a CWEA or AWWA laboratory analyst certification.
+For questions, please email elapca_technical@waterboards.ca.gov
+
+## ELAP Forms and Checklists > Request Forms
+Accreditation Inquiry Form – laboratories have 30 days to submit an inquiry request after ELAP issues a certificate
+ELAP On-Site Assessment Request Form - Effective October 20, 2023
+Limited Use Method Application Request Form - Revised September 2, 2021
+
+## ELAP Forms and Checklists > Assessment Checklists
+Assessment checklists are tools provided to help laboratories prepare for their assessment, but they do not cover all regulatory or technical requirements. Laboratories are responsible for compliance with all regulatory and technical requirements even if they are not included in the checklist.
+California Regulations TNI Addendum Checklist – for laboratories being assessed to the quality system requirements in CCR § 64802.05(a) and the 2016 TNI Standard - Revision 2.1, Volume 1. This checklist includes CA regulatory requirements not covered by the TNI Standard. NOTE: This checklist does not include the requirements of the 2016 TNI Standard - Revision 2.1. This checklist is intended to be used in conjunction with the 2016 TNI Standard – Revision 2.1 Quality System Checklist – available at www.nelac-institute.org.
+Ceriodaphnia dubia Survival & Reproduction (USEPA Method 1002.0) Laboratory Assessment Checklist
+(Page last updated 10/20/2026)

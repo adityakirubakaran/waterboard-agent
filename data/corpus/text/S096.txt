@@ -1,0 +1,175 @@
+GeoTracker - Electronic Submittal of Information (ESI)
+https://www.waterboards.ca.gov/water_issues/programs/ust/electronic_submittal/
+Date printed: 08/13/2026
+
+## GeoTracker - Electronic Submittal of Information (ESI)
+“Geotracker” is the State Water Board’s Internet-accessible database system used to track and archive compliance data related to authorized and unauthorized discharges. This system consists of a relational database, on-line compliance reporting features, a geographical information system (GIS) interface and other features that are utilized by the State Water Board, Regional Water Boards, local agencies, regulated industry and the public to input, manage, or access compliance and regulatory tracking data.
+See the dropdown menus below for program-specific information.
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Highlights
+- The September 10, 2024 GeoTracker ESI Compliance Webinar recording and presentation slides are now available. They are located below in the Information and Resources section, Training Videos accordion.
+- New email subscription list GeoTracker Updates. See how to sign up below!
+- *Coming Soon!*
+- Site Cleanup Local Oversight Program Forms
+- Updates to the Public GeoTracker Portal
+- Winery Order – Region 2 Pilot Study
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Fact Sheets and About GeoTracker
+- The California GeoTracker Database: A Unique Public Resource for Understanding Contaminated Sites (wiley.com) (2022)
+- About GeoTracker
+- Take a Tour: How to Use GeoTracker’s Public Portal
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Getting Started
+- Roles and Responsibilities (Who’s Involved) (1/16/13)
+- What Data Needs to be Reported (3/23/05)
+- How Do I Upload? ESI Guide (Revised 10/30/2019)
+- Login to ESI or Request a Password
+- Authorized RP Agent Authorization Form - (PDF & Word) (Revised 6/8/2021)
+- Authorized RP Agent Revocation Form - (PDF & Word) (Revised 6/8/2021)
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Laws and Regulations
+- Statutes and Regulations
+- Legal Opinion from Board for Professional Engineers, Land Surveyors, and Geologists
+For Laboratories
+- EDF Guidance Letters on Analytical Reporting
+- Programs to Help Create EDF-Formatted Lab Reports
+- Laboratory Training Manual and Exercises for EDF
+- EDF Guidelines & Restrictions
+- EDF Data Dictionary
+– This document does not include all valid value codes currently available. Please refer to the Valid Value Lists for ESI.
+- Valid Value Lists (VVL) for ESI
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Technical Information on Uploading Data
+- Valid Value Lists (VVL) for ESI
+- Geotracker Survey XYZ Guidelines and Restrictions (Version 6.1) (4/14/05)
+– This document does not include all valid value codes currently available. Please refer to the Valid Value Lists for ESI.
+- Geotracker Survey XYZ and GEO_WELL Templates and ESI Examples (MS Excel)
+- Geo_Bore, Geo_Report, and Field Point Guidelines & Restrictions (4/14/05)
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Related Resources
+- GAMA Program Page
+- GAMA GIS Map
+- GAMA Data Download
+- CIWQS Program Page
+- CERS Program Page
+- CalEPA Regulated Sites Portal
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Training Videos
+- 2024 GeoTracker ESI Compliance Webinar
+- Video Recording
+- Presentation Slides
+Programs in GeoTracker
+Confined Animal Facilities (CAF)
+Includes farms, ranches, and dairies where livestock are held for a significant period of time and provided food in the facility (as opposed to grazing). Discharges include manure, wastewater, and stormwater runoff that may contain waste constituents.
+- Confined Animal Facilities (CAF) Program page
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Domestic Well Sampling
+East San Joaquin Water Quality Coalition members must monitor drinking water wells on enrolled parcels for nitrates. This program is currently only implemented in the Central Valley Regional Water Board (Region 5), but it may roll out to other regions in the future.
+- Drinking Water Well Monitoring Brochure
+- Guidance on Uploading Domestic Well Information into GeoTracker (1/02/19)
+Domestic Well Sampling Program Contact
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Irrigated Lands Regulatory Program (ILRP) – eNOI
+Includes all sites that discharge agricultural runoff. Many ILRP sites in the Central Valley operate under general orders (broad-based WDRs) or commodity-specific orders designed to prevent discharges of agricultural runoff from causing or contributing to exceedances of water quality objectives. This program is currently implemented in the San Francisco Bay (Region 2), Central Coast (Region 3), Colorado River Basin (Region 7), Santa Ana (Region 8), and San Diego (Region 9) Regional Water Boards.
+Please see the program pages for order information and program contacts.
+- Region 2 – Program page
+- Region 3 – Program page
+- Region 7 – Program page
+- Region 8 – Program page
+- Region 9 – Program page
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Land Disposal and Composting
+Includes sites with solid and/or liquid wastes discharged to land such as landfills, mines, surface impoundments, waste piles, and land treatment facilities. Wastes contained at land disposal sites are characterized as Class I (hazardous), Class II (designated), Class III (non-hazardous), or Unclassified (inert) pursuant to the California Code of Regulations, Title 22.
+In 2015, the State Water Board developed General Waste Discharge Requirements for Composting Operations (Composting General Order) that address water quality protection at composting facilities.
+- Program page for Land Disposal
+- Program page for Composting
+- Composting General Order
+
+## GeoTracker - Electronic Submittal of Information (ESI) > LUST Cleanup Program
+California regulation requires all leaking underground storage tank (LUST) cases submit soil, vapor, and groundwater data to the State Water Board’s GeoTracker database.
+- UST Cleanup Program Page
+- UST Cleanup Program Contacts
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Military Sites (DoD)
+Includes all cleanup sites that are located on existing military bases (Military Cleanup sites) or those that will to be transferred to non-military entities (Military Privatized sites). Military underground storage tank (MUST) sites include all petroleum-related LUST cleanup sites located on Military Cleanup sites and Military Privatized sites.
+- DoD Program Page
+- DoD Program Contacts
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Oil and Gas Monitoring Program
+- Oil and Gas Monitoring Program page
+- Aquifer Exemptions
+- Health Protection Zone Sampling
+- Produced Water Ponds
+- Underground Injection Control (UIC)
+- Well Stimulation Projects – Groundwater Monitoring Plans
+- Well Stimulation Projects – Exclusion from Groundwater Monitoring
+- Well Stimulation Projects – Property Owner Water Sampling
+- GeoTracker Related Program Information
+OilandGas@waterboards.ca.gov
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Onsite Wastewater Treatment System Policy
+The Water Quality Control Policy for Siting, Design, Operation and Maintenance of Onsite Wastewater Treatment Systems (OWTS) Policy authorizes subsurface disposal of domestic strength, and in limited instances high strength, wastewater. This Policy establishes minimum requirements for the permitting, monitoring, and operation of OWTS for protecting beneficial uses of waters of the state and preventing or correcting conditions of pollution and nuisance. The Policy also conditionally waives the requirement for owners of OWTS to apply for and obtain waste discharge requirements in order to operate their systems if they meet the conditions set forth in the Policy.
+- OWTS Policy Program page
+DWQ-WDR@Waterboards.ca.gov
+
+## GeoTracker - Electronic Submittal of Information (ESI) > PFAS
+The Water Board’s PFAS Team is focused on investigating where PFAS is being collected across the state.
+Below are resources about this effort along with an interactive map that contains data collected so far.
+- General PFAS Program Page
+- GeoTracker Related PFAS Program Page
+- PFAS Map
+DWQ-PFAS@Waterboards.ca.gov
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Recycled Water Policy
+The Volumetric Annual Report requires wastewater and recycled water dischargers (including dischargers that do not produce any recycled water) to annually report monthly volumes of influent, wastewater produced, and effluent, including treatment level and discharge type.
+- Recycled Water Policy Program - Volumetric Annual Reporting Page
+- Guide for Volumetric Annual Report of Wastewater and Recycled Water
+- Volumetric Annual Reporting FAQ
+- California Open Data Portal
+DWQ-recycledwater@Waterboards.ca.gov
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Site Cleanup Program
+California regulation requires all cases where an unauthorized release of non-petroleum compounds has occurred to submit soil, vapor, and groundwater data to the State Water Board’s GeoTracker database. Examples of site types are pesticide and fertilizer facilities, rail yards, ports, equipment supply facilities, metals facilities, industrial manufacturing and maintenance sites, dry cleaners, bulk transfer facilities, refineries, mine sites, landfills, RCRA/CERCLA cleanups, and brownfields.
+- Site Cleanup Program page
+- Region Board Program Pages
+- Local Oversight Site Cleanup Program (AB304) (Coming soon)
+- Site Cleanup Program Contacts
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Vapor Intrusion
+The State Water Board developed a Building Profile tool to help visualize areas of vapor intrusion concern within complex sites. The Building Profile tool is currently only available for Site Cleanup sites.
+- Vapor Intrusion Program page
+- Guidance on Uploading Vapor Intrusion Information into GeoTracker (8/9/19)
+DWQ-vaporintrusion@waterboards.ca.gov
+
+## GeoTracker - Electronic Submittal of Information (ESI) > Winery Order
+The General Waste Discharge Requirements for Winery Process Water (Winery Order) is applicable to wineries and other similar facilities (collectively referred to as wineries) with activities related to producing wine or grape juice that generate winery waste and discharge it to land for reuse or disposal.
+- Winery Order Program page
+DWQ-Winery@Waterboards.ca.gov
+
+## Stay informed > Email Subscription List
+Subscribe to our email lists to receive notifications and the latest updates.
+- Water Quality - Scroll down to the "Water Quality" section and click the bar.
+- Underground Storage Tank, Leak Prevention, and GeoTracker lists.
+
+## Stay informed > Contact Us
+Contact the GeoTracker Help Desk
+Geotracker@waterboards.ca.gov
+1 (866) 480-1028
+(Page last updated 08/13/2026)
+Resources
+- UST Home
+- Cleanup
+- - Petition How To
+- - Low-Threat Policy
+- - LUFT Manual
+- Cleanup Fund
+- Enforcement
+- ESI GeoTracker
+- Leak Prevention
+- - LG Letters
+- - Tank Tester Licensing
+- Online GeoTracker
+- Publications
+- Regulatory Agencies
+- Statutes & Regulations
+- UST Program News

@@ -1,0 +1,136 @@
+TMDL Questions and Answers
+https://www.waterboards.ca.gov/water_issues/programs/tmdl/docs/tmdl_factsheet.pdf
+Date printed: none found
+
+[page 1] Q: What is a TMDL?
+A: A TMDL is a written plan that describes how an impaired water body will meet water quality standards, it contains:
+– a measurable feature to describe attainment
+of the water quality standard(s)
+– a description of required actions to remove the impairment – an allocation of responsibility among dischargers to act in the form of actions or water quality conditions for which each discharger is responsible.
+Section 303(d) of the federal Clean Water Act requires states to develop TMDLs for impaired waterbodies.
+Q: How does a TMDL differ from other pollution
+management efforts?
+A: A TMDL requires that loads from all pollution sources within an impaired watershed be allocated. Other efforts focus on loads from a few, identifiable sources. TMDLs also generally require that a number of programs and agencies work together to achieve the desired level of pollution control. Other efforts are often limited to a single program or entity.
+Q: What is the difference between point and nonpoint sources of pollution and how does
+this relate to TMDLs?
+
+[page 1] this relate to TMDLs?
+A: Point sources release pollutants from discrete conveyances, such as a discharge pipe from a factory and are defined in statute. Nonpoint sources release pollutants from landscape scale features and include such features as parking lot runoff, agricultural field runoff, and dust and air pollution from human activities (considered everything that is not covered under the point source definition). TMDLs must allocate loads for both point and nonpoint sources.
+Q: What is an “impaired water body” and how many
+are there in California?
+A: Informally, an impaired water body is any water that is not meeting the water quality standards that have been established for that water. Formally, an Impaired water body is one that is not attaining water quality standards after technology based discharge limits on point sources are implemented. Section 303(d) of the federal Clean Water Act requires each state to maintain a list of impaired waterbodies and revise the list from time to time (currently in even numbered years) California has 509 water bodies listed.
+Q: What are the costs of preparing a TMDL?
+
+[page 1] Q: What are the costs of preparing a TMDL?
+A: Cost vary depending on the complexity of the TMDL. Estimates range to over $1 million for a complex TMDL that includes the implementation plan.
+Q: How do you know which TMDL to do first?
+A: The Clean Water Act requires the states to develop rankings for TMDLs. California, ranks TMDLs as high, medium or low priority based on a number of factors including the severity of the impairments and the importance of the specific beneficial uses. Regional Boards develop schedules that set the order for TMDL completion. These schedules are contained in the Regional Boards Watershed Management Initiative work plans.
+Q: What steps are involved in producing a TMDL?
+A: There are five steps in producing a TMDL:
+1) Stakeholder involvement: Stakeholders are
+people (e.g., general public, business interests,
+government entities, local agencies, citizens, etc.)
+concerned about a particular water body. They
+become involved in TMDL development through
+local groups working with Regional Water Quality
+Control Board staff. Their interests range from
+pursuing the science to support TMDLs to figuring
+out how to implement new management approaches.
+
+[page 1] out how to implement new management approaches.
+2) Water body assessment: Pollution sources and
+loads are determined, and their overall effect
+on the water body is assessed.
+3) Develop allocations: Based on the assessment,
+pollutant loads are allocated for each source.
+A TMDL may address a single pollutant or many
+pollutants. The allocations must be designed so
+that the water body will attain the applicable
+water quality standards.
+4) Develop an implementation plan: The plan
+describes the approach and activities required
+to ensure that the allocations are met.
+5) Amend the Basin Plan: Before a TMDL is
+enforceable it must be incorporated into the
+appropriate Basin Plan by amending the Basin
+Plan in accordance with state law. If TMDLs are
+not incorporated into Basin Plans, they have no
+legal standing under state law and cannot be
+enforced by Regional Boards. A Basin Plan
+amendment requires approval by the appropriate
+Regional Board, the State Water Resources
+Control Board (State Board), the Office of
+Administrative Law, and the U.S. Environmental
+Protection Agency Region 9. A public hearing
+process is used for the Regional Board and State
+Board steps in the process.
+
+[page 1] Board steps in the process.
+Q: If TMDLs have been required since 1972, why
+don’t all of California’s impaired waterbodies
+have completed and approved TMDLs?
+A: The federal Clean Water Act was established in 1972. In the early stages of implementing the Act, attention was placed on getting technology based controls in place. Technology controls are equipment and facilities that produce a minimum uniform level of pollution control. A great deal of attention was placed on getting sewage treatment plants built and operating at the minimum desired levels. Only after the technology controls were largely in place did attention begin to focus on other requirements of the Act, including TMDLs. Today, California maintains an extensive program to manage sewage treatment and other point sources and has begun to address the TMDL requirements.
+P/F0121(APRIL 2001)
+Total Maximum Daily Loads
+(TMDL) Q U E S T I O N S & A N S W E R S
+
+[page 2] “If you have questions concerning
+a specific waterbody, please visit
+our website “swrcb.ca.gov” or
+telephone the Regional Water
+Quality Control Board for your
+area (please see below) and ask
+to speak to the TMDL coordinator.”
+North Coast Region (1)
+5550 Skylane Blvd., Suite A
+Santa Rosa, CA 95403
+(707) 576-2220
+San Francisco Bay Region (2)
+1515 Clay Street, Suite 1400
+Oakland, CA 94612
+(510) 622-2300
+Central Coast Region (3)
+81 Higuera Street, Suite 200
+San Luis Obispo, CA 93401-5427
+(805) 549-3147
+Los Angeles Region (4)
+320 West 4th Street, Suite 200
+Los Angeles, CA 90013
+(213) 576-6600
+Central Valley Region (5)
+3443 Routier Road, Suite A
+Sacramento, CA 95827-3098
+(916) 255-3000
+Fresno Branch Office (5)
+3614 East Ashlan Avenue
+Fresno, CA 93726
+(559) 445-5116
+Redding Branch Office (5)
+415 Knollcrest Drive, Suite 100
+Redding, CA 96002
+(530) 224-4845
+Lahontan Region (6)
+2501 Lake Tahoe Blvd.
+South Lake Tahoe, CA 96150
+(530) 542-5400
+Victorville Branch Office (6)
+15428 Civic Drive, Suite 100
+Victorville, CA 92392
+(760) 241-6583
+Colorado River Basin Region (7)
+73-720 Fred Waring Drive, Suite 100
+Palm Desert, CA 92260
+(760) 346-7491
+Santa Ana Region (8)
+3737 Main Street, Suite 500
+
+[page 2] 3737 Main Street, Suite 500
+Riverside, CA 92501-3339
+(909) 782-4130
+San Diego Region (9)
+9771 Clairemont Mesa Blvd., Suite A
+San Diego, CA 92124-1324
+(858) 467-2952
+California Regional
+Quality Control
+Boards

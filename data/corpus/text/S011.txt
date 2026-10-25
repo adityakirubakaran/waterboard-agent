@@ -1,0 +1,79 @@
+Contaminants in Drinking Water
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/Chemicalcontaminants.html
+Date printed: 08/04/2026
+
+## Contaminants in Drinking Water > Regulated Contaminants
+- Drinking water standards are called maximum contaminant levels (MCLs). MCLs are found in Title 22 of the California Code of Regulations.
+- Primary MCLs address health concerns -- here is a comparison of Federal and California MCLs (PDF).
+- Esthetics such as taste and odor are addressed by secondary MCLs (PDF).
+- Learn about MCLs and public health goals (PHGs).
+- Standards also include detection limits for purposes of reporting (DLRs). DLRs can be found in Title 22 of the California Code of Regulations and can also be found in the Reference Value Tables for analytes associated with the submittal of analytical results through the California Laboratory Intake Portal (CLIP).
+- Also, see chemical-specific information on arsenic, 1,2,3-Trichloropropane (1,2,3-TCP), hexavalent chromium, manganese (which has a secondary MCL), MTBE, nitrate and nitrite, and perchlorate; and information about fluoridation by public water systems.
+
+## Regulated Contaminants > Public Notification and Information about Contaminants
+- Water systems: Use these templates -- and contact your Drinking Water Program district office -- when public notification is required because of chemical or microbiological contamination, or because of other conditions.
+- Consumers: Information about your drinking water quality is available from your water system in its annual Consumer Confidence Report (CCR). A number of CCRs for California water systems are available on the DDW’s Drinking Water Watch webpage.
+
+## Regulated Contaminants > Unregulated Contaminants
+- Notification and Response Levels: The Division of Drinking Water (DDW) uses these health-based advisory levels for certain chemicals without MCLs. Exceeding them prompts certain requirements and recommendations.
+- Also, see chemical-specific information on 1,4-dioxane, NDMA and other nitrosamines, and microplastics.
+- Unregulated chemicals for which monitoring is required: These regulations were repealed October 18, 2007.
+- Emerging contaminants: Information about emerging contaminants pertinent to drinking water and recycled water, along with links.
+- Cyanobacteria and Cyanotoxins in Drinking Water: Information about harmful algal blooms and potentially associated toxins in California.
+
+## Regulated Contaminants > Treatment Technology
+- DDW's Water Treatment Technology Approval Process (PDF) - January 16, 2002
+Sampling and Analysis
+- Monitoring schedules
+- EDT - data submittal by laboratories
+- Additional information for laboratories
+- Non-Target Volatile Organic Chemicals (PDF) - September 10, 2003 draft
+- Non-Target Semi-Volatile Organic Chemicals (PDF) - September 10, 2003 draft.
+- Characterizing Severely Impaired Water Sources through Elemental Analysis (PDF) - January 26, 2004.
+
+## Regulated Contaminants > Other DDW Links
+- Drinking Water Systems - Information
+- Division of Drinking Water
+Stay informed
+Join the Mailing List
+Subscribe to the Drinking Water Program Announcements email topic to receive notifications and the latest updates.
+
+## Stay informed > Contact Us
+State Water Resources Control Board
+Division of Drinking Water
+Regulatory Development Unit
+Mailing Address:
+P.O. Box 100
+Sacramento, CA 95812-0100
+Street Address:
+1001 I Street
+Sacramento, CA 95814
+E-mail us at DDWRegUnit@waterboards.ca.gov.
+(Page last updated 08/04/2026)
+
+## Contact Us > Drinking Water Resources
+- California Laboratory Intake Portal (CLIP)
+- Contaminants in Drinking Water
+- Consolidation and Extension of Service
+- COVID-19 Drinking Water
+- Cyanobacteria/Cyanotoxins in Drinking Water
+- Consumer Confidence Reports (CCRs)
+- Drinking Water Branch Districts
+- Drinking Water Supply Service Area Lookup Tool
+- Drinking Water Watch Database
+- Electronic Annual Reports (EAR)
+- Environmental Laboratory Accreditation Program (ELAP)
+- Funding for Public Water Systems
+- Information for Public Water Systems
+- Notification and Response Levels
+- Operator Certification - Drinking Water
+- Permits
+- PFAS: Per- and Polyfluoroalkyl Substances
+- Public Notification Templates
+- Public Safety Power Shutoff and Wildfire Info
+- Public Water System Monitoring Schedules
+- Regulations and Statutes
+- Residential Water Treatment Devices
+- Safe Drinking Water Plan for California
+- SAFER Drinking Water
+- Water Quality Data
