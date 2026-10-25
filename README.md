@@ -114,10 +114,13 @@ stored. Download everything as CSV at `/api/questions?token=<ADMIN_TOKEN>`.
 
 ## Known data store issues
 
-- **Wastewater exam fee.** The Tier 1 row for wastewater fees is `fee_increase.pdf` (Rev. 7/9/25, Grade II exam
-  $284). The current schedule (`ww-fee-schedule.pdf`, $382, effective 8/31/2026) isn't in the inventory, so the
-  agent will likely answer $284 for P1, P2 and P5. That's a Critical *Current* failure caused by the data store, not
-  the model. Adding the current schedule as a Tier 1 row and re-running `npm run sources && npm run corpus` fixes it.
+- **Snapshot of 10/25/2026:** 179 of 184 sources downloaded. Not usable: `fee_increase.pdf` and
+  `dwocp_payment_form.pdf` (both now return "not found" on the live site), and three pages with no text
+  (`gama/wq_privatewells.html`, `water_recycling_policy/`, `diversion_use/water_use.html`).
+- **Wastewater exam fee.** The only Tier 1 wastewater fee file was `fee_increase.pdf`, which the site has taken down,
+  and the current schedule (`ww-fee-schedule.pdf`, $382) isn't in the inventory. So the data store has no wastewater
+  exam fee at all: for P1, P2 and P5 the right behavior is now "I couldn't find that" plus the program contact.
+  Adding `ww-fee-schedule.pdf` as a Tier 1 row and re-running `npm run sources && npm run corpus` would let it answer.
 - 20 Tier 1 rows are flagged "Outdated" in the inventory's Issues column. They stay in, since the guidesheet says to
   use Tier 1 exactly; the prompt's *Current* rule and the dates on each passage are what protect against them.
 - One Tier 1 row (water measurement regulation) has a blank URL in the export; `scripts/make-sources.ts` fills in

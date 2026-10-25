@@ -40,6 +40,22 @@ export function findFirstDate(text: string): string | undefined {
   return m?.[1];
 }
 
+const LABELLED_DATE = new RegExp(
+  `\\b(?:Rev(?:ised|ision|\\.)?|Updated|Effective|Adopted|Approved|Last\\s+(?:updated|revised))\\s*(?:on|date|as\\s+of)?\\s*:?\\s*(?:${DATE}|\\d{1,2}/\\d{4}|${MONTH}\\s+\\d{4})`,
+  "i",
+);
+
+/**
+ * The date a PDF carries, with its label: "Rev. 7/2026", "Revised 11/2024", "Effective February 4, 2014".
+ * Looks at the first page, then the last page (footers), then falls back to the first full date on page 1.
+ */
+export function findPdfDate(pages: string[]): string | undefined {
+  const flat = (t?: string) => (t ?? "").replace(/\s+/g, " ");
+  const first = flat(pages[0]);
+  const last = flat(pages[pages.length - 1]);
+  return first.match(LABELLED_DATE)?.[0] ?? last.match(LABELLED_DATE)?.[0] ?? findFirstDate(first);
+}
+
 /** HTML to ordered text blocks. Global menus, scripts and forms are dropped; tables keep their header row. */
 export function htmlToBlocks(html: string): { title?: string; blocks: Block[]; pageLastUpdated?: string } {
   const $ = cheerio.load(html);

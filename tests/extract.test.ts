@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { boilerplateSet, chunkBlocks, chunkPdfPages, findFirstDate, findPageLastUpdated, htmlToBlocks } from "../lib/extract";
+import { boilerplateSet, chunkBlocks, chunkPdfPages, findFirstDate, findPageLastUpdated, findPdfDate, htmlToBlocks } from "../lib/extract";
 
 const HTML = `<html><head><title>Fees | Water Boards</title></head><body>
 <header class="global-header"><nav><a>Home</a></nav></header>
@@ -46,6 +46,10 @@ test("date finders", () => {
   assert.equal(findPageLastUpdated("blah Page last updated: 9/21/26 blah"), "9/21/26");
   assert.equal(findPageLastUpdated("Page Last Updated December 22, 2025"), "December 22, 2025");
   assert.equal(findFirstDate("Notice\nEffective November 16, 2017 the fee"), "November 16, 2017");
+  assert.equal(findPdfDate(["Rev. 7/2026\nDrinking Water Operator Certification Program"]), "Rev. 7/2026");
+  assert.equal(findPdfDate(["Certification Fees", "page two", "Revised 11/2023"]), "Revised 11/2023");
+  assert.equal(findPdfDate(["Policy adopted by the Board", "Effective February 4, 2014"]), "Effective February 4, 2014");
+  assert.equal(findPdfDate(["Notice dated July 25, 2025"]), "July 25, 2025");
 });
 
 test("text repeated on many pages is treated as boilerplate", () => {

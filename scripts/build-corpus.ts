@@ -15,7 +15,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { extractText, getDocumentProxy } from "unpdf";
 import { readSources } from "../lib/sources";
-import { boilerplateSet, chunkBlocks, chunkPdfPages, findFirstDate, htmlToBlocks, type Block, type Passage } from "../lib/extract";
+import { boilerplateSet, chunkBlocks, chunkPdfPages, findPdfDate, htmlToBlocks, type Block, type Passage } from "../lib/extract";
 import type { Chunk, CorpusMeta, Source } from "../lib/types";
 
 const args = process.argv.slice(2);
@@ -181,7 +181,7 @@ async function main() {
     } else {
       passages = chunkPdfPages(f.pdfPages ?? []);
       s.pages = f.pdfPages?.length;
-      s.pageLastUpdated = findFirstDate(f.pdfPages?.[0] ?? "");
+      s.pageLastUpdated = findPdfDate(f.pdfPages ?? []);
       s.format = "pdf";
     }
     passages = passages.filter((p) => p.text.replace(/\W/g, "").length > 20);
