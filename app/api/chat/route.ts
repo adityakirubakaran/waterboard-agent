@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { answerQuestion, MAX_QUESTION_CHARS, MAX_TURNS } from "@/lib/agent";
-import { hasGeminiKey } from "@/lib/gemini";
+import { describeGeminiError, hasGeminiKey } from "@/lib/gemini";
 import { logQuestion } from "@/lib/questionLog";
 import { corpusAvailable } from "@/lib/retrieval";
 import type { ChatMessage } from "@/lib/types";
@@ -51,9 +51,10 @@ export async function POST(req: Request) {
   } catch (e) {
     console.error("[chat] failed:", e);
     await logQuestion({ at: new Date().toISOString(), session: body.session ?? "unknown", turn, question: last.content, status: "error" });
+    const known = describeGeminiError(e);
     return NextResponse.json(
-      { error: "Sorry, something went wrong on our side. Please try again in a moment." },
-      { status: 500 },
+      { error: known?.message ?? "Sorry, something went wrong on our side. Please try again in a moment." },
+      { status: known?.status ?? 500 },
     );
   }
 }

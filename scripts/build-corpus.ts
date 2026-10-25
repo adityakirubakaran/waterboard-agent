@@ -44,7 +44,9 @@ const opt = (name: string) => {
 
 const OUT = opt("--out") ?? path.join(process.cwd(), "data", "corpus");
 const RAW = path.join(process.cwd(), ".cache", "raw");
-const CONCURRENCY = Number(opt("--concurrency") ?? 8);
+const CONCURRENCY = Number(opt("--concurrency") ?? 4);
+/** Minimum gap between request starts, so the site's bot protection doesn't start refusing us (HTTP 403). */
+const GAP_MS = Number(opt("--gap-ms") ?? 400);
 const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 (Water Boards assistant prototype, UC Berkeley student project)";
 const config = readDataStoreConfig();
@@ -62,9 +64,23 @@ interface Parsed {
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 const fatal = (msg: string) => Object.assign(new Error(msg), { fatal: true });
 
+let nextSlot = 0;
+let coolUntil = 0;
+let refusalsInARow = 0;
+const MAX_REFUSALS_IN_A_ROW = 40; // after this many, stop asking: the site is blocking us
+/** Space requests out, and pause everyone after the site pushes back. */
+async function throttle(): Promise<void> {
+  const now = Date.now();
+  const start = Math.max(now, nextSlot, coolUntil);
+  nextSlot = start + GAP_MS;
+  if (start > now) await sleep(start - now);
+}
+
 async function download(url: string): Promise<{ buf: Buffer; type: string; finalUrl: string }> {
   let last: unknown;
   for (let attempt = 0; attempt < 4; attempt++) {
+    if (refusalsInARow >= MAX_REFUSALS_IN_A_ROW) throw fatal("skipped: the site kept refusing requests");
+    await throttle();
     const ctl = new AbortController();
     const timer = setTimeout(() => ctl.abort(), 90_000);
     try {
@@ -73,7 +89,14 @@ async function download(url: string): Promise<{ buf: Buffer; type: string; final
         signal: ctl.signal,
         headers: { "user-agent": UA, accept: "text/html,application/pdf,application/xhtml+xml,*/*;q=0.8" },
       });
-      if (res.status === 429 || res.status >= 500) throw new Error(`HTTP ${res.status}`);
+      if (res.status === 403 || res.status === 429) {
+        // usually rate limiting rather than a forbidden page: back off for everyone, then retry
+        refusalsInARow++;
+        coolUntil = Math.max(coolUntil, Date.now() + 20_000 * (attempt + 1));
+        throw new Error(`HTTP ${res.status}`);
+      }
+      refusalsInARow = 0;
+      if (res.status >= 500) throw new Error(`HTTP ${res.status}`);
       if (!res.ok) throw fatal(`HTTP ${res.status}`);
       const size = Number(res.headers.get("content-length") ?? 0);
       if (size > MAX_PDF_BYTES) {
@@ -85,7 +108,7 @@ async function download(url: string): Promise<{ buf: Buffer; type: string; final
     } catch (e) {
       last = e;
       if ((e as { fatal?: boolean }).fatal) break;
-      await sleep(1500 * 2 ** attempt);
+      if (!/HTTP (403|429)/.test(String((e as Error)?.message))) await sleep(1500 * 2 ** attempt);
     } finally {
       clearTimeout(timer);
     }

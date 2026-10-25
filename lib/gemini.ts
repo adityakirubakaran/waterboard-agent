@@ -27,7 +27,31 @@ export function hasGeminiKey(): boolean {
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
-/** Retry on rate limits and transient server errors with exponential backoff. */
+/** HTTP status of a Gemini error, when the SDK gives one. */
+export function errorStatus(e: unknown): number | undefined {
+  const st = (e as { status?: unknown })?.status;
+  if (typeof st === "number") return st;
+  const m = String((e as Error)?.message ?? e).match(/"code":\s*(\d{3})/);
+  return m ? Number(m[1]) : undefined;
+}
+
+/** What went wrong, in words a visitor can read (no keys or internals). */
+export function describeGeminiError(e: unknown): { status: number; message: string } | undefined {
+  const st = errorStatus(e);
+  const msg = String((e as Error)?.message ?? e);
+  if (st === 401 || st === 403 || /API key|billing|PERMISSION_DENIED/i.test(msg)) {
+    return {
+      status: 503,
+      message: "The assistant's AI service is turned off right now (the Gemini API key was refused). Please try again later.",
+    };
+  }
+  if (st === 429 || /RESOURCE_EXHAUSTED/i.test(msg)) {
+    return { status: 429, message: "The assistant is getting too many questions right now. Please wait a minute and try again." };
+  }
+  return undefined;
+}
+
+/** Retry on rate limits and transient server errors with exponential backoff. Key and billing errors are not retried. */
 export async function withRetry<T>(fn: () => Promise<T>, label: string, tries = 5): Promise<T> {
   let last: unknown;
   for (let i = 0; i < tries; i++) {
@@ -35,8 +59,10 @@ export async function withRetry<T>(fn: () => Promise<T>, label: string, tries = 
       return await fn();
     } catch (e) {
       last = e;
+      const st = errorStatus(e);
       const msg = String((e as Error)?.message ?? e);
-      const retryable = /429|RESOURCE_EXHAUSTED|500|502|503|504|UNAVAILABLE|INTERNAL|fetch failed|ECONNRESET|timed out/i.test(msg);
+      const retryable =
+        st !== undefined ? [429, 500, 502, 503, 504].includes(st) : /fetch failed|ECONNRESET|ETIMEDOUT|timed out|socket hang up/i.test(msg);
       if (!retryable || i === tries - 1) break;
       const wait = Math.min(30000, 1500 * 2 ** i) + Math.random() * 500;
       console.warn(`[gemini] ${label} failed (${msg.slice(0, 120)}); retrying in ${Math.round(wait)}ms`);
