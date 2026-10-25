@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import zlib from "node:zlib";
 import type { Chunk, CorpusMeta, Source } from "./types";
 import { tokenize, tokenizeQuery } from "./text";
 
@@ -22,42 +23,50 @@ export interface Hit {
   denseRank?: number;
 }
 
+/** BM25 over an inverted index (term -> documents), so it stays small and fast on large snapshots. */
 class Bm25 {
-  private docs: Map<string, number>[] = [];
-  private lens: number[] = [];
-  private df = new Map<string, number>();
+  private postings = new Map<string, { docs: number[]; tfs: number[] }>();
+  private lens: Uint32Array;
   private avg = 0;
+  private n: number;
   constructor(texts: string[], private k1 = 1.2, private b = 0.75) {
+    this.n = texts.length;
+    this.lens = new Uint32Array(texts.length);
     let total = 0;
-    for (const t of texts) {
-      const tf = new Map<string, number>();
+    texts.forEach((t, i) => {
       const toks = tokenize(t);
+      const tf = new Map<string, number>();
       for (const w of toks) tf.set(w, (tf.get(w) ?? 0) + 1);
-      for (const w of tf.keys()) this.df.set(w, (this.df.get(w) ?? 0) + 1);
-      this.docs.push(tf);
-      this.lens.push(toks.length);
+      for (const [w, f] of tf) {
+        let p = this.postings.get(w);
+        if (!p) this.postings.set(w, (p = { docs: [], tfs: [] }));
+        p.docs.push(i);
+        p.tfs.push(f);
+      }
+      this.lens[i] = toks.length;
       total += toks.length;
-    }
+    });
     this.avg = total / Math.max(1, texts.length);
   }
   search(queryTokens: string[], limit: number): { index: number; score: number }[] {
-    const n = this.docs.length;
-    const q = [...new Set(queryTokens)];
-    const scores: { index: number; score: number }[] = [];
-    for (let i = 0; i < n; i++) {
-      const tf = this.docs[i];
-      let s = 0;
-      for (const w of q) {
-        const f = tf.get(w);
-        if (!f) continue;
-        const df = this.df.get(w) ?? 0;
-        const idf = Math.log(1 + (n - df + 0.5) / (df + 0.5));
-        s += (idf * f * (this.k1 + 1)) / (f + this.k1 * (1 - this.b + (this.b * this.lens[i]) / this.avg));
+    const scores = new Float64Array(this.n);
+    const touched: number[] = [];
+    for (const w of new Set(queryTokens)) {
+      const p = this.postings.get(w);
+      if (!p) continue;
+      const df = p.docs.length;
+      const idf = Math.log(1 + (this.n - df + 0.5) / (df + 0.5));
+      for (let j = 0; j < p.docs.length; j++) {
+        const d = p.docs[j];
+        const f = p.tfs[j];
+        if (scores[d] === 0) touched.push(d);
+        scores[d] += (idf * f * (this.k1 + 1)) / (f + this.k1 * (1 - this.b + (this.b * this.lens[d]) / this.avg));
       }
-      if (s > 0) scores.push({ index: i, score: s });
     }
-    scores.sort((a, b) => b.score - a.score);
-    return scores.slice(0, limit);
+    return touched
+      .map((index) => ({ index, score: scores[index] }))
+      .sort((a, b) => b.score - a.score)
+      .slice(0, limit);
   }
 }
 
@@ -68,13 +77,20 @@ export function corpusDir(): string {
 }
 
 export function corpusAvailable(dir = corpusDir()): boolean {
-  return fs.existsSync(path.join(dir, "meta.json")) && fs.existsSync(path.join(dir, "chunks.json"));
+  return fs.existsSync(path.join(dir, "meta.json")) && (fs.existsSync(path.join(dir, "chunks.json.gz")) || fs.existsSync(path.join(dir, "chunks.json")));
+}
+
+/** Passages of the snapshot (stored gzipped as chunks.json.gz; plain chunks.json also works). */
+export function readChunks(dir = corpusDir()): Chunk[] {
+  const gz = path.join(dir, "chunks.json.gz");
+  if (fs.existsSync(gz)) return JSON.parse(zlib.gunzipSync(fs.readFileSync(gz)).toString("utf8"));
+  return JSON.parse(fs.readFileSync(path.join(dir, "chunks.json"), "utf8"));
 }
 
 export function loadCorpus(dir = corpusDir()): Corpus {
   if (cached && dir === corpusDir()) return cached;
   const meta: CorpusMeta = JSON.parse(fs.readFileSync(path.join(dir, "meta.json"), "utf8"));
-  const chunks: Chunk[] = JSON.parse(fs.readFileSync(path.join(dir, "chunks.json"), "utf8"));
+  const chunks: Chunk[] = readChunks(dir);
   const sourcesById = new Map(meta.sources.map((s) => [s.id, s]));
   const bm25 = new Bm25(chunks.map((c) => `${c.title}\n${c.heading ?? ""}\n${c.text}`));
   let vectors: Corpus["vectors"];
@@ -111,8 +127,12 @@ export interface RetrieveOptions {
   queryVector?: Float32Array; // query embedding, if the corpus has vectors
 }
 
-/** Hybrid search: BM25 and (optionally) vector ranks merged with reciprocal rank fusion. */
-export function retrieve(corpus: Corpus, query: string, opts: RetrieveOptions = {}): Hit[] {
+/**
+ * Hybrid search: BM25 for each query (the visitor's words plus rewritten queries) and, optionally,
+ * vector search, merged with reciprocal rank fusion.
+ */
+export function retrieve(corpus: Corpus, query: string | string[], opts: RetrieveOptions = {}): Hit[] {
+  const queries = (Array.isArray(query) ? query : [query]).map((q) => q.trim()).filter(Boolean);
   const k = opts.k ?? 8;
   const perSource = opts.perSource ?? 3;
   const pool = 60;
@@ -124,7 +144,7 @@ export function retrieve(corpus: Corpus, query: string, opts: RetrieveOptions = 
     else h.denseRank = rank;
     fused.set(index, h);
   };
-  corpus.bm25.search(tokenizeQuery(query), pool).forEach((r, i) => add(r.index, i + 1, "bm25"));
+  for (const q of queries) corpus.bm25.search(tokenizeQuery(q), pool).forEach((r, i) => add(r.index, i + 1, "bm25"));
   if (opts.queryVector && corpus.vectors && opts.queryVector.length === corpus.vectors.dim) {
     dense(corpus, opts.queryVector, pool).forEach((r, i) => add(r.index, i + 1, "dense"));
   }

@@ -4,6 +4,7 @@ import { test } from "node:test";
 import { parseCsv, toCsv } from "../lib/csv";
 import { atoms, atomsFound, combine, AA_CRITERIA, readSuite, splitTurns } from "../lib/evalkit";
 import { scrub } from "../lib/questionLog";
+import { readDataStoreConfig } from "../lib/dataStoreConfig";
 import { readSources } from "../lib/sources";
 import { normalizeUrl } from "../scripts/make-sources";
 
@@ -18,20 +19,27 @@ test("question log removes emails, phone numbers and names", () => {
   assert.ok(s.includes("How do I renew?"));
 });
 
-test("data store manifest = only Tier 1 inventory rows", () => {
-  const inv = parseCsv(fs.readFileSync("data/inventory/content_inventory_combined.csv", "utf8").replace(/^﻿/, ""));
-  const tier1 = new Set(inv.filter((r) => r["Suggested tier"].trim() === "1").map((r) => normalizeUrl(r["URL"] ?? "")).filter(Boolean));
-  const other = new Set(inv.filter((r) => r["Suggested tier"].trim() !== "1").map((r) => normalizeUrl(r["URL"] ?? "")).filter(Boolean));
+test("data store manifest = only inventory rows of the tiers in data/data-store.json", () => {
+  const config = readDataStoreConfig();
+  const inv = parseCsv(fs.readFileSync("data/inventory/content_inventory_combined.csv", "utf8").replace(/^\uFEFF/, ""));
+  const allowed = new Set(
+    inv.filter((r) => config.tiers.includes(r["Suggested tier"].trim())).map((r) => normalizeUrl(r["URL"] ?? "")).filter(Boolean),
+  );
   const sources = readSources();
-  assert.ok(sources.length >= tier1.size);
   const filled = "https://www.waterboards.ca.gov/waterrights/water_issues/programs/diversion_use/water_measurement.html";
-  for (const s of sources) assert.ok(tier1.has(s.url) || s.url === filled, `${s.id} ${s.url} is not a Tier 1 row`);
-  // known outdated files that must stay out
-  for (const bad of [
-    "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/docs/new_fee_for_operators.pdf",
-    "https://www.waterboards.ca.gov/waterrights/water_issues/programs/registrations/docs/fees.pdf",
-  ]) assert.ok(!sources.some((s) => s.url === bad), `${bad} must not be in the data store`);
-  assert.ok(other.size > 0);
+  for (const s of sources) {
+    assert.ok(allowed.has(s.url) || s.url === filled, `${s.id} ${s.url} is not in tiers ${config.tiers.join(",")}`);
+    assert.ok(config.tiers.includes(s.tier ?? "1"));
+  }
+  // with the guidesheet setting, known outdated files stay out
+  if (config.tiers.join() === "1") {
+    for (const bad of [
+      "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/docs/new_fee_for_operators.pdf",
+      "https://www.waterboards.ca.gov/waterrights/water_issues/programs/registrations/docs/fees.pdf",
+    ]) assert.ok(!sources.some((s) => s.url === bad), `${bad} must not be in the data store`);
+  }
+  // Tier 1 ids never move when other tiers are added
+  assert.equal(sources.find((s) => s.id === "S001")?.tier, "1");
 });
 
 test("conversation suite cells split into turns and a conditional reply", () => {

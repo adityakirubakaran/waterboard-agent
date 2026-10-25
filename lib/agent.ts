@@ -32,8 +32,8 @@ export const geminiCall: ModelCall = async (system, contents) => {
   return { text: res.text ?? "", model: res.modelVersion ?? CHAT_MODEL };
 };
 
-/** Turns the conversation into one standalone search query in the site's own terms. Search only; it never answers. */
-export type QueryRewriter = (messages: ChatMessage[]) => Promise<string | undefined>;
+/** Turns the conversation into up to three standalone search queries in the site's own terms. Search only; it never answers. */
+export type QueryRewriter = (messages: ChatMessage[]) => Promise<string[] | undefined>;
 
 export const geminiRewrite: QueryRewriter = async (messages) => {
   if (process.env.QUERY_REWRITE === "off") return undefined;
@@ -49,11 +49,19 @@ export const geminiRewrite: QueryRewriter = async (messages) => {
       systemInstruction: REWRITE_INSTRUCTION,
       temperature: 0,
       responseMimeType: "application/json",
-      responseJsonSchema: { type: "object", properties: { query: { type: "string" } }, required: ["query"] },
+      responseJsonSchema: {
+        type: "object",
+        properties: { queries: { type: "array", items: { type: "string" } } },
+        required: ["queries"],
+      },
     },
   });
-  const q = String(JSON.parse(res.text ?? "{}").query ?? "").trim();
-  return q ? q.slice(0, 400) : undefined;
+  const parsed = JSON.parse(res.text ?? "{}");
+  const qs = (Array.isArray(parsed.queries) ? parsed.queries : [parsed.query])
+    .map((q: unknown) => String(q ?? "").trim().slice(0, 300))
+    .filter(Boolean)
+    .slice(0, 3);
+  return qs.length ? qs : undefined;
 };
 
 export function todayPacific(d = new Date()): string {
@@ -147,7 +155,7 @@ export async function answerQuestion(messages: ChatMessage[], opts: AnswerOption
   const question = convo[convo.length - 1]?.content?.trim() ?? "";
 
   const base = retrievalQuery(convo);
-  let rewritten: string | undefined;
+  let rewritten: string[] | undefined;
   if (opts.rewrite !== false) {
     try {
       rewritten = await (opts.rewrite ?? geminiRewrite)(convo);
@@ -155,9 +163,9 @@ export async function answerQuestion(messages: ChatMessage[], opts: AnswerOption
       console.warn("[agent] query rewrite failed, searching with the visitor's words:", String(e).slice(0, 200));
     }
   }
-  const q = rewritten ? `${rewritten}\n${base}` : base;
-  const queryVector = corpus.vectors ? await (opts.embedQuery ?? geminiEmbedQuery)(rewritten ?? base) : undefined;
-  const hits = retrieve(corpus, q, { k: opts.k ?? 8, queryVector });
+  const queries = [base, ...(rewritten ?? [])];
+  const queryVector = corpus.vectors ? await (opts.embedQuery ?? geminiEmbedQuery)(rewritten?.[0] ?? base) : undefined;
+  const hits = retrieve(corpus, queries, { k: opts.k ?? 10, queryVector });
 
   const contents: { role: "user" | "model"; text: string }[] = convo.slice(0, -1).map((m) => ({
     role: m.role === "user" ? "user" : "model",
@@ -226,7 +234,7 @@ export async function answerQuestion(messages: ChatMessage[], opts: AnswerOption
     sources,
     debug: {
       model: raw.model,
-      searchQuery: q,
+      searchQuery: queries.join(" | "),
       retrieved: hits.map((h) => ({ chunkId: h.chunk.id, sourceId: h.chunk.sourceId, title: h.chunk.title, score: h.score })),
       rawCitations,
       guardrail,

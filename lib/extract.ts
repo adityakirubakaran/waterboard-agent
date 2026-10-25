@@ -256,3 +256,64 @@ export function boilerplateSet(pages: Block[][], minPages = 10, share = 0.25): S
   const need = Math.max(minPages, Math.ceil(pages.length * share));
   return new Set([...counts].filter(([, n]) => n >= need).map(([t]) => t));
 }
+
+export interface FoundLink {
+  url: string;
+  text: string;
+}
+
+/**
+ * Links on a page, main-content links first. Only used when data/data-store.json turns on followLinks.
+ * Returns absolute URLs without #fragments.
+ */
+export function extractLinks(html: string, baseUrl: string): FoundLink[] {
+  const $ = cheerio.load(html);
+  const main = $("main, #main-content, .main-primary, [role=main]").first();
+  const ordered = [...(main.length ? main.find("a[href]").toArray() : []), ...$("a[href]").toArray()];
+  const out: FoundLink[] = [];
+  const seen = new Set<string>();
+  for (const a of ordered) {
+    const href = ($(a).attr("href") ?? "").trim();
+    if (!href || /^(mailto:|tel:|javascript:|#)/i.test(href)) continue;
+    let url: URL;
+    try {
+      url = new URL(href, baseUrl);
+    } catch {
+      continue;
+    }
+    url.hash = "";
+    const key = url.toString();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push({ url: key, text: cleanText($(a).text()).slice(0, 200) });
+  }
+  return out;
+}
+
+/** A stable key for "is this the same page": https, www host, no trailing slash or index file, no fragment. */
+export function urlKey(raw: string): string {
+  try {
+    const u = new URL(raw);
+    const host = u.hostname.toLowerCase() === "waterboards.ca.gov" ? "www.waterboards.ca.gov" : u.hostname.toLowerCase();
+    const p = u.pathname.replace(/\/index\.(s?html?|php)$/i, "/").replace(/\/+$/, "");
+    return `${host}${p.toLowerCase()}${u.search}`;
+  } catch {
+    return raw;
+  }
+}
+
+/** Whether a linked URL is a page or PDF we can read (no searches, images, spreadsheets or archives). */
+export function isReadableLink(raw: string, allowedHosts: Set<string>): boolean {
+  let u: URL;
+  try {
+    u = new URL(raw);
+  } catch {
+    return false;
+  }
+  if (!/^https?:$/.test(u.protocol)) return false;
+  if (!allowedHosts.has(u.hostname.toLowerCase())) return false;
+  if (u.search) return false;
+  const last = u.pathname.split("/").pop() ?? "";
+  const ext = last.includes(".") ? last.split(".").pop()!.toLowerCase() : "";
+  return ext === "" || ["html", "htm", "shtml", "pdf"].includes(ext);
+}

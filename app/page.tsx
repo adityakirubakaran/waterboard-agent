@@ -166,9 +166,9 @@ export default function Home() {
             </p>
             <ul>
               <li>
-                The assistant can only use the {info ? info.ok : "Tier 1"} pages and files the team marked Tier 1 in the
-                content inventory
-                {info?.builtAt ? `, as downloaded on ${formatDate(info.builtAt)}` : ""}. It has no web search or internet
+                The assistant can only use a saved copy of {info ? `${info.ok.toLocaleString("en-US")} ` : ""}Water Board
+                pages and files ({info?.description ?? "from the team's content inventory"})
+                {info?.builtAt ? `, downloaded on ${formatDate(info.builtAt)}` : ""}. It has no web search or internet
                 access, so it cannot look anything up elsewhere.
               </li>
               <li>Every answer links its source. If the answer is not in those pages, it says so and points you to staff.</li>

@@ -17,6 +17,8 @@ export interface Source {
   pages?: number;
   chunks?: number;
   finalUrl?: string; // where the URL redirected to, when different
+  tier?: string; // inventory tier ("1", "2", "3"), or "linked" for pages found through links
+  discoveredFrom?: string; // for linked pages: the inventory page that links to it
 }
 
 /** A passage of a source, the unit the retriever ranks. */
@@ -37,6 +39,7 @@ export interface CorpusMeta {
   sourceCount: number;
   okCount: number;
   chunkCount: number;
+  description?: string; // what the data store holds, e.g. "Tier 1 of the content inventory"
   sources: Source[];
 }
 

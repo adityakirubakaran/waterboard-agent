@@ -1,14 +1,15 @@
 name: Build data store
 
-# Downloads the Tier 1 pages and files listed in data/sources.csv, extracts their text, and commits the
-# snapshot to data/corpus/ (Vercel then redeploys with it). Runs when the source list changes, or by hand
-# from the Actions tab ("Run workflow").
+# Downloads the inventory pages and files chosen in data/data-store.json (and, if turned on, the Water
+# Board pages they link to), extracts their text, and commits the snapshot to data/corpus/ (Vercel then
+# redeploys with it). Runs when the settings or source list change, or by hand from the Actions tab.
 
 on:
   workflow_dispatch:
   push:
     branches: [main]
     paths:
+      - data/data-store.json
       - data/sources.csv
       - data/inventory/**
       - scripts/build-corpus.ts
@@ -24,7 +25,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -32,9 +33,9 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Rebuild the source list from the inventory (Tier 1 only)
+      - name: Rebuild the source list from the inventory (tiers set in data/data-store.json)
         run: npm run sources
-      - name: Download and extract the Tier 1 pages and files
+      - name: Download and extract the pages and files
         run: npm run corpus
       - name: Add embeddings (skipped if the GEMINI_API_KEY secret is not set)
         continue-on-error: true
@@ -45,7 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/sources.csv data/corpus
+          git add -A data/sources.csv data/corpus
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

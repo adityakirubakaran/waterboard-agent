@@ -1,8 +1,8 @@
 # Water Boards Assistant (student prototype)
 
 A mockup of the California Water Boards website with a chat box in the bottom-right corner. The assistant answers
-questions using **only** the pages and files our team marked Tier 1 in the content inventory, links the source for
-every answer, and says so (and points to staff) when the answer isn't there.
+questions using **only** a saved copy of Water Board pages and files (its data store), links the source for every
+answer, and says so (and points to staff) when the answer isn't there.
 
 **Prototype built by UC Berkeley students. Not official Water Board guidance.**
 
@@ -10,11 +10,10 @@ every answer, and says so (and points to staff) when the answer isn't there.
 
 The model never browses. Four things keep it to our material:
 
-1. **The data store is a fixed snapshot of Tier 1 rows only.** `npm run sources` reads the inventory export in
-   `data/inventory/` and keeps only rows whose *Suggested tier* is `1` (184 unique pages and files). Tier 2 and 3 rows,
-   including the outdated files we flagged (the 2017 wastewater fee notice, the 2018 registration fee notice), never
-   enter it. `npm run corpus` downloads exactly those URLs, with no link following and no crawling, and saves the text to
-   `data/corpus/`. A test (`tests/misc.test.ts`) fails if a non-Tier 1 URL ever appears in `data/sources.csv`.
+1. **The data store is a fixed snapshot.** `data/data-store.json` says what goes in (see "Choosing what's in the
+   data store" below). `npm run sources` turns the inventory export in `data/inventory/` into `data/sources.csv`, and
+   `npm run corpus` downloads those pages (and, if turned on, the Water Board pages they link to) and saves the text to
+   `data/corpus/`. Nothing is fetched while the assistant answers.
 2. **Gemini gets no tools.** We call it without Google Search grounding, URL context or code execution, so it can't
    look anything up. It only sees the passages we pass in with each question.
 3. **The prompt only allows answers from those passages.** The model must return JSON with a status (`answered`,
@@ -30,7 +29,8 @@ eval's *Grounded* criterion checks for exactly this.
 ```
 visitor question
   -> query rewrite (small Gemini model turns "appeal" into "petition for review", Fresno into Central Valley Region 5, ...)
-  -> search the snapshot (keyword BM25 + optional embeddings) -> top 8 passages, at most 3 per page
+  -> search the snapshot with the question plus up to 3 rewritten queries (BM25 + optional embeddings)
+     -> top 10 passages, at most 3 per page
   -> Gemini (no tools) with the rules in lib/prompt.ts -> JSON {status, answer, citations}
   -> guardrails in lib/agent.ts -> answer + source links shown in the chat
   -> question logged (no names or emails)
@@ -47,11 +47,27 @@ visitor question
 | Visible disclaimer | Banner at the top of the page and a fixed line in the chat box. |
 | Question log | `lib/questionLog.ts`; the notice is shown in the chat box and on the page. |
 
+## Choosing what's in the data store
+
+Edit `data/data-store.json` and push; the "Build data store" action rebuilds the snapshot and Vercel redeploys.
+
+| Setting | Data store | When to use it |
+|---|---|---|
+| `"tiers": ["1"], "followLinks": false` | the 184 Tier 1 inventory rows | **The guidesheet's data store.** Use this for the step 5 numbers. |
+| `"tiers": ["1", "2", "3"], "followLinks": false` | all 450 inventory rows | Adds Tier 2 and 3, including the outdated files the team flagged. |
+| `"tiers": ["1", "2", "3"], "followLinks": true` (current) | all inventory rows plus up to `maxLinkedDocs` Water Board pages and PDFs they link to | Widest coverage for the demo. Many test answers (agendas, regional office pages, the current wastewater fee schedule, petition instructions) are not in the inventory at all, only linked from it. |
+
+`maxPdfPages` caps how many pages of each PDF are read; `maxPdfMegabytes` skips very large files. Every passage the
+model sees carries the date printed on its page or file, and the prompt tells it to prefer the program's own page,
+official schedules and regulations, and the newest date when sources disagree, since the wider settings bring in old
+pages too. The eval summary records which data store it ran against.
+
 ## Put it online (about 10 minutes)
 
 1. Push this folder to GitHub (`git push -u origin main`).
 2. **Build the data store.** The "Build data store" action (Actions tab) starts on its own after the first push. It
-   downloads the Tier 1 pages, commits `data/corpus/` and takes a few minutes. You can also run it locally (below).
+   downloads the pages, commits `data/corpus/` and takes a few minutes (longer with `followLinks`). You can also run
+   it locally (below).
 3. **Deploy on Vercel.** Go to vercel.com -> Add New -> Project -> import `waterboard-agent`. Keep the defaults.
 4. In the Vercel project, open **Settings -> Environment Variables** and add `GEMINI_API_KEY` (Rahnon has the key).
    Optional: `ADMIN_TOKEN` (any password) for downloading the question log.
@@ -71,7 +87,8 @@ Needs Node 22.
 ```bash
 npm install
 cp .env.example .env.local          # then paste the Gemini key into .env.local
-npm run corpus                      # download the Tier 1 pages and files into data/corpus/ (a few minutes)
+npm run sources                     # inventory -> data/sources.csv, using data/data-store.json
+npm run corpus                      # download the pages and files into data/corpus/
 npm run embed                       # optional: add embeddings for better matching
 npm run dev                         # http://localhost:3000
 npm run ask -- "How much is the grade 2 drinking water operator exam?"   # one question in the terminal
@@ -98,8 +115,8 @@ are committed to `eval/results/<run>/`:
   plus blank *Final grade* and *Critical failure?* columns for us to fill in.
 - `results.jsonl`: everything, including the passages the agent cited.
 
-A test is marked **Not in data store** when none of its answer source URLs are in the Tier 1 list and none of its
-key facts (dollar amounts, emails, phone numbers, dates) appear anywhere in the snapshot. For those, the right
+A test is marked **Not in data store** when none of its answer source URLs are in the snapshot and none of its key
+facts (dollar amounts, emails, phone numbers, dates) appear anywhere in it. For those, the right
 behavior is "I couldn't find that" plus a staff contact.
 
 The draft grades come from a second Gemini call that sees the answer key and applies our rubric (Correct, Current
@@ -114,15 +131,15 @@ stored. Download everything as CSV at `/api/questions?token=<ADMIN_TOKEN>`.
 
 ## Known data store issues
 
-- **Snapshot of 10/25/2026:** 179 of 184 sources downloaded. Not usable: `fee_increase.pdf` and
+- **Tier 1 snapshot of 10/25/2026:** 179 of 184 sources downloaded. Not usable: `fee_increase.pdf` and
   `dwocp_payment_form.pdf` (both now return "not found" on the live site), and three pages with no text
   (`gama/wq_privatewells.html`, `water_recycling_policy/`, `diversion_use/water_use.html`).
-- **Wastewater exam fee.** The only Tier 1 wastewater fee file was `fee_increase.pdf`, which the site has taken down,
-  and the current schedule (`ww-fee-schedule.pdf`, $382) isn't in the inventory. So the data store has no wastewater
-  exam fee at all: for P1, P2 and P5 the right behavior is now "I couldn't find that" plus the program contact.
-  Adding `ww-fee-schedule.pdf` as a Tier 1 row and re-running `npm run sources && npm run corpus` would let it answer.
-- 20 Tier 1 rows are flagged "Outdated" in the inventory's Issues column. They stay in, since the guidesheet says to
-  use Tier 1 exactly; the prompt's *Current* rule and the dates on each passage are what protect against them.
+- **Only 9 of the 30 Answer Accuracy tests have their key fact anywhere in Tier 1.** The answer pages for most tests
+  (meeting agendas, regional office contact pages, the current wastewater fee schedule `ww-fee-schedule.pdf`,
+  petition filing instructions, basin plans) were never logged in the inventory.
+- **Conflicting files inside the data store.** The drinking water Online Payments FAQ says cards are accepted while the
+  program page and the ACH guide say they are not; the Water Rights Applications FAQ says the minimum annual fee is
+  $100 while the FY 2025-26 fee schedule says $350. The prompt's source-priority rule is there for these.
 - One Tier 1 row (water measurement regulation) has a blank URL in the export; `scripts/make-sources.ts` fills in
   the page it describes and prints a note.
 
@@ -137,10 +154,11 @@ lib/agent.ts                 retrieval -> Gemini -> guardrails
 lib/prompt.ts                the model's rules
 lib/retrieval.ts             keyword + vector search over the snapshot
 lib/questionLog.ts           question logging and scrubbing
-scripts/make-sources.ts      inventory -> data/sources.csv (Tier 1 only)
+data/data-store.json         what goes into the data store (tiers, link following, limits)
+scripts/make-sources.ts      inventory -> data/sources.csv
 scripts/build-corpus.ts      data/sources.csv -> data/corpus/ snapshot
 scripts/embed-corpus.ts      optional embeddings
 scripts/run-eval.ts          eval runner and grader
 eval/suites/                 our test suites
-data/corpus/text/            readable text of every source, for checking what the agent can see
+data/corpus/text/            readable text of every source after `npm run corpus` (not committed)
 ```

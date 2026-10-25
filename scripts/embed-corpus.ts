@@ -12,7 +12,7 @@ import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import { EMBED_DIM, EMBED_MODEL, embedTexts, hasGeminiKey } from "../lib/gemini";
-import { normalize } from "../lib/retrieval";
+import { normalize, readChunks } from "../lib/retrieval";
 import type { Chunk } from "../lib/types";
 
 const DIR = path.join(process.cwd(), "data", "corpus");
@@ -32,7 +32,7 @@ async function main() {
     console.log("[embed] GEMINI_API_KEY not set; skipping (the app will use keyword search only).");
     return;
   }
-  const chunks: Chunk[] = JSON.parse(fs.readFileSync(path.join(DIR, "chunks.json"), "utf8"));
+  const chunks: Chunk[] = readChunks(DIR);
   const cache: Record<string, string> = fs.existsSync(CACHE) ? JSON.parse(fs.readFileSync(CACHE, "utf8")) : {};
   const keys = chunks.map((c) => hash(embedText(c)));
   const todo = chunks.map((c, i) => ({ c, key: keys[i] })).filter((t) => !cache[t.key]);

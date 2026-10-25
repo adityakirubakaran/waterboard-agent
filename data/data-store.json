@@ -1,0 +1,12 @@
+{
+  "_about": "What goes into the assistant's data store. Edit, push, and the 'Build data store' action rebuilds it. Guidesheet setting: tiers [\"1\"] and followLinks false.",
+  "tiers": [
+    "1",
+    "2",
+    "3"
+  ],
+  "followLinks": true,
+  "maxLinkedDocs": 2000,
+  "maxPdfPages": 40,
+  "maxPdfMegabytes": 25
+}

@@ -53,6 +53,7 @@ const PAUSE = Number(opt("--pause-ms") ?? process.env.EVAL_PAUSE_MS ?? 0);
 const stamp = new Date().toISOString().slice(0, 16).replace(/[:T]/g, "-");
 const OUT = opt("--out") ?? path.join("eval", "results", `${stamp}-${SUITE}`);
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+let STORE_DESCRIPTION = "";
 
 interface Turn {
   user: string;
@@ -275,6 +276,7 @@ async function main() {
     process.exit(1);
   }
   const corpus = loadCorpus();
+  STORE_DESCRIPTION = `${corpus.meta.description ?? "Tier 1 of the content inventory"}; ${corpus.meta.okCount} pages and files, ${corpus.chunks.length} passages, built ${corpus.meta.builtAt.slice(0, 10)}`;
   const storeUrls = new Set(corpus.meta.sources.filter((s) => s.status === "ok").map((s) => strip(s.url)));
   const corpusText = corpus.chunks.map((c) => c.text).join("\n");
 
@@ -385,6 +387,7 @@ function writeReports(tests: TestCase[], results: RunResult[]) {
   const model = results.find((r) => r.model)?.model ?? CHAT_MODEL;
   lines.push(`# Eval run ${new Date().toISOString().slice(0, 10)}`, "");
   lines.push(`- Agent model: ${model}; grader: ${JUDGE ? JUDGE_MODEL : "off (grade by hand)"}`);
+  lines.push(`- Data store: ${STORE_DESCRIPTION}`);
   lines.push(`- Runs per question: ${RUNS} (a question passes only if every run passes)`);
   lines.push(`- Grades below are the automatic grader's draft. Confirm them in the grading_sheet CSVs before reporting.`, "");
 

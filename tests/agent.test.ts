@@ -9,9 +9,24 @@ const corpus = tinyCorpus();
 const reply = (obj: unknown): ModelCall => async () => ({ text: JSON.stringify(obj), model: "mock" });
 const opts = (model: ModelCall) => ({ corpus, model, rewrite: false as const, today: "Sunday, October 25, 2026" });
 
+test("rewritten queries are searched alongside the visitor's words", async () => {
+  const r = await answerQuestion([{ role: "user", content: "pay renewal" }], {
+    ...opts(reply({ status: "answered", answer: "No, cards are not accepted.", citations: ["E1"] })),
+    rewrite: async () => ["drinking water operator certification payment credit debit card checking account"],
+  });
+  assert.equal(r.debug?.retrieved[0].sourceId, "S002");
+  assert.match(r.debug?.searchQuery ?? "", /credit debit card/);
+});
+
 test("keyword search finds the fee passage for visitor wording", () => {
   const hits = retrieve(corpus, "how much is the test for a grade 2 drinking water operator license");
   assert.ok(hits.slice(0, 2).some((h) => h.chunk.id === "S001-0001"));
+});
+
+test("several queries are fused", () => {
+  const hits = retrieve(corpus, ["can I pay by card", "construction one acre storm water"], { k: 4 });
+  const ids = hits.map((h) => h.chunk.sourceId);
+  assert.ok(ids.includes("S002") && ids.includes("S003"));
 });
 
 test("at most `perSource` passages come from one file", () => {
