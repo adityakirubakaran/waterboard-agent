@@ -1,0 +1,37 @@
+{
+  "name": "waterboards-agent-mockup",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prototype Water Boards assistant that answers only from the Tier 1 pages chosen in the TBG x Google content inventory.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "tsx scripts/build-corpus.ts --if-missing --soft && next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "sources": "tsx scripts/make-sources.ts",
+    "corpus": "tsx scripts/build-corpus.ts",
+    "embed": "tsx scripts/embed-corpus.ts",
+    "eval": "tsx scripts/run-eval.ts",
+    "ask": "tsx scripts/ask.ts",
+    "test": "tsx --test tests/*.test.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.31.0",
+    "@upstash/redis": "^1.39.0",
+    "next": "15.5.28",
+    "react": "19.1.10",
+    "react-dom": "19.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "@types/react": "19.1.17",
+    "@types/react-dom": "19.1.11",
+    "cheerio": "^1.2.0",
+    "tsx": "^4.23.15",
+    "typescript": "5.9.3",
+    "unpdf": "^1.9.1"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}

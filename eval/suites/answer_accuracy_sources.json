@@ -1,0 +1,113 @@
+{
+ "_note": "Answer source URLs for each Answer Accuracy test (from the WS1 suite build, checked 10/16/2026). Used to mark tests whose answer is not in the data store.",
+ "B1": [
+  "https://www.waterboards.ca.gov/board_info/agendas/2026/oct/10062026-agenda.pdf"
+ ],
+ "B2": [
+  "https://www.waterboards.ca.gov/board_info/agendas/2026/oct/10062026-agenda.pdf",
+  "https://www.waterboards.ca.gov/board_info/calendar/"
+ ],
+ "B3": [
+  "https://www.waterboards.ca.gov/public_notices/petitions/water_quality/wqpetition_instr.html",
+  "https://www.waterboards.ca.gov/public_notices/petitions/water_quality/"
+ ],
+ "B4": [
+  "https://www.waterboards.ca.gov/public_notices/petitions/water_quality/wqpetition_instr.html"
+ ],
+ "P1": [
+  "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/docs/forms/ww-fee-schedule.pdf",
+  "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/docs/2026/ww-approval-oal.pdf"
+ ],
+ "P2": [
+  "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/docs/forms/ww-fee-schedule.pdf",
+  "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/docs/2026/ww-approval-oal.pdf"
+ ],
+ "P3": [
+  "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/operator_certification.html",
+  "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/docs/forms/ww-fee-schedule.pdf"
+ ],
+ "P4": [
+  "https://www.waterboards.ca.gov/water_issues/programs/enforcement/",
+  "https://calepa.my.salesforce-sites.com/complaints/Complaint"
+ ],
+ "P5": [
+  "https://www.waterboards.ca.gov/water_issues/programs/operator_certification/docs/forms/ww-fee-schedule.pdf",
+  "https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/feeslist.pdf"
+ ],
+ "D1": [
+  "https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/feeslist.pdf",
+  "https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/2026/dw-approval-oal.pdf",
+  "https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/certificationfees.pdf"
+ ],
+ "D2": [
+  "https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/feeslist.pdf"
+ ],
+ "D3": [
+  "https://www.waterboards.ca.gov/drinking_water/certlic/occupations/DWopcert.html"
+ ],
+ "D4": [
+  "https://www.waterboards.ca.gov/drinking_water/certlic/occupations/DWopcert.html"
+ ],
+ "Q1": [
+  "https://www.waterboards.ca.gov/water_issues/programs/stormwater/phase_ii_municipal.html"
+ ],
+ "Q2": [
+  "https://www.waterboards.ca.gov/water_issues/programs/stormwater/smarts/industrial/docs/annual_report_smarts_helpguide.pdf"
+ ],
+ "Q3": [
+  "https://www.waterboards.ca.gov/sanfranciscobay/basin_planning.html"
+ ],
+ "Q4": [
+  "https://www.waterboards.ca.gov/losangeles/water_issues/programs/basin_plan/"
+ ],
+ "W1": [
+  "https://www.waterboards.ca.gov/resources/fees/stakeholder/docs/fee-schedule-summary.pdf",
+  "https://www.waterboards.ca.gov/resources/fees/water_rights",
+  "https://www.waterboards.ca.gov/resources/fees/stakeholder/docs/2026/fy2627-wrfees-nper.pdf"
+ ],
+ "W2": [
+  "https://www.waterboards.ca.gov/waterrights/water_issues/programs/water_diversion_reporting"
+ ],
+ "W3": [
+  "https://www.waterboards.ca.gov/resources/fees/stakeholder/docs/fee-schedule-summary.pdf",
+  "https://www.waterboards.ca.gov/waterrights/water_issues/programs/registrations/",
+  "https://www.waterboards.ca.gov/waterrights/water_issues/programs/registrations/docs/fees.pdf"
+ ],
+ "W4": [
+  "https://www.waterboards.ca.gov/resources/fees/water_rights"
+ ],
+ "F1": [
+  "https://www.waterboards.ca.gov/water_issues/programs/ustcf/rust.html"
+ ],
+ "F2": [
+  "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/2026/ww-grant-fact-sheet-2627.pdf",
+  "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/2026/cwsrf-iup-sfy2026-27-final.pdf",
+  "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/docs/ww-grant-fact-sheet.pdf"
+ ],
+ "F3": [
+  "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/",
+  "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/srf_forms.html"
+ ],
+ "F4": [
+  "https://www.waterboards.ca.gov/water_issues/programs/grants_loans/srf/"
+ ],
+ "R1": [
+  "https://www.waterboards.ca.gov/centralvalley/about_us/contact_us/"
+ ],
+ "R2": [
+  "https://www.waterboards.ca.gov/sanfranciscobay/about_us/contact_us.html"
+ ],
+ "R3": [
+  "https://www.waterboards.ca.gov/centralvalley/about_us/contact_us/",
+  "https://www.waterboards.ca.gov/centralvalley/about_us/board_members/"
+ ],
+ "R4": [
+  "https://www.waterboards.ca.gov/waterboards_map.html",
+  "https://www.waterboards.ca.gov/lahontan/",
+  "https://www.waterboards.ca.gov/lahontan/about_us/contact_us.html"
+ ],
+ "R5": [
+  "https://www.waterboards.ca.gov/waterboards_map.html",
+  "https://www.waterboards.ca.gov/about_us/contact_us/"
+ ]
+}

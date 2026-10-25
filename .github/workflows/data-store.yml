@@ -1,0 +1,54 @@
+name: Build data store
+
+# Downloads the Tier 1 pages and files listed in data/sources.csv, extracts their text, and commits the
+# snapshot to data/corpus/ (Vercel then redeploys with it). Runs when the source list changes, or by hand
+# from the Actions tab ("Run workflow").
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - data/sources.csv
+      - data/inventory/**
+      - scripts/build-corpus.ts
+      - lib/extract.ts
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-store
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Rebuild the source list from the inventory (Tier 1 only)
+        run: npm run sources
+      - name: Download and extract the Tier 1 pages and files
+        run: npm run corpus
+      - name: Add embeddings (skipped if the GEMINI_API_KEY secret is not set)
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run embed
+      - name: Commit the snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sources.csv data/corpus
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update data store snapshot"
+            git push
+          fi
