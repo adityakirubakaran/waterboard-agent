@@ -13,6 +13,11 @@ const TERMS: [RegExp, string][] = [
   [/\b(?:sewage|sewer plant)\b/i, "wastewater"],
   [/\b(?:appeal|challenge)\b/i, "petition for review"],
   [/\bgas station tanks?\b/i, "underground storage tank UST"],
+  [/\bstock ?ponds?\b/i, "Livestock Stockpond registration"],
+  [/\b(?:credit|debit) cards?\b|\bpay(?:ing)? online\b/i, "payment methods accepted ACH EFT electronic payment"],
+  [/\b(?:written|public) comments?\b/i, "comment letters commentletters agenda deadline"],
+  [/\bwater quality (?:rules|standards|regulations)\b/i, "Basin Plan water quality control plan"],
+  [/\b(?:my|our)\b.*\b(?:status|processed|owe|balance|account|application)\b/i, "program contact phone email"],
 ];
 
 export function officialTermsQuery(question: string): string | undefined {
@@ -22,8 +27,13 @@ export function officialTermsQuery(question: string): string | undefined {
   const words = new Set(q.toLowerCase().split(/\W+/));
   const extra = [...new Set(add.join(" ").split(" "))].filter((w) => !words.has(w.toLowerCase()));
   // wastewater grades are written "Grade II"; drinking water grades are T1-T5 and D1-D5
-  for (const m of q.matchAll(/\bgrade\s*([1-5])\b/gi)) {
+  for (const m of q.matchAll(/\bgrade\s*([1-9])\b/gi)) {
     const n = Number(m[1]);
+    // operator grades stop at 5 (I to V, T5, D5), so a higher grade needs the program's contact, not a fee
+    if (n > 5) {
+      extra.push("grades I to V program contact phone email");
+      continue;
+    }
     extra.push(`Grade ${ROMAN[n]}`);
     if (/drinking|treatment|distribution/i.test(q)) extra.push(`T${n} D${n}`);
   }

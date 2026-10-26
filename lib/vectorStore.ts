@@ -68,11 +68,24 @@ export function fromVectorData(data: string): string {
 export type VectorSearch = (queries: string[], topK: number) => Promise<Hit[]>;
 
 /** Query the index once per search query and merge the result lists by rank (reciprocal rank fusion). */
+/**
+ * Files filed under this year or last (".../2026/...", "...-2026.pdf"). The index holds decades of agendas and
+ * notices that repeat the same wording, so without this the current agenda or schedule can lose to a 2014 copy.
+ */
+export function recentFilter(now = new Date()): string {
+  const y = now.getFullYear();
+  return `url GLOB '*${y}*' OR url GLOB '*${y - 1}*'`;
+}
+
 export const upstashSearch: VectorSearch = async (queries, topK) => {
   const index = vectorIndex();
-  const lists = await Promise.all(
-    queries.map((q) => index.query({ data: q.slice(0, 2000), topK, includeMetadata: true, includeData: true })),
-  );
+  const ask = (q: string, filter?: string) =>
+    index.query({ data: q.slice(0, 2000), topK: filter ? 10 : topK, includeMetadata: true, includeData: true, filter });
+  const lists = await Promise.all([
+    ...queries.map((q) => ask(q)),
+    // one more search limited to recent files; if the filter is refused, search without it rather than fail
+    ask(queries[1] ?? queries[0], recentFilter()).catch(() => []),
+  ]);
   const fused = new Map<string, Hit>();
   for (const list of lists) {
     list.forEach((r, rank) => {

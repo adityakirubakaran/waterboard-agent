@@ -86,3 +86,21 @@ test("the site's own words are added to the search", async () => {
   assert.match(officialTermsQuery("How much is the grade 3 drinking water exam?") ?? "", /T3 D3/);
   assert.equal(officialTermsQuery("When is my annual water use report due?"), undefined);
 });
+
+test("visitor words for payments, stock ponds, comments and own records get the site's terms", async () => {
+  const { officialTermsQuery } = await import("../lib/queryTerms");
+  assert.match(officialTermsQuery("How much does it cost to register a small stock pond for my cattle?") ?? "", /Livestock Stockpond/);
+  assert.match(officialTermsQuery("Can I pay my drinking water operator renewal fee with a credit card?") ?? "", /ACH/);
+  assert.match(officialTermsQuery("How do I send the State Water Board a written comment about something on its meeting agenda?") ?? "", /commentletters/);
+  assert.match(officialTermsQuery("Our city has a Clean Water SRF loan. How much do we still owe on it?") ?? "", /contact phone email/);
+});
+
+test("the recent-files search covers this year and last", async () => {
+  const { recentFilter } = await import("../lib/vectorStore");
+  assert.equal(recentFilter(new Date("2026-10-26T12:00:00Z")), "url GLOB '*2026*' OR url GLOB '*2025*'");
+});
+
+test("a grade that does not exist asks the search for the program contact", async () => {
+  const { officialTermsQuery } = await import("../lib/queryTerms");
+  assert.match(officialTermsQuery("How much does it cost to take the test for a grade 6 wastewater operator license?") ?? "", /program contact/);
+});

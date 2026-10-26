@@ -23,7 +23,7 @@ export const geminiCall: ModelCall = async (system, contents) => {
         contents: contents.map((c) => ({ role: c.role, parts: [{ text: c.text }] })),
         config: {
           systemInstruction: system,
-          temperature: 0.2,
+          temperature: 0,
           responseMimeType: "application/json",
           responseJsonSchema: RESPONSE_SCHEMA,
           // No `tools`: the model cannot search the web, open URLs or run code.
