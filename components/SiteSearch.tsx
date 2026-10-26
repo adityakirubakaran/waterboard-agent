@@ -3,12 +3,12 @@
 import { useState } from "react";
 import { askAssistant } from "./ask";
 
-/** The header search box hands the query to the assistant. */
+/** The hero question box. It hands the question to the assistant in the corner. */
 export default function SiteSearch() {
   const [q, setQ] = useState("");
   return (
     <form
-      className="search"
+      className="askbox"
       role="search"
       onSubmit={(e) => {
         e.preventDefault();
@@ -16,10 +16,20 @@ export default function SiteSearch() {
         setQ("");
       }}
     >
-      <label htmlFor="site-search" className="sr-only">
-        Ask a question
+      <label htmlFor="site-ask" className="sr-only">
+        Your question
       </label>
-      <input id="site-search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Ask a question about the Water Boards" />
+      <svg className="askbox-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="11" cy="11" r="6.5" />
+        <path d="m16 16 4.5 4.5" />
+      </svg>
+      <input
+        id="site-ask"
+        value={q}
+        onChange={(e) => setQ(e.target.value)}
+        placeholder="Ask about a fee, permit, deadline or form"
+        autoComplete="off"
+      />
       <button type="submit">Ask</button>
     </form>
   );

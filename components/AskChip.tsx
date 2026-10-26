@@ -2,10 +2,17 @@
 
 import { askAssistant } from "./ask";
 
-export default function AskChip({ question }: { question: string }) {
+/** A question that opens the assistant and asks it. "chip" sits under the hero box; "inline" ends a program list. */
+export default function AskChip({ question, variant = "chip" }: { question: string; variant?: "chip" | "inline" }) {
   return (
-    <button type="button" className="chip" onClick={() => askAssistant(question)}>
-      {question}
+    <button type="button" className={variant === "chip" ? "chip" : "ask-inline"} onClick={() => askAssistant(question)}>
+      {variant === "inline" ? (
+        <>
+          <span className="ask-inline-label">Ask</span> {question}
+        </>
+      ) : (
+        question
+      )}
     </button>
   );
 }
