@@ -1,10 +1,11 @@
 {
   "startedAt": "2026-10-26T01:00:10.031Z",
-  "updatedAt": "2026-10-26T09:47:27.272Z",
-  "runs": 2,
-  "docsOk": 40387,
-  "docsFailed": 5752,
-  "passages": 1049372,
-  "frontier": 78661,
-  "finished": false
+  "updatedAt": "2026-10-26T13:45:55.555Z",
+  "runs": 3,
+  "docsOk": 42696,
+  "docsFailed": 5785,
+  "passages": 1250102,
+  "frontier": 90651,
+  "finished": false,
+  "stoppedBecause": "reached maxPassages (1250000)"
 }
