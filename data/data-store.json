@@ -15,7 +15,7 @@
       "https://www.waterboards.ca.gov/"
     ],
     "useSitemap": true,
-    "maxDocs": 60000,
+    "maxDocs": 200000,
     "maxPassages": 1250000,
     "maxPassagesPerDoc": 150,
     "maxPdfPages": 40,
