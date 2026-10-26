@@ -70,3 +70,19 @@ test("pasted Upstash settings are cleaned up", async () => {
   assert.equal(cleanSetting("'abc123='\n", "UPSTASH_VECTOR_REST_TOKEN"), "abc123=");
   assert.equal(cleanSetting(undefined, "UPSTASH_VECTOR_REST_URL"), "");
 });
+
+test("a page only the full-site index has outranks snapshot-only pages", () => {
+  const faq = hit("F-1", "https://x/faq.pdf", "faq text");
+  const snapshot = [faq, hit("D-1", "https://x/drinking-water-fees.pdf", "drinking water fees"), hit("O-1", "https://x/other", "other")];
+  const fullSite = [hit("f1-1", "https://x/faq.pdf", "faq text"), hit("w1-1", "https://x/ww-fee-schedule.pdf", "wastewater fees")];
+  const merged = mergeHits([fullSite, snapshot], 10, 3, [1, 0.5]).map((h) => h.chunk.url);
+  assert.deepEqual(merged.slice(0, 2), ["https://x/faq.pdf", "https://x/ww-fee-schedule.pdf"]);
+});
+
+test("the site's own words are added to the search", async () => {
+  const { officialTermsQuery } = await import("../lib/queryTerms");
+  const q = officialTermsQuery("How much does it cost to take the test for a grade 2 wastewater operator license?") ?? "";
+  for (const w of ["examination", "certificate", "fee schedule", "Grade II"]) assert.ok(q.includes(w), w);
+  assert.match(officialTermsQuery("How much is the grade 3 drinking water exam?") ?? "", /T3 D3/);
+  assert.equal(officialTermsQuery("When is my annual water use report due?"), undefined);
+});

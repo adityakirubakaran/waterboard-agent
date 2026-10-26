@@ -50,11 +50,18 @@ const STATE_DIR = opt("--state-dir");
 const MAX_MINUTES = Number(opt("--max-minutes") ?? 320);
 const DRY = flag("--dry-run");
 const SAVE_EVERY = 100;
-const UPSERT_BATCH = 96;
+const UPSERT_BATCH = 32;
+/** Upstash indexes new passages in the background; past this many waiting, we pause and let it catch up. */
+const MAX_PENDING = 20_000;
+/** How long to keep waiting out "backend unavailable" before ending the run (the next run resumes). */
+const MAX_BUSY_MS = 20 * 60_000;
 const BOILERPLATE_SAMPLE = 150;
+const DELETE_BATCH = 500;
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 const skip = cfg.skipUrlPatterns.map((p) => new RegExp(p, "i"));
+
+class IndexWriteError extends Error {}
 
 interface Pending {
   id: string;
@@ -91,6 +98,74 @@ async function sitemapUrls(fetcher: Fetcher, origin: string): Promise<string[]> 
   return out;
 }
 
+const KEY_FILE = /fee|form|faq|guid|instruction|application|brochure|fact.?sheet|schedule|checklist|how.?to/i;
+
+async function withRetries<T>(what: string, fn: () => Promise<T>): Promise<T> {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      return await fn();
+    } catch (e) {
+      if (attempt >= 6) throw new Error(`${what} failed: ${String((e as Error)?.message ?? e).slice(0, 200)}`);
+      const wait = Math.min(60_000, 3_000 * 2 ** attempt);
+      console.warn(`[crawl] ${what} failed (${String(e).slice(0, 120)}); retrying in ${wait / 1000} s`);
+      await sleep(wait);
+    }
+  }
+}
+
+/**
+ * Apply today's limits to what earlier runs stored: pages that are now on the skip list leave the index, and
+ * long pages keep only their first maxPassagesPerDoc passages. This frees room under maxPassages for the rest
+ * of the site. Deleting is safe to repeat, so a run that stops halfway just redoes it next time.
+ */
+async function applyLimits(st: CrawlState, index: ReturnType<typeof vectorIndex> | null) {
+  const before = st.frontier.length;
+  st.frontier = st.frontier.filter((u) => !skip.some((r) => r.test(u)));
+  if (st.frontier.length < before) console.log(`[crawl] dropped ${before - st.frontier.length} queued URLs on the skip list`);
+
+  const work: { key: string; keep: number; ids: string[] }[] = [];
+  for (const [key, d] of Object.entries(st.docs)) {
+    const keep = skip.some((r) => r.test(d.url)) ? 0 : Math.min(d.chunks, cfg.maxPassagesPerDoc);
+    if (d.chunks <= keep) continue;
+    const sid = docId(key);
+    work.push({ key, keep, ids: Array.from({ length: d.chunks - keep }, (_, i) => `${sid}-${keep + i + 1}`) });
+  }
+  if (!work.length) return;
+  const total = work.reduce((n, w) => n + w.ids.length, 0);
+  console.log(`[crawl] removing ${total.toLocaleString()} stored passages from ${work.length.toLocaleString()} pages (skip list and per-page cap)`);
+  let done = 0;
+  let group: typeof work = [];
+  let ids: string[] = [];
+  const commit = async () => {
+    for (let i = 0; index && i < ids.length; i += DELETE_BATCH) {
+      const part = ids.slice(i, i + DELETE_BATCH);
+      await withRetries("deleting passages", () => index.delete(part));
+    }
+    for (const w of group) {
+      const d = st.docs[w.key];
+      st.passages -= d.chunks - w.keep;
+      d.chunks = w.keep;
+      if (w.keep === 0) {
+        d.status = "skipped";
+        d.error = "on the skip list";
+      }
+    }
+    done += ids.length;
+    group = [];
+    ids = [];
+  };
+  for (const w of work) {
+    group.push(w);
+    ids.push(...w.ids);
+    if (ids.length >= 5_000) {
+      await commit();
+      if (done % 50_000 < 5_000) console.log(`[crawl] removed ${done.toLocaleString()} of ${total.toLocaleString()}`);
+    }
+  }
+  await commit();
+  console.log(`[crawl] removed ${done.toLocaleString()} passages; ${st.passages.toLocaleString()} remain`);
+}
+
 async function main() {
   if (!DRY && !vectorConfigured()) {
     console.error("Set UPSTASH_VECTOR_REST_URL and UPSTASH_VECTOR_REST_TOKEN (or use --dry-run).");
@@ -102,8 +177,11 @@ async function main() {
     try {
       const info = await index.info();
       console.log(
-        `[crawl] Upstash index OK: ${info.vectorCount} passages stored, dimension ${info.dimension}${info.denseIndex?.embeddingModel ? `, model ${info.denseIndex.embeddingModel}` : ""}${info.sparseIndex ? ", hybrid" : ""}`,
+        `[crawl] Upstash index OK: ${info.vectorCount} passages stored (${info.pendingVectorCount} still being indexed), dimension ${info.dimension}${info.denseIndex?.embeddingModel ? `, model ${info.denseIndex.embeddingModel}` : ""}${info.sparseIndex ? ", hybrid" : ""}`,
       );
+      await index.upsert([{ id: "__crawl_check__", data: "write check", metadata: { url: "", title: "", format: "html", sourceId: "check" } }]);
+      await index.delete(["__crawl_check__"]);
+      console.log("[crawl] Upstash write check OK");
       if (!info.sparseIndex || !info.denseIndex?.embeddingModel) {
         console.warn(
           "[crawl] warning: the index should be Hybrid with Upstash's embedding models (OpenAI text-embedding-3-small + BM25); text upserts may be refused otherwise.",
@@ -158,6 +236,13 @@ async function main() {
   }
   state.runs++;
   const st = state;
+  await applyLimits(st, index);
+  // pages before PDFs, and forms, fee schedules, FAQs and guides before other PDFs, so each run reaches the
+  // files visitors ask about first; links found during the run are still visited in the order found
+  st.frontier = st.frontier
+    .map((u, i) => ({ u, i, p: !/\.pdf([?#]|$)/i.test(u) ? 0 : KEY_FILE.test(u) ? 1 : 2 }))
+    .sort((a, b) => a.p - b.p || a.i - b.i)
+    .map((x) => x.u);
   const known = new Set<string>([...Object.keys(st.docs), ...st.frontier.map(urlKey)]);
   const boiler = new Set(st.boilerplate ?? []);
   let boilerReady = Boolean(st.boilerplate);
@@ -182,6 +267,35 @@ async function main() {
     st.frontier.push(raw.replace("://waterboards.ca.gov", "://www.waterboards.ca.gov"));
   };
 
+  let lastIndexCheck = 0;
+  /** Backpressure: when Upstash has a large indexing backlog, wait for it to drain before sending more. */
+  const waitForIndex = async () => {
+    if (!index || Date.now() - lastIndexCheck < 15_000) return;
+    lastIndexCheck = Date.now();
+    for (let waited = 0; waited < MAX_BUSY_MS; waited += 20_000) {
+      try {
+        const info = await index.info();
+        if (info.pendingVectorCount < MAX_PENDING) return;
+        console.log(`[crawl] Upstash is still indexing ${info.pendingVectorCount.toLocaleString()} passages; pausing 20 s`);
+      } catch {
+        console.log("[crawl] Upstash did not answer; pausing 20 s");
+      }
+      await sleep(20_000);
+    }
+  };
+
+  const requeue = (keys: Set<string>) => {
+    for (const k of keys) {
+      const d = st.docs[k];
+      if (d) {
+        st.passages -= d.chunks;
+        delete st.docs[k];
+        docCount--;
+        st.frontier.push(d.url);
+      }
+    }
+  };
+
   const flush = async () => {
     if (!pending.length) return;
     const batch = pending;
@@ -191,34 +305,36 @@ async function main() {
     if (!index) return;
     for (let i = 0; i < batch.length; i += UPSERT_BATCH) {
       const part = batch.slice(i, i + UPSERT_BATCH);
-      let ok = false;
-      for (let attempt = 0; attempt < 4 && !ok; attempt++) {
+      await waitForIndex();
+      let busyMs = 0;
+      for (let attempt = 0; ; attempt++) {
         try {
           await index.upsert(part);
-          ok = true;
+          break;
         } catch (e) {
-          console.warn(`[crawl] upsert failed (${String(e).slice(0, 160)}); retrying`);
-          await sleep(3000 * 2 ** attempt);
-        }
-      }
-      if (!ok) {
-        // put those pages back so the next run redoes them, then stop
-        for (const k of keys) {
-          const d = st.docs[k];
-          if (d) {
-            st.passages -= d.chunks;
-            delete st.docs[k];
-            docCount--;
-            st.frontier.push(d.url);
+          const msg = String(e).slice(0, 160);
+          const auth = /unauthori[sz]ed|forbidden|invalid auth|read.?only|permission/i.test(msg);
+          if (auth || busyMs >= MAX_BUSY_MS) {
+            requeue(keys);
+            stopReason = auth
+              ? `Upstash refused the token (${msg}); check UPSTASH_VECTOR_REST_TOKEN`
+              : `Upstash was unavailable for ${Math.round(busyMs / 60_000)} minutes; the next run will continue`;
+            throw new IndexWriteError(stopReason);
           }
+          // usually Upstash catching up on indexing: back off, up to 2 minutes at a time
+          const wait = Math.min(120_000, 5_000 * 2 ** attempt);
+          console.warn(`[crawl] Upstash busy (${msg}); waiting ${Math.round(wait / 1000)} s`);
+          await sleep(wait);
+          busyMs += wait;
+          lastIndexCheck = 0;
+          await waitForIndex();
         }
-        throw new Error("could not write to the Upstash index");
       }
     }
   };
 
   const store = async (url: string, key: string, title: string, format: "html" | "pdf", date: string | undefined, passages: Passage[]) => {
-    passages = passages.filter((p) => p.text.replace(/\W/g, "").length > 20);
+    passages = passages.filter((p) => p.text.replace(/\W/g, "").length > 20).slice(0, cfg.maxPassagesPerDoc);
     const sid = docId(key);
     const prev = st.docs[key]?.chunks ?? 0;
     passages.forEach((p, i) => {
@@ -256,7 +372,11 @@ async function main() {
   };
 
   const save = async (finished: boolean) => {
-    await flush();
+    try {
+      await flush();
+    } catch (e) {
+      if (!(e instanceof IndexWriteError)) throw e;
+    }
     st.frontier = st.frontier.slice(cursor);
     cursor = 0;
     st.updatedAt = new Date().toISOString();
@@ -312,6 +432,7 @@ async function main() {
           }
         }
       } catch (e) {
+        if (e instanceof IndexWriteError) break; // those pages went back in the queue
         if (!st.docs[key]) docCount++;
         st.docs[key] = { url, status: "error", chunks: 0, error: String((e as Error)?.message ?? e).slice(0, 160), at: new Date().toISOString() };
       } finally {

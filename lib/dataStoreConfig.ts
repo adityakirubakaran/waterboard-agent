@@ -18,11 +18,13 @@ export interface FullSiteConfig {
   maxDocs: number;
   /** Upstash pay-as-you-go allows 2B vectors x dimensions; at 1,536 dimensions that is about 1.3M passages. */
   maxPassages: number;
+  /** Long pages (big data tables, huge reports) keep only their first this-many passages. */
+  maxPassagesPerDoc: number;
   maxPdfPages: number;
   maxPdfMegabytes: number;
   concurrency: number;
   gapMs: number;
-  /** Regular expressions; matching URLs are not crawled. */
+  /** Regular expressions; matching URLs are not crawled, and pages already stored that match leave the index. */
   skipUrlPatterns: string[];
 }
 
@@ -30,7 +32,8 @@ const FULL_SITE_DEFAULTS: FullSiteConfig = {
   startUrls: ["https://www.waterboards.ca.gov/"],
   useSitemap: true,
   maxDocs: 60000,
-  maxPassages: 1000000,
+  maxPassages: 1250000,
+  maxPassagesPerDoc: 150,
   maxPdfPages: 40,
   maxPdfMegabytes: 25,
   concurrency: 4,

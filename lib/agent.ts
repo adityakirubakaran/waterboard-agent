@@ -1,6 +1,7 @@
 import type { AgentAnswer, AnswerStatus, ChatMessage, CitedSource } from "./types";
 import { corpusAvailable, loadCorpus, normalize, retrieve, type Corpus, type Hit } from "./retrieval";
 import { upstashSearch, vectorConfigured, type VectorSearch } from "./vectorStore";
+import { officialTermsQuery } from "./queryTerms";
 import { CHAT_MODEL, REWRITE_MODEL, embedTexts, gemini, withRetry } from "./gemini";
 import { CONTACT_PAGE, REGIONAL_MAP, RESPONSE_SCHEMA, REWRITE_INSTRUCTION, systemInstruction } from "./prompt";
 
@@ -152,18 +153,22 @@ export const geminiEmbedQuery = async (q: string): Promise<Float32Array | undefi
 };
 
 /** Same passage from both stores (or twice from one) counts once. */
-function passageKey(h: Hit): string {
+export function passageKey(h: Hit): string {
   return `${h.chunk.url.split("#")[0].replace(/\/$/, "")}|${h.chunk.page ?? ""}|${h.chunk.text.slice(0, 120)}`;
 }
 
-/** Merge ranked lists by reciprocal rank, then keep at most `perSource` passages per page and `k` in all. */
-export function mergeHits(lists: Hit[][], k: number, perSource = 3): Hit[] {
+/**
+ * Merge ranked lists by reciprocal rank, then keep at most `perSource` passages per page and `k` in all.
+ * `weights` (one per list, default 1) lets one store count for more than another.
+ */
+export function mergeHits(lists: Hit[][], k: number, perSource = 3, weights: number[] = []): Hit[] {
   const fused = new Map<string, Hit>();
-  for (const list of lists) {
+  for (const [li, list] of lists.entries()) {
+    const w = weights[li] ?? 1;
     list.forEach((h, rank) => {
       const key = passageKey(h);
       const prev = fused.get(key);
-      const add = 1 / (60 + rank + 1);
+      const add = w / (60 + rank + 1);
       if (prev) prev.score += add;
       else fused.set(key, { ...h, score: add });
     });
@@ -181,12 +186,25 @@ export function mergeHits(lists: Hit[][], k: number, perSource = 3): Hit[] {
   return out;
 }
 
-export async function answerQuestion(messages: ChatMessage[], opts: AnswerOptions = {}): Promise<AgentAnswer> {
-  const corpus = opts.corpus ?? (corpusAvailable() ? loadCorpus() : undefined);
-  const model = opts.model ?? geminiCall;
-  const convo = messages.slice(-MAX_TURNS);
-  const question = convo[convo.length - 1]?.content?.trim() ?? "";
+/**
+ * The saved snapshot is a small, older subset of the full-site index, so most of its passages are in both.
+ * Counted at full weight, a page in both stores always outranked a page only the full-site index has (for
+ * example the current wastewater fee schedule), and the newer page never reached the model.
+ */
+export const SNAPSHOT_WEIGHT = 0.5;
+export const EXCERPTS = 14;
 
+export interface SearchResult {
+  queries: string[];
+  fullSite?: Hit[];
+  fullSiteError?: string;
+  snapshot?: Hit[];
+  hits: Hit[];
+}
+
+/** Search both stores with the visitor's words, the rewritten queries and the site's own vocabulary. */
+export async function searchAll(convo: ChatMessage[], opts: AnswerOptions & { corpus?: Corpus } = {}): Promise<SearchResult> {
+  const corpus = opts.corpus;
   const base = retrievalQuery(convo);
   let rewritten: string[] | undefined;
   if (opts.rewrite !== false) {
@@ -196,22 +214,49 @@ export async function answerQuestion(messages: ChatMessage[], opts: AnswerOption
       console.warn("[agent] query rewrite failed, searching with the visitor's words:", String(e).slice(0, 200));
     }
   }
-  const queries = [base, ...(rewritten ?? [])];
-  const k = opts.k ?? 10;
-  const lists: Hit[][] = [];
-  if (corpus) {
-    const queryVector = corpus.vectors ? await (opts.embedQuery ?? geminiEmbedQuery)(rewritten?.[0] ?? base) : undefined;
-    lists.push(retrieve(corpus, queries, { k: 40, perSource: 3, queryVector }));
-  }
+  const official = officialTermsQuery(convo.filter((m) => m.role === "user").pop()?.content ?? base);
+  const queries = [...new Set([base, ...(rewritten ?? []), ...(official ? [official] : [])])];
+
+  const out: SearchResult = { queries, hits: [] };
   const search = opts.vectorSearch === false ? undefined : opts.vectorSearch ?? (vectorConfigured() ? upstashSearch : undefined);
-  if (search) {
-    try {
-      lists.push(await search(queries, 20));
-    } catch (e) {
-      console.warn("[agent] full-site search failed, using the snapshot only:", String(e).slice(0, 200));
-    }
+  const [snapshot, fullSite] = await Promise.all([
+    corpus
+      ? (async () => {
+          const queryVector = corpus.vectors ? await (opts.embedQuery ?? geminiEmbedQuery)(rewritten?.[0] ?? base) : undefined;
+          return retrieve(corpus, queries, { k: 40, perSource: 3, queryVector });
+        })()
+      : undefined,
+    search
+      ? search(queries, 20).catch((e) => {
+          out.fullSiteError = String((e as Error)?.message ?? e).slice(0, 300);
+          console.warn("[agent] full-site search failed, using the snapshot only:", out.fullSiteError);
+          return undefined;
+        })
+      : undefined,
+  ]);
+  out.snapshot = snapshot;
+  out.fullSite = fullSite;
+  const lists: Hit[][] = [];
+  const weights: number[] = [];
+  if (fullSite) {
+    lists.push(fullSite);
+    weights.push(1);
   }
-  const hits = mergeHits(lists, k);
+  if (snapshot) {
+    lists.push(snapshot);
+    weights.push(fullSite ? SNAPSHOT_WEIGHT : 1);
+  }
+  out.hits = mergeHits(lists, opts.k ?? EXCERPTS, 3, weights);
+  return out;
+}
+
+export async function answerQuestion(messages: ChatMessage[], opts: AnswerOptions = {}): Promise<AgentAnswer> {
+  const corpus = opts.corpus ?? (corpusAvailable() ? loadCorpus() : undefined);
+  const model = opts.model ?? geminiCall;
+  const convo = messages.slice(-MAX_TURNS);
+  const question = convo[convo.length - 1]?.content?.trim() ?? "";
+
+  const { hits, queries } = await searchAll(convo, { ...opts, corpus });
 
   const contents: { role: "user" | "model"; text: string }[] = convo.slice(0, -1).map((m) => ({
     role: m.role === "user" ? "user" : "model",

@@ -50,7 +50,13 @@ visitor question
 ## Full-site search (whole waterboards.ca.gov)
 
 The chat can also search a crawl of the whole site, kept in an Upstash Vector index. When the index is set up, every
-question searches both the snapshot in `data/corpus/` and the index, and the results are merged.
+question searches both the snapshot in `data/corpus/` and the index, and the results are merged. The index counts
+for more: the snapshot is a small, older subset of it, and at equal weight its pages crowded out newer ones that only
+the index has (such as the current wastewater fee schedule).
+
+**Search check:** open `/api/search?q=your+question` on the site to see the passages the assistant would read for a
+question, whether each came from the index or the snapshot, and whether the index is reachable (`stillIndexing` is
+how many new passages Upstash has not finished indexing). It does not call the chat model or log the question.
 
 1. **Create the index** at console.upstash.com → Vector → Create Index: name `waterboards`, region `us-east-1`, type
    **Hybrid**, dense model **OpenAI text-embedding-3-small**, sparse model **BM25**, plan **Pay as You Go** (the free
@@ -64,9 +70,13 @@ question searches both the snapshot in `data/corpus/` and the index, and the res
 The crawler (`scripts/crawl-site.ts`) starts from the inventory pages, the home page and the sitemap, then follows
 links breadth-first on www.waterboards.ca.gov only: pages and PDFs, no search URLs, no other websites. It sends one
 request every 0.4 s at most, backs off when the site answers 403/429, and pauses for 10 minutes if refusals keep
-coming. Limits live in `data/data-store.json` under `fullSite` (`maxDocs`, `maxPassages`, `maxPdfPages`,
-`skipUrlPatterns`). Upstash pay-as-you-go allows about 1.3 million passages at 1,536 dimensions; `maxPassages`
-stops at 1 million.
+coming. Limits live in `data/data-store.json` under `fullSite` (`maxDocs`, `maxPassages`, `maxPassagesPerDoc`,
+`maxPdfPages`, `skipUrlPatterns`). Upstash pay-as-you-go allows about 1.3 million passages at 1,536 dimensions;
+`maxPassages` stops at 1.25 million. Each run first applies the current limits to what is already stored: pages
+that now match `skipUrlPatterns` are deleted from the index and long pages are cut to `maxPassagesPerDoc`, so
+changing the limits and running the workflow again (without "Start over") frees the room. The skip list leaves out
+the 2024 Integrated Report appendix fact sheets and the TMDL reference records, which had filled 80% of the index.
+Pages come before PDFs in each run, and forms, fee schedules, FAQs and guides before other PDFs.
 
 Cost: storage is $0.25/GB and searches $0.40 per 100,000 on Upstash pay-as-you-go; each chat question makes up to
 four searches. Upstash's pricing page does not list a separate charge for its hosted embedding model.
@@ -174,8 +184,10 @@ app/page.tsx                 mock Water Boards page (banner, header, topics, abo
 components/ChatWidget.tsx    bottom-right chat box
 app/api/chat/route.ts        chat endpoint
 app/api/questions/route.ts   question log CSV export (needs ADMIN_TOKEN)
+app/api/search/route.ts      search check: what the assistant would read for a question
 lib/agent.ts                 retrieval -> Gemini -> guardrails
 lib/prompt.ts                the model's rules
+lib/queryTerms.ts            adds the site's own words to a search (test -> examination, grade 2 -> Grade II)
 lib/retrieval.ts             keyword + vector search over the snapshot
 lib/questionLog.ts           question logging and scrubbing
 data/data-store.json         what goes into the data store (tiers, link following, limits)

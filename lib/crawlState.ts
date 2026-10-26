@@ -5,7 +5,8 @@ import zlib from "node:zlib";
 
 export interface CrawlDoc {
   url: string;
-  status: "ok" | "error";
+  /** "skipped": stored once, then removed from the index because it is now on the skip list. */
+  status: "ok" | "error" | "skipped";
   chunks: number;
   title?: string;
   date?: string;

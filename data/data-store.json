@@ -16,11 +16,16 @@
     ],
     "useSitemap": true,
     "maxDocs": 60000,
-    "maxPassages": 1000000,
+    "maxPassages": 1250000,
+    "maxPassagesPerDoc": 150,
     "maxPdfPages": 40,
     "maxPdfMegabytes": 25,
     "concurrency": 4,
     "gapMs": 400,
-    "skipUrlPatterns": []
+    "_skipAbout": "The 2024 Integrated Report appendix fact sheets (one page per water body and pollutant) and the TMDL reference records filled 80% of the index and crowded out everything else.",
+    "skipUrlPatterns": [
+      "/water_issues/programs/tmdl/\\d{4}_\\d{4}state_ir_reports/apx-",
+      "/water_issues/programs/tmdl/records/"
+    ]
   }
 }
