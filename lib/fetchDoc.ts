@@ -29,6 +29,9 @@ export interface FetchedDoc {
   pdfTotalPages?: number;
 }
 
+/** Longest we spend reading one PDF's text. */
+const PDF_READ_MS = 60_000;
+
 export class FatalFetchError extends Error {
   fatal = true;
 }
@@ -105,23 +108,41 @@ export class Fetcher {
     throw last;
   }
 
-  /** Text of each PDF page, up to maxPdfPages. */
+  /**
+   * Text of each PDF page, up to maxPdfPages. A damaged page is left blank instead of failing the file, and a
+   * file that takes over a minute to read is given up on, so one bad PDF can't stall or crash a crawl.
+   */
   async pdfToPages(buf: Buffer): Promise<{ pages: string[]; total: number }> {
     const doc = await getDocumentProxy(new Uint8Array(buf), { verbosity: 0 }); // errors only, no font warnings
-    const total = doc.numPages;
-    const pages: string[] = [];
-    for (let i = 1; i <= Math.min(total, this.o.maxPdfPages); i++) {
-      const page = await doc.getPage(i);
-      const content = await page.getTextContent();
-      let text = "";
-      for (const item of content.items as { str?: string; hasEOL?: boolean }[]) {
-        if (typeof item.str !== "string") continue;
-        text += item.str + (item.hasEOL ? "\n" : "");
+    const read = async () => {
+      const total = doc.numPages;
+      const pages: string[] = [];
+      for (let i = 1; i <= Math.min(total, this.o.maxPdfPages); i++) {
+        try {
+          const page = await doc.getPage(i);
+          const content = await page.getTextContent();
+          let text = "";
+          for (const item of content.items as { str?: string; hasEOL?: boolean }[]) {
+            if (typeof item.str !== "string") continue;
+            text += item.str + (item.hasEOL ? "\n" : "");
+          }
+          pages.push(text);
+        } catch {
+          pages.push("");
+        }
       }
-      pages.push(text);
+      return { pages, total };
+    };
+    let timer: NodeJS.Timeout | undefined;
+    const tooSlow = new Promise<never>((_, reject) => {
+      timer = setTimeout(() => reject(new FatalFetchError("PDF took too long to read")), PDF_READ_MS);
+    });
+    try {
+      return await Promise.race([read(), tooSlow]);
+    } finally {
+      clearTimeout(timer);
+      await doc.cleanup().catch(() => undefined);
     }
-    await doc.cleanup().catch(() => undefined);
-    return { pages, total };
   }
 
   /** Turn downloaded bytes into a page or PDF text. Throws for other file types. */

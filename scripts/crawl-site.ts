@@ -166,6 +166,13 @@ async function applyLimits(st: CrawlState, index: ReturnType<typeof vectorIndex>
   console.log(`[crawl] removed ${done.toLocaleString()} passages; ${st.passages.toLocaleString()} remain`);
 }
 
+// The PDF reader sometimes rejects an internal promise for a damaged file (for example
+// "FormatError: Invalid number"). Node would end the whole run for that, so log it and keep crawling;
+// the file itself is recorded as failed by the normal error path.
+process.on("unhandledRejection", (e) => {
+  console.warn(`[crawl] ignored an error from the PDF reader: ${String((e as Error)?.message ?? e).slice(0, 160)}`);
+});
+
 async function main() {
   if (!DRY && !vectorConfigured()) {
     console.error("Set UPSTASH_VECTOR_REST_URL and UPSTASH_VECTOR_REST_TOKEN (or use --dry-run).");
