@@ -1,0 +1,11 @@
+{
+  "startedAt": "2026-10-26T01:00:10.031Z",
+  "updatedAt": "2026-10-26T04:37:50.921Z",
+  "runs": 1,
+  "docsOk": 14828,
+  "docsFailed": 1124,
+  "passages": 1000074,
+  "frontier": 37056,
+  "finished": false,
+  "stoppedBecause": "reached maxPassages (1000000)"
+}
