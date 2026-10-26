@@ -1,9 +1,8 @@
 Specialized Training Providers and Courses
 https://www.waterboards.ca.gov/drinking_water/certlic/occupations/documents/opcert/specialized_training_courses.pdf
-Date printed: Rev. 2/12/26
+Date printed: none found
 
-[page 1] Return to first page
-Rev. 2/12/26
+[page 1] Return to first pageRev. 10/6/26
 Specialized Training Providers
 Per regulations, a specialized training course is defined as a college-level course providing at least 36 contact hours of training in drinking water or wastewater quality, drinking water or wastewater treatment, drinking water distribution or drinking water or wastewater facility operation, offered by an accredited academic institution or an organization either accredited by the International Association of Continuing Education Training (IACET) or an authorized IACET provider. The following list represents courses the State Water Resources Control Board (SWRCB) has reviewed and previously accepted as specialized training courses for our drinking water distribution and treatment exams. If a course is not / no longer at least 36 hours, or if it is an exam prep course, it will not be accepted as a specialized training course. For reference, 3.6 Continuing Education Units (CEUs) is equivalent to 36 contact hours. Please verify course length before committing to the class.
 An "X" in the DWT column means the course counts as a drinking water treatment (DWT) OR a DW distribution course.
@@ -15,10 +14,11 @@ Some providers are noted as “NOT CURRENT” and may no longer be offering spec
 Any courses listed in RED are “archived” and no longer offered by the provider but are still acceptable for exam qualification.
 ONLINE COURSES IACET PROVIDERS
 American Water College CA-NV-AWWA Water College
-Cañada College CRWA Academy of Water Education
-Michigan State University Mitch’s Certification Classes Verified Group Educational Services OCT Water Quality Academy Water Industry Training Specialists
+Michigan State University CRWA Academy of Water Education Verified Group Educational Services Mitch’s Certification Classes OCT Water Quality Academy
+Water Industry Training Specialists
 CORRESPONDENCE COURSES OTHER APPROVED PROVIDERS
 Office of Water Programs, CSU Sacramento Golden State Water Company (NOT CURRENT)
+Roseville Adult School
 NORTHERN CALIFORNIA COLLEGES SOUTHERN CALIFORNIA COLLEGES College of the Redwoods (Eureka) Antelope Valley College (Lancaster)
 
 [page 1] NORTHERN CALIFORNIA COLLEGES SOUTHERN CALIFORNIA COLLEGES College of the Redwoods (Eureka) Antelope Valley College (Lancaster)
@@ -32,10 +32,10 @@ Ohlone College (Fremont) (NOT CURRENT) CSU Northridge Sacramento City College Cu
 San Jose Evergreen Community College (NOT CURRENT) Cuyamaca College (San Diego)
 San Jose State University Glendale Community College Santa Rosa Junior College Imperial Valley College
 Shasta College (Redding) Los Angeles Trade-Technical College Solano Community College (Fairfield) Mesa College (San Diego) (NOT CURRENT)
-UC Davis (NOT CURRENT) Mt. San Antonio College (Walnut)
+Specialized Training Providers
 
-[page 2] Return to first page
-Rev. 2/12/26
+[page 2] Return to first pageRev. 10/6/26
+UC Davis (NOT CURRENT) Mt. San Antonio College (Walnut)
 Woodland Community College Mt. San Jacinto College (San Jacinto)
 Workforce Institute (San Jose) (NOT CURRENT) Palomar College (San Marcos)
 Yuba College (Marysville) Reedley College (NOT CURRENT)
@@ -59,22 +59,17 @@ Water Treatment Basics X X X
 Advanced Water Treatment X X X
 Water Quality X
 Water Treatment Math X
-CAÑADA COLLEGE DWT WSP SUPPL.
-Phone: (650) 381-2247
-Website: https://canadacollege.edu/menloparksite/programs/water-treatment-and-distribution-program.php Email: canadamenloparkcenter@smccd.edu
-
-[page 2] Website: https://canadacollege.edu/menloparksite/programs/water-treatment-and-distribution-program.php Email: canadamenloparkcenter@smccd.edu
-Water Distribution System Operator Certification X X Water Treatment System Operator Certification X X X MICHIGAN STATE UNIVERSITY DWT WSP SUPPL.
+MICHIGAN STATE UNIVERSITY DWT WSP SUPPL.
 Phone: (517) 355-1855
 Website: broad.msu.edu/executive-education/online-programs Email: edp@broad.msu.edu
 EDP Supervisory Management in the Water/Wastewater Field X VERIFIED GROUP EDUCATIONAL SERVICES DWT WSP SUPPL.
+
+[page 2] EDP Supervisory Management in the Water/Wastewater Field X VERIFIED GROUP EDUCATIONAL SERVICES DWT WSP SUPPL.
 Phone: (310) 893-5540
 Website: vgedservices.com
 Email: admin@vgedservices.com
 Water Treatment Fundamentals X X X
-
-[page 3] Return to first page
-Rev. 2/12/26
+Advanced Water Treatment X X X
 CORRESPONDENCE COURSES
 OFFICE OF WATER PROGRAMS, CSU SACRAMENTO DWT WSP SUPPL.
 Phone: (916) 278-6142
@@ -82,7 +77,10 @@ Website: owp.csus.edu
 Email: wateroffice@owp.csus.edu
 Water Treatment Plant Operation, Volume I X X X
 Water Treatment Plant Operation, Volume II X X X
-Water Distribution System Operation and Maintenance X X Small Water System Operation and Maintenance X X
+Water Distribution System Operation and Maintenance X X
+
+[page 3] Return to first pageRev. 10/6/26
+Small Water System Operation and Maintenance X X
 Operation of Wastewater Treatment Plants, Volume I X Operation of Wastewater Treatment Plants, Volume II X Advanced Waste Treatment X
 O&M of Wastewater Collection Systems, Volume I X
 O&M of Wastewater Collection Systems, Volume II X
@@ -101,8 +99,6 @@ Introduction to Water Distribution X X
 Introduction to Water Treatment X X X
 Backflow Tester Course X
 Cross-Connection Specialist Course X
-
-[page 3] Cross-Connection Specialist Course X
 Beginning Water Distribution (archive) X X
 Intermediate Water Distribution (archive) X X
 Advanced Water Distribution (archive) X X
@@ -110,6 +106,8 @@ Beginning Water Treatment (archive) X X X
 Intermediate Water Treatment (archive) X X X
 Advanced Water Treatment (archive) X X X
 Introduction to Water Conservation (archive) X
+
+[page 3] Introduction to Water Conservation (archive) X
 WDTO 916 Water Distribution II (archive) X X
 CRWA ACADEMY OF WATER EDUCATION DWT WSP SUPPL.
 Phone: (800) 833-0322
@@ -117,14 +115,14 @@ Website: calruralwater.org/education-training/
 Email: info@calruralwater.org
 Water Distribution Operations and Maintenance X X
 Water Treatment Operations and Maintenance X X X
-
-[page 4] Return to first page
-Rev. 2/12/26
 MITCH’S CERTIFICATION CLASSES DWT WSP SUPPL.
 Phone: (916) 441-4451
 Website: mitchscertifiedclasses.com
 Email: customerservice@mitchscertifiedclasses.com
-Backflow Prevention Assembly Tester Course (40-hour course) X Cross-Connection Control Program Specialist Course (40-hour course) X OCT WATER QUALITY ACADEMY DWT WSP SUPPL.
+Backflow Prevention Assembly Tester Course (40-hour course) X Cross-Connection Control Program Specialist Course (40-hour course) X
+
+[page 4] Return to first pageRev. 10/6/26
+OCT WATER QUALITY ACADEMY DWT WSP SUPPL.
 Phone: (866) 266-0028
 Website: www.octwqa.org
 Email: info@octinc.com
@@ -140,7 +138,12 @@ OTHER APPROVED PROVIDERS
 GOLDEN STATE WATER COMPANY
 
 [page 4] GOLDEN STATE WATER COMPANY
-WQ 100 Introduction to Water Treatment Principles (archive) X X X WQ 200 Intermediate Water Treatment Principles (archive) X X X WQ 300 Advanced Water Treatment Principles (archive) X X X WD 100 Introduction to Water Distribution Principles (archive) X X WD 200 Intermediate Water Distribution Principles (archive) X X WD 300 Advanced Water Distribution Principles (archive) X X Basic Water Distribution (So Cal Water Company) (archive) X X Intermediate Water Distribution (So Cal Water Company) (archive) X Cross-Connection and Backflow (So Cal Water Company) (archive) X COLLEGE COURSES
+WQ 100 Introduction to Water Treatment Principles (archive) X X X WQ 200 Intermediate Water Treatment Principles (archive) X X X WQ 300 Advanced Water Treatment Principles (archive) X X X WD 100 Introduction to Water Distribution Principles (archive) X X WD 200 Intermediate Water Distribution Principles (archive) X X WD 300 Advanced Water Distribution Principles (archive) X X Basic Water Distribution (So Cal Water Company) (archive) X X Intermediate Water Distribution (So Cal Water Company) (archive) X Cross-Connection and Backflow (So Cal Water Company) (archive) X ROSEVILLE ADULT SCHOOL
+Phone: 916-782-3952
+Website: https://rosevilleadult.rjuhsd.us
+Certified Water Distribution Operator X X
+Certified Water Treatment Operator X X X
+COLLEGE COURSES
 ANTELOPE VALLEY COLLEGE (LANCASTER) DWT WSP SUPPL.
 Phone: (661) 722-6300
 Website: avc.edu
@@ -148,11 +151,12 @@ WDTO 101 Applied Water Treatment and Distribution Math (formerly WDTO 915)
 X
 WDTO 115 Water Distribution I (formerly WDTO 915) X X WDTO 120 Water Treatment I (formerly WDTO 920) X X X Tech 110 Water Supply & Treatment (archive) X
 Tech 111 Water System Operation (archive) X
-Tech 113 Wastewater Treatment & Disposal I (archive) X Tech 114 Wastewater Treatment & Disposal II (archive) X
 
-[page 5] Return to first page
-Rev. 2/12/26
-Tech 115 Wastewater Treatment & Disposal III (archive) X WDTO 916 Water Distribution II (archive) X X
+[page 4] Tech 111 Water System Operation (archive) X
+Tech 113 Wastewater Treatment & Disposal I (archive) X Tech 114 Wastewater Treatment & Disposal II (archive) X Tech 115 Wastewater Treatment & Disposal III (archive) X
+
+[page 5] Return to first pageRev. 10/6/26
+WDTO 916 Water Distribution II (archive) X X
 BAKERSFIELD COLLEGE DWT WSP SUPPL.
 Phone: (661) 395-4011
 Website: bakersfieldcollege.edu
@@ -178,14 +182,14 @@ WATR 157 Water Treatment II X X X
 WATR 162 Water Use Efficiency I X
 WATR 164 Water Use Efficiency II X
 WATR 162 Water Conservation (archive) X
-CLOVIS COLLEGE (CLOVIS) DWT WSP SUPPL.
+CLOVIS COLLEGE DWT WSP SUPPL.
 Phone: (559) 325-5200
 Website: www.cloviscollege.edu
 WTD 101 Basic Drinking Water Treatment X X X
-
-[page 5] WTD 101 Basic Drinking Water Treatment X X X
 WTD 102 Advanced Drinking Water Treatment X X X
 WTD 106 Basic Wastewater Treatment X
+
+[page 5] WTD 106 Basic Wastewater Treatment X
 WTD 107 Advanced Wastewater Treatment X
 WTD 112 Water Distribution X X
 WTD 114 Water Math X
@@ -193,11 +197,10 @@ WTD 115 Drinking Water Math X
 COLLEGE OF THE CANYONS (SANTA CLARITA) DWT WSP SUPPL.
 Phone: (661) 259-7800
 Website: www.canyons.edu/water
-Water 120 Introduction to Water Systems Technology (formerly Water 020) X Water 130 Waterworks Mathematics (formerly Water 100, Water 030) X
+Water 120 Introduction to Water Systems Technology (formerly Water 020) X Water 130 Waterworks Mathematics (formerly Water 100, Water 030) X Water 131 Advanced Waterworks Mathematics (formerly Water 031) X
 
-[page 6] Return to first page
-Rev. 2/12/26
-Water 131 Advanced Waterworks Mathematics (formerly Water 031) X Water 132 Water Supply (formerly Water 032) X
+[page 6] Return to first pageRev. 10/6/26
+Water 132 Water Supply (formerly Water 032) X
 Water 135 Water Quality (formerly Water 035) X
 Water 140 Water Distribution Operator I (formerly Water 105, Water 040) X X Water 141 Water Distribution Operator II (formerly Water 106, Water 041) X X Water 150 Water Treatment Plant Operation Processes I (formerly Water 101, Water 050) X X X
 Water 151 Water Treatment Plant Operation Processes II (formerly Water 102, Water 051) X X X
@@ -212,9 +215,9 @@ Website: redwoods.edu
 WAT-10 Introduction to Water and Wastewater Technology X WAT-180 Analytical Methods for Water and Wastewater X COLLEGE OF THE SEQUOIAS (VISALIA) DWT WSP SUPPL.
 Phone: (559) 730-3700
 Website: cos.edu
-
-[page 6] Website: cos.edu
 ITEC 220 Water Treatment Fundamentals (formerly I&T 220) X X X I&T 221 Wastewater Treatment Fundamentals (archive) X COLUMBIA COLLEGE (SONORA) DWT WSP SUPPL.
+
+[page 6] ITEC 220 Water Treatment Fundamentals (formerly I&T 220) X X X I&T 221 Wastewater Treatment Fundamentals (archive) X COLUMBIA COLLEGE (SONORA) DWT WSP SUPPL.
 FNR 63 Water for Consumption (formerly NARTC 163) (archive) X X X COPPER MOUNTAIN COLLEGE (JOSHUA TREE) DWT WSP SUPPL.
 Phone: 760-366-3791
 Website: www.cmccd.edu
@@ -228,8 +231,7 @@ Phone: (805) 546-3100
 Website: cuesta.edu
 WATR 270 Basic Water Treatment (formerly CTECH 76, CTCH 176) X X X WATR 272 Water Distribution Systems (formerly CTECH 77, CTCHJ 177) X X
 
-[page 7] Return to first page
-Rev. 2/12/26
+[page 7] Return to first pageRev. 10/6/26
 CUYAMACA COLLEGE (SAN DIEGO) DWT WSP SUPPL.
 Phone: (619) 660-4000
 Website: cuyamaca.edu
@@ -251,8 +253,7 @@ ENVT 351 Math for Water and Wastewater Operators X ENVT 353 Science for Water an
 ENVT 355 Introduction to Water, Wastewater and Recycled Water Management X
 ENVT 356 Wastewater Operations and Maintenance I (archive) X ENVT 357 Wastewater Operations and Maintenance II (archive) X ENVT 358 Water Treatment Operation and Maintenance I (archive) X X X ENVT 359 Water Treatment Operation and Maintenance II (archive) X X X ENVT 360 Water Distribution Operation and Maintenance (archive) X X
 
-[page 8] Return to first page
-Rev. 2/12/26
+[page 8] Return to first pageRev. 10/6/26
 ENVT 361 Wastewater Collection Systems Operation and Maintenance (archive) X
 ENVT 380 Treatment Plant Operations I X X X
 ENVT 381 Treatment Plant Operations II X
@@ -288,8 +289,7 @@ WTRM 235 Pollution Prevention (formerly WTRM 135) X WTRM 103 Intro to Electrical
 WTRM 113 Beginning Wastewater Collection (archive) X WTRM 114 Laboratory Analysis for Water / Wastewater (archive) X WTRM 115 Supervision (archive) X
 WTRM 116 Advanced Wastewater Collections (archive) X WTRM 118 Introduction to Occupational Health and Safety (archive) X WTRM 119 Industrial Wastewater Management & Treatment (archive) X
 
-[page 9] Return to first page
-Rev. 2/12/26
+[page 9] Return to first pageRev. 10/6/26
 WTRM 121 Mechanical Maintenance (archive) X
 Water Treatment Plant Operations 2 (archive) X X X Basic Water Distribution Systems (archive) X X
 Advanced Water Distribution (archive) X X
@@ -319,8 +319,7 @@ WT 105 Computational Procedures Operator I
 WT 110 Water Treatment Plant Operator I (formerly WT 1) X X X WT 130 Wastewater Treatment Operator I (formerly WT 9) X WT 140 Water Distribution Systems (formerly WT 4) X X WT 150 Wastewater Collection Systems X
 WT 205 Computational Procedures Operator II (formerly WT 7) X
 
-[page 10] Return to first page
-Rev. 2/12/26
+[page 10] Return to first pageRev. 10/6/26
 WT 210 Water Treatment Plant Operator II (formerly WT 2) X X X WT 230 Wastewater Treatment Operator II (formerly WT 10) X WT 8 Computational Procedures for WTPO III (archive) X WT 220 Computational Procedures Operator II (formerly WT 7)
 (archive) X
 LOS ANGELES TRADE-TECHNICAL COLLEGE DWT WSP SUPPL.
@@ -357,8 +356,7 @@ W/WW Tech. 102 Calculations in Water Tech. (archive) X W/WW Tech. 104 Basic Hydr
 W/WW Tech. 106 Introduction to Electrical & Instrument Process (archive) X
 W/WW Tech. 110 W/WW Lab Analysis (archive) X
 
-[page 11] Return to first page
-Rev. 2/12/26
+[page 11] Return to first pageRev. 10/6/26
 W/WW Tech. 112 Basic Plant Ops/Treatment (archive) X X X W/WW Tech. 114 Basic Plant Ops/Wastewater (archive) X W/WW Tech. 117 Advanced Plant Ops/Treatment (archive) X X X W/WW Tech. 120 Advanced Plant Ops/Wastewater (archive) X W/WW Tech. 130 Water Distribution Systems (archive) X X W/WW Tech. 132 Wastewater Collection Systems (archive) X W/WW Tech. 134 Mechanical Maintenance (archive) X
 MT. SAN ANTONIO COLLEGE (WALNUT) DWT WSP SUPPL.
 Phone: (909) 274-7500
@@ -385,8 +383,7 @@ X
 WATR-530 Environmental Laws and Regulations (formerly WATR-130) X WATR-740 Wells, Pumps and Motors (formerly WATR-140) X OHLONE COLLEGE (FREMONT) DWT WSP SUPPL.
 ENGI-213 Water Distribution (archive) X X
 
-[page 12] Return to first page
-Rev. 2/12/26
+[page 12] Return to first pageRev. 10/6/26
 PALOMAR COLLEGE (SAN MARCOS) DWT WSP SUPPL.
 Phone: (760) 744-1150
 Website: palomar.edu
@@ -422,8 +419,7 @@ WTD 107 Advanced Wastewater Treatment (archive) X
 WTD 114 Water Mathematics (archive) X
 WUS 51 Water Treatment Fundamentals (archive) X X X
 
-[page 13] Return to first page
-Rev. 2/12/26
+[page 13] Return to first pageRev. 10/6/26
 RIO HONDO COLLEGE (WHITTIER) DWT WSP SUPPL.
 Phone: (562) 692-0921
 Website: riohondo.edu
@@ -448,27 +444,24 @@ BIOL 444 Water and Wastewater Microbiology X
 SAN BERNARDINO VALLEY COLLEGE DWT WSP SUPPL.
 Phone: (909) 384-4400
 Website: valleycollege.edu
-WST 031 Water Use Efficiency Practitioner I X
-WST 045 Backflow Prevention Devices (formerly WST 145) X WST 048 Cross-Connection Control X
 
-[page 13] WST 045 Backflow Prevention Devices (formerly WST 145) X WST 048 Cross-Connection Control X
-WST 052 Water Technology Math (formerly WST 050) X WST 061 Water Distribution I X X
-WST 062 Water Distribution II X X
-WST 063 Water Distribution III X X
-WST 071 Water Treatment I X X X
-WST 072 Water Treatment II X X X
-WST 073 Water Treatment III X X X
-WST 074 Water / Wastewater Analysis X
-WST 081 Wastewater Collection I X
-WST 082 Wastewater Collection II X
-WST 091 Wastewater Treatment I (formerly WST 146) X
+[page 13] Website: valleycollege.edu
+WST 100 Water Technology Math (formerly WST 050, WST 052) X WST 101 Wastewater Technology Math (formerly WST 053) X WST 110 Wastewater Treatment I (formerly WST 146, WST 091) X WST 111 Wastewater Collection I (formerly WST 081) X WST 120 Wastewater Treatment II (formerly WST 147, WST 092) X WST 121 Wastewater Collection II (formerly WST 082) X WST 130 Water Distribution Operator I (formerly WST 061) X X WST 131 Water Use Efficiency Practitioner I (formerly WST 031) X WST 137 Environmental Laws and Regulations X
+WST 140 Water Distribution Operator II (formerly WST 062) X X WST 145 Backflow Prevention Devices (formerly WST 045) X WST 148 Cross-Connection Control (formerly WST 048) X WST 150 Water Treatment I (formerly WST 071) X X X WST 160 Water Treatment II (formerly WST 072) X X X
 
-[page 14] Return to first page
-Rev. 2/12/26
-WST 092 Wastewater Treatment II (formerly WST 147) X WST 093 Wastewater Treatment III X
-WST 140 / WSE 140: Water Utilities Distribution I (archive) X X WST 141 / WSE 141: Water Utilities Distribution II (archive) X X WST 142 / WSE 142: Water Quality and Basic Water Treatment (archive) X X X
-WST 143 / WSE 143: Advanced Domestic Water Treatment (formerly WSE 043) (archive) X X X
-WST 144 / WSE 144: Cross Connection Control and Water Safety (archive) X
+[page 14] Return to first pageRev. 10/6/26
+WST 186 Electrical Instrumentation for Water & Wastewater Operators X WST 188 Pumps and Motors X
+WST 235 Advanced Water Treatment Operator X X X
+WST 275 Water / Wastewater Chemistry and Analysis X WST 063 Water Distribution III (archive) X X
+WST 073 Water Treatment III (archive) X X X
+WST 074 Water / Wastewater Analysis (archive) X
+WST 093 Wastewater Treatment III (archive) X
+WST 140 / WSE 140: Water Utilities Distribution I (archive) X X WST 141 / WSE 141: Water Utilities Distribution II (archive) X X WST 142 / WSE 142: Water Quality and Basic Water Treatment (archive)
+X X X
+WST 143 / WSE 143: Advanced Domestic Water Treatment (formerly WSE 043) (archive)
+X X X
+WST 144 / WSE 144: Cross Connection Control and Water Safety (archive)
+X
 SAN JOSE EVERGREEN COMMUNITY COLLEGE /
 WORKFORCE INSTITUTE DWT WSP SUPPL.
 Basic Water Distribution (archive) X X
@@ -477,23 +470,22 @@ SAN JOSE STATE UNIVERSITY DWT WSP SUPPL.
 Phone: (408) 924-1000
 Website: sjsu.edu
 CE 170 Principles of Environmental Engineering X
+
+[page 14] CE 170 Principles of Environmental Engineering X
 CE 270 Environmental Engineering Process Kinetics X CE 271 Physical/Chemical Process in Environmental Pollution Control X X X CE 272 Biological Processes in Environmental Pollution Control X CE 273 Water Treatment and Plant Design X X X
 CE 274 Wastewater Treatment and Plant Design X
 CE 275 Industrial and Hazardous Waste Management and Treatment X CE 276 Management and Reuse of Process Solids X
-
-[page 14] CE 275 Industrial and Hazardous Waste Management and Treatment X CE 276 Management and Reuse of Process Solids X
 WSE 146 Wastewater Treatment Operations I (archive) X SANTA ANA COLLEGE DWT WSP SUPPL.
 WUS 50 Water Math and Hydraulics (archive) X
 WUS 60 Applied Hydraulics (archive) X
 WUS 90 Water Math and Hydraulics Review (archive) X WUS 101 Water Treatment Fundamentals (archive) X X X WUS 102 Advanced Water Treatment (archive) X X X
 WUS 103 Water Chemistry and Bacteriology (archive) X WUS 105 Telemetering & Instr. Principles (archive) X WUS 107 California Water Resources (archive) X
+
+[page 15] Return to first pageRev. 10/6/26
 WUS 108 Cross Connection Control Specialist (archive) X WUS 109 Distribution Systems (archive) X X
 WUS 111 Intro to Operation of Wastewater Treatment Plants (archive) X WUS 112 Advanced Operation of Wastewater Treatment Plants (archive) X
 WUS 117 Wastewater Management (archive) X
 WUS 204 Water Reclamation and Reuse (archive) X
-
-[page 15] Return to first page
-Rev. 2/12/26
 WUS 206 Water Quality and Cross Connection Control (archive) X WUS 208 Pumps and Pumping (archive) X
 WUS 210 Advanced Water Distribution (archive) X X
 SANTA BARBARA CITY COLLEGE DWT WSP SUPPL.
@@ -507,33 +499,32 @@ WTRS 111 Wastewater Collection X
 WTRS 112 Water Quality Protection & Cross-Connection Control X WTRS 113 Water and Wastewater Hydraulics X
 WTRS 114 Advanced Wastewater Treatment X
 WTRS 116 Water and Wastewater Management X
+
+[page 15] WTRS 116 Water and Wastewater Management X
 WTRS 117 Water and Wastewater Calculations X
 SANTA ROSA JUNIOR COLLEGE DWT WSP SUPPL.
 Phone: (707) 527-4011
 Website: santarosa.edu
-
-[page 15] Website: santarosa.edu
 WTR 110 Water Treatment Plant Operations (formerly ENVT 110) X X X WTR 111 Water Distribution System Operator (formerly ENVT 111) X X WTR 104 Chemistry and Lab Principles for Drinking Water Treatment X WWTR 112 Wastewater Treatment Math X
 WWTR 120 Wastewater Treatment 1 (formerly ENVT 120) X WWTR 121 Wastewater Treatment 2 X
 WWTR 122 Wastewater Chemistry X
 WWTR 123 Instrumentation and Controls X
 WWTR 124 Pumps X
-WWTR 125 Industrial Waste Pretreatment Facility Inspection X ENVT 220 Wastewater Operation (archive) X
-ENVT 300 Introduction to Environmental Technology (archive) X ENVT 310 Water Treatment Plant Operation (archive) X X X ENVT 320 Wastewater Treatment Plant Operation (archive) X
+WWTR 125 Industrial Waste Pretreatment Facility Inspection X
 
-[page 16] Return to first page
-Rev. 2/12/26
-SANTIAGO CANYON COLLEGE (ORANGE) DWT WSP SUPPL.
+[page 16] Return to first pageRev. 10/6/26
+ENVT 220 Wastewater Operation (archive) X
+ENVT 300 Introduction to Environmental Technology (archive) X ENVT 310 Water Treatment Plant Operation (archive) X X X ENVT 320 Wastewater Treatment Plant Operation (archive) X SANTIAGO CANYON COLLEGE (ORANGE) DWT WSP SUPPL.
 Phone: (714) 628-4900
 Website: sccollege.edu
 WATR 091 Cross Connection Control Specialist (formerly WATR 108) X WATR 136 Introduction to Water Science (formerly WATR 020) X WATR 137 Water Mathematics and Hydraulics (formerly WATR 050) X WATR 138 Water Conservation Practitioner (formerly WATR 131, WATR 052) X WATR 139 Water Reclamation and Reuse (formerly WATR 204, WATR 053) X WATR 141 Water Distribution (formerly WATR 109, WATR 061) X X WATR 143 Electrical Wiring and Controls for Operators (formerly WATR 104, WATR 063) X
 WATR 144 Pumps and Pumping (formerly WATR 208, WATR 064) X WATR 146 Water Treatment Fundamentals
 (formerly WATR 101, WATR 071)
 X X X
+
+[page 16] X X X
 WATR 148 Water Quality (formerly WATR 103, WATR 073) X WATR 151 Wastewater Treatment (formerly WATR 111, WATR 151) X WATR 153 Collection Systems (formerly WATR 116, WATR 083) X WATR 155 California Water Resources (formerly WATR 107) X WATR 242 Advanced Water Distribution (formerly WATR 210, WATR 062) X X WATR 247 Advanced Water Treatment (formerly WATR 102, WATR 072) X X X WATR 252 Advanced Wastewater Treatment (formerly WATR 112, WATR 082)
 X
-
-[page 16] X
 WATR 060 Applied Hydraulics (archive) X
 WATR 090 Water Math and Hydraulics Review (archive) X WATR 105 Telemetering & Instr. Principles (archive) X WATR 117 Wastewater Management (archive) X
 WATR 206 Water Quality and Cross Connection Control (archive) X AMM-047 Maintenance Mechanic Apprentice I Level 7 (archive) X AMM-047 Maintenance Mechanic Apprentice II Level 7 (archive) X SHASTA COLLEGE (REDDING) DWT WSP SUPPL.
@@ -544,8 +535,7 @@ WTT 102 Introduction to Water Treatment and Small Water Systems X X X WTT 103 Ad
 WTT 104 Advanced Water Treatment X X X
 WTT 105 Water Distribution Systems X X
 
-[page 17] Return to first page
-Rev. 2/12/26
+[page 17] Return to first pageRev. 10/6/26
 SOLANO COMMUNITY COLLEGE (FAIRFIELD) DWT WSP SUPPL.
 Phone: (707) 864-7000
 Website: solano.edu
@@ -583,8 +573,7 @@ WS V13 Wastewater Collection X
 WS V14 Water Distribution X X
 WS V15 Water System Instrumentation and Controls X
 
-[page 18] Return to first page
-Rev. 2/12/26
+[page 18] Return to first pageRev. 10/6/26
 WS V16 Water Quality Protection and Cross-Connection Control X WS V17 Water and Wastewater Hydraulics X
 WS V18 Motors and Pumps Maintenance and Operation X WS V19 Advanced Water Treatment X X X
 WS V21 Water Chemistry & Bacteriology X
