@@ -17,8 +17,7 @@
     "crawl": "tsx scripts/crawl-site.ts"
   },
   "dependencies": {
-    "@fontsource-variable/overpass": "^5.3.0",
-    "@fontsource-variable/public-sans": "^5.3.0",
+    "@fontsource-variable/plus-jakarta-sans": "^5.3.0",
     "@google/genai": "^2.31.0",
     "@upstash/redis": "^1.39.0",
     "@upstash/vector": "^1.2.3",

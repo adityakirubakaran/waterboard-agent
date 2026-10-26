@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import "@fontsource-variable/public-sans";
-import "@fontsource-variable/overpass";
+import "@fontsource-variable/plus-jakarta-sans";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -10,7 +9,7 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false },
 };
 
-export const viewport: Viewport = { width: "device-width", initialScale: 1, themeColor: "#0e2a47" };
+export const viewport: Viewport = { width: "device-width", initialScale: 1, themeColor: "#062033" };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
