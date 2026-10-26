@@ -97,6 +97,26 @@ async function main() {
     process.exit(1);
   }
   const index = DRY ? null : vectorIndex();
+  if (index) {
+    // check the keys and the index before spending hours downloading
+    try {
+      const info = await index.info();
+      console.log(
+        `[crawl] Upstash index OK: ${info.vectorCount} passages stored, dimension ${info.dimension}${info.denseIndex?.embeddingModel ? `, model ${info.denseIndex.embeddingModel}` : ""}${info.sparseIndex ? ", hybrid" : ""}`,
+      );
+      if (!info.sparseIndex || !info.denseIndex?.embeddingModel) {
+        console.warn(
+          "[crawl] warning: the index should be Hybrid with Upstash's embedding models (OpenAI text-embedding-3-small + BM25); text upserts may be refused otherwise.",
+        );
+      }
+    } catch (e) {
+      console.error(`[crawl] cannot use the Upstash index: ${String((e as Error)?.message ?? e).slice(0, 300)}`);
+      console.error(
+        "[crawl] check the GitHub secrets: UPSTASH_VECTOR_REST_URL should look like https://<name>-vector.upstash.io and UPSTASH_VECTOR_REST_TOKEN should be the regular (not read-only) token, with nothing else around them.",
+      );
+      process.exit(1);
+    }
+  }
   const fetcher = new Fetcher({
     gapMs: Number(opt("--gap-ms") ?? cfg.gapMs),
     maxPdfBytes: cfg.maxPdfMegabytes * 1024 * 1024,

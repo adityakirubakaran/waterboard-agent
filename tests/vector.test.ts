@@ -62,3 +62,11 @@ test("a failing full-site index falls back to the snapshot", async () => {
   });
   assert.equal(r.status, "answered");
 });
+
+test("pasted Upstash settings are cleaned up", async () => {
+  const { cleanSetting } = await import("../lib/vectorStore");
+  assert.equal(cleanSetting(" my-index-vector.upstash.io ", "UPSTASH_VECTOR_REST_URL"), "https://my-index-vector.upstash.io");
+  assert.equal(cleanSetting('UPSTASH_VECTOR_REST_URL="https://x-vector.upstash.io/"', "UPSTASH_VECTOR_REST_URL"), "https://x-vector.upstash.io");
+  assert.equal(cleanSetting("'abc123='\n", "UPSTASH_VECTOR_REST_TOKEN"), "abc123=");
+  assert.equal(cleanSetting(undefined, "UPSTASH_VECTOR_REST_URL"), "");
+});

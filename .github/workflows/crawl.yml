@@ -44,6 +44,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ ! -f data/crawl/summary.json ]; then echo "Nothing saved yet (the crawl stopped before its first save)."; exit 0; fi
           git add data/crawl
           if git diff --cached --quiet; then echo "No progress to save."; exit 0; fi
           git commit -m "Crawl progress: $(node -p "const s=require('./data/crawl/summary.json'); s.docsOk+' pages and files, '+s.passages+' passages, '+s.frontier+' to go'")"

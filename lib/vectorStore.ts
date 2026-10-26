@@ -19,16 +19,33 @@ export interface VectorMeta {
   sourceId: string;
 }
 
+/**
+ * Tidy a pasted setting: trims spaces and quotes, drops a pasted "NAME=" prefix, and for the URL adds
+ * https:// when it is missing (a bare "xyz-vector.upstash.io" is a common copy-paste).
+ */
+export function cleanSetting(raw: string | undefined, name: string): string {
+  let v = (raw ?? "").trim();
+  if (v.startsWith(`${name}=`)) v = v.slice(name.length + 1).trim();
+  v = v.replace(/^["']|["']$/g, "").trim();
+  if (name.endsWith("_URL") && v && !/^https?:\/\//i.test(v)) v = `https://${v}`;
+  return v.replace(/\/+$/, "");
+}
+
+export function vectorSettings(): { url: string; token: string } {
+  return {
+    url: cleanSetting(process.env.UPSTASH_VECTOR_REST_URL, "UPSTASH_VECTOR_REST_URL"),
+    token: cleanSetting(process.env.UPSTASH_VECTOR_REST_TOKEN, "UPSTASH_VECTOR_REST_TOKEN"),
+  };
+}
+
 export function vectorConfigured(): boolean {
-  return Boolean(process.env.UPSTASH_VECTOR_REST_URL && process.env.UPSTASH_VECTOR_REST_TOKEN);
+  const { url, token } = vectorSettings();
+  return Boolean(url && token);
 }
 
 let client: Index<VectorMeta> | null = null;
 export function vectorIndex(): Index<VectorMeta> {
-  client ??= new Index<VectorMeta>({
-    url: process.env.UPSTASH_VECTOR_REST_URL,
-    token: process.env.UPSTASH_VECTOR_REST_TOKEN,
-  });
+  client ??= new Index<VectorMeta>(vectorSettings());
   return client;
 }
 

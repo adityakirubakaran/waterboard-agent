@@ -107,7 +107,7 @@ export class Fetcher {
 
   /** Text of each PDF page, up to maxPdfPages. */
   async pdfToPages(buf: Buffer): Promise<{ pages: string[]; total: number }> {
-    const doc = await getDocumentProxy(new Uint8Array(buf));
+    const doc = await getDocumentProxy(new Uint8Array(buf), { verbosity: 0 }); // errors only, no font warnings
     const total = doc.numPages;
     const pages: string[] = [];
     for (let i = 1; i <= Math.min(total, this.o.maxPdfPages); i++) {
