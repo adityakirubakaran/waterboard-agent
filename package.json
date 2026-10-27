@@ -14,7 +14,8 @@
     "eval": "tsx scripts/run-eval.ts",
     "ask": "tsx scripts/ask.ts",
     "test": "tsx --test tests/*.test.ts",
-    "crawl": "tsx scripts/crawl-site.ts"
+    "crawl": "tsx scripts/crawl-site.ts",
+    "conflicts": "tsx scripts/find-conflicts.ts"
   },
   "dependencies": {
     "@fontsource-variable/plus-jakarta-sans": "^5.3.0",
