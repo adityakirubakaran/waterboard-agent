@@ -473,11 +473,11 @@ export function buildVectors(claims: Claim[]): Vectors {
 export function neighbors(
   claims: Claim[],
   V: Vectors,
-  opts: { minSim?: number; minSimByType?: Partial<Record<ClaimType, number>>; k?: number; maxShare?: number; embedSim?: (a: Claim, b: Claim) => number | undefined } = {},
+  opts: { minSim?: number; minSimByType?: Partial<Record<ClaimType, number>>; k?: number; maxShare?: number; maxPost?: number; skipSameValue?: boolean; embedSim?: (a: Claim, b: Claim) => number | undefined } = {},
 ): { a: Claim; b: Claim; sim: number }[] {
   const minSim = opts.minSim ?? 0.55;
   const k = opts.k ?? 8;
-  const maxPost = Math.max(50, Math.floor(claims.length * (opts.maxShare ?? 0.05)));
+  const maxPost = Math.min(opts.maxPost ?? Infinity, Math.max(50, Math.floor(claims.length * (opts.maxShare ?? 0.05))));
   const byId = new Map(claims.map((c) => [c.id, c]));
   const seen = new Set<string>();
   const out: { a: Claim; b: Claim; sim: number }[] = [];
@@ -491,7 +491,7 @@ export function neighbors(
     }
     const best = [...acc.entries()]
       .map(([id]) => byId.get(id)!)
-      .filter((b) => b.type === a.type && b.doc.url !== a.doc.url)
+      .filter((b) => b.type === a.type && b.doc.url !== a.doc.url && !(opts.skipSameValue && b.value === a.value))
       .map((b) => ({ b, sim: opts.embedSim?.(a, b) ?? cosine(va, V.vecs.get(b.id)!) }))
       .filter((x) => x.sim >= (opts.minSimByType?.[a.type] ?? minSim))
       .sort((x, y) => y.sim - x.sim)

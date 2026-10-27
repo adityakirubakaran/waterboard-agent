@@ -2,14 +2,17 @@
  * Find places where two Water Boards pages give different answers to the same question (see lib/conflicts.ts).
  *
  *   npm run conflicts                      # the saved pages in data/corpus, no keys needed
+ *   npm run conflicts -- --source upstash  # every passage in the full-site Upstash index (needs
+ *                                          # UPSTASH_VECTOR_REST_URL and _TOKEN; see .github/workflows/conflicts.yml)
  *   GEMINI_API_KEY=... npm run conflicts -- --second-opinion
  *                                          # also asks Gemini about each likely conflict and drops pairs it
  *                                          # calls different subject / period / same meaning
  *
- * Writes data/conflicts/pairs.csv (every pair that got past the vector step, with the verdict and the reason)
- * and data/conflicts/likely.md (only the likely conflicts, grouped by page pair, for a person to check).
+ * Writes <out>/pairs.csv (every pair that got past the vector step, with the verdict and the reason) and
+ * <out>/likely.md (only the likely conflicts, grouped by page pair, for a person to check). <out> is
+ * data/conflicts for the saved pages and data/conflicts/upstash for the full index (or --out <dir>).
  * A likely conflict is a lead, not a finding: open both live pages before calling it a conflict.
- * data/conflicts/review.csv records what a person found for each lead of the 10/26/2026 run.
+ * data/conflicts/review.csv records what a person found for each lead of the 10/26/2026 run on the saved pages.
  */
 import "../lib/env";
 import fs from "node:fs";
@@ -18,6 +21,7 @@ import { toCsv } from "../lib/csv";
 import { CHAT_MODEL, gemini, hasGeminiKey, withRetry } from "../lib/gemini";
 import { readChunks } from "../lib/retrieval";
 import type { CorpusMeta } from "../lib/types";
+import { fromVectorData, vectorConfigured, vectorIndex, type VectorMeta } from "../lib/vectorStore";
 import {
   buildVectors,
   extractClaims,
@@ -29,17 +33,83 @@ import {
   quoteFound,
   type Claim,
   type ClaimDoc,
+  type ClaimType,
   type Verdict,
 } from "../lib/conflicts";
 
 const DIR = path.join(process.cwd(), "data", "corpus");
-const OUT = path.join(process.cwd(), "data", "conflicts");
 const args = process.argv.slice(2);
 const flag = (name: string) => args.includes(`--${name}`);
 const opt = (name: string, d: number) => {
   const i = args.indexOf(`--${name}`);
   return i >= 0 ? Number(args[i + 1]) : d;
 };
+const optStr = (name: string, d: string) => {
+  const i = args.indexOf(`--${name}`);
+  return i >= 0 ? String(args[i + 1]) : d;
+};
+const SOURCE = optStr("source", "corpus");
+if (!["corpus", "upstash"].includes(SOURCE)) throw new Error(`--source must be corpus or upstash, not ${SOURCE}`);
+const OUT = path.resolve(optStr("out", path.join("data", "conflicts", SOURCE === "upstash" ? "upstash" : "")));
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+
+interface Passage {
+  id: string;
+  text: string;
+  doc: ClaimDoc;
+}
+
+/** The saved pages: data/corpus, with page titles and dates from meta.json. */
+async function* corpusPassages(): AsyncGenerator<Passage> {
+  const meta: CorpusMeta = JSON.parse(fs.readFileSync(path.join(DIR, "meta.json"), "utf8"));
+  const docs = new Map<string, ClaimDoc>(
+    meta.sources.map((s) => [s.id, { url: s.url, title: s.title ?? s.url, date: (s as { pageLastUpdated?: string }).pageLastUpdated }]),
+  );
+  for (const c of readChunks(DIR)) yield { id: c.id, text: c.text, doc: docs.get(c.sourceId) ?? { url: c.url, title: c.title, date: c.date } };
+}
+
+/**
+ * Every passage in the full-site index, read 1,000 at a time with Upstash's range command (one read request per
+ * 1,000 passages). Passages keep the URL, title and date the crawler stored with them.
+ */
+async function* upstashPassages(maxPages: number): AsyncGenerator<Passage> {
+  if (!vectorConfigured()) throw new Error("--source upstash needs UPSTASH_VECTOR_REST_URL and UPSTASH_VECTOR_REST_TOKEN");
+  const index = vectorIndex();
+  const info = await index.info();
+  console.log(`[conflicts] reading ${info.vectorCount.toLocaleString()} passages from the full-site index`);
+  let cursor: string | number = 0;
+  let pages = 0;
+  let seen = 0;
+  const started = Date.now();
+  for (;;) {
+    let res: Awaited<ReturnType<typeof index.range<VectorMeta>>> | undefined;
+    for (let attempt = 0; ; attempt++) {
+      try {
+        res = await index.range<VectorMeta>({ cursor, limit: 1000, includeMetadata: true, includeData: true });
+        break;
+      } catch (e) {
+        if (attempt >= 6) throw e;
+        const wait = Math.min(60_000, 2000 * 2 ** attempt);
+        console.warn(`[conflicts] read failed (${String((e as Error)?.message ?? e).slice(0, 120)}); retrying in ${wait / 1000}s`);
+        await sleep(wait);
+      }
+    }
+    pages++;
+    for (const v of res.vectors) {
+      const m = v.metadata;
+      if (!m?.url || typeof v.data !== "string") continue; // the crawler's write check, or a passage without text
+      seen++;
+      yield { id: String(v.id), text: fromVectorData(v.data), doc: { url: m.url, title: m.title || m.url, date: m.date } };
+    }
+    if (pages % 50 === 0) {
+      const rate = seen / ((Date.now() - started) / 1000);
+      console.log(`  ${seen.toLocaleString()} passages read (${Math.round(rate)}/s, about ${Math.round((info.vectorCount - seen) / rate / 60)} min left)`);
+    }
+    if (!res.nextCursor || res.nextCursor === String(cursor) || !res.vectors.length || pages >= maxPages) break;
+    cursor = res.nextCursor;
+  }
+  console.log(`[conflicts] read ${seen.toLocaleString()} passages in ${pages} requests`);
+}
 
 async function secondOpinion(a: Claim, b: Claim, passages: Map<string, string>) {
   const pa = passages.get(a.chunkId)!;
@@ -65,34 +135,59 @@ async function secondOpinion(a: Claim, b: Claim, passages: Map<string, string>) 
 }
 
 async function main() {
-  const meta: CorpusMeta = JSON.parse(fs.readFileSync(path.join(DIR, "meta.json"), "utf8"));
-  const docs = new Map<string, ClaimDoc>(
-    meta.sources.map((s) => [s.id, { url: s.url, title: s.title ?? s.url, date: (s as { pageLastUpdated?: string }).pageLastUpdated }]),
-  );
-  const chunks = readChunks(DIR);
-  const passages = new Map(chunks.map((c) => [c.id, c.text]));
-
-  // 1. claims, from pages a visitor reads as current guidance (dated records are skipped, see isRecord)
+  // 1. claims, from pages a visitor reads as current guidance (dated records are skipped, see isRecord).
+  // Only passages that hold a claim are kept in memory (for the second opinion), so the full index fits.
   const claims: Claim[] = [];
+  const passages = new Map<string, string>();
   const skipped = new Set<string>();
-  for (const c of chunks) {
-    const doc = docs.get(c.sourceId) ?? { url: c.url, title: c.title, date: c.date };
-    if (isRecord(doc)) {
-      skipped.add(doc.url);
+  let read = 0;
+  const source = SOURCE === "upstash" ? upstashPassages(opt("max-pages", Infinity)) : corpusPassages();
+  for await (const p of source) {
+    read++;
+    if (isRecord(p.doc)) {
+      skipped.add(p.doc.url);
       continue;
     }
-    claims.push(...extractClaims(c, doc, claims.length));
+    const found = extractClaims({ id: p.id, text: p.text }, p.doc, claims.length);
+    if (found.length) {
+      claims.push(...found);
+      passages.set(p.id, p.text);
+    }
   }
   console.log(`[conflicts] skipped ${skipped.size} dated records (agendas, notices, orders, slides, drafts, past years' files)`);
-  const byType = new Map<string, number>();
-  for (const c of claims) byType.set(c.type, (byType.get(c.type) ?? 0) + 1);
-  console.log(`[conflicts] ${chunks.length} passages, ${claims.length} claims: ${[...byType].map(([t, n]) => `${n} ${t}`).join(", ")}`);
+  const byType = new Map<ClaimType, Claim[]>();
+  for (const c of claims) {
+    if (!byType.has(c.type)) byType.set(c.type, []);
+    byType.get(c.type)!.push(c);
+  }
+  console.log(`[conflicts] ${read} passages, ${claims.length} claims: ${[...byType].map(([t, cs]) => `${cs.length} ${t}`).join(", ")}`);
 
-  // 2. vectors and nearest claims on other pages
+  // 2. vectors and nearest claims on other pages, one kind of claim at a time. Each claim's 8 closest claims on
+  // other pages; the bar is low on purpose (the same fact is often worded very differently on two pages), and
+  // steps 3-4 decide what is really about the same thing.
+  // Word weights come from all claims together (so "credit card" stays a telling word among card rules); the
+  // search for neighbors runs within each kind.
   const V = buildVectors(claims);
-  // Each claim's 8 closest claims on other pages. The bar is low on purpose: the same fact is often worded very
-  // differently on two pages, and steps 3-4 below decide what is really about the same thing.
-  const pairs = neighbors(claims, V, { minSim: opt("min-sim", 0.1), k: opt("k", 8) });
+  const pairs: ReturnType<typeof neighbors> = [];
+  for (const [type, cs] of byType) {
+    const t0 = Date.now();
+    const ids = new Set(cs.map((c) => c.id));
+    const postings = new Map<string, number[]>();
+    for (const [g, list] of V.postings) {
+      const mine = list.filter((id) => ids.has(id));
+      if (mine.length) postings.set(g, mine);
+    }
+    // In the full index the same file often sits at several URLs, so identical twins would fill every neighbor
+    // slot; there, a neighbor with exactly the same value is passed over (it could never be a conflict).
+    const found = neighbors(cs, { vecs: V.vecs, postings }, {
+      minSim: opt("min-sim", 0.1),
+      k: opt("k", 8),
+      maxPost: opt("max-post", 2000),
+      skipSameValue: SOURCE === "upstash",
+    });
+    pairs.push(...found);
+    console.log(`  ${type}: ${found.length} close pairs (${Math.round((Date.now() - t0) / 1000)}s)`);
+  }
   console.log(`[conflicts] ${pairs.length} close pairs (same kind of claim, different pages)`);
 
   // 3-4. values and guards
@@ -147,13 +242,17 @@ async function main() {
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key)!.push(j);
   }
+  const where = SOURCE === "upstash" ? "the full-site index" : "the saved Water Boards pages";
   const lines = [
-    `# Likely conflicts on the saved Water Boards pages`,
+    `# Likely conflicts on ${where}`,
     ``,
-    `${groups.size} page pairs from ${claims.length} claims (${new Date().toISOString().slice(0, 10)}). Each is a lead for a person to check on the live site, not a finding.`,
+    `${groups.size} page pairs from ${claims.length} claims in ${read} passages (${new Date().toISOString().slice(0, 10)}). Each is a lead for a person to check on the live site, not a finding.`,
     ``,
   ];
-  for (const [key, js] of [...groups].sort((x, y) => y[1][0].sim - x[1][0].sim)) {
+  // pages of the same era first (an old page that disagrees with a new one is still worth a look, but second),
+  // then the pairs that disagree in the most sentences, then the closest
+  const older = (js: typeof judged) => (js[0].v.label === "likely conflict" && js[0].v.older ? 1 : 0);
+  for (const [key, js] of [...groups].sort((x, y) => older(x[1]) - older(y[1]) || y[1].length - x[1].length || y[1][0].sim - x[1][0].sim)) {
     const j = js[0];
     lines.push(`## ${key.split("|")[0]}: ${j.a.raw} vs ${j.b.raw}${j.v.label === "likely conflict" && j.v.older ? " (one page is 3+ years older)" : ""}`);
     lines.push(`- A: ${j.a.doc.title} (${j.a.doc.date ?? "no date"}) ${j.a.doc.url}`);
@@ -164,7 +263,25 @@ async function main() {
     lines.push(``);
   }
   fs.writeFileSync(path.join(OUT, "likely.md"), lines.join("\n"));
-  console.log(`[conflicts] ${groups.size} likely conflicts (page pairs) -> data/conflicts/likely.md; all pairs -> data/conflicts/pairs.csv`);
+  fs.writeFileSync(
+    path.join(OUT, "summary.json"),
+    JSON.stringify(
+      {
+        source: SOURCE,
+        ranAt: new Date().toISOString(),
+        passages: read,
+        skippedRecords: skipped.size,
+        claims: Object.fromEntries([...byType].map(([t, cs]) => [t, cs.length])),
+        closePairs: pairs.length,
+        verdicts: Object.fromEntries(counts),
+        likelyPagePairs: groups.size,
+      },
+      null,
+      2,
+    ),
+  );
+  const rel = path.relative(process.cwd(), OUT);
+  console.log(`[conflicts] ${groups.size} likely conflicts (page pairs) -> ${rel}/likely.md; all pairs -> ${rel}/pairs.csv`);
 }
 
 main().catch((e) => {

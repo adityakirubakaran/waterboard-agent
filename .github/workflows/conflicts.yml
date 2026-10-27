@@ -1,0 +1,59 @@
+name: Find conflicting information
+
+# Reads every passage in the full-site Upstash index (about 1,250 read requests) and looks for pages that give
+# different answers to the same question (scripts/find-conflicts.ts). Saves data/conflicts/upstash/likely.md,
+# summary.json and pairs.csv.gz to the repository and as a download on the run page.
+# Needs repository secrets UPSTASH_VECTOR_REST_URL and UPSTASH_VECTOR_REST_TOKEN (the crawl's), and
+# GEMINI_API_KEY only if "second opinion" is ticked. Start it from the Actions tab: "Find conflicting information".
+
+on:
+  workflow_dispatch:
+    inputs:
+      second_opinion:
+        description: "Also ask Gemini about each likely conflict (uses the Gemini key)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: conflicts
+  cancel-in-progress: false
+
+jobs:
+  conflicts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Find conflicts in the full-site index
+        env:
+          UPSTASH_VECTOR_REST_URL: ${{ secrets.UPSTASH_VECTOR_REST_URL }}
+          UPSTASH_VECTOR_REST_TOKEN: ${{ secrets.UPSTASH_VECTOR_REST_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SECOND_OPINION: ${{ inputs.second_opinion }}
+          NODE_OPTIONS: --max-old-space-size=6144
+        run: |
+          if [ "$SECOND_OPINION" = "true" ]; then npm run conflicts -- --source upstash --second-opinion; else npm run conflicts -- --source upstash; fi
+          gzip -kf data/conflicts/upstash/pairs.csv
+      - uses: actions/upload-artifact@v4
+        with:
+          name: conflicts-full-index
+          path: |
+            data/conflicts/upstash/likely.md
+            data/conflicts/upstash/summary.json
+            data/conflicts/upstash/pairs.csv.gz
+      - name: Save the results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/conflicts/upstash/likely.md data/conflicts/upstash/summary.json data/conflicts/upstash/pairs.csv.gz
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "Conflict finder on the full index: $(node -p "require('./data/conflicts/upstash/summary.json').likelyPagePairs") likely conflicts (page pairs)"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
